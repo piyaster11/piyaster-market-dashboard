@@ -1,4 +1,4 @@
-name: Breaking news (hourly)
+name: Breaking news + prices (hourly)
 # Hourly at :17 (off-peak; :00 runs were being dropped by GitHub). User-approved 16 Oct 2026.
 on:
   workflow_dispatch:
@@ -16,13 +16,18 @@ jobs:
         with: { python-version: '3.12' }
       - name: Fetch RSS headlines
         run: python scripts/fetch_news.py
-      - name: Commit data/news.json if changed
+        continue-on-error: true
+      - name: Fetch prices (Yahoo chart API)
+        run: python scripts/fetch_prices.py
+        continue-on-error: true
+      - name: Commit data/news.json + data/prices.json if changed (single commit)
         run: |
-          if git diff --quiet -- data/news.json; then echo "No change"; exit 0; fi
+          git add -N data/prices.json 2>/dev/null || true
+          if git diff --quiet -- data/news.json data/prices.json; then echo "No change"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
-          git commit -m "news: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git add data/news.json data/prices.json 2>/dev/null || git add data/news.json
+          git commit -m "news+prices: update $(date -u +%Y-%m-%dT%H:%MZ)"
           for i in 1 2; do
             git pull --rebase origin main && git push && exit 0
             echo "push failed, retrying"; sleep 5

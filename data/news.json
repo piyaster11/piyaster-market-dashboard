@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:23:49Z",
+ "updated": "2026-10-16T19:35:03Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (37)"
+  "Nikkei Asia": "ok (36)"
  },
  "items": [
   {
-   "title": "Latest Headlines",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rd2JhYy1HUGlGSUg5alBibTA1ekd0cGt3NnRmLTVTeVBLY2xBUC1FWU10LXdkVGtoWWE2d2lpRW5iYWcyQjhrTnk1TnYxMjNBLUxudi10VWZtWm93dVFrY3NPRGtKQQ?oc=5",
-   "utc": "2026-10-16T15:20:57Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Dow jumps 200 points, Nasdaq slides as investors continue to rotate out of AI stocks: Live updates",
+   "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-   "utc": "2026-10-16T15:19:51Z",
-   "tag": "AI",
+   "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+   "utc": "2026-10-16T19:33:21Z",
+   "tag": "OIL",
    "breaking": true
   },
   {
    "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-   "utc": "2026-10-16T15:18:40Z",
+   "utc": "2026-10-16T19:30:51Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Why Tech’s AI Borrowing Binge Is Rattling Markets",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/why-tech-s-ai-borrowing-binge-is-rattling-markets",
-   "utc": "2026-10-16T15:17:57Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Kimberly-Clark is having its best week in four years. Here's what is propelling shares higher",
+   "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/16/kimberly-clark-stock-q3-kenvue-deal-cramer.html",
-   "utc": "2026-10-16T15:12:25Z",
+   "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+   "utc": "2026-10-16T19:28:46Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+   "utc": "2026-10-16T19:28:10Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Michael Palin on Still Traveling the World at 83",
+   "title": "People Losing Out On Home Equity: Brown Harris CEO",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/michael-palin-on-still-traveling-the-world-at-83-video",
-   "utc": "2026-10-16T15:10:32Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/people-losing-out-on-home-equity-brown-harris-ceo-video",
+   "utc": "2026-10-16T19:27:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "The affordability crisis isn't hitting all voters equally. Here's why",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
+   "utc": "2026-10-16T19:22:21Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Semiconductors are out, software is in. Why that’s not about to change anytime soon",
+   "title": "Looking for a non-AI trade? This bank stock is poised for a breakout next week",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/software-stocks-semiconductor-rotation.html",
-   "utc": "2026-10-16T15:09:59Z",
+   "link": "https://www.cnbc.com/2026/10/16/ja.html",
+   "utc": "2026-10-16T19:19:28Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Peru Indigenous Group Bids for Part of China-Owned Copper Mine",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/peru-indigenous-group-bids-for-part-of-china-owned-copper-mine",
-   "utc": "2026-10-16T15:03:59Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+   "title": "What happens after bankruptcy? A debt attorney explains what comes next",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-   "utc": "2026-10-16T15:01:34Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-   "utc": "2026-10-16T15:00:00Z",
+   "link": "https://www.cnbc.com/select/how-to-rebuild-your-credit-after-bankruptcy/",
+   "utc": "2026-10-16T19:06:24Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
-   "utc": "2026-10-16T15:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Big Tech's AI auditors will only see what they're shown",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-   "utc": "2026-10-16T14:58:22Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Brasil: euforia por Flávio Bolsonaro oculta crisis de deuda",
+   "title": "Compass Files Suit Over California Home Listing Service Rules",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/brasil-euforia-por-flavio-bolsonaro-oculta-crisis-de-deuda-mvb38nf8",
-   "utc": "2026-10-16T14:53:51Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/compass-files-suit-over-california-home-listing-service-rules",
+   "utc": "2026-10-16T19:05:17Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-   "utc": "2026-10-16T14:45:00Z",
+   "title": "Funding Markets Diverge as T-Bills Cheapen, Overnight Repo Calm",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/funding-markets-diverge-as-t-bills-cheapen-overnight-repo-calm",
+   "utc": "2026-10-16T19:02:33Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+   "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
-   "utc": "2026-10-16T14:43:09Z",
+   "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
+   "utc": "2026-10-16T19:00:24Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+   "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-   "utc": "2026-10-16T14:40:00Z",
+   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+   "utc": "2026-10-16T19:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Fed Divisions and AI Debt Risks Shape Rate Outlook",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/fed-divisions-and-ai-debt-risks-shape-rate-outlook-video",
-   "utc": "2026-10-16T14:37:36Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "The Case for Mamdani-Style Populism",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/the-case-for-mamdani-style-populism-video",
-   "utc": "2026-10-16T14:35:55Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "E.l.f. Beauty CFO Mandy Fields on consumers, pricing and building a foundation in cosmetics",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/elf-beauty-cfo-mandy-fields-tariffs-marketing-makeup.html",
-   "utc": "2026-10-16T14:30:01Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Global Gas Crunch Makes Europe’s Remaining Coal Plants Profitable",
+   "title": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Gas-Crunch-Makes-Europes-Remaining-Coal-Plants-Profitable.html",
-   "utc": "2026-10-16T14:30:00Z",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
+   "utc": "2026-10-16T19:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
+   "utc": "2026-10-16T18:59:17Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Incredibly Hands-Off With Own Finances: Porcelli",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/incredibly-hands-off-with-own-finances-porcelli-video",
+   "utc": "2026-10-16T18:56:25Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Djokovic returns to Basel for first time since 2011 in ATP Finals bid",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmlfVDIyOHMwZzRidWFiS1NVNF9LaUI5UnN4RG42dGpUNno5U0pSZXVXZ3VJRHlkU0JjVkE0cEpERUwxaFNlMm1zaVFOY3M5M1ZQdU5DMlZTbmUyYmxuUFhlZ0xzdjRKWnNHRm9STWEtV3pKYkRKcXlBWi1PWlhXTDBRMTViOTlZaWxQLWJzMTdTaF9CcEFGclo3VEZYQmFmVHROWF9qM2ZGYkNYbWc?oc=5",
+   "utc": "2026-10-16T18:55:43Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Katie Zacharia out as Trump's White House press secretary",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+   "utc": "2026-10-16T18:55:24Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+   "utc": "2026-10-16T18:55:17Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Not Seeing People Fleeing New York City: Jonathan Miller",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/not-seeing-people-fleeing-new-york-city-jonathan-miller-video",
+   "utc": "2026-10-16T18:55:17Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan's power grid at risk to hackers through 100m home devices",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmN5bW5xOEFsWm5yLTdqdmtlV0xLcUU0cExOd25EVUozOEgtUzRUUERfUXZ6MG5LVzc5ZEFLU3RFTmc5UDEtUHZYM083MWN2bnU2NWxVYnQtTGNqX0RmQUszQkp1V2gyVFBWZ0x0RElYX2xvZzJMNVotVXgwc2d2RVVpYVJZTzFzRmx2a3JReV83NUtvYU1NbUxyNEZmUUN5OXIwOEQ5YW41S1U3dW10Wg?oc=5",
+   "utc": "2026-10-16T18:55:00Z",
    "tag": "MARKETS",
    "breaking": true
   }

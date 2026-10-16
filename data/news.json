@@ -1,0 +1,176 @@
+{
+ "updated": "2026-10-16T05:11:21Z",
+ "feeds": {
+  "CNBC": "ok (30)",
+  "CNBC Markets": "ok (30)",
+  "Reuters": "ok (100)",
+  "Bloomberg": "ok (20)",
+  "MarketWatch": "ok (10)",
+  "CoinDesk": "ok (25)",
+  "OilPrice": "ok (15)",
+  "Bangkok Post": "ok (10)",
+  "Nikkei Asia": "ok (33)"
+ },
+ "items": [
+  {
+   "title": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+   "utc": "2026-10-16T05:07:20Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Japan’s Fukoku Mutual Life Counts on Cash to Mitigate Volatility",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/japan-s-fukoku-mutual-life-counts-on-cash-to-mitigate-volatility",
+   "utc": "2026-10-16T05:00:33Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Michael Palin on the Philippines and China’s Power",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/michael-palin-on-the-philippines-and-china-s-power",
+   "utc": "2026-10-16T05:00:24Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
+   "utc": "2026-10-16T05:00:01Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Metals Rebound as Sentiment Improves After US Inflation Shock",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/metals-rebound-as-sentiment-improves-after-us-inflation-shock",
+   "utc": "2026-10-16T04:58:02Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Blue Owl: Private Credit Redemptions Are Falling",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/blue-owl-private-credit-redemptions-are-falling-video",
+   "utc": "2026-10-16T04:43:31Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Editor's Choice: In divided world, Western schools bring classrooms closer to Asian students",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUkJITEVzUll6R1NwdkJOT0hBZVc3akczaDYwNzR6d2tCMDl4QktrUE10aEI2dXlMTHJJVnowQ2h6aVFFTVAyamdJVHpnUmt3OWlTSFB2UTNIWU9JLTVQWndsNnZUVFZsaHRDd3M4V0JNd3Q3cEowNE9IZk1xSXBiUmVaTlRDd3p5dTBsbWRVNDdwRUl6X0NxZmliRlBmcFYyQVlfdUkzajdIZHN3RGFPSjh6UWtqUHNjT3dpV2t6aGNhUnpYajgwY1ZhampzNmt0cDBqSklnQzZnU0UzVGpWcVVIQU1ldXhY?oc=5",
+   "utc": "2026-10-16T04:33:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "South Africa Court Rulings May Lift Confidence, PSG Chief Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/south-africa-court-rulings-may-lift-confidence-psg-chief-says",
+   "utc": "2026-10-16T04:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+   "utc": "2026-10-16T04:29:27Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+   "utc": "2026-10-16T04:29:19Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "S&P 500 futures are little changed as index heads for losing week: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+   "utc": "2026-10-16T04:18:33Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+   "utc": "2026-10-16T04:14:22Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Fed Chair Warsh Says US Is Seeing an Investment Surge",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/fed-chair-warsh-says-us-is-seeing-an-investment-surge-video",
+   "utc": "2026-10-16T04:01:10Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "Fed's Warsh gives no hint on October policy decision",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5",
+   "utc": "2026-10-16T03:57:00Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
+   "utc": "2026-10-16T03:53:48Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Earthquake of magnitude 7 strikes Russia's Kamchatka Peninsula, EMSC says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzJGRXBGQV9tSWo1S3NWenFNRG5MbVZ5dUhUeXE5TjN0NjFqVEZLN1FNVkdzMV9FUi1TRjNIU1lLOGhBR3kyRzJjb1p2dG9ucnUzX2dZM3djWFRqcmlzODFsNjluRWQxR3RvWGdhN2hTNHoxUDVRTjk4azVzQVJ2QTB1S1ZCLTI5dDA3TkJ4Z0V4c0o5RnRVWmM3Y0dIem4zbWdnaF8waU1Ecng4Y3VTa0h2a1JSTlY0X19WMG9WU21NU2c?oc=5",
+   "utc": "2026-10-16T03:50:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Tesla reveals next-generation Roadster after almost a decade of delays",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+   "utc": "2026-10-16T03:47:50Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "China",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93dndUaWxlSkJBY1gzSkRlaWQ2c3pMYUlhMmtFMVRGWllaWHF3OS02Z28tZDZ1Rk5PN1lzbFl3LWhzNXJwUXczTUtQcmhWUy1oUm85WW9JVkJsWW5p?oc=5",
+   "utc": "2026-10-16T03:29:47Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Indonesia Stocks Sink as MSCI Weighs Index Removal",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/indonesia-stocks-sink-as-msci-weighs-index-removal-video",
+   "utc": "2026-10-16T03:28:06Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "World Bank chief sets goal of quintupling critical minerals financing in five years",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3338163/world-bank-chief-sets-goal-of-quintupling-critical-minerals-financing-in-five-years",
+   "utc": "2026-10-16T03:27:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  }
+ ]
+}

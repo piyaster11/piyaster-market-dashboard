@@ -1,0 +1,27 @@
+name: Breaking news (hourly)
+# PREVIEW: the hourly schedule is intentionally COMMENTED OUT until the user approves.
+# To enable, uncomment the two "schedule" lines below. Until then it runs only via "Run workflow" (workflow_dispatch).
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '0 * * * *'
+permissions:
+  contents: write
+concurrency: { group: news, cancel-in-progress: true }
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Fetch RSS headlines
+        run: python scripts/fetch_news.py
+      - name: Commit data/news.json if changed
+        run: |
+          if git diff --quiet -- data/news.json; then echo "No change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git commit -m "news: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Fetch market prices -> data/prices.json (stdlib only). Yahoo Finance chart API with browser UA,
+"""Fetch market prices -> data/prices.json. Tries stdlib urllib first; Yahoo usually answers 429 to
+non-browser clients (also from GitHub runners), so it falls back to headless Chrome via Playwright
+(pip install playwright; uses system Chrome at /usr/bin/google-chrome or $CHROME). Yahoo Finance chart API with browser UA,
 retry/backoff, query1/query2 hosts. A failed symbol keeps its last good value and timestamp
 (never invents values). Run hourly by .github/workflows/news.yml."""
 import json, os, sys, time, urllib.request
@@ -9,21 +11,39 @@ SYMS = {"spx": "^GSPC", "dow": "^DJI", "ndq": "^IXIC", "y10": "^TNX", "wti": "CL
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "prices.json")
 
+PG = None
+def browser_json(url):
+    global PG
+    if PG is None:
+        from playwright.sync_api import sync_playwright
+        pw = sync_playwright().start()
+        b = pw.chromium.launch(executable_path=os.environ.get("CHROME", "/usr/bin/google-chrome"), args=["--no-sandbox"])
+        PG = b.new_context(user_agent=UA).new_page()
+    PG.goto(url, timeout=30000)
+    return json.loads(PG.inner_text("body"))
+
 def get(sym):
     last = None
     for attempt in range(4):
         host = ("query1", "query2")[attempt % 2]
         url = f"https://{host}.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(sym)}?range=5d&interval=1d"
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
-            m = json.load(urllib.request.urlopen(req, timeout=15))["chart"]["result"][0]["meta"]
-            px, prev = m.get("regularMarketPrice"), m.get("chartPreviousClose") or m.get("previousClose")
+            if attempt == 0:
+                req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+                j = json.load(urllib.request.urlopen(req, timeout=15))
+            else:
+                j = browser_json(url)
+            r = j["chart"]["result"][0]; m = r["meta"]
+            closes = [c for c in (r.get("indicators", {}).get("quote", [{}])[0].get("close") or []) if c is not None]
+            px = m.get("regularMarketPrice")
+            # daily change vs the previous session's close (last close before today's bar)
+            prev = closes[-2] if len(closes) >= 2 else m.get("chartPreviousClose")
             if px is None: raise ValueError("no price")
             return {"v": round(px, 4), "chg": round((px / prev - 1) * 100, 2) if prev else None,
                     "t": datetime.fromtimestamp(m["regularMarketTime"], timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                     "src": "Yahoo Finance " + sym}
         except Exception as e:
-            last = e; time.sleep(2 * (attempt + 1))
+            last = e; time.sleep(1.5 * attempt)
     raise last
 
 def main():

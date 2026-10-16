@@ -17,6 +17,9 @@ jobs:
       - name: Fetch RSS headlines
         run: python scripts/fetch_news.py
         continue-on-error: true
+      - name: Install Playwright (uses the runner's preinstalled Google Chrome)
+        run: pip install --quiet playwright
+        continue-on-error: true
       - name: Fetch prices (Yahoo chart API)
         run: python scripts/fetch_prices.py
         continue-on-error: true

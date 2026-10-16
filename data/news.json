@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T19:35:03Z",
+ "updated": "2026-10-16T20:53:51Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (36)"
+  "Nikkei Asia": "ok (38)"
  },
  "items": [
   {
-   "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+   "title": "Major earnings reports are due next week, but strong results may not be enough to quell market fears",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-   "utc": "2026-10-16T19:33:21Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-   "utc": "2026-10-16T19:30:51Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-   "utc": "2026-10-16T19:28:46Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
-   "utc": "2026-10-16T19:28:10Z",
+   "link": "https://www.cnbc.com/2026/10/16/major-earnings-reports-market-fears-next-week.html",
+   "utc": "2026-10-16T20:50:39Z",
    "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "People Losing Out On Home Equity: Brown Harris CEO",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/people-losing-out-on-home-equity-brown-harris-ceo-video",
-   "utc": "2026-10-16T19:27:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "The affordability crisis isn't hitting all voters equally. Here's why",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
-   "utc": "2026-10-16T19:22:21Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Looking for a non-AI trade? This bank stock is poised for a breakout next week",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/ja.html",
-   "utc": "2026-10-16T19:19:28Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "What happens after bankruptcy? A debt attorney explains what comes next",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/select/how-to-rebuild-your-credit-after-bankruptcy/",
-   "utc": "2026-10-16T19:06:24Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Compass Files Suit Over California Home Listing Service Rules",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/compass-files-suit-over-california-home-listing-service-rules",
-   "utc": "2026-10-16T19:05:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Funding Markets Diverge as T-Bills Cheapen, Overnight Repo Calm",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/funding-markets-diverge-as-t-bills-cheapen-overnight-repo-calm",
-   "utc": "2026-10-16T19:02:33Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
-   "utc": "2026-10-16T19:00:24Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-   "utc": "2026-10-16T19:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
-   "utc": "2026-10-16T19:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
-   "utc": "2026-10-16T18:59:17Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Incredibly Hands-Off With Own Finances: Porcelli",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/incredibly-hands-off-with-own-finances-porcelli-video",
-   "utc": "2026-10-16T18:56:25Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Djokovic returns to Basel for first time since 2011 in ATP Finals bid",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmlfVDIyOHMwZzRidWFiS1NVNF9LaUI5UnN4RG42dGpUNno5U0pSZXVXZ3VJRHlkU0JjVkE0cEpERUwxaFNlMm1zaVFOY3M5M1ZQdU5DMlZTbmUyYmxuUFhlZ0xzdjRKWnNHRm9STWEtV3pKYkRKcXlBWi1PWlhXTDBRMTViOTlZaWxQLWJzMTdTaF9CcEFGclo3VEZYQmFmVHROWF9qM2ZGYkNYbWc?oc=5",
-   "utc": "2026-10-16T18:55:43Z",
-   "tag": "MARKETS",
    "breaking": true
   },
   {
    "title": "Katie Zacharia out as Trump's White House press secretary",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-   "utc": "2026-10-16T18:55:24Z",
+   "utc": "2026-10-16T20:40:58Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+   "title": "Strategy faces MSCI ouster under new rules, billions in passive holdings at risk",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWYxNV9CbUFxcmpWN2Q5S0tSUHJGVWxDZlBZZE9kdHd2TEhZOFJtdk9Oc3AtS1pfRWY2eDlTWXpSZUNxQTdEZFl4aTNJb0Ffd1ZMdnQ4WElmaEh4UUFoTE1YT0dVOTlKVk4yQUkwZldzSld3dF9POUlIZmNveGhBWjJ4aEZHbGE3ZEV1b1BuZTgzMF9VTjBRbEkxdnpXaWhBeDdmYlNSZGdidWdNMnVNb0FzZTBHM0pZU3IzNjBsenU5SWhZT0s4?oc=5",
+   "utc": "2026-10-16T20:40:58Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-   "utc": "2026-10-16T18:55:17Z",
-   "tag": "MARKETS",
+   "link": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+   "utc": "2026-10-16T20:33:55Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Not Seeing People Fleeing New York City: Jonathan Miller",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/not-seeing-people-fleeing-new-york-city-jonathan-miller-video",
-   "utc": "2026-10-16T18:55:17Z",
-   "tag": "MARKETS",
+   "title": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
+   "utc": "2026-10-16T20:33:09Z",
+   "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Japan's power grid at risk to hackers through 100m home devices",
+   "title": "Japan's ICC rift with US limits options in handling China, Russia pressure",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmN5bW5xOEFsWm5yLTdqdmtlV0xLcUU0cExOd25EVUozOEgtUzRUUERfUXZ6MG5LVzc5ZEFLU3RFTmc5UDEtUHZYM083MWN2bnU2NWxVYnQtTGNqX0RmQUszQkp1V2gyVFBWZ0x0RElYX2xvZzJMNVotVXgwc2d2RVVpYVJZTzFzRmx2a3JReV83NUtvYU1NbUxyNEZmUUN5OXIwOEQ5YW41S1U3dW10Wg?oc=5",
-   "utc": "2026-10-16T18:55:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGRBR3VZMkk0dlpGVUp5SWg0ZTlNVzJycDZTMk81LWlkNFdCYl9jaGhDV2RhYlVGU1NVN3FPOF9ORE5rejZiNWphb2c3NGpfcjI0YUJsdGFvN1JyQ1lnb0JDR1pOVHlLMTZ2UHRYcTgtTVJhNERiaUtYeUlfeU9WdWVGUWVFanVMUHNVdUlBRUlDQ1dEcV9MUnhFWDV4UDZKNHJiRHFEMWtQeFVZLVdSVzFVUlZ2dWQ3N3U3NGtwNk4xTnBLQmthVXF3?oc=5",
+   "utc": "2026-10-16T20:32:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Wall Street Anxiety Spreads as AI Rout Meets $110 Oil Shock",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/wall-street-anxiety-spreads-as-ai-rout-meets-110-oil-shock",
+   "utc": "2026-10-16T20:31:45Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Sony Walkman is coming back pricier but with better sound quality",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTQtRFowTlJWVEZScU9QaXUtS0l6SVVhTWNqYlRyWDMzc3Z6alN2aTUwcGZnbFVXYjFadnZMY0k2UEtmVlQ5X1NfR1FpT1lXM2ludWNzMFgzWjd4VllPdDZRMF90Vl9PRmtDVHYzNURQQ1E3aEQwOTNJZzE1alBMQzlWNm5MUUhWX1FCYjFjRTR1X2dlMmVadHlwWHlqYzN5TGpoZEhGaExfS21JYjA0?oc=5",
+   "utc": "2026-10-16T20:29:00Z",
    "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+   "utc": "2026-10-16T20:28:10Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Coreweave Slides 25% for the Week as AI Credit Concerns Grow | Closing Bell",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/coreweave-slides-on-ai-fears-closing-bell-video",
+   "utc": "2026-10-16T20:27:01Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
+   "utc": "2026-10-16T20:05:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+   "utc": "2026-10-16T20:02:21Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "US has full confidence in Takaichi's fiscal discipline: Treasury official",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQajNlZDNBTGt4TlpEWDI5SThsN1VaRW4xMkpTRDlSVWh5dEp2LUtYdERwX0FRVVJNS2M5aDRoMUhUVVBUSnQxd2I4UEJ4ZE9Wb3ROemNoczgtbm1sd1IyVXFDd3NmMS04TEwwM1VIMF8wNXl5dUtLYXcwdXN6SG1Zb2tocG9nZ19ZNGd6RjN6ZDVOY05iUEhhR2E1bUI0bkExekt2MENGaFgtS0FvUC1rNFFNVS1fRUdwbEtSYWFR?oc=5",
+   "utc": "2026-10-16T20:00:00Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "\"Farrow and Ball\": The Colours of Money's Must-Read Books",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/farrow-and-ball-the-colours-of-money-s-must-read-books-video",
+   "utc": "2026-10-16T19:50:07Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Debt is eating up a bigger chunk of your raise, research shows",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
+   "utc": "2026-10-16T19:47:46Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Sound Inpatient Nears $1 Billion Private Debt After Pulling Loan",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/sound-inpatient-nears-1-billion-private-debt-after-pulling-loan",
+   "utc": "2026-10-16T19:47:31Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+   "utc": "2026-10-16T19:46:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+   "utc": "2026-10-16T19:45:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+   "utc": "2026-10-16T19:45:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "The COLA wars are coming for Social Security",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+   "utc": "2026-10-16T19:45:00Z",
+   "tag": "MARKETS",
+   "breaking": false
   }
  ]
 }

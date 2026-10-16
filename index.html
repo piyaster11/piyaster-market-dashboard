@@ -1,4 +1,5 @@
 <!doctype html><html lang=en><head><meta charset=utf-8>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
 <meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name=theme-color content="#000000"><meta name=apple-mobile-web-app-capable content=yes>
 <meta name=apple-mobile-web-app-status-bar-style content=black-translucent>
@@ -29,13 +30,16 @@ table{width:100%;border-collapse:collapse;font-size:14px}td{overflow-wrap:anywhe
 <div class=tape><div class=tick id=tick></div></div>
 <main id=main></main>
 <footer>Not financial advice. · Piyaster 99/99</footer>
-<script src="data.js"></script>
+<script src="data.js?v=VER_20261016115908"></script>
+<script>/* Cache-busting: the daily refresh must run scripts/bump_version.sh after editing data.js / data/chart.json; it rewrites VER_* above and in DASH.ver so browsers fetch fresh files. If a cached data.js has a different DASH.ver, reload once with a fresh URL. */
+(function(){var want="VER_20261016115908";if(!window.DASH||window.DASH.ver!==want){if(!/[?&]r=/.test(location.search)){location.replace(location.pathname+"?r="+Date.now()+location.hash)}}})();</script>
 <script>
 const LI=x=>typeof x=='string'?x:x.t+(x.src||[]).map(s=>` <a class=lnk href="${s[1]}" target=_blank rel=noopener>↗ ${s[0]}</a>`).join(''),UL=a=>`<ul>${a.map(i=>`<li>${LI(i)}</li>`).join('')}</ul>`;
-const D=window.DASH,$=s=>document.getElementById(s);
-$('asof').textContent='As of '+D.asOf;
-const t=D.ticker.map(x=>`<span><b>${x[0]}</b> ${x[1]} <span class="${x[3]?'up':''}">${x[2]}</span></span>`).join('');$('tick').innerHTML=t+t;
-let h=D.summary?`<section class="card wide sum"><h2>Key Market Summary</h2>${UL(D.summary.l)}<div class=nums>${D.summary.nums.map(n=>`<div class=num><b>${n[0]}</b><span class="v ${n[3]>0?'up':n[3]<0?'dn':''}">${n[3]>0?'▲':n[3]<0?'▼':'■'} ${n[1]}</span><br><small class=r>${n[2]}</small></div>`).join('')}</div></section>`:'';h+=D.todo?`<section class="todo wide"><h2>⚡ ${D.todo.title}</h2><ul>${D.todo.l.map(i=>`<li>${i}</li>`).join('')}</ul><div class=r>${D.todo.note}</div></section>`:'';h+=`<section class="card wide"><h2>Bottom Line</h2><div class=bottom>${D.bottom}</div></section>`;
+const D=window.DASH||{},$=s=>document.getElementById(s);let h='';const ERRS=[];function ERR(e){ERRS.push(String(e&&e.message||e));try{console.error('[dashboard]',e)}catch(_){}}
+function N(v,d){return typeof v=='number'&&isFinite(v)?v.toFixed(d==null?2:d):'—'}
+try{$('asof').textContent='As of '+D.asOf;
+const t=D.ticker.map(x=>`<span><b>${x[0]}</b> ${x[1]} <span class="${x[3]?'up':''}">${x[2]}</span></span>`).join('');$('tick').innerHTML=t+t;}catch(e){ERR(e)}
+try{h=D.summary?`<section class="card wide sum"><h2>Key Market Summary</h2>${UL(D.summary.l)}<div class=nums>${D.summary.nums.map(n=>`<div class=num><b>${n[0]}</b><span class="v ${n[3]>0?'up':n[3]<0?'dn':''}">${n[3]>0?'▲':n[3]<0?'▼':'■'} ${n[1]}</span><br><small class=r>${n[2]}</small></div>`).join('')}</div></section>`:'';h+=D.todo?`<section class="todo wide"><h2>⚡ ${D.todo.title}</h2><ul>${D.todo.l.map(i=>`<li>${i}</li>`).join('')}</ul><div class=r>${D.todo.note}</div></section>`:'';h+=`<section class="card wide"><h2>Bottom Line</h2><div class=bottom>${D.bottom}</div></section>`;}catch(e){ERR(e)}
 const A=()=>D.assets.forEach(a=>h+=`<section class=card><h2>${a.n}<span class="badge ${a.s.split(' ')[0]}">${a.s}</span></h2><ul class=val style="text-align:left">${a.l.map(i=>`<li>${LI(i)}</li>`).join('')}</ul></section>`);
 
 function gauge(id,title,score,bands,label,rows,head,disc){let arcs='',p=0;bands.forEach(b=>{const a0=Math.PI*(1-p/100),a1=Math.PI*(1-b[0]/100);arcs+=`<path d="M${100+80*Math.cos(a0)} ${100-80*Math.sin(a0)} A80 80 0 0 1 ${100+80*Math.cos(a1)} ${100-80*Math.sin(a1)}" stroke="${b[2]}" stroke-width=16 fill=none opacity=.85 />`;p=b[0]});
@@ -46,19 +50,20 @@ return `<section class=card><h2>${title}</h2><svg class=gauge viewBox="0 0 200 1
 <table><tr><td class=r>${head[0]}</td><td class="val r">${head[1]}</td></tr>${rows}</table><div class=disc>${disc}</div></section>`}
 const nscore=Math.round(D.nuke.reduce((s,f)=>s+f[2]*f[3],0)*10)/10;
 const F=D.fg,fgB=[[25,'Extreme Fear','#ff4d4d'],[45,'Fear','#ff6a1c'],[55,'Neutral','#ff9f1c'],[75,'Greed','#c6e01a'],[100,'Extreme Greed','#19e07a']];
-h+=`<div class="wide meters">`+gauge('fg','Market Sentiment · Fear &amp; Greed',F.score,fgB,'',F.comp.map(c=>`<tr><td>${c[0]}</td><td class=val>${c[1]}<br><span class=r>${c[2]}</span></td></tr>`).join('')+`<tr><td class=r>Prev close / 1 wk / 1 mo</td><td class=val>${F.prev} / ${F.week} / ${F.month}</td></tr>`,['Component','Score'],'Source: <a class=lnk target=_blank rel=noopener href="'+F.url+'">'+F.src+' ↗</a>')
-+gauge('nk','Nuclear Escalation Risk Index',nscore,[[20,'Low','#19e07a'],[40,'Guarded','#c6e01a'],[60,'Elevated','#ff9f1c'],[80,'High','#ff6a1c'],[100,'Severe','#ff4d4d']],'',D.nuke.map(f=>`<tr><td><b>${f[0]}</b><div class=r>${f[1]}</div></td><td class=val>${f[2]} × ${f[3].toFixed(2)}<br><span class=r>= ${(f[2]*f[3]).toFixed(2)}</span></td></tr>`).join('')+`<tr><td><b>Weighted total</b></td><td class=val><b>${nscore}</b></td></tr>`,['Factor','Score × Wt'],'⚠️ Editorial indicator of escalation tension built from news factors. It is <b>not</b> a probability of nuclear war.')+`</div>`;
-A();
-h+=`<section class="card wide"><h2>Bloomberg Radar</h2>${UL(D.radar)}</section>`;
-h+=`<section class="card wide"><h2>Thailand Macro &amp; SET<span class="badge ${D.thai.badge}">SET ${D.thai.badge}</span></h2>${UL(D.thai.l)}${D.thDiv?`<h2 style="margin-top:16px">Top 10 SET Dividend Stocks (${D.thDiv.years}) <i class=tip data-k=dy tabindex=0>ⓘ</i></h2><div class=tblwrap><table class=dtbl><tr><th class=st>#&nbsp;Ticker</th><th class=n>5y avg yield</th><th class=n>Buy zone ฿ <i class=tip data-k=bz tabindex=0>ⓘ</i></th><th class=n>vs price</th><th class=n>P/E</th><th class=n>5y avg DPS ฿</th><th class=n>Current yield</th><th class=n>Price ฿</th><th>Company</th><th>Sector</th></tr>${D.thDiv.rows.map((r,i)=>`<tr><td class=st>${i+1}&nbsp;<a href="${r.url}" target=_blank rel=noopener>${r.t}</a></td><td class="n up">${r.y5.toFixed(2)}%</td><td class=n style="color:${r.vs>=0?'#19e07a':r.vs>=-10?'#ff9f1c':'#ff4d4d'}">${r.bz.toFixed(2)}</td><td class=n style="color:${r.vs>=0?'#19e07a':r.vs>=-10?'#ff9f1c':'#ff4d4d'}">${r.vs>0?'+':''}${r.vs.toFixed(1)}%</td><td class=n>${r.pe!=null?r.pe.toFixed(2):'—'}</td><td class=n>${r.d5.toFixed(2)}</td><td class=n>${r.cy.toFixed(2)}%</td><td class=n>${r.px.toFixed(2)}</td><td>${r.n}</td><td>${r.s}</td></tr>`).join('')}</table></div><div class=disc><b>Not a recommendation.</b> ${D.thDiv.basis} Buy zone = trailing 12m DPS ÷ 5-yr avg yield (rule-based, not advice); vs price = (buy zone − price) ÷ price, negative = price above the buy zone; green ≤ buy zone, amber within 10% above, red otherwise. <a class=lnk target=_blank rel=noopener href="${D.thDiv.peUrl}">↗ ${D.thDiv.peSrc}</a>. ${D.thDiv.asOf}. Sources: ${D.thDiv.src.map(x=>`<a class=lnk target=_blank rel=noopener href="${x[1]}">↗ ${x[0]}</a>`).join(' ')}</div>`:''}<h2 style="margin-top:12px">Thai Watch List</h2><ul>${D.thai.watch.map(i=>`<li>${i}</li>`).join('')}</ul></section>`;
-D.sections.forEach(s=>h+=`<section class="card${s[0]=='Watch This Week'?' wide':''}"><h2>${s[0]}</h2>${UL(s[1])}</section>`);
+try{h+=`<div class="wide meters">`+gauge('fg','Market Sentiment · Fear &amp; Greed',F.score,fgB,'',F.comp.map(c=>`<tr><td>${c[0]}</td><td class=val>${c[1]}<br><span class=r>${c[2]}</span></td></tr>`).join('')+`<tr><td class=r>Prev close / 1 wk / 1 mo</td><td class=val>${F.prev} / ${F.week} / ${F.month}</td></tr>`,['Component','Score'],'Source: <a class=lnk target=_blank rel=noopener href="'+F.url+'">'+F.src+' ↗</a>')
++gauge('nk','Nuclear Escalation Risk Index',nscore,[[20,'Low','#19e07a'],[40,'Guarded','#c6e01a'],[60,'Elevated','#ff9f1c'],[80,'High','#ff6a1c'],[100,'Severe','#ff4d4d']],'',D.nuke.map(f=>`<tr><td><b>${f[0]}</b><div class=r>${f[1]}</div></td><td class=val>${f[2]} × ${f[3].toFixed(2)}<br><span class=r>= ${(f[2]*f[3]).toFixed(2)}</span></td></tr>`).join('')+`<tr><td><b>Weighted total</b></td><td class=val><b>${nscore}</b></td></tr>`,['Factor','Score × Wt'],'⚠️ Editorial indicator of escalation tension built from news factors. It is <b>not</b> a probability of nuclear war.')+`</div>`;}catch(e){ERR(e)}
+try{A();}catch(e){ERR(e)}
+try{h+=`<section class="card wide"><h2>Bloomberg Radar</h2>${UL(D.radar)}</section>`;}catch(e){ERR(e)}
+try{h+=`<section class="card wide"><h2>Thailand Macro &amp; SET<span class="badge ${D.thai.badge}">SET ${D.thai.badge}</span></h2>${UL(D.thai.l)}${D.thDiv?`<h2 style="margin-top:16px">Top 10 SET Dividend Stocks (${D.thDiv.years}) <i class=tip data-k=dy tabindex=0>ⓘ</i></h2><div class=tblwrap><table class=dtbl><tr><th class=st>#&nbsp;Ticker</th><th class=n>5y avg yield</th><th class=n>Buy zone ฿ <i class=tip data-k=bz tabindex=0>ⓘ</i></th><th class=n>vs price</th><th class=n>P/E</th><th class=n>5y avg DPS ฿</th><th class=n>Current yield</th><th class=n>Price ฿</th><th>Company</th><th>Sector</th></tr>${D.thDiv.rows.map((r,i)=>`<tr><td class=st>${i+1}&nbsp;<a href="${r.url}" target=_blank rel=noopener>${r.t}</a></td><td class="n up">${N(r.y5)}%</td><td class=n style="color:${r.vs>=0?'#19e07a':r.vs>=-10?'#ff9f1c':'#ff4d4d'}">${N(r.bz)}</td><td class=n style="color:${r.vs>=0?'#19e07a':r.vs>=-10?'#ff9f1c':'#ff4d4d'}">${r.vs>0?'+':''}${N(r.vs,1)}%</td><td class=n>${N(r.pe)}</td><td class=n>${N(r.d5)}</td><td class=n>${N(r.cy)}%</td><td class=n>${N(r.px)}</td><td>${r.n}</td><td>${r.s}</td></tr>`).join('')}</table></div><div class=disc><b>Not a recommendation.</b> ${D.thDiv.basis} Buy zone = trailing 12m DPS ÷ 5-yr avg yield (rule-based, not advice); vs price = (buy zone − price) ÷ price, negative = price above the buy zone; green ≤ buy zone, amber within 10% above, red otherwise. <a class=lnk target=_blank rel=noopener href="${D.thDiv.peUrl}">↗ ${D.thDiv.peSrc}</a>. ${D.thDiv.asOf}. Sources: ${D.thDiv.src.map(x=>`<a class=lnk target=_blank rel=noopener href="${x[1]}">↗ ${x[0]}</a>`).join(' ')}</div>`:''}<h2 style="margin-top:12px">Thai Watch List</h2><ul>${D.thai.watch.map(i=>`<li>${i}</li>`).join('')}</ul></section>`;}catch(e){ERR(e)}
+try{D.sections.forEach(s=>h+=`<section class="card${s[0]=='Watch This Week'?' wide':''}"><h2>${s[0]}</h2>${UL(s[1])}</section>`);}catch(e){ERR(e)}
 const col=(n,c)=>`<div><h2>${n}</h2><h3>What's trending</h3>${UL(c.trend)}<h3>Upcoming launches</h3>${UL(c.next)}<h3>What to check</h3>${UL(c.check)}</div>`;
-if(D.ai)h+=`<section class="card wide"><h2>AI Watch</h2><div class=ai>${col('🇺🇸 US',D.ai.us)}${col('🇨🇳 China',D.ai.cn)}</div><div class=disc>${D.ai.note}</div></section>`;
+try{if(D.ai)h+=`<section class="card wide"><h2>AI Watch</h2><div class=ai>${col('🇺🇸 US',D.ai.us)}${col('🇨🇳 China',D.ai.cn)}</div><div class=disc>${D.ai.note}</div></section>`;}catch(e){ERR(e)}
 h+='<section class="card wide" id=chart><h2>S&amp;P 500 vs NYSE Breadth</h2><div class=r>Loading chart…</div></section>';
 $('main').innerHTML=h;
+if(ERRS.length)$('main').insertAdjacentHTML('beforeend','<section class="card wide"><div class=r>Some sections failed to load ('+ERRS.length+'). Pull to refresh.</div></section>');
 
 
-fetch('data/chart.json?'+Date.now()).then(r=>r.json()).then(C=>{
+fetch('data/chart.json?v=VER_20261016115908&t='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(C=>{
 const S=C.spx,N=S.length,W=360,P=40,T=170,B=110,G=12,x=i=>4+i*(W-P-8)/(N-1);
 const hi=Math.max(...S.map(r=>r[2])),lo=Math.min(...S.map(r=>r[3])),y=v=>8+(hi-v)/(hi-lo)*(T-16);
 let g='';for(let k=0;k<=4;k++){const v=lo+(hi-lo)*k/4;g+=`<line x1=0 x2=${W-P} y1=${y(v)} y2=${y(v)} stroke=#222 /><text x=${W-P+3} y=${y(v)+3} fill=#777 font-size=8>${Math.round(v)}</text>`}
@@ -77,7 +82,7 @@ const el=$('chart');el.innerHTML=`<h2>S&amp;P 500 vs NYSE Breadth <i class=tip d
 <div class=chartwrap>${svg}</div>
 <div class=disc>Daily OHLC bars, last ${N} sessions. Breadth bars only on days with a sourced value (${HL.map(r=>r.d.slice(5)).join(', ')}); history fills in as the daily refresh appends WSJ data. Sources: ${C.src.map(s=>`<a class=lnk target=_blank rel=noopener href="${s[1]}">↗ ${s[0]}</a>`).join(' ')} · 6 Oct value from StockCharts (user screenshot).</div>`;
 }).catch(e=>{$('chart').innerHTML='<h2>S&amp;P 500 vs NYSE Breadth</h2><div class=r>Chart data unavailable.</div>'});
-(function(){const G=D.glossary||{},tt=document.createElement('div');tt.id='tt';document.body.appendChild(tt);
+try{(function(){const G=D.glossary||{},tt=document.createElement('div');tt.id='tt';document.body.appendChild(tt);
 const mk=k=>`<i class=tip data-k="${k}" tabindex=0 aria-label="info">ⓘ</i>`;
 document.querySelectorAll('main li, main td:first-child, main h2').forEach(el=>{if(el.querySelector('.tip')||el.closest('.dtbl'))return;const txt=el.childNodes[0]&&el.tagName=='H2'?el.childNodes[0].textContent:el.textContent;let add='';
  for(const k in G){if(!G[k].m)continue;if(new RegExp(G[k].m).test(txt)){add=mk(k);break}}
@@ -89,6 +94,6 @@ const hover=matchMedia('(hover:hover)').matches;
 document.addEventListener('mouseover',e=>{if(hover&&e.target.classList.contains('tip'))show(e.target)});
 document.addEventListener('mouseout',e=>{if(hover&&e.target.classList.contains('tip'))hide()});
 document.addEventListener('click',e=>{const t=e.target.closest('.tip');if(t){e.preventDefault();cur===t?hide():show(t)}else hide()});
-addEventListener('scroll',hide,{passive:true})})();
+addEventListener('scroll',hide,{passive:true})})()}catch(e){ERR(e)}
 requestAnimationFrame(()=>setTimeout(()=>{document.querySelectorAll('.needle').forEach(n=>n.style.transform=`rotate(${n.dataset.s*1.8}deg)`);document.querySelectorAll('.score').forEach(e=>{const t=+e.dataset.s;let n=0;const iv=setInterval(()=>{n=Math.min(t,n+t/40);e.textContent=Math.round(n);if(n>=t)clearInterval(iv)},40)})},200));
 </script></body></html>

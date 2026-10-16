@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T10:48:20Z",
+ "updated": "2026-10-16T15:23:49Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (34)"
+  "Nikkei Asia": "ok (37)"
  },
  "items": [
   {
-   "title": "Indonesian Stocks Tumble on MSCI Downgrade Warning",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/indonesian-stocks-tumble-on-msci-downgrade-warning-video",
-   "utc": "2026-10-16T10:42:57Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-   "utc": "2026-10-16T10:41:03Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Jefferies technical analyst finds an encouraging development in Thursday rebound, setting stage for rally into year-end",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/jefferies-technical-analyst-finds-an-encouraging-development-in-thursday-rebound-setting-stage-for-rally-into-year-end-34ad6e31?mod=mw_rss_topstories",
-   "utc": "2026-10-16T10:38:00Z",
+   "title": "Latest Headlines",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rd2JhYy1HUGlGSUg5alBibTA1ekd0cGt3NnRmLTVTeVBLY2xBUC1FWU10LXdkVGtoWWE2d2lpRW5iYWcyQjhrTnk1TnYxMjNBLUxudi10VWZtWm93dVFrY3NPRGtKQQ?oc=5",
+   "utc": "2026-10-16T15:20:57Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Dubai’s DIP to Hold Meetings for UAE’s First Listing Since War",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/dubai-s-dip-to-hold-meetings-for-uae-s-first-listing-since-war",
-   "utc": "2026-10-16T10:30:43Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Carlyle Buys $7.7 Billion in Consumer Loans as Truist Revamps",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/carlyle-buys-7-7-billion-in-consumer-loans-as-truist-revamps",
-   "utc": "2026-10-16T10:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "South Korea Turns Back to Coal as LNG Crisis Deepens",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Turns-Back-to-Coal-as-LNG-Crisis-Deepens.html",
-   "utc": "2026-10-16T10:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Tesla reveals next-generation Roadster after almost a decade of delays",
+   "title": "Dow jumps 200 points, Nasdaq slides as investors continue to rotate out of AI stocks: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-   "utc": "2026-10-16T10:27:18Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
-   "utc": "2026-10-16T10:25:46Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-   "utc": "2026-10-16T10:24:30Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "The best of the AI trade could be behind us. Here’s how to prepare, according to Barclays.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-best-of-the-ai-trade-could-be-behind-us-heres-how-to-prepare-according-to-barclays-725ab4dd?mod=mw_rss_topstories",
-   "utc": "2026-10-16T10:21:00Z",
+   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+   "utc": "2026-10-16T15:19:51Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "GCash parent prices Philippine IPO at record $966m",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDJyMFZNd3QxeWpjcl8xWm1yUU9MTEFIUGFnYmdYa1MyM1VCd1hFTktJdWhoUGFXc3hBaXZDVXpYY3hHNW5lYml5bnB5bXBZOEVaeEp3RFNsYkJCV3F1RG1jeF93cVFKb0pFazBWWEQtdVhYR1ZtNGV1aG90UEJZa3VkejNlUXE4RHkyeUhNNWR5WjVqTHBaekln?oc=5",
-   "utc": "2026-10-16T10:20:00Z",
+   "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+   "utc": "2026-10-16T15:18:40Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Why Tech’s AI Borrowing Binge Is Rattling Markets",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/why-tech-s-ai-borrowing-binge-is-rattling-markets",
+   "utc": "2026-10-16T15:17:57Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Kimberly-Clark is having its best week in four years. Here's what is propelling shares higher",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/16/kimberly-clark-stock-q3-kenvue-deal-cramer.html",
+   "utc": "2026-10-16T15:12:25Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Michael Palin on Still Traveling the World at 83",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/michael-palin-on-still-traveling-the-world-at-83-video",
+   "utc": "2026-10-16T15:10:32Z",
    "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Semiconductors are out, software is in. Why that’s not about to change anytime soon",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/software-stocks-semiconductor-rotation.html",
+   "utc": "2026-10-16T15:09:59Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Peru Indigenous Group Bids for Part of China-Owned Copper Mine",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/peru-indigenous-group-bids-for-part-of-china-owned-copper-mine",
+   "utc": "2026-10-16T15:03:59Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+   "utc": "2026-10-16T15:01:34Z",
+   "tag": "AI",
    "breaking": true
   },
   {
    "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-   "utc": "2026-10-16T10:16:00Z",
+   "utc": "2026-10-16T15:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "US Steel Prices Climb to Four-Year High as Trump’s Tariffs Bite",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/us-steel-prices-climb-to-four-year-high-as-trump-s-tariffs-bite",
-   "utc": "2026-10-16T10:00:00Z",
+   "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
+   "utc": "2026-10-16T15:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Uganda in Final Stages of Oil Production",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/uganda-in-final-stages-of-oil-production-video",
-   "utc": "2026-10-16T09:56:26Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "China to add AI, biopharma and solar tech to export control list",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFpxWEtXaXRld25WMWpESTNDUkZaUHFyN2UxYkcteXMyYnJ0d3ZLQ25LVEJqSGF4YnluVXk4OGthWnFJdTYwNTYxX00zczZsV0pGakxhbUVxZVF2Mm5hQU5Sa2FZMkgxd2gyck9fYnV4VHhtWGZKMnl2bVR2YjlKaXhjd0NPaXJ4MmlIU2s2YkR3LUhSR3o2OWxKcTkzc01aVUVTZWg0dDgxRkR0NmFoTEtiNmg0a2otbVNoaEVOLXhZNnpnVDF2dnNybw?oc=5",
-   "utc": "2026-10-16T09:56:00Z",
+   "title": "Big Tech's AI auditors will only see what they're shown",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+   "utc": "2026-10-16T14:58:22Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-   "utc": "2026-10-16T09:48:14Z",
-   "tag": "BTC",
-   "breaking": false
+   "title": "Brasil: euforia por Flávio Bolsonaro oculta crisis de deuda",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/brasil-euforia-por-flavio-bolsonaro-oculta-crisis-de-deuda-mvb38nf8",
+   "utc": "2026-10-16T14:53:51Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
-   "title": "Trump says he won't use nuclear weapons or send ground troops to Iran",
+   "title": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+   "utc": "2026-10-16T14:45:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html",
-   "utc": "2026-10-16T09:46:54Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Indonesia Unveils $117 Million in Fines After MSCI Warning",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-unveils-117-million-in-fines-after-msci-warning",
-   "utc": "2026-10-16T09:40:58Z",
+   "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
+   "utc": "2026-10-16T14:43:09Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "MSCI Ignites Indonesia Market Reckoning After Months of Warnings",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/msci-ignites-indonesia-market-reckoning-after-months-of-warnings",
-   "utc": "2026-10-16T09:39:58Z",
+   "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+   "utc": "2026-10-16T14:40:00Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Euro Set to End Five-Week Losing Run as Warsh Remarks Hit Dollar",
+   "title": "Fed Divisions and AI Debt Risks Shape Rate Outlook",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/euro-set-to-end-five-week-losing-run-as-warsh-remarks-hit-dollar",
-   "utc": "2026-10-16T09:37:30Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/fed-divisions-and-ai-debt-risks-shape-rate-outlook-video",
+   "utc": "2026-10-16T14:37:36Z",
    "tag": "FED",
-   "breaking": false
+   "breaking": true
+  },
+  {
+   "title": "The Case for Mamdani-Style Populism",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/the-case-for-mamdani-style-populism-video",
+   "utc": "2026-10-16T14:35:55Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "E.l.f. Beauty CFO Mandy Fields on consumers, pricing and building a foundation in cosmetics",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/16/elf-beauty-cfo-mandy-fields-tariffs-marketing-makeup.html",
+   "utc": "2026-10-16T14:30:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Global Gas Crunch Makes Europe’s Remaining Coal Plants Profitable",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Gas-Crunch-Makes-Europes-Remaining-Coal-Plants-Profitable.html",
+   "utc": "2026-10-16T14:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
   }
  ]
 }

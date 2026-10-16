@@ -1,4 +1,4 @@
-window.DASH={ver:"VER_20261016115908",asOf:"Fri 16 Oct 2026, 09:45 ICT",
+window.DASH={ver:"VER_20261016123028",asOf:"Fri 16 Oct 2026, 09:45 ICT",
 bottom:"Markets are nervous. Hot inflation means the Fed will likely hike again; money is rotating from AI stocks into bonds and gold; oil is high on the Iran war and the diesel shortage.",
 ticker:[["S&P 500","~7,745","+0.3%",1],["DOW","~52,178","+1.1%",1],["NASDAQ","~26,713","+0.1%",1],["US10Y","~5.09%","off 5.36% peak",0],["WTI","$96-98","",1],["BRENT","$103-106","",1],["GOLD","~$4,170","+1.6%",1],["BTC","~$82,200","",0],["US DIESEL","$6.32/gal","record",1]],
 assets:[

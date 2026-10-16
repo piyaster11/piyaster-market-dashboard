@@ -1,10 +1,9 @@
 name: Breaking news (hourly)
-# PREVIEW: the hourly schedule is intentionally COMMENTED OUT until the user approves.
-# To enable, uncomment the two "schedule" lines below. Until then it runs only via "Run workflow" (workflow_dispatch).
+# Hourly schedule enabled (user-approved 16 Oct 2026). Also runnable via "Run workflow".
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: '0 * * * *'
+  schedule:
+    - cron: '0 * * * *'
 permissions:
   contents: write
 concurrency: { group: news, cancel-in-progress: true }
@@ -24,4 +23,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/news.json
           git commit -m "news: update $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+          for i in 1 2; do
+            git pull --rebase origin main && git push && exit 0
+            echo "push failed, retrying"; sleep 5
+          done
+          exit 1

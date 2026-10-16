@@ -19,26 +19,8 @@ nuke:[
 ["Middle East spillover","Houthi-Saudi escalation",35,.15],
 ["Great-power diplomacy channels","Trump-Putin talking lowers risk",25,.15],
 ["Arms-control / nuclear rhetoric","No specific new threats in sources; baseline",20,.15]]};
-DASH.fg={src:"CNN Business Fear & Greed Index (real value, CNN dataviz feed, updated 16 Oct 2026 06:59 ICT)",score:31.5,prev:32.3,week:39.8,month:28.0,
+DASH.fg={src:"CNN Business Fear & Greed Index (real value, CNN dataviz feed, updated 16 Oct 2026 06:59 ICT)",url:"https://www.cnn.com/markets/fear-and-greed",score:31.5,prev:32.3,week:39.8,month:28.0,
 comp:[["Market momentum (S&P vs 125d avg)",42.6,"Fear"],["Stock price strength (52w highs vs lows)",10.4,"Extreme Fear"],["Stock price breadth",10.4,"Extreme Fear"],["Put/Call options",23.4,"Extreme Fear"],["Market volatility (VIX)",50,"Neutral"],["Safe-haven demand (stocks vs bonds)",33.4,"Fear"],["Junk bond demand",50.6,"Neutral"]]};
-DASH.radar=["<b>AI debt stress:</b> CoreWeave 2031 bond yield ~15.8%, 5Y CDS ~1,040bp (distressed) — CNBC/Bloomberg, 15 Oct",
-"<b>Blue Owl's Stack Infrastructure</b> seeks $6B loan as AI-sector sell-off hits debt — Bloomberg, 15 Oct",
-"<b>Tencent</b> $5B bond sale to fund AI capex & chips — Bloomberg, 12-13 Oct",
-"<b>Japan:</b> Nikkei 225 −4.9% (3rd-largest point drop on record) as AI selling hit chipmakers; BOJ's Koeda says don't be overly cautious on hikes from 1.25% — 15-16 Oct",
-"<b>FX:</b> USD/JPY ~157.8-158.2; Dollar index −0.44% to 102.00 after an 18-month high — Reuters, 16 Oct",
-"<b>Europe:</b> euro at weakest since May 2025 on French debt worries; France-Bund 10Y spread widest since 2012; 2027 budget targets 5.0% deficit — 15-16 Oct",
-"<b>Watch:</b> Japan Sep CPI on 22 Oct"];
-DASH.thai={badge:"NEUTRAL",
-l:["<b>SET</b> 1,573.01 <span class=dn>−2.87 (−0.18%)</span> on 15 Oct; SET50 1,053.01 +1.00 — SET.or.th",
-"<b>Foreign flows:</b> net SELL ฿2,111.5M on 15 Oct; institutions +฿1,399M, retail +฿894M — SET.or.th",
-"<b>USD/THB</b> ~33.54 (BOT weighted avg 33.541, 15 Oct) — strong baht",
-"<b>BOT policy rate</b> 1.00%; next MPC <b>Wed 28 Oct</b> (hold expected); governor: 'no rush to raise' — BOT/Reuters 8 Oct",
-"<b>Inflation:</b> Sep headline 2.82% YoY, core 1.5%; Jan-Sep avg 1.54% — TradingEconomics/Reuters",
-"<b>GDP:</b> BOT sees 2026 growth ~2.3% (IMF 2.1%) — Bangkok Post/Nation, Oct",
-"<b>Exports:</b> Aug +24.3% YoY; BOT sees 2026 +17-18% on AI demand",
-"<b>Tourism:</b> foreign arrivals −3% YoY Jan-Aug; ฿20B domestic travel subsidy to early 2027; strong baht and costs pressuring sector — Thai Times 16 Oct",
-"<b>Energy:</b> high oil/diesel prices are a cost risk for Thailand as a net oil importer"],
-watch:["Tue 27 Oct: Thai Sep exports/trade balance","Wed 28 Oct: BOT MPC decision (1.00%)","Thu 5 Nov: Thai Oct CPI","Foreign flows on SET + DELTA (AI-chip selling)","Baht vs a softer USD; oil above $100 = energy-cost risk"]};
 DASH.todo={title:"What to do as a normal investor",note:"General info, not personal financial advice.",
 l:["<b>Keep investing on schedule (DCA).</b> Sentiment is in Fear (31.5); don't panic-sell into it.",
 "<b>Don't chase AI/tech dips yet.</b> AI stocks and AI debt (e.g. CoreWeave) are under stress; wait until rates settle after the Fed (28 Oct).",
@@ -87,3 +69,78 @@ bot:{m:"BOT policy|BoT meeting|BOT MPC",d:"Bank of Thailand's key rate. 1.00%, w
 set:{m:"SET",d:"SET = Thai stock index; SET50 = its 50 biggest stocks. SET 1,573 is flat-ish and neutral."},
 flow:{m:"Foreign flows|foreigners",d:"Net buying minus selling by foreign investors. −฿2.1B on 15 Oct: foreigners are selling, which weighs on the SET."},
 dca:{m:"DCA",d:"Dollar-cost averaging: invest a fixed amount on a schedule regardless of price, which smooths out bad timing."}};
+// Sources: each item = {t: text, src: [[label, url], ...]}
+DASH.U={
+"cnbc": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+"bblaw": "https://news.bloomberglaw.com/bankruptcy-law/coreweaves-brazen-dream-crashes-into-reality-as-yields-top-15",
+"stack": "https://www.bloomberg.com/news/articles/2026-10-15/blue-owl-s-stack-eyes-6-billion-loan-as-selloff-hits-ai-sector",
+"tencent": "https://www.bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending",
+"octa": "https://www.octabroker.com/markets/news/view/1275281/",
+"brec": "https://www.brecorder.com/news/40444466",
+"eur": "https://cnnbc.com/euro-falls-to-17-month-low-as-french-debt-concerns-hit-regional-bond-markets",
+"amp": "https://cdn.ameriprisecontent.com/cds/alwp/marketperspectives/btb.pdf",
+"set": "https://www.set.or.th/en/home",
+"ryt": "https://www.ryt9.com/s/iq/12850432",
+"fx": "https://www.thaifxrates.net/ER_PDF_EN.pdf",
+"mpc": "https://www.bot.or.th/en/our-roles/monetary-policy/mpc-meeting.html",
+"reut": "https://money.usnews.com/investing/news/articles/2026-10-08/thai-central-bank-in-no-rush-to-raise-rates-governor-says",
+"te": "https://tradingeconomics.com/thailand/calendar",
+"bkp": "https://www.bangkokpost.com/business/general/3336303/bot-chief-envisions-23-growth",
+"nat": "https://www.nationthailand.com/business/economy/40072198",
+"tt1": "https://thaitimes.com/thailand-maintains-full-year-tourism-outlook-despite-3-drop-in-early-arrivals",
+"tt2": "https://thaitimes.com/thai-government-to-launch-16-billion-domestic-tourism-stimulus-package",
+"tt3": "https://thaitimes.com/thailand-s-tourism-sector-faces-new-pressures-from-strong-baht-and-rising-costs",
+"meta": "https://research.meta.ai/blog/muse-spark-open",
+"gem": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+"haiku": "https://www.anthropic.com/claude-haiku-5-5",
+"cd": "https://waifuai.github.io/llm-countdowns/",
+"gp": "https://about.geekpark.net/overnight/2026-10-11/",
+"nik": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning",
+"llm": "https://www.llmreference.com/changelog/2026-10",
+"bis": "https://media.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china",
+"reutchip": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/"
+};
+(U=>{
+DASH.radar=[
+{t:"<b>AI debt stress:</b> CoreWeave 2031 bond yield ~15.8%, 5Y CDS ~1,040bp (distressed) — 15 Oct",src:[["CNBC",U.cnbc],["Bloomberg Law",U.bblaw]]},
+{t:"<b>Blue Owl's Stack Infrastructure</b> seeks $6B loan as AI-sector sell-off hits debt — 15 Oct",src:[["Bloomberg",U.stack]]},
+{t:"<b>Tencent</b> $5B bond sale to fund AI capex & chips — 12-13 Oct",src:[["Bloomberg",U.tencent]]},
+{t:"<b>Japan:</b> Nikkei 225 −4.9% (3rd-largest point drop on record) as AI selling hit chipmakers; BOJ's Koeda: don't be overly cautious on hikes from 1.25% — 15-16 Oct",src:[["Octa/FXStreet",U.octa]]},
+{t:"<b>FX:</b> USD/JPY ~157.8-158.2; Dollar index −0.44% to 102.00 after an 18-month high — 16 Oct",src:[["Reuters via Business Recorder",U.brec]]},
+{t:"<b>Europe:</b> euro weakest since May 2025 on French debt worries; France-Bund 10Y spread widest since 2012; 2027 budget targets 5.0% deficit",src:[["CNNBC",U.eur],["Ameriprise 15 Oct",U.amp]]},
+{t:"<b>Watch:</b> Japan Sep CPI on 22 Oct",src:[["Octa",U.octa]]}];
+DASH.thai={badge:"NEUTRAL",l:[
+{t:"<b>SET</b> 1,573.01 <span class=dn>−2.87 (−0.18%)</span> on 15 Oct; SET50 1,053.01 +1.00",src:[["SET",U.set]]},
+{t:"<b>Foreign flows:</b> net SELL ฿2,111.5M on 15 Oct; institutions +฿1,399M, retail +฿894M",src:[["SET",U.set],["RYT9",U.ryt]]},
+{t:"<b>USD/THB</b> ~33.54 (BOT weighted avg 33.541, 15 Oct), a strong baht",src:[["BOT FX rates",U.fx]]},
+{t:"<b>BOT policy rate</b> 1.00%; next MPC <b>Wed 28 Oct</b> (hold expected); governor: 'no rush to raise' (8 Oct)",src:[["BOT MPC schedule",U.mpc],["Reuters",U.reut]]},
+{t:"<b>Inflation:</b> Sep headline 2.82% YoY, core 1.5%; Jan-Sep avg 1.54%",src:[["TradingEconomics",U.te],["Reuters",U.reut]]},
+{t:"<b>GDP:</b> BOT sees 2026 growth ~2.3% (IMF 2.1%)",src:[["Bangkok Post",U.bkp],["Nation",U.nat]]},
+{t:"<b>Exports:</b> Aug +24.3% YoY; BOT sees 2026 +17-18% on AI demand",src:[["TradingEconomics",U.te],["Nation",U.nat]]},
+{t:"<b>Tourism:</b> foreign arrivals −3% YoY Jan-Aug; ฿20B domestic travel subsidy to early 2027; strong baht and costs pressuring the sector (16 Oct)",src:[["Thai Times",U.tt1],["subsidy",U.tt2],["baht",U.tt3]]},
+"<b>Energy:</b> high oil/diesel prices are a cost risk for Thailand as a net oil importer (our view)"],
+watch:["Tue 27 Oct: Thai Sep exports/trade balance","Wed 28 Oct: BOT MPC decision (1.00%)","Thu 5 Nov: Thai Oct CPI","Foreign flows on SET + DELTA (AI-chip selling)","Baht vs a softer USD; oil above $100 = energy-cost risk"]};
+DASH.ai={note:"Upcoming dates marked 'est.' are estimates from a public tracker (LLM Countdowns), not official announcements.",
+us:{trend:[
+{t:"Meta released open weights for <b>Muse Spark Open</b> (816B params, 1M context) — 15 Oct",src:[["Meta",U.meta]]},
+{t:"Google launched <b>Gemini 4 Argon</b> to all; intro price $2/$10 per M tokens until 30 Nov — 13 Oct",src:[["Google",U.gem]]},
+{t:"Anthropic released <b>Claude Haiku 5.5</b> and cut Sonnet 5.5 cache-read prices — 7 Oct",src:[["Anthropic",U.haiku]]},
+{t:"Market mood: AI stocks and AI debt under pressure (CoreWeave distress, Stack's $6B loan)",src:[["CNBC",U.cnbc],["Bloomberg",U.stack]]}],
+next:[{t:"xAI Grok 4.8 — ~20 Oct (est.)",src:[["LLM Countdowns",U.cd]]},{t:"Meta Muse Spark 1.4 — ~22 Oct (est.)",src:[["LLM Countdowns",U.cd]]},{t:"OpenAI GPT-6.1 Luna — ~29 Oct (est.)",src:[["LLM Countdowns",U.cd]]},{t:"Anthropic Claude Fable 5.5 — ~5 Nov (est.)",src:[["LLM Countdowns",U.cd]]},{t:"Google Gemini 4 Flash — ~12 Nov (est.); Google says more Gemini 4 models are coming",src:[["LLM Countdowns",U.cd],["Google",U.gem]]}],
+check:["META earnings Wed 21 Oct (AI capex & funding); TSLA/IBM same day","Nvidia/TSMC: TSMC record quarter vs AI-chip selling",{t:"Export controls: H200 sales to China case-by-case; Blackwell still barred; loophole via overseas subsidiaries closed",src:[["BIS",U.bis],["Reuters",U.reutchip]]},"AI debt: CoreWeave CDS/bond yields as a stress gauge"]},
+cn:{trend:[
+{t:"Chinese labs launched <b>16 AI models</b> in September (DeepSeek, Xiaomi and others)",src:[["Nikkei Asia",U.nik]]},
+{t:"Moonshot made <b>Kimi K3</b> its flagship on the Kimi platform; DeepSeek-flash now routes to <b>V4.1-Flash</b> at $0.15/M input (10 Oct)",src:[["GeekPark",U.gp]]},
+{t:"Alibaba shipped Qwen-Image-2.1 models; Zhipu released GLM-Legal (Oct)",src:[["LLM Reference",U.llm]]},
+{t:"Tencent's $5B bond sale to fund AI capex & chips",src:[["Bloomberg",U.tencent]]}],
+next:[{t:"Zhipu GLM-5.4 — ~20 Oct (est.)",src:[["LLM Countdowns",U.cd]]},{t:"MiniMax M3.1 — ~28 Oct (est.)",src:[["LLM Countdowns",U.cd]]},{t:"Moonshot Kimi K3.1 — ~29 Oct (est.)",src:[["LLM Countdowns",U.cd]]},{t:"Alibaba Qwen 4 Max — ~30 Oct (est.)",src:[["LLM Countdowns",U.cd]]},{t:"DeepSeek V4.1 Pro — ~12 Nov (est.)",src:[["LLM Countdowns",U.cd]]},"ByteDance Doubao / Baidu ERNIE: no dated launch found in Oct 2026 sources"],
+check:[{t:"CNCC2026 in Chengdu from 21 Oct (Tencent, Alibaba, Baidu, Xiaomi, JD speakers)",src:[["GeekPark",U.gp]]},"China Q3 GDP Mon 19 Oct",{t:"Chip access: H200 licences vs Huawei alternatives",src:[["BIS",U.bis]]},"Tencent/Alibaba AI capex funding (bonds)"]}};
+})(DASH.U);
+DASH.summary={l:[
+"🔥 Inflation hot (CPI 3.7%, PPI +1.3% m/m), so Fed hike risk is back (~67% by Dec)",
+"🤖 AI/tech sell-off plus AI debt stress (CoreWeave CDS ~1,040bp)",
+"🛡️ Bonds and gold acting as safe havens (10Y down to ~5.09%, gold +1.6%)",
+"🛢️ Oil high on the Iran war/Hormuz and a record diesel shortage",
+"₿ BTC stuck around ~$82k: $78k support, $83.3k to turn bullish",
+"🇹🇭 SET flat (−0.18%) with foreigners net selling ฿2.1B; BoT on 28 Oct"],
+nums:[["S&P","7,745","+0.3%",1],["10Y","5.09%","from 5.36%",-1],["WTI","$96-98","high",1],["Gold","$4,170","+1.6%",1],["BTC","$82.2k","range",0],["SET","1,573","−0.18%",-1],["USD/THB","33.54","strong ฿",0],["Fear&Greed","31.5","Fear",-1]]};

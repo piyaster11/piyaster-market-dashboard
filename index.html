@@ -12,7 +12,7 @@ header{padding:16px;border-bottom:2px solid var(--a)}h1{margin:0;color:var(--a);
 .asof{color:var(--m);font-size:13px}.tape{overflow:hidden;background:#111;border-bottom:1px solid var(--l);white-space:nowrap}
 .tick{display:inline-block;padding:10px 0;animation:s 40s linear infinite}.tick span{margin-right:28px;font-size:14px}.tick b{color:var(--a)}
 @keyframes s{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-main{max-width:1100px;margin:auto;padding:12px;display:grid;gap:12px;grid-template-columns:1fr}
+main{max-width:1100px;margin:auto;padding:12px;display:grid;gap:12px;grid-template-columns:minmax(0,1fr)}
 @media(min-width:760px){main{grid-template-columns:repeat(2,1fr)}.wide{grid-column:1/-1}}
 .card{background:var(--c);border:1px solid var(--l);border-left:3px solid var(--a);border-radius:6px;padding:14px 16px}
 h2{margin:0 0 8px;color:var(--a);font:700 14px ui-monospace,Menlo,monospace;text-transform:uppercase;letter-spacing:1px;display:flex;justify-content:space-between;align-items:center;gap:8px}
@@ -20,10 +20,10 @@ ul{margin:0;padding-left:18px}li{margin:6px 0}.up{color:var(--g)}.dn{color:var(-
 .badge{font-size:12px;padding:4px 10px;border-radius:4px;white-space:nowrap}.BULLISH{background:#0b3d22;color:var(--g)}.MILDLY{background:#123a26;color:#7fe3a9}.NEUTRAL{background:#3a2c0b;color:var(--a)}.BEARISH{background:#3d0b0b;color:var(--r)}
 .bottom{font-size:17px}.gauge{display:block;margin:auto;max-width:340px;width:100%}
 .score{text-align:center;font:700 44px ui-monospace,Menlo,monospace;margin-top:-8px}.band{text-align:center;color:var(--a);font-weight:700;margin-bottom:10px}
-table{width:100%;border-collapse:collapse;font-size:14px}td{padding:8px 4px;border-top:1px solid var(--l);vertical-align:top}td.val{text-align:right;white-space:nowrap}
+table{width:100%;border-collapse:collapse;font-size:14px}td{overflow-wrap:anywhere;padding:8px 4px;border-top:1px solid var(--l);vertical-align:top}td.val{text-align:right;white-space:nowrap}
 .r{color:var(--m);font-size:12px}.disc{color:var(--m);font-size:12px;margin-top:10px}
-.bands{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;font-size:11px;margin:6px 0}.meters{display:grid;gap:12px;grid-template-columns:1fr}@media(min-width:760px){.meters{grid-template-columns:1fr 1fr}}.bands span{padding:3px 8px;border-radius:3px;background:#1a1a1a}
-.todo{background:#1f1400;border:1px solid var(--a);border-left:6px solid var(--a);border-radius:8px;padding:16px}.todo h2{font-size:15px}.todo li{margin:10px 0;font-size:16px}.todo .r{margin-top:8px}.tip{display:inline-flex;align-items:center;justify-content:center;font-style:normal;color:var(--a);font-size:13px;margin-left:4px;min-width:24px;min-height:24px;cursor:help;vertical-align:middle;-webkit-tap-highlight-color:transparent}#tt{position:fixed;z-index:99;max-width:min(300px,calc(100vw - 24px));background:#1a1200;color:#f3e6cc;border:1px solid var(--a);border-radius:8px;padding:10px 12px;font:14px/1.45 -apple-system,Helvetica,sans-serif;box-shadow:0 6px 24px #000c;display:none;pointer-events:none}footer{text-align:center;color:var(--m);font-size:13px;padding:20px}
+.bands{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;font-size:11px;margin:6px 0}.meters{display:grid;gap:12px;grid-template-columns:minmax(0,1fr)}@media(min-width:760px){.meters{grid-template-columns:repeat(2,minmax(0,1fr))}}.bands span{padding:3px 8px;border-radius:3px;background:#1a1a1a}
+.todo{background:#1f1400;border:1px solid var(--a);border-left:6px solid var(--a);border-radius:8px;padding:16px}.todo h2{font-size:15px}.todo li{margin:10px 0;font-size:16px}.todo .r{margin-top:8px}.tip{display:inline-flex;align-items:center;justify-content:center;font-style:normal;color:var(--a);font-size:13px;margin-left:4px;min-width:24px;min-height:24px;cursor:help;vertical-align:middle;-webkit-tap-highlight-color:transparent}#tt{position:fixed;z-index:99;max-width:min(300px,calc(100vw - 24px));background:#1a1200;color:#f3e6cc;border:1px solid var(--a);border-radius:8px;padding:10px 12px;font:14px/1.45 -apple-system,Helvetica,sans-serif;box-shadow:0 6px 24px #000c;display:none;pointer-events:none}.lnk{color:#6fb3ff;font-size:12px;text-decoration:none;margin-left:4px;white-space:nowrap}.disc .lnk{white-space:normal}.lnk:hover{text-decoration:underline}.sum{border-left-color:#6fb3ff}.nums{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;margin-top:10px}.num{min-width:0;overflow-wrap:anywhere;background:#151515;border-radius:6px;padding:8px 4px;text-align:center;font-family:ui-monospace,Menlo,monospace}.num b{display:block;color:var(--m);font-size:11px;font-weight:400}.num .v{font-size:13px}.num small{font-size:11px}.ai{display:grid;gap:12px;grid-template-columns:minmax(0,1fr)}@media(min-width:760px){.ai{grid-template-columns:repeat(2,minmax(0,1fr))}}.ai h3{color:var(--a);font:700 13px ui-monospace,Menlo,monospace;margin:12px 0 4px}footer{text-align:center;color:var(--m);font-size:13px;padding:20px}
 </style></head><body>
 <header><h1>PIYASTER 99/99 MARKET UPDATE</h1><div class="asof mono" id=asof></div></header>
 <div class=tape><div class=tick id=tick></div></div>
@@ -31,10 +31,11 @@ table{width:100%;border-collapse:collapse;font-size:14px}td{padding:8px 4px;bord
 <footer>Not financial advice. · Piyaster 99/99</footer>
 <script src="data.js"></script>
 <script>
+const LI=x=>typeof x=='string'?x:x.t+(x.src||[]).map(s=>` <a class=lnk href="${s[1]}" target=_blank rel=noopener>↗ ${s[0]}</a>`).join(''),UL=a=>`<ul>${a.map(i=>`<li>${LI(i)}</li>`).join('')}</ul>`;
 const D=window.DASH,$=s=>document.getElementById(s);
 $('asof').textContent='As of '+D.asOf;
 const t=D.ticker.map(x=>`<span><b>${x[0]}</b> ${x[1]} <span class="${x[3]?'up':''}">${x[2]}</span></span>`).join('');$('tick').innerHTML=t+t;
-let h=D.todo?`<section class="todo wide"><h2>⚡ ${D.todo.title}</h2><ul>${D.todo.l.map(i=>`<li>${i}</li>`).join('')}</ul><div class=r>${D.todo.note}</div></section>`:'';h+=`<section class="card wide"><h2>Bottom Line</h2><div class=bottom>${D.bottom}</div></section>`;
+let h=D.summary?`<section class="card wide sum"><h2>Key Market Summary</h2>${UL(D.summary.l)}<div class=nums>${D.summary.nums.map(n=>`<div class=num><b>${n[0]}</b><span class="v ${n[3]>0?'up':n[3]<0?'dn':''}">${n[3]>0?'▲':n[3]<0?'▼':'■'} ${n[1]}</span><br><small class=r>${n[2]}</small></div>`).join('')}</div></section>`:'';h+=D.todo?`<section class="todo wide"><h2>⚡ ${D.todo.title}</h2><ul>${D.todo.l.map(i=>`<li>${i}</li>`).join('')}</ul><div class=r>${D.todo.note}</div></section>`:'';h+=`<section class="card wide"><h2>Bottom Line</h2><div class=bottom>${D.bottom}</div></section>`;
 const A=()=>D.assets.forEach(a=>h+=`<section class=card><h2>${a.n}<span class="badge ${a.s.split(' ')[0]}">${a.s}</span></h2><ul class=val style="text-align:left">${a.l.map(i=>`<li>${i}</li>`).join('')}</ul></section>`);
 
 function gauge(id,title,score,bands,label,rows,head,disc){let arcs='',p=0;bands.forEach(b=>{const a0=Math.PI*(1-p/100),a1=Math.PI*(1-b[0]/100);arcs+=`<path d="M${100+80*Math.cos(a0)} ${100-80*Math.sin(a0)} A80 80 0 0 1 ${100+80*Math.cos(a1)} ${100-80*Math.sin(a1)}" stroke="${b[2]}" stroke-width=16 fill=none opacity=.85 />`;p=b[0]});
@@ -45,12 +46,14 @@ return `<section class=card><h2>${title}</h2><svg class=gauge viewBox="0 0 200 1
 <table><tr><td class=r>${head[0]}</td><td class="val r">${head[1]}</td></tr>${rows}</table><div class=disc>${disc}</div></section>`}
 const nscore=Math.round(D.nuke.reduce((s,f)=>s+f[2]*f[3],0)*10)/10;
 const F=D.fg,fgB=[[25,'Extreme Fear','#ff4d4d'],[45,'Fear','#ff6a1c'],[55,'Neutral','#ff9f1c'],[75,'Greed','#c6e01a'],[100,'Extreme Greed','#19e07a']];
-h+=`<div class="wide meters">`+gauge('fg','Market Sentiment · Fear &amp; Greed',F.score,fgB,'',F.comp.map(c=>`<tr><td>${c[0]}</td><td class=val>${c[1]}<br><span class=r>${c[2]}</span></td></tr>`).join('')+`<tr><td class=r>Prev close / 1 wk / 1 mo</td><td class=val>${F.prev} / ${F.week} / ${F.month}</td></tr>`,['Component','Score'],'Source: '+F.src)
+h+=`<div class="wide meters">`+gauge('fg','Market Sentiment · Fear &amp; Greed',F.score,fgB,'',F.comp.map(c=>`<tr><td>${c[0]}</td><td class=val>${c[1]}<br><span class=r>${c[2]}</span></td></tr>`).join('')+`<tr><td class=r>Prev close / 1 wk / 1 mo</td><td class=val>${F.prev} / ${F.week} / ${F.month}</td></tr>`,['Component','Score'],'Source: <a class=lnk target=_blank rel=noopener href="'+F.url+'">'+F.src+' ↗</a>')
 +gauge('nk','Nuclear Escalation Risk Index',nscore,[[20,'Low','#19e07a'],[40,'Guarded','#c6e01a'],[60,'Elevated','#ff9f1c'],[80,'High','#ff6a1c'],[100,'Severe','#ff4d4d']],'',D.nuke.map(f=>`<tr><td><b>${f[0]}</b><div class=r>${f[1]}</div></td><td class=val>${f[2]} × ${f[3].toFixed(2)}<br><span class=r>= ${(f[2]*f[3]).toFixed(2)}</span></td></tr>`).join('')+`<tr><td><b>Weighted total</b></td><td class=val><b>${nscore}</b></td></tr>`,['Factor','Score × Wt'],'⚠️ Editorial indicator of escalation tension built from news factors. It is <b>not</b> a probability of nuclear war.')+`</div>`;
 A();
-h+=`<section class="card wide"><h2>Bloomberg Radar</h2><ul>${D.radar.map(i=>`<li>${i}</li>`).join('')}</ul></section>`;
-h+=`<section class="card wide"><h2>Thailand Macro &amp; SET<span class="badge ${D.thai.badge}">SET ${D.thai.badge}</span></h2><ul>${D.thai.l.map(i=>`<li>${i}</li>`).join('')}</ul><h2 style="margin-top:12px">Thai Watch List</h2><ul>${D.thai.watch.map(i=>`<li>${i}</li>`).join('')}</ul></section>`;
+h+=`<section class="card wide"><h2>Bloomberg Radar</h2>${UL(D.radar)}</section>`;
+h+=`<section class="card wide"><h2>Thailand Macro &amp; SET<span class="badge ${D.thai.badge}">SET ${D.thai.badge}</span></h2>${UL(D.thai.l)}<h2 style="margin-top:12px">Thai Watch List</h2><ul>${D.thai.watch.map(i=>`<li>${i}</li>`).join('')}</ul></section>`;
 D.sections.forEach(s=>h+=`<section class="card${s[0]=='Watch This Week'?' wide':''}"><h2>${s[0]}</h2><ul>${s[1].map(i=>`<li>${i}</li>`).join('')}</ul></section>`);
+const col=(n,c)=>`<div><h2>${n}</h2><h3>What's trending</h3>${UL(c.trend)}<h3>Upcoming launches</h3>${UL(c.next)}<h3>What to check</h3>${UL(c.check)}</div>`;
+if(D.ai)h+=`<section class="card wide"><h2>AI Watch</h2><div class=ai>${col('🇺🇸 US',D.ai.us)}${col('🇨🇳 China',D.ai.cn)}</div><div class=disc>${D.ai.note}</div></section>`;
 $('main').innerHTML=h;
 
 (function(){const G=D.glossary||{},tt=document.createElement('div');tt.id='tt';document.body.appendChild(tt);

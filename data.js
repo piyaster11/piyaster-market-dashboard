@@ -1,4 +1,4 @@
-window.DASH={asOf:"Fri 16 Oct 2026, 09:00 ICT",
+window.DASH={asOf:"Fri 16 Oct 2026, 09:45 ICT",
 bottom:"Markets are nervous. Hot inflation means the Fed will likely hike again; money is rotating from AI stocks into bonds and gold; oil is high on the Iran war and the diesel shortage.",
 ticker:[["S&P 500","~7,745","+0.3%",1],["DOW","~52,178","+1.1%",1],["NASDAQ","~26,713","+0.1%",1],["US10Y","~5.09%","off 5.36% peak",0],["WTI","$96-98","",1],["BRENT","$103-106","",1],["GOLD","~$4,170","+1.6%",1],["BTC","~$82,200","",0],["US DIESEL","$6.32/gal","record",1]],
 assets:[
@@ -19,3 +19,23 @@ nuke:[
 ["Middle East spillover","Houthi-Saudi escalation",35,.15],
 ["Great-power diplomacy channels","Trump-Putin talking lowers risk",25,.15],
 ["Arms-control / nuclear rhetoric","No specific new threats in sources; baseline",20,.15]]};
+DASH.fg={src:"CNN Business Fear & Greed Index (real value, CNN dataviz feed, updated 16 Oct 2026 06:59 ICT)",score:31.5,prev:32.3,week:39.8,month:28.0,
+comp:[["Market momentum (S&P vs 125d avg)",42.6,"Fear"],["Stock price strength (52w highs vs lows)",10.4,"Extreme Fear"],["Stock price breadth",10.4,"Extreme Fear"],["Put/Call options",23.4,"Extreme Fear"],["Market volatility (VIX)",50,"Neutral"],["Safe-haven demand (stocks vs bonds)",33.4,"Fear"],["Junk bond demand",50.6,"Neutral"]]};
+DASH.radar=["<b>AI debt stress:</b> CoreWeave 2031 bond yield ~15.8%, 5Y CDS ~1,040bp (distressed) — CNBC/Bloomberg, 15 Oct",
+"<b>Blue Owl's Stack Infrastructure</b> seeks $6B loan as AI-sector sell-off hits debt — Bloomberg, 15 Oct",
+"<b>Tencent</b> $5B bond sale to fund AI capex & chips — Bloomberg, 12-13 Oct",
+"<b>Japan:</b> Nikkei 225 −4.9% (3rd-largest point drop on record) as AI selling hit chipmakers; BOJ's Koeda says don't be overly cautious on hikes from 1.25% — 15-16 Oct",
+"<b>FX:</b> USD/JPY ~157.8-158.2; Dollar index −0.44% to 102.00 after an 18-month high — Reuters, 16 Oct",
+"<b>Europe:</b> euro at weakest since May 2025 on French debt worries; France-Bund 10Y spread widest since 2012; 2027 budget targets 5.0% deficit — 15-16 Oct",
+"<b>Watch:</b> Japan Sep CPI on 22 Oct"];
+DASH.thai={badge:"NEUTRAL",
+l:["<b>SET</b> 1,573.01 <span class=dn>−2.87 (−0.18%)</span> on 15 Oct; SET50 1,053.01 +1.00 — SET.or.th",
+"<b>Foreign flows:</b> net SELL ฿2,111.5M on 15 Oct; institutions +฿1,399M, retail +฿894M — SET.or.th",
+"<b>USD/THB</b> ~33.54 (BOT weighted avg 33.541, 15 Oct) — strong baht",
+"<b>BOT policy rate</b> 1.00%; next MPC <b>Wed 28 Oct</b> (hold expected); governor: 'no rush to raise' — BOT/Reuters 8 Oct",
+"<b>Inflation:</b> Sep headline 2.82% YoY, core 1.5%; Jan-Sep avg 1.54% — TradingEconomics/Reuters",
+"<b>GDP:</b> BOT sees 2026 growth ~2.3% (IMF 2.1%) — Bangkok Post/Nation, Oct",
+"<b>Exports:</b> Aug +24.3% YoY; BOT sees 2026 +17-18% on AI demand",
+"<b>Tourism:</b> foreign arrivals −3% YoY Jan-Aug; ฿20B domestic travel subsidy to early 2027; strong baht and costs pressuring sector — Thai Times 16 Oct",
+"<b>Energy:</b> high oil/diesel prices are a cost risk for Thailand as a net oil importer"],
+watch:["Tue 27 Oct: Thai Sep exports/trade balance","Wed 28 Oct: BOT MPC decision (1.00%)","Thu 5 Nov: Thai Oct CPI","Foreign flows on SET + DELTA (AI-chip selling)","Baht vs a softer USD; oil above $100 = energy-cost risk"]};

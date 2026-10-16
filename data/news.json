@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:11:21Z",
+ "updated": "2026-10-16T05:30:53Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,9 +9,33 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (33)"
+  "Nikkei Asia": "ok (34)"
  },
  "items": [
+  {
+   "title": "Kganyago: SARB Expects S. Africa CPI to Decline in 2027",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/kganyago-sarb-expects-s-africa-cpi-to-decline-in-2027-video",
+   "utc": "2026-10-16T05:17:04Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Chinese tech companies strive to crack Japan market despite tensions",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN1JRUTVTUnZxcnozeXJaTG9wQUNrdWFYU1pVd2hLTnFvNFZLbkVEa3RhY2M1cWZpODJ3TUo3bUI4bFRRTzRFZGRvV25DcnhQYl81T1ktZnIwSXJNTVg3RnBsdWJmeU1VLWswbkdhZ2FnQUVXZzZVaFR4OFZuc25HX2dJakZnMV8wQUdrbjNhbVdyM0szNjhab01FM3NkSHR6LVdwMHd3b0xWUW5wMlVQaTFHb3NSZmg4WVctMDVLT0dxeFJBd1JEV3gyNThTZXVIS0Q3NUhuM3I0MFhqbE9z?oc=5",
+   "utc": "2026-10-16T05:13:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Ship-Fuel Squeeze Persists Despite More Hormuz Crude, Vitol Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/ship-fuel-squeeze-persists-despite-more-hormuz-crude-vitol-says",
+   "utc": "2026-10-16T05:10:18Z",
+   "tag": "OIL",
+   "breaking": true
+  },
   {
    "title": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'",
    "source": "CNBC",
@@ -53,6 +77,14 @@
    "breaking": true
   },
   {
+   "title": "IMF Quite Confident Argentina Able to Meet 2027 Debt Obligations",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-16/imf-quite-confident-argentina-able-to-meet-2027-debt-obligations",
+   "utc": "2026-10-16T04:56:52Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
    "title": "Blue Owl: Private Credit Redemptions Are Falling",
    "source": "Bloomberg",
    "link": "https://www.bloomberg.com/news/videos/2026-10-16/blue-owl-private-credit-redemptions-are-falling-video",
@@ -69,12 +101,20 @@
    "breaking": true
   },
   {
+   "title": "Morning Bid: Calm after CoreWeave shock, but for how long?",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44b1lGM1JLZENYQ1N1OEhhcmloOHVTUzl0X0JYZm5FZmFtLXhFTDVLWThlQzVxVnJRcjZkUDBVT20zYlJxRGRwVVBWQzRCVHNfbWt6QTFSWWtneFdWQ2I2LUxPZC15Tk95Z3d2dlBaXzlkX0dOdE44Z0RPdDQ2ZnM?oc=5",
+   "utc": "2026-10-16T04:31:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
    "title": "South Africa Court Rulings May Lift Confidence, PSG Chief Says",
    "source": "Bloomberg",
    "link": "https://www.bloomberg.com/news/articles/2026-10-16/south-africa-court-rulings-may-lift-confidence-psg-chief-says",
    "utc": "2026-10-16T04:30:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
@@ -82,7 +122,7 @@
    "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
    "utc": "2026-10-16T04:29:27Z",
    "tag": "OIL",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
@@ -90,7 +130,7 @@
    "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
    "utc": "2026-10-16T04:29:19Z",
    "tag": "BTC",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "S&P 500 futures are little changed as index heads for losing week: Live updates",
@@ -98,7 +138,15 @@
    "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
    "utc": "2026-10-16T04:18:33Z",
    "tag": "STOCKS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Chip Selloff Eases as Nvidia CEO Downplays CoreWeave Concerns",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-16/the-asia-trade-10-16-2026-video",
+   "utc": "2026-10-16T04:15:07Z",
+   "tag": "AI",
+   "breaking": false
   },
   {
    "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
@@ -106,7 +154,7 @@
    "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
    "utc": "2026-10-16T04:14:22Z",
    "tag": "BTC",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Fed Chair Warsh Says US Is Seeing an Investment Surge",
@@ -122,54 +170,6 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUpNSUtZSU1FYnJCSDNWNnJRMmF3bmQ1QkdEaVhZb3I3c0lpYWhyQjNSemVVdGttRHE3UTFNOXg0enZ6eHAzcDY3UXBmQUJJRzl1T3gtMEZad0Z0Xy12TTlFcVRGeVdNYmVkZ3NPQThlUWRLUTh5c2J0UHFPVVRKT0hpR2RyU2tlRnJhVnBZZkxxUFhaTzRBVUlkbWFUUQ?oc=5",
    "utc": "2026-10-16T03:57:00Z",
    "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
-   "utc": "2026-10-16T03:53:48Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Earthquake of magnitude 7 strikes Russia's Kamchatka Peninsula, EMSC says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzJGRXBGQV9tSWo1S3NWenFNRG5MbVZ5dUhUeXE5TjN0NjFqVEZLN1FNVkdzMV9FUi1TRjNIU1lLOGhBR3kyRzJjb1p2dG9ucnUzX2dZM3djWFRqcmlzODFsNjluRWQxR3RvWGdhN2hTNHoxUDVRTjk4azVzQVJ2QTB1S1ZCLTI5dDA3TkJ4Z0V4c0o5RnRVWmM3Y0dIem4zbWdnaF8waU1Ecng4Y3VTa0h2a1JSTlY0X19WMG9WU21NU2c?oc=5",
-   "utc": "2026-10-16T03:50:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Tesla reveals next-generation Roadster after almost a decade of delays",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-   "utc": "2026-10-16T03:47:50Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93dndUaWxlSkJBY1gzSkRlaWQ2c3pMYUlhMmtFMVRGWllaWHF3OS02Z28tZDZ1Rk5PN1lzbFl3LWhzNXJwUXczTUtQcmhWUy1oUm85WW9JVkJsWW5p?oc=5",
-   "utc": "2026-10-16T03:29:47Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Indonesia Stocks Sink as MSCI Weighs Index Removal",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/indonesia-stocks-sink-as-msci-weighs-index-removal-video",
-   "utc": "2026-10-16T03:28:06Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "World Bank chief sets goal of quintupling critical minerals financing in five years",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3338163/world-bank-chief-sets-goal-of-quintupling-critical-minerals-financing-in-five-years",
-   "utc": "2026-10-16T03:27:00Z",
-   "tag": "MARKETS",
    "breaking": false
   }
  ]

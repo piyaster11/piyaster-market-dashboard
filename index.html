@@ -23,7 +23,7 @@ ul{margin:0;padding-left:18px}li{margin:6px 0}.up{color:var(--g)}.dn{color:var(-
 table{width:100%;border-collapse:collapse;font-size:14px}td{padding:8px 4px;border-top:1px solid var(--l);vertical-align:top}td.val{text-align:right;white-space:nowrap}
 .r{color:var(--m);font-size:12px}.disc{color:var(--m);font-size:12px;margin-top:10px}
 .bands{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;font-size:11px;margin:6px 0}.meters{display:grid;gap:12px;grid-template-columns:1fr}@media(min-width:760px){.meters{grid-template-columns:1fr 1fr}}.bands span{padding:3px 8px;border-radius:3px;background:#1a1a1a}
-.todo{background:#1f1400;border:1px solid var(--a);border-left:6px solid var(--a);border-radius:8px;padding:16px}.todo h2{font-size:15px}.todo li{margin:10px 0;font-size:16px}.todo .r{margin-top:8px}footer{text-align:center;color:var(--m);font-size:13px;padding:20px}
+.todo{background:#1f1400;border:1px solid var(--a);border-left:6px solid var(--a);border-radius:8px;padding:16px}.todo h2{font-size:15px}.todo li{margin:10px 0;font-size:16px}.todo .r{margin-top:8px}.tip{display:inline-flex;align-items:center;justify-content:center;font-style:normal;color:var(--a);font-size:13px;margin-left:4px;min-width:24px;min-height:24px;cursor:help;vertical-align:middle;-webkit-tap-highlight-color:transparent}#tt{position:fixed;z-index:99;max-width:min(300px,calc(100vw - 24px));background:#1a1200;color:#f3e6cc;border:1px solid var(--a);border-radius:8px;padding:10px 12px;font:14px/1.45 -apple-system,Helvetica,sans-serif;box-shadow:0 6px 24px #000c;display:none;pointer-events:none}footer{text-align:center;color:var(--m);font-size:13px;padding:20px}
 </style></head><body>
 <header><h1>PIYASTER 99/99 MARKET UPDATE</h1><div class="asof mono" id=asof></div></header>
 <div class=tape><div class=tick id=tick></div></div>
@@ -52,5 +52,19 @@ h+=`<section class="card wide"><h2>Bloomberg Radar</h2><ul>${D.radar.map(i=>`<li
 h+=`<section class="card wide"><h2>Thailand Macro &amp; SET<span class="badge ${D.thai.badge}">SET ${D.thai.badge}</span></h2><ul>${D.thai.l.map(i=>`<li>${i}</li>`).join('')}</ul><h2 style="margin-top:12px">Thai Watch List</h2><ul>${D.thai.watch.map(i=>`<li>${i}</li>`).join('')}</ul></section>`;
 D.sections.forEach(s=>h+=`<section class="card${s[0]=='Watch This Week'?' wide':''}"><h2>${s[0]}</h2><ul>${s[1].map(i=>`<li>${i}</li>`).join('')}</ul></section>`);
 $('main').innerHTML=h;
+
+(function(){const G=D.glossary||{},tt=document.createElement('div');tt.id='tt';document.body.appendChild(tt);
+const mk=k=>`<i class=tip data-k="${k}" tabindex=0 aria-label="info">ⓘ</i>`;
+document.querySelectorAll('main li, main td:first-child, main h2').forEach(el=>{const txt=el.childNodes[0]&&el.tagName=='H2'?el.childNodes[0].textContent:el.textContent;let add='';
+ for(const k in G){if(!G[k].m)continue;if(new RegExp(G[k].m).test(txt)){add=mk(k);break}}
+ if(!add)return;const tgt=el.tagName=='H2'?null:el.querySelector('div.r');if(el.tagName=='H2'){const b=el.querySelector('.badge');b?b.insertAdjacentHTML('beforebegin',add):el.insertAdjacentHTML('beforeend',add)}else if(tgt)tgt.insertAdjacentHTML('beforebegin',add);else el.insertAdjacentHTML('beforeend',add)});
+document.querySelectorAll('.badge').forEach(b=>{const t=b.textContent;b.insertAdjacentHTML('afterend',mk(/BULL/.test(t)?'bull':/BEAR/.test(t)?'bear':'neu'))});
+document.querySelectorAll('.bands').forEach((b,i)=>b.insertAdjacentHTML('beforeend',mk(i?'nkbands':'fgbands')));
+let cur=null;const show=e=>{const k=e.dataset.k;if(!G[k])return;tt.textContent=G[k].d;tt.style.display='block';const r=e.getBoundingClientRect(),w=tt.offsetWidth,h=tt.offsetHeight;let x=Math.min(Math.max(12,r.left+r.width/2-w/2),innerWidth-w-12),y=r.bottom+8;if(y+h>innerHeight-12)y=r.top-h-8;tt.style.left=x+'px';tt.style.top=Math.max(12,y)+'px';cur=e},hide=()=>{tt.style.display='none';cur=null};
+const hover=matchMedia('(hover:hover)').matches;
+document.addEventListener('mouseover',e=>{if(hover&&e.target.classList.contains('tip'))show(e.target)});
+document.addEventListener('mouseout',e=>{if(hover&&e.target.classList.contains('tip'))hide()});
+document.addEventListener('click',e=>{const t=e.target.closest('.tip');if(t){e.preventDefault();cur===t?hide():show(t)}else hide()});
+addEventListener('scroll',hide,{passive:true})})();
 requestAnimationFrame(()=>setTimeout(()=>{document.querySelectorAll('.needle').forEach(n=>n.style.transform=`rotate(${n.dataset.s*1.8}deg)`);document.querySelectorAll('.score').forEach(e=>{const t=+e.dataset.s;let n=0;const iv=setInterval(()=>{n=Math.min(t,n+t/40);e.textContent=Math.round(n);if(n>=t)clearInterval(iv)},40)})},200));
 </script></body></html>

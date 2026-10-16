@@ -23,7 +23,7 @@ ul{margin:0;padding-left:18px}li{margin:6px 0}.up{color:var(--g)}.dn{color:var(-
 table{width:100%;border-collapse:collapse;font-size:14px}td{padding:8px 4px;border-top:1px solid var(--l);vertical-align:top}td.val{text-align:right;white-space:nowrap}
 .r{color:var(--m);font-size:12px}.disc{color:var(--m);font-size:12px;margin-top:10px}
 .bands{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;font-size:11px;margin:6px 0}.meters{display:grid;gap:12px;grid-template-columns:1fr}@media(min-width:760px){.meters{grid-template-columns:1fr 1fr}}.bands span{padding:3px 8px;border-radius:3px;background:#1a1a1a}
-footer{text-align:center;color:var(--m);font-size:13px;padding:20px}
+.todo{background:#1f1400;border:1px solid var(--a);border-left:6px solid var(--a);border-radius:8px;padding:16px}.todo h2{font-size:15px}.todo li{margin:10px 0;font-size:16px}.todo .r{margin-top:8px}footer{text-align:center;color:var(--m);font-size:13px;padding:20px}
 </style></head><body>
 <header><h1>PIYASTER 99/99 MARKET UPDATE</h1><div class="asof mono" id=asof></div></header>
 <div class=tape><div class=tick id=tick></div></div>
@@ -34,7 +34,7 @@ footer{text-align:center;color:var(--m);font-size:13px;padding:20px}
 const D=window.DASH,$=s=>document.getElementById(s);
 $('asof').textContent='As of '+D.asOf;
 const t=D.ticker.map(x=>`<span><b>${x[0]}</b> ${x[1]} <span class="${x[3]?'up':''}">${x[2]}</span></span>`).join('');$('tick').innerHTML=t+t;
-let h=`<section class="card wide"><h2>Bottom Line</h2><div class=bottom>${D.bottom}</div></section>`;
+let h=D.todo?`<section class="todo wide"><h2>⚡ ${D.todo.title}</h2><ul>${D.todo.l.map(i=>`<li>${i}</li>`).join('')}</ul><div class=r>${D.todo.note}</div></section>`:'';h+=`<section class="card wide"><h2>Bottom Line</h2><div class=bottom>${D.bottom}</div></section>`;
 const A=()=>D.assets.forEach(a=>h+=`<section class=card><h2>${a.n}<span class="badge ${a.s.split(' ')[0]}">${a.s}</span></h2><ul class=val style="text-align:left">${a.l.map(i=>`<li>${i}</li>`).join('')}</ul></section>`);
 
 function gauge(id,title,score,bands,label,rows,head,disc){let arcs='',p=0;bands.forEach(b=>{const a0=Math.PI*(1-p/100),a1=Math.PI*(1-b[0]/100);arcs+=`<path d="M${100+80*Math.cos(a0)} ${100-80*Math.sin(a0)} A80 80 0 0 1 ${100+80*Math.cos(a1)} ${100-80*Math.sin(a1)}" stroke="${b[2]}" stroke-width=16 fill=none opacity=.85 />`;p=b[0]});

@@ -39,3 +39,10 @@ l:["<b>SET</b> 1,573.01 <span class=dn>−2.87 (−0.18%)</span> on 15 Oct; SET5
 "<b>Tourism:</b> foreign arrivals −3% YoY Jan-Aug; ฿20B domestic travel subsidy to early 2027; strong baht and costs pressuring sector — Thai Times 16 Oct",
 "<b>Energy:</b> high oil/diesel prices are a cost risk for Thailand as a net oil importer"],
 watch:["Tue 27 Oct: Thai Sep exports/trade balance","Wed 28 Oct: BOT MPC decision (1.00%)","Thu 5 Nov: Thai Oct CPI","Foreign flows on SET + DELTA (AI-chip selling)","Baht vs a softer USD; oil above $100 = energy-cost risk"]};
+DASH.todo={title:"What to do as a normal investor",note:"General info, not personal financial advice.",
+l:["<b>Keep investing on schedule (DCA).</b> Sentiment is in Fear (31.5); don't panic-sell into it.",
+"<b>Don't chase AI/tech dips yet.</b> AI stocks and AI debt (e.g. CoreWeave) are under stress; wait until rates settle after the Fed (28 Oct).",
+"<b>Park some cash in short-term bonds/deposits.</b> With the 10Y ~5.09% and hike risk still alive, safe yield pays you to wait.",
+"<b>A small gold slice is a hedge.</b> Gold and energy are working while stocks wobble — keep it a small share, not a bet.",
+"<b>Keep crypto small and know your line.</b> BTC support is ~$78k; below it, expect more downside.",
+"<b>Thai investors: be patient with the SET.</b> It's neutral with foreigners selling; watch foreign flows and the BoT meeting on 28 Oct."]};

@@ -164,3 +164,4 @@ row:"https://www.regardsofwallstreet.com/week-ahead",te:"https://tradingeconomic
 ["Fed Chair Warsh",[["Regards of Wall St",U.row]]],["China Q3 GDP",[["TradingEconomics",U.te]]],["Earnings: NFLX",[["Earnings Whispers",U.ew]]],["Hormuz headlines",[["MarketPlayerPro",U.mpp]]],["Fed decision 28 Oct",[["Regards of Wall St",U.row]]]];
 const wrap=x=>{if(typeof x!='string')return x;const m=M.find(e=>x.includes(e[0]));return m?{t:x,src:m[1]}:x};
 DASH.assets.forEach(a=>a.l=a.l.map(wrap));DASH.sections.forEach(s=>s[1]=s[1].map(wrap));})(DASH.U2);
+DASH.glossary.hl={m:"Breadth",d:"New highs = NYSE stocks at a 52-week high; new lows = at a 52-week low. Index up while lows pile up = weak internals. Latest 68 highs vs 142 lows: lows still win, but it's better than 330 the day before."};

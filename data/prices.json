@@ -1,11 +1,12 @@
 {
- "updated": "2026-10-16T21:00:02Z",
+ "updated": "2026-10-16T21:04:29Z",
  "ok": 9,
  "q": {
   "spx": {
    "v": 7659.44,
    "chg": -1.09,
    "t": "2026-10-16T20:42:08Z",
+   "prev": 7744.0601,
    "src": "Yahoo Finance ^GSPC",
    "stale": false
   },
@@ -13,13 +14,15 @@
    "v": 52002.41,
    "chg": -0.34,
    "t": "2026-10-16T20:42:09Z",
+   "prev": 52177.6914,
    "src": "Yahoo Finance ^DJI",
    "stale": false
   },
   "ndq": {
    "v": 26140.033,
    "chg": -2.15,
-   "t": "2026-10-16T20:59:56Z",
+   "t": "2026-10-16T21:04:24Z",
+   "prev": 26713.0293,
    "src": "Yahoo Finance ^IXIC",
    "stale": false
   },
@@ -27,27 +30,31 @@
    "v": 5.098,
    "chg": 0.18,
    "t": "2026-10-16T18:59:55Z",
+   "prev": 5.089,
    "src": "Yahoo Finance ^TNX",
    "stale": false
   },
   "wti": {
    "v": 98.98,
    "chg": 1.03,
-   "t": "2026-10-16T20:49:55Z",
+   "t": "2026-10-16T20:54:25Z",
+   "prev": 97.97,
    "src": "Yahoo Finance CL=F",
    "stale": false
   },
   "brent": {
-   "v": 109.76,
-   "chg": 3.63,
-   "t": "2026-10-16T20:49:43Z",
+   "v": 109.73,
+   "chg": 3.6,
+   "t": "2026-10-16T20:54:03Z",
+   "prev": 105.92,
    "src": "Yahoo Finance BZ=F",
    "stale": false
   },
   "gold": {
-   "v": 4188.0,
-   "chg": 0.43,
-   "t": "2026-10-16T20:49:57Z",
+   "v": 4185.3,
+   "chg": 0.36,
+   "t": "2026-10-16T20:54:26Z",
+   "prev": 4170.1001,
    "src": "Yahoo Finance GC=F",
    "stale": false
   },
@@ -55,13 +62,15 @@
    "v": 1573.01,
    "chg": -0.18,
    "t": "2026-10-15T09:47:56Z",
+   "prev": 1575.88,
    "src": "Yahoo Finance ^SET.BK",
    "stale": false
   },
   "thb": {
    "v": 33.42,
    "chg": -0.14,
-   "t": "2026-10-16T20:54:52Z",
+   "t": "2026-10-16T21:00:38Z",
+   "prev": 33.466,
    "src": "Yahoo Finance THB=X",
    "stale": false
   }

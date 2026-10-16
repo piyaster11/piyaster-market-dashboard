@@ -41,7 +41,7 @@ def get(sym):
             if px is None: raise ValueError("no price")
             return {"v": round(px, 4), "chg": round((px / prev - 1) * 100, 2) if prev else None,
                     "t": datetime.fromtimestamp(m["regularMarketTime"], timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-                    "src": "Yahoo Finance " + sym}
+                    "prev": round(prev, 4) if prev else None, "src": "Yahoo Finance " + sym}
         except Exception as e:
             last = e; time.sleep(1.5 * attempt)
     raise last

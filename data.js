@@ -144,3 +144,23 @@ DASH.summary={l:[
 "₿ BTC stuck around ~$82k: $78k support, $83.3k to turn bullish",
 "🇹🇭 SET flat (−0.18%) with foreigners net selling ฿2.1B; BoT on 28 Oct"],
 nums:[["S&P","7,745","+0.3%",1],["10Y","5.09%","from 5.36%",-1],["WTI","$96-98","high",1],["Gold","$4,170","+1.6%",1],["BTC","$82.2k","range",0],["SET","1,573","−0.18%",-1],["USD/THB","33.54","strong ฿",0],["Fear&Greed","31.5","Fear",-1]]};
+// US source links: [match substring, [[label,url],...]] applied to asset/section items
+DASH.U2={cnbcY:"https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",wsj:"https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026",
+invPPI:"https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",invAI:"https://www.investing.com/news/stock-market-news/nasdaq-futures-dive-1-as-ai-rout-deepens-on-debt-concerns-4950779",
+cd:"https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",nw:"https://newisty.com/blog/bitcoin-holds-above-81000-after-us-wholesale-prices-jump-to-highest-level-since-2022",
+mpp:"https://marketplayerpro.com/newsletter/2026-10-16",bbc:"https://www.bbc.com/news/articles/cr0qk1j7q0eno",ieaSq:"https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
+iea:"https://www.cnbc.com/2026/10/15/iea-diesel-price-ukraine-iran-oil.html",carn:"https://carnegieendowment.org/russia-eurasia/politika/2026/10/russia-usa-diesel-agreement",
+enx:"https://live.euronext.com/en/financial-news/oil-prices-mixed-us-russia-diesel-deal-hopes-offset-saudi-yemen-attacks",ew:"https://www.earningswhispers.com/calweek/20261019",
+row:"https://www.regardsofwallstreet.com/week-ahead",te:"https://tradingeconomics.com/calendar"};
+(U=>{const M=[
+["S&P ~7,745",[["WSJ",U.wsj]]],["Dow ~52,178",[["WSJ",U.wsj]]],["Nasdaq ~26,713",[["WSJ",U.wsj]]],["Tech weak",[["WSJ",U.wsj],["Investing.com",U.invAI]]],
+["10Y ~5.09%",[["CNBC",U.cnbcY]]],["Biggest 1-day drop",[["CNBC",U.cnbcY]]],
+["WTI ~$96",[["MarketPlayerPro",U.mpp]]],["Brent ~$103",[["MarketPlayerPro",U.mpp]]],["US diesel ~$6.32",[["CNBC",U.iea]]],
+["~$4,170",[["MarketPlayerPro",U.mpp],["CoinDesk",U.cd]]],["Safe-haven buying",[["CoinDesk",U.cd]]],
+["~$82,200",[["CoinDesk",U.cd],["Newisty",U.nw]]],["Support ~$78k",[["CoinDesk",U.cd]]],["Needs >$83.3k",[["Newisty",U.nw]]],
+["Sep CPI",[["CNBC",U.cnbcY]]],["PPI +1.3%",[["Investing.com",U.invPPI],["Newisty",U.nw]]],["Fed funds",[["CNBC",U.cnbcY]]],["Hike odds",[["CNBC",U.cnbcY],["Investing.com",U.invPPI]]],["stagflation",[["CoinDesk",U.cd]]],
+["Iran war disrupting",[["BBC",U.bbc]]],["Houthi-Saudi",[["Euronext",U.enx]]],["Trump-Putin diesel",[["Carnegie",U.carn],["BBC",U.bbc]]],["IEA releasing",[["CNBC",U.iea],["CNBC",U.ieaSq]]],
+["AI stock sell-off",[["Investing.com",U.invAI]]],["Rotation into",[["WSJ",U.wsj]]],
+["Fed Chair Warsh",[["Regards of Wall St",U.row]]],["China Q3 GDP",[["TradingEconomics",U.te]]],["Earnings: NFLX",[["Earnings Whispers",U.ew]]],["Hormuz headlines",[["MarketPlayerPro",U.mpp]]],["Fed decision 28 Oct",[["Regards of Wall St",U.row]]]];
+const wrap=x=>{if(typeof x!='string')return x;const m=M.find(e=>x.includes(e[0]));return m?{t:x,src:m[1]}:x};
+DASH.assets.forEach(a=>a.l=a.l.map(wrap));DASH.sections.forEach(s=>s[1]=s[1].map(wrap));})(DASH.U2);

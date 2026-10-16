@@ -36,7 +36,7 @@ const D=window.DASH,$=s=>document.getElementById(s);
 $('asof').textContent='As of '+D.asOf;
 const t=D.ticker.map(x=>`<span><b>${x[0]}</b> ${x[1]} <span class="${x[3]?'up':''}">${x[2]}</span></span>`).join('');$('tick').innerHTML=t+t;
 let h=D.summary?`<section class="card wide sum"><h2>Key Market Summary</h2>${UL(D.summary.l)}<div class=nums>${D.summary.nums.map(n=>`<div class=num><b>${n[0]}</b><span class="v ${n[3]>0?'up':n[3]<0?'dn':''}">${n[3]>0?'▲':n[3]<0?'▼':'■'} ${n[1]}</span><br><small class=r>${n[2]}</small></div>`).join('')}</div></section>`:'';h+=D.todo?`<section class="todo wide"><h2>⚡ ${D.todo.title}</h2><ul>${D.todo.l.map(i=>`<li>${i}</li>`).join('')}</ul><div class=r>${D.todo.note}</div></section>`:'';h+=`<section class="card wide"><h2>Bottom Line</h2><div class=bottom>${D.bottom}</div></section>`;
-const A=()=>D.assets.forEach(a=>h+=`<section class=card><h2>${a.n}<span class="badge ${a.s.split(' ')[0]}">${a.s}</span></h2><ul class=val style="text-align:left">${a.l.map(i=>`<li>${i}</li>`).join('')}</ul></section>`);
+const A=()=>D.assets.forEach(a=>h+=`<section class=card><h2>${a.n}<span class="badge ${a.s.split(' ')[0]}">${a.s}</span></h2><ul class=val style="text-align:left">${a.l.map(i=>`<li>${LI(i)}</li>`).join('')}</ul></section>`);
 
 function gauge(id,title,score,bands,label,rows,head,disc){let arcs='',p=0;bands.forEach(b=>{const a0=Math.PI*(1-p/100),a1=Math.PI*(1-b[0]/100);arcs+=`<path d="M${100+80*Math.cos(a0)} ${100-80*Math.sin(a0)} A80 80 0 0 1 ${100+80*Math.cos(a1)} ${100-80*Math.sin(a1)}" stroke="${b[2]}" stroke-width=16 fill=none opacity=.85 />`;p=b[0]});
 const band=bands.find(b=>score<=b[0]);
@@ -51,7 +51,7 @@ h+=`<div class="wide meters">`+gauge('fg','Market Sentiment · Fear &amp; Greed'
 A();
 h+=`<section class="card wide"><h2>Bloomberg Radar</h2>${UL(D.radar)}</section>`;
 h+=`<section class="card wide"><h2>Thailand Macro &amp; SET<span class="badge ${D.thai.badge}">SET ${D.thai.badge}</span></h2>${UL(D.thai.l)}<h2 style="margin-top:12px">Thai Watch List</h2><ul>${D.thai.watch.map(i=>`<li>${i}</li>`).join('')}</ul></section>`;
-D.sections.forEach(s=>h+=`<section class="card${s[0]=='Watch This Week'?' wide':''}"><h2>${s[0]}</h2><ul>${s[1].map(i=>`<li>${i}</li>`).join('')}</ul></section>`);
+D.sections.forEach(s=>h+=`<section class="card${s[0]=='Watch This Week'?' wide':''}"><h2>${s[0]}</h2>${UL(s[1])}</section>`);
 const col=(n,c)=>`<div><h2>${n}</h2><h3>What's trending</h3>${UL(c.trend)}<h3>Upcoming launches</h3>${UL(c.next)}<h3>What to check</h3>${UL(c.check)}</div>`;
 if(D.ai)h+=`<section class="card wide"><h2>AI Watch</h2><div class=ai>${col('🇺🇸 US',D.ai.us)}${col('🇨🇳 China',D.ai.cn)}</div><div class=disc>${D.ai.note}</div></section>`;
 $('main').innerHTML=h;

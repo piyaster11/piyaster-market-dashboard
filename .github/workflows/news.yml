@@ -1,9 +1,9 @@
 name: Breaking news (hourly)
-# Hourly schedule enabled (user-approved 16 Oct 2026). Also runnable via "Run workflow".
+# Hourly at :17 (off-peak; :00 runs were being dropped by GitHub). User-approved 16 Oct 2026.
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '17 * * * *'
 permissions:
   contents: write
 concurrency: { group: news, cancel-in-progress: true }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T07:01:17Z",
+ "updated": "2026-10-17T11:39:53Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (31)"
+  "Nikkei Asia": "ok (26)"
  },
  "items": [
+  {
+   "title": "It was another great week for the average stock as market leadership shifts away from tech",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+   "utc": "2026-10-17T11:30:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Stellantis Plans to Hire Hundreds More Engineers in Europe, US",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/stellantis-plans-to-hire-hundreds-more-engineers-in-europe-us",
+   "utc": "2026-10-17T11:08:37Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+   "utc": "2026-10-17T11:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Fed interest-rate decision this month is a closer call than markets think",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+   "utc": "2026-10-17T11:00:00Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Pope Leo to leave hospital on Saturday, four days after lung cancer surgery",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEhiTWpBVEdDa1JjQmtQUDBZR1RGVHF4VmxwaTEzRHhtczZOcHlJZE9idHNKOFpxdnpndFYwLUk5Zy1lZFRFWTUtaHlEdW44aVZKZjlXenBveTRvN29sRzI1RG1JVm0wMGlRcFpoeS1hX0dCZE1WVGdVc3plR3FZay0xeUtSYjg2dk9SZVpUSEJUdw?oc=5",
+   "utc": "2026-10-17T10:33:29Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Oil Trader Yaoyao Liu Who Made Billions for Vitol Is Leaving",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/oil-trader-yaoyao-liu-who-made-billions-for-vitol-is-leaving",
+   "utc": "2026-10-17T10:31:20Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/17/imf-members-call-for-more-support-amid-war-shocks-advanced-intelligence-risks.html",
+   "utc": "2026-10-17T10:28:10Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+   "utc": "2026-10-17T10:20:44Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-10-17T09:46:46Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5",
+   "utc": "2026-10-17T09:15:20Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "India's HDFC Bank quarterly profit rises 4.7%, narrowly misses estimates as treasury income slumps",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjB0SmpGMldtSUxlMXY3eWtUX0pBeTluNVRXUVRmVjJqOUxMUG9QcDBsZFBLcU1aRzRLaEh5N2VOTkRJZDh0RENUMFZqd1JITGFpOWo0UWtQejJkQ2RKMS10S1N5X09jZVNzX0c4dkMzVDlONDJHMlREZXBTNGtDVXFQM2NHNElrLWlnNUEtN2c4RHJuUHJjWEUwaGVBQ0NqYURxVHBrbzhhaDV6WjBxeEZqcEhEbFc3UVc5SmtDdU5mOGM?oc=5",
+   "utc": "2026-10-17T08:55:53Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "'Our land, our Albania': young lawmaker demands new future as protests rage",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbC1qYWlqcW1qUTM3TllqMnBDSmRaRFJiaW03WDZJOU5KNUx4U1U5US1iMktLZmVlMEctLWR2WC1NbkJTMHN3LWQ0RDRtY3FFZkV6aGFvWkNIRC1qLXQwQUtjYVk3aW9jZ3g2bHdNOFBPSk1TRTZ6RUJUbW5vTlBOWERCc0VEdmlSUnI5UXUwaEhTaGRvZ2hpMzJtdFpvMnlFMjIxR2pfTFQ3UEJLbzVKTi1ac1ZyNnFS?oc=5",
+   "utc": "2026-10-17T08:43:31Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Taiwan bulks up on protein-packed bentos as obesity rates rise",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd3k3MFVPcFdIX1NFM0ZMQnhKSkt0S1FmR01pRmFGUmZES1lXcVIxOER5QnBFcUhTRjBMM0NQdGRWZGZKNDcycF9KZUxFcU9hdkU3NFBVd0s3MGUwZDk4UVV1bnU0NWpoZV9Vc2oyd295WkFtZjU3anZubl9WVlN5UEYxTE8zamVPMnQ0aU91akFGQ2VNYmljQk9kYUwwQi1QZ2t6dU56Q1YwbXJ4MkE?oc=5",
+   "utc": "2026-10-17T08:40:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5",
+   "utc": "2026-10-17T08:19:38Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Russian defence ministry says it hit Ukrainian steel plants, power infrastructure overnight",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFVaMHlsTTJLMm1FdGE0VlhXN0JmRGhQSzk3SzNNRzBaN3ZmTWV6VmEzeFMzNTJSY3FrcWwyQ1ZSNjVSUGdBOGNoc0ZkZW9Fcldrem1TOGk5Z1hQOUYzNlBmaTNtWUhTU1JEN3M5cXFCRUdzSllIeWZoMDBOOWxIU3NQdUZqNWlibnFEQ0puME9Cenp1bU11aS1tWko4a0JrTnJLSVBSWVQzaUZsbG52cWlrbnlQUi1kQmxSVWpldw?oc=5",
+   "utc": "2026-10-17T08:03:53Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "India's Axis Bank quarterly profit rises 37.6%, but misses estimates on higher costs",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWlKeXYxOVAxQU1rRzNoVldQdEFOYkF0YlpINXNvb3hwdkhjcmNTZmoyUVlsclZjellwalhIelQtMnhSc1U2TGJzOWNrZDB4NFl6T29fQzY0UnBnS0steEcyUnByMnpLUjhfQXBCQ1YwZUxyTFNXZm14TVNoVkR5RkN4Ym1QSDYxZ2xxelA2YTNyWWdlT29oUjBEay02T0YxeGNVRGZoQktjTURxTWFramYwVmZyR2lCQUNVcTFB?oc=5",
+   "utc": "2026-10-17T08:03:43Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "ECB's Lagarde says bond selloff will slow inflation",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnNpbWFQTVJFZTQ1NDEzNVA1QlMyNThGdl8tR19Bd0UtQTAyVnBGRFBldDVOMFFnRHR0WkRHaS1CODVMSUFvSTZJdzN5a2NSbHFLbHA2bnZ0ZVBXYUprYS1oeGN6eF9lakVpVmRTSVB6VkpwUzlOVXZCME5ldGVmNmZPTUtuSGVnRTZzbENrQ1pGcFlScVZ1Sl9rQ1pHWUo1c1l4VUJn?oc=5",
+   "utc": "2026-10-17T08:01:43Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
+   "utc": "2026-10-17T08:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "IMF chief sees ‘optimism and worry’ at Bangkok talks",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3338795/imf-chief-sees-optimism-and-worry-at-bangkok-talks",
+   "utc": "2026-10-17T07:45:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
   {
    "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
    "source": "CoinDesk",
    "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
    "utc": "2026-10-17T06:39:48Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-   "utc": "2026-10-17T05:46:20Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Lagarde Says Sustainable Finances Key for Economic Stability",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
-   "utc": "2026-10-17T05:40:45Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "North Korea tests new AI-equipped torpedo, KCNA says",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkN4MUtxSHhDZFkwSlVyTC1SWGRKb1UwVThCU21zTWsyNnlKZEVmSlhGNklXLUJrVnVNOHF1dzBMMDREeXp6NVY2THJuOEZPTzdLNDZqaE1SUXB0QmRXYXZLbVFOUnBCSkxJNG9YZkl0MXRMdDhLcDJMWlM2ckNSNlgzaWs0LV96U3V5QmQ1U2prNlF2eVpoNHhRTHVyeTQ3ekJKTzUtSjdHdw?oc=5",
-   "utc": "2026-10-17T05:28:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Japan’s Takaichi to Attend APEC in China if Parliament Allows",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows",
-   "utc": "2026-10-17T05:22:12Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Delegates walked out of IMF steering committee meeting when Russian official spoke, sources say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa05jVFdUVTlxcG85OVFRMF94Wmo0TXlmSjRUWXhlb0xYYUVXdXd3ODJ6QWFMXzlSRW0ybkJ1MHgtbmt6ZjhXNzN1UkwwTEFURzJsRk8zSVBlQldrWXlHMGlhSTJoSDdYMjc5UWttN1dDX1VKZ2xTcGRHYVEyRW16TUdGbGpSMVVKck1ITUk5dkpyOHhrODd5bi1vLXJpUy1pR0tUd2V2T1hXOUNQcDJLMlNEMVZXUVl2RlgzVGZJaEV2VUNsSGc?oc=5",
-   "utc": "2026-10-17T05:19:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Some companies give AI to everyone. This CEO is doing the opposite",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
-   "utc": "2026-10-17T05:00:01Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Fairfax’s Watsa Bets On IDBI Payoff As India Booms, Report Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-17/fairfax-s-watsa-bets-on-idbi-payoff-as-india-booms-report-says",
-   "utc": "2026-10-17T04:55:30Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "India Halts Sugar Diversion to Ethanol After El Nino Hurts Crops",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-halts-sugar-diversion-to-ethanol-after-el-nino-hurts-crops",
-   "utc": "2026-10-17T04:50:55Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "News By Location",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwd1EyVXpkV0JqMFlrSjIzSFVMOGsySmFfR2dyM0k5MDNUeWF2MFNCb21LRmw1cXZQWXZZU1NFdk9vMEplQ200?oc=5",
-   "utc": "2026-10-17T04:47:11Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWdXNFVpZFpPVGFROEVHcjFiWGdDU1BQdDlMaTJOLWllcnNNazRiSEx4M0RjZUthU09iQzQ1YTNxckczM0dWYVR0LTJwSFpEU1pzV0EzM0x5X3AzaDJVLTM2VmU1cVZnLUQ1Y1FITGE0aXNZa0N0R2ppMGt3TWUybG15QUZlY2dteFFUemdEbU51M0pIMC05MDQ0X253QXp4bEFOZjJfcW1JaUVkb05KbE1PczdQUTNlcVZR?oc=5",
-   "utc": "2026-10-17T04:47:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SUmhDNVlpb2JEM0UxSUxaY185clNiYTU2aDdVbkFKM3k1dTgyTm1FQWZiaTBPSUNaQjhxOFJ2UDZtaHYxV3kw?oc=5",
-   "utc": "2026-10-17T04:46:50Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Delhi crackdown fosters Gen Z defenders of Indian democracy",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3ZoallBdExrd3hhUkN5UkFyb1ZzYWs5X2ZzVDhBcWx3V1Z6VVI4ZWRNSG15YndERjZIcWItTVRmZWt3eC1kMl9uT0Q5SXotUEQtc254RVVGaUJXS3U3Z0V5eGNHWVRWd2xZUDNIanJ0OXpiUE54UjEzSHdkTFNJWnRqc1VmT3JYaTJEUXduNmtHVGZkVW5r?oc=5",
-   "utc": "2026-10-17T04:00:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "China Encourages Cinemas to Add Sports Events and Lottery Sales",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-encourages-cinemas-to-add-sports-events-and-lottery-sales",
-   "utc": "2026-10-17T03:38:15Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Vietnam Prime Minister Targets 2027 GDP Growth of at Least 10%",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-17/vietnam-prime-minister-targets-2027-gdp-growth-of-at-least-10",
-   "utc": "2026-10-17T03:03:57Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "India’s ‘Cockroach’ Protest Leader Faces Court in Voter-List Row",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
-   "utc": "2026-10-17T02:34:29Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With Young Indians",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-17/jio-s-3-2-billion-ipo-tests-ambani-appeal-with-young-indians",
-   "utc": "2026-10-17T02:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-   "utc": "2026-10-17T02:30:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Brazil's Flavio Bolsonaro pledges fiscal adjustment, rejects cuts to social spending",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjFnNmM2TmIzYWxwNnpqVXBjYWNxWlBIUmJNTEJUY3NhTVM2dG9jcWR2Qzg5YVNwbFUtSE8yMmdRVnhYQWdQdndqa1VWbGI3RDhhS1lZSzk4N3NjVG5RWUIxeGNqdk5QSWpzeFBvWEJyMzU0NXI0R3BjS1gtc3FkU2RBcW5lODlid1pNVVZCNzlEVVhNZ3B1QlpqSUhGVDNWQV81MXVaYjA1bXBmb0FlbWtHRFBMM3BEWmp4YlNYZW5aXzc4Z0hHaWd3?oc=5",
-   "utc": "2026-10-17T02:21:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNFgxQWRlMlpCVjhFMmNSS2RuaUo5NGs1NXgxTXYyc2oyQXVnSHZ6MjNMdC1LaDd5bnVRR2xRbzJaQTNRVXBHZU40ajRSQS02OEVXcE11dF9mVkx6eHBuanRZLXhEd2VBdWNSOURjSEs5V0FKZUR2MG11eWhtVUVFa1F0LXo2cGJqYldiZjhPcXNuWWgycGI3NjI3SkYzS1g5VTk1LW41Yll6RzlmMjBMbzNkSjZUUC03UGRodWZnT254WW8xSG1N?oc=5",
-   "utc": "2026-10-17T02:17:00Z",
-   "tag": "AI",
    "breaking": false
   }
  ]

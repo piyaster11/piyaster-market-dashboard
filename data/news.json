@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:53:01Z",
+ "updated": "2026-10-17T00:03:30Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -13,12 +13,52 @@
  },
  "items": [
   {
+   "title": "Intel chief says White House will not meddle in its semiconductor business",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTRLN00xUm9ReEdDNDlXOWxiRUg5U0V5eXhCSTNBQlhBaHZiQWFtbjl6VHh6aTd3ZEhvaWFXYWdoTWtZbGdsUm1TTUN1UWFpYS1qdGhBSzhaMnhvb3Q5bFVrdmdzd01EVWVDMzlVOFBsU0lHVjJZSV9Sd21qOUVTRGxyVzFnS2Y0dkNKQ3k2c2l6ZDJmbEctVEx0eTdOWVhYeS1fUVNLNkZfdkZBMGdkTE96RVJSUG9pcUdpVEhuN3Jrb0t5eXc?oc=5",
+   "utc": "2026-10-16T23:35:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Bangkok's flood plan under scrutiny",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3338604/bangkoks-flood-plan-under-scrutiny",
+   "utc": "2026-10-16T23:05:00Z",
+   "tag": "THAI",
+   "breaking": true
+  },
+  {
+   "title": "Russian attacks kill eight in Ukraine, cut power to over a million",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFIxaDNFUTFsWnMxSEY0d1NycVhrbEtVbHlGZHJpZDVVa3RuekIwVDFmejhRUWdoeVY4YUQxSXhmeU1NalJwZThXdUlIN1BBV0MyRUFYUmo4VWZ3RTV0VnBZc0xEM3VScTFDbnh0STBER0t6TVFFcnNubkxXM0t4M04zcVBGeW1iaXQ0X3JHQmE5a09KTlQ1UmRBUUJKMVJScnhsRVk1T0tsUS1YUlBGOUw2Zno?oc=5",
+   "utc": "2026-10-16T22:48:56Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Thai corporate credit weakens in 2026",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3338554/thai-corporate-credit-weakens-in-2026",
+   "utc": "2026-10-16T22:41:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "Stephen Schwarzman",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwTU5vZThPRTFTSmE3MkFHa1Q0dGJRMUxkZzNuejFtSjNuSW5QcmlQdFNhTlRmZUxMVGplMVpkem1JZlJkTTVfOEhmbE9LcHJ6X2o0QzJaSEFSRlJUX1duUWtvMm9ZX2F2WHY3SXlBSGhpcHNoUlJ3T2lMOHg?oc=5",
+   "utc": "2026-10-16T22:37:07Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
    "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
    "utc": "2026-10-16T22:33:05Z",
    "tag": "FED",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
@@ -26,7 +66,15 @@
    "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
    "utc": "2026-10-16T22:31:26Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "AI demand drives Thai electronics earnings in Q3",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3338599/ai-demand-drives-thai-electronics-earnings-in-q3",
+   "utc": "2026-10-16T22:31:00Z",
+   "tag": "AI",
+   "breaking": false
   },
   {
    "title": "Nepal, the land of Everest ... and sushi",
@@ -34,7 +82,7 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eEh2d2RoWlRIZUhpLUtTU1ViOXFDOVFoTUh6WGc3eFBoWXM3aWEzWnBSZkJiNDl4QUFMdkFkbjR3MUFLS0hFZF8yaWxodG1XLWJ0UjdBSG1INktQd0FJZ0RWczF3ZVVoTWl6cl9zWTVqdTFUSk1TRHdmYnZTNUE?oc=5",
    "utc": "2026-10-16T22:30:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Call for shared responsibility on AI",
@@ -42,7 +90,7 @@
    "link": "https://www.bangkokpost.com/business/general/3338464/call-for-shared-responsibility-on-ai",
    "utc": "2026-10-16T22:15:00Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Mexico Says Airlines Can Add US Routes From Mexico City Airports",
@@ -50,7 +98,7 @@
    "link": "https://www.bloomberg.com/news/articles/2026-10-16/mexico-says-airlines-can-add-us-routes-from-mexico-city-airports",
    "utc": "2026-10-16T22:11:45Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "World Bank touts development model",
@@ -58,7 +106,7 @@
    "link": "https://www.bangkokpost.com/business/general/3338494/world-bank-touts-development-model",
    "utc": "2026-10-16T22:07:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Graza CEO on Market Expansion, Consumer Outlook",
@@ -66,7 +114,7 @@
    "link": "https://www.bloomberg.com/news/videos/2026-10-16/graza-ceo-on-market-expansion-consumer-outlook-video",
    "utc": "2026-10-16T22:02:25Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
@@ -74,7 +122,7 @@
    "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
    "utc": "2026-10-16T22:00:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Mr. Abe: Stephen Schwarzman (16)",
@@ -82,7 +130,7 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMndPeVhNMXRBVVNVNHdMMlQ5TXREVm10cTB4dERPM1VyOENJaXNVN2hXWUlnTU5QMkRkcmpJMEx2dS1VRDExQUNDS3FqeFpZOF90T3hZRXBTNWw1V0ZyOWkwOFE0X0t2T1VPaHEyS0lPQnNRam5ZUm01a25yYTdVdnBPRHlZaGtZRldR?oc=5",
    "utc": "2026-10-16T22:00:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
@@ -90,7 +138,7 @@
    "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
    "utc": "2026-10-16T21:59:00Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Egat prepares for virtual power plant scheme",
@@ -98,7 +146,7 @@
    "link": "https://www.bangkokpost.com/business/general/3338609/egat-prepares-for-virtual-power-plant-scheme",
    "utc": "2026-10-16T21:58:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "AI stocks slide as debt fears grip Wall Street",
@@ -106,7 +154,7 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSTI3RzFHQXpXSlVRNlBtTC1xSW1fR0duZHp5bmYxUGZuUEJueWRIOFUxeHhCVUJjTk1oNG5Lb3VPNnhHeWJhSUdWX25pRHZoR1AwcENsOHdwWWM1RERGQ2Nobzh1bmdhX0dUM3RlQ3VNZ2ttX3MwVWgtYXRuOXVPZzN5cXNyQnZhekxaNEFjS1lQdmhIN2tKQ1RyZ0s?oc=5",
    "utc": "2026-10-16T21:58:00Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "TGI Fridays CEO on Company Turnaround, Expansion Plans",
@@ -114,7 +162,7 @@
    "link": "https://www.bloomberg.com/news/videos/2026-10-16/tgi-fridays-ceo-on-company-turnaround-expansion-plans-video",
    "utc": "2026-10-16T21:56:54Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
@@ -122,54 +170,6 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
    "utc": "2026-10-16T21:45:22Z",
    "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "North America",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fNlg4dUJFcERfdGdITnhINEsyd1JMT1Myd09acFJmSFh2MGJTckF0aThNdlhuck9UUW1nRUVnc1NiNzRvcnZld2JpN0daTnVXRTBHOTMtNlJ5RmluUVJIT0dSWG03Ykp3dmp2WXBtVEdkUQ?oc=5",
-   "utc": "2026-10-16T21:44:06Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
-   "utc": "2026-10-16T21:43:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-   "utc": "2026-10-16T21:35:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "LA restaurant group used $60,000 Dodgers bet to hedge playoff risk, Kalshi says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFVHUTV5aFhkY0FZYUt6YlRJUlVmTjVJNXBWUWc4WEd4STZhdHAzYXZwMDF3SDlzUWo3R0tlc3J0Y0E4TmRod3h4ZGRsc1hyYWg5dlU3NG4xb3FIekpHQ2FBQTVjaU5yQ2VQbjJRQmluX2Z3aGpDT3RSdC1FQ0JWSXQzWHJYVUpkdVFOT1hJWnVra0xTVm5kWHNwdzR5QWx3OFdTMEF2YVFZUWlRWjNKRkxjendscTQ?oc=5",
-   "utc": "2026-10-16T21:31:20Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
-   "utc": "2026-10-16T21:30:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Katie Zacharia out as Trump's White House press secretary",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-   "utc": "2026-10-16T21:26:15Z",
-   "tag": "MARKETS",
    "breaking": false
   }
  ]

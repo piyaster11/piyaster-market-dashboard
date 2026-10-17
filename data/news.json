@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:03:30Z",
+ "updated": "2026-10-17T01:21:12Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,16 +9,40 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (38)"
+  "Nikkei Asia": "ok (37)"
  },
  "items": [
+  {
+   "title": "Everyday calm and cautious silence in Yangon",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb2JfeHY1NUhJaDlVQU9lS3Y0a3JwZ01NQ3JXSmV0dW4xZDhaaGVFOHZjNFhXR1o0WVlVTlFkdUllQTNPWXg3OC1acVJLUURBVWE1Qjd6cVJ0VTRnbEI1bl9idWRyS28tcFJoWjZYenJvaEtVbmNSbVZnN1hjdHJIRVBQei1HQXBBMHFmaExLMkIzNF9yMzIyVFNn?oc=5",
+   "utc": "2026-10-17T01:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles",
+   "utc": "2026-10-17T00:00:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Stephen Schwarzman",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwTU5vZThPRTFTSmE3MkFHa1Q0dGJRMUxkZzNuejFtSjNuSW5QcmlQdFNhTlRmZUxMVGplMVpkem1JZlJkTTVfOEhmbE9LcHJ6X2o0QzJaSEFSRlJUX1duUWtvMm9ZX2F2WHY3SXlBSGhpcHNoUlJ3T2lMOHg?oc=5",
+   "utc": "2026-10-16T23:41:30Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
   {
    "title": "Intel chief says White House will not meddle in its semiconductor business",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTRLN00xUm9ReEdDNDlXOWxiRUg5U0V5eXhCSTNBQlhBaHZiQWFtbjl6VHh6aTd3ZEhvaWFXYWdoTWtZbGdsUm1TTUN1UWFpYS1qdGhBSzhaMnhvb3Q5bFVrdmdzd01EVWVDMzlVOFBsU0lHVjJZSV9Sd21qOUVTRGxyVzFnS2Y0dkNKQ3k2c2l6ZDJmbEctVEx0eTdOWVhYeS1fUVNLNkZfdkZBMGdkTE96RVJSUG9pcUdpVEhuN3Jrb0t5eXc?oc=5",
    "utc": "2026-10-16T23:35:00Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Bangkok's flood plan under scrutiny",
@@ -26,7 +50,7 @@
    "link": "https://www.bangkokpost.com/business/general/3338604/bangkoks-flood-plan-under-scrutiny",
    "utc": "2026-10-16T23:05:00Z",
    "tag": "THAI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Russian attacks kill eight in Ukraine, cut power to over a million",
@@ -42,14 +66,6 @@
    "link": "https://www.bangkokpost.com/business/general/3338554/thai-corporate-credit-weakens-in-2026",
    "utc": "2026-10-16T22:41:00Z",
    "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "Stephen Schwarzman",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwTU5vZThPRTFTSmE3MkFHa1Q0dGJRMUxkZzNuejFtSjNuSW5QcmlQdFNhTlRmZUxMVGplMVpkem1JZlJkTTVfOEhmbE9LcHJ6X2o0QzJaSEFSRlJUX1duUWtvMm9ZX2F2WHY3SXlBSGhpcHNoUlJ3T2lMOHg?oc=5",
-   "utc": "2026-10-16T22:37:07Z",
-   "tag": "MARKETS",
    "breaking": false
   },
   {
@@ -154,22 +170,6 @@
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSTI3RzFHQXpXSlVRNlBtTC1xSW1fR0duZHp5bmYxUGZuUEJueWRIOFUxeHhCVUJjTk1oNG5Lb3VPNnhHeWJhSUdWX25pRHZoR1AwcENsOHdwWWM1RERGQ2Nobzh1bmdhX0dUM3RlQ3VNZ2ttX3MwVWgtYXRuOXVPZzN5cXNyQnZhekxaNEFjS1lQdmhIN2tKQ1RyZ0s?oc=5",
    "utc": "2026-10-16T21:58:00Z",
    "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "TGI Fridays CEO on Company Turnaround, Expansion Plans",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/tgi-fridays-ceo-on-company-turnaround-expansion-plans-video",
-   "utc": "2026-10-16T21:56:54Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
-   "utc": "2026-10-16T21:45:22Z",
-   "tag": "OIL",
    "breaking": false
   }
  ]

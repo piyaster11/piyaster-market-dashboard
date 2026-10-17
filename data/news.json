@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T01:21:12Z",
+ "updated": "2026-10-17T07:01:17Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (37)"
+  "Nikkei Asia": "ok (31)"
  },
  "items": [
   {
-   "title": "Everyday calm and cautious silence in Yangon",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb2JfeHY1NUhJaDlVQU9lS3Y0a3JwZ01NQ3JXSmV0dW4xZDhaaGVFOHZjNFhXR1o0WVlVTlFkdUllQTNPWXg3OC1acVJLUURBVWE1Qjd6cVJ0VTRnbEI1bl9idWRyS28tcFJoWjZYenJvaEtVbmNSbVZnN1hjdHJIRVBQei1HQXBBMHFmaExLMkIzNF9yMzIyVFNn?oc=5",
-   "utc": "2026-10-17T01:00:00Z",
+   "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+   "utc": "2026-10-17T06:39:48Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles",
-   "utc": "2026-10-17T00:00:00Z",
-   "tag": "AI",
+   "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+   "utc": "2026-10-17T05:46:20Z",
+   "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "Stephen Schwarzman",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwTU5vZThPRTFTSmE3MkFHa1Q0dGJRMUxkZzNuejFtSjNuSW5QcmlQdFNhTlRmZUxMVGplMVpkem1JZlJkTTVfOEhmbE9LcHJ6X2o0QzJaSEFSRlJUX1duUWtvMm9ZX2F2WHY3SXlBSGhpcHNoUlJ3T2lMOHg?oc=5",
-   "utc": "2026-10-16T23:41:30Z",
+   "title": "Lagarde Says Sustainable Finances Key for Economic Stability",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
+   "utc": "2026-10-17T05:40:45Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Intel chief says White House will not meddle in its semiconductor business",
+   "title": "North Korea tests new AI-equipped torpedo, KCNA says",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTRLN00xUm9ReEdDNDlXOWxiRUg5U0V5eXhCSTNBQlhBaHZiQWFtbjl6VHh6aTd3ZEhvaWFXYWdoTWtZbGdsUm1TTUN1UWFpYS1qdGhBSzhaMnhvb3Q5bFVrdmdzd01EVWVDMzlVOFBsU0lHVjJZSV9Sd21qOUVTRGxyVzFnS2Y0dkNKQ3k2c2l6ZDJmbEctVEx0eTdOWVhYeS1fUVNLNkZfdkZBMGdkTE96RVJSUG9pcUdpVEhuN3Jrb0t5eXc?oc=5",
-   "utc": "2026-10-16T23:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkN4MUtxSHhDZFkwSlVyTC1SWGRKb1UwVThCU21zTWsyNnlKZEVmSlhGNklXLUJrVnVNOHF1dzBMMDREeXp6NVY2THJuOEZPTzdLNDZqaE1SUXB0QmRXYXZLbVFOUnBCSkxJNG9YZkl0MXRMdDhLcDJMWlM2ckNSNlgzaWs0LV96U3V5QmQ1U2prNlF2eVpoNHhRTHVyeTQ3ekJKTzUtSjdHdw?oc=5",
+   "utc": "2026-10-17T05:28:00Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Bangkok's flood plan under scrutiny",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3338604/bangkoks-flood-plan-under-scrutiny",
-   "utc": "2026-10-16T23:05:00Z",
-   "tag": "THAI",
+   "title": "Japan’s Takaichi to Attend APEC in China if Parliament Allows",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows",
+   "utc": "2026-10-17T05:22:12Z",
+   "tag": "CHINA",
    "breaking": false
   },
   {
-   "title": "Russian attacks kill eight in Ukraine, cut power to over a million",
+   "title": "Delegates walked out of IMF steering committee meeting when Russian official spoke, sources say",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFIxaDNFUTFsWnMxSEY0d1NycVhrbEtVbHlGZHJpZDVVa3RuekIwVDFmejhRUWdoeVY4YUQxSXhmeU1NalJwZThXdUlIN1BBV0MyRUFYUmo4VWZ3RTV0VnBZc0xEM3VScTFDbnh0STBER0t6TVFFcnNubkxXM0t4M04zcVBGeW1iaXQ0X3JHQmE5a09KTlQ1UmRBUUJKMVJScnhsRVk1T0tsUS1YUlBGOUw2Zno?oc=5",
-   "utc": "2026-10-16T22:48:56Z",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa05jVFdUVTlxcG85OVFRMF94Wmo0TXlmSjRUWXhlb0xYYUVXdXd3ODJ6QWFMXzlSRW0ybkJ1MHgtbmt6ZjhXNzN1UkwwTEFURzJsRk8zSVBlQldrWXlHMGlhSTJoSDdYMjc5UWttN1dDX1VKZ2xTcGRHYVEyRW16TUdGbGpSMVVKck1ITUk5dkpyOHhrODd5bi1vLXJpUy1pR0tUd2V2T1hXOUNQcDJLMlNEMVZXUVl2RlgzVGZJaEV2VUNsSGc?oc=5",
+   "utc": "2026-10-17T05:19:00Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Thai corporate credit weakens in 2026",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3338554/thai-corporate-credit-weakens-in-2026",
-   "utc": "2026-10-16T22:41:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "title": "Some companies give AI to everyone. This CEO is doing the opposite",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-   "utc": "2026-10-16T22:33:05Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-   "utc": "2026-10-16T22:31:26Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "AI demand drives Thai electronics earnings in Q3",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3338599/ai-demand-drives-thai-electronics-earnings-in-q3",
-   "utc": "2026-10-16T22:31:00Z",
+   "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+   "utc": "2026-10-17T05:00:01Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Nepal, the land of Everest ... and sushi",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1eEh2d2RoWlRIZUhpLUtTU1ViOXFDOVFoTUh6WGc3eFBoWXM3aWEzWnBSZkJiNDl4QUFMdkFkbjR3MUFLS0hFZF8yaWxodG1XLWJ0UjdBSG1INktQd0FJZ0RWczF3ZVVoTWl6cl9zWTVqdTFUSk1TRHdmYnZTNUE?oc=5",
-   "utc": "2026-10-16T22:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Call for shared responsibility on AI",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3338464/call-for-shared-responsibility-on-ai",
-   "utc": "2026-10-16T22:15:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Mexico Says Airlines Can Add US Routes From Mexico City Airports",
+   "title": "Fairfax’s Watsa Bets On IDBI Payoff As India Booms, Report Says",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-16/mexico-says-airlines-can-add-us-routes-from-mexico-city-airports",
-   "utc": "2026-10-16T22:11:45Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/fairfax-s-watsa-bets-on-idbi-payoff-as-india-booms-report-says",
+   "utc": "2026-10-17T04:55:30Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "World Bank touts development model",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3338494/world-bank-touts-development-model",
-   "utc": "2026-10-16T22:07:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Graza CEO on Market Expansion, Consumer Outlook",
+   "title": "India Halts Sugar Diversion to Ethanol After El Nino Hurts Crops",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-16/graza-ceo-on-market-expansion-consumer-outlook-video",
-   "utc": "2026-10-16T22:02:25Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-halts-sugar-diversion-to-ethanol-after-el-nino-hurts-crops",
+   "utc": "2026-10-17T04:50:55Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
-   "utc": "2026-10-16T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Mr. Abe: Stephen Schwarzman (16)",
+   "title": "News By Location",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMndPeVhNMXRBVVNVNHdMMlQ5TXREVm10cTB4dERPM1VyOENJaXNVN2hXWUlnTU5QMkRkcmpJMEx2dS1VRDExQUNDS3FqeFpZOF90T3hZRXBTNWw1V0ZyOWkwOFE0X0t2T1VPaHEyS0lPQnNRam5ZUm01a25yYTdVdnBPRHlZaGtZRldR?oc=5",
-   "utc": "2026-10-16T22:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwd1EyVXpkV0JqMFlrSjIzSFVMOGsySmFfR2dyM0k5MDNUeWF2MFNCb21LRmw1cXZQWXZZU1NFdk9vMEplQ200?oc=5",
+   "utc": "2026-10-17T04:47:11Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
-   "utc": "2026-10-16T21:59:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Egat prepares for virtual power plant scheme",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3338609/egat-prepares-for-virtual-power-plant-scheme",
-   "utc": "2026-10-16T21:58:00Z",
+   "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWdXNFVpZFpPVGFROEVHcjFiWGdDU1BQdDlMaTJOLWllcnNNazRiSEx4M0RjZUthU09iQzQ1YTNxckczM0dWYVR0LTJwSFpEU1pzV0EzM0x5X3AzaDJVLTM2VmU1cVZnLUQ1Y1FITGE0aXNZa0N0R2ppMGt3TWUybG15QUZlY2dteFFUemdEbU51M0pIMC05MDQ0X253QXp4bEFOZjJfcW1JaUVkb05KbE1PczdQUTNlcVZR?oc=5",
+   "utc": "2026-10-17T04:47:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "AI stocks slide as debt fears grip Wall Street",
+   "title": "Business, Politics, Economy and Tech News & Analysis",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSTI3RzFHQXpXSlVRNlBtTC1xSW1fR0duZHp5bmYxUGZuUEJueWRIOFUxeHhCVUJjTk1oNG5Lb3VPNnhHeWJhSUdWX25pRHZoR1AwcENsOHdwWWM1RERGQ2Nobzh1bmdhX0dUM3RlQ3VNZ2ttX3MwVWgtYXRuOXVPZzN5cXNyQnZhekxaNEFjS1lQdmhIN2tKQ1RyZ0s?oc=5",
-   "utc": "2026-10-16T21:58:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SUmhDNVlpb2JEM0UxSUxaY185clNiYTU2aDdVbkFKM3k1dTgyTm1FQWZiaTBPSUNaQjhxOFJ2UDZtaHYxV3kw?oc=5",
+   "utc": "2026-10-17T04:46:50Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Delhi crackdown fosters Gen Z defenders of Indian democracy",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3ZoallBdExrd3hhUkN5UkFyb1ZzYWs5X2ZzVDhBcWx3V1Z6VVI4ZWRNSG15YndERjZIcWItTVRmZWt3eC1kMl9uT0Q5SXotUEQtc254RVVGaUJXS3U3Z0V5eGNHWVRWd2xZUDNIanJ0OXpiUE54UjEzSHdkTFNJWnRqc1VmT3JYaTJEUXduNmtHVGZkVW5r?oc=5",
+   "utc": "2026-10-17T04:00:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "China Encourages Cinemas to Add Sports Events and Lottery Sales",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-encourages-cinemas-to-add-sports-events-and-lottery-sales",
+   "utc": "2026-10-17T03:38:15Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Vietnam Prime Minister Targets 2027 GDP Growth of at Least 10%",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/vietnam-prime-minister-targets-2027-gdp-growth-of-at-least-10",
+   "utc": "2026-10-17T03:03:57Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "India’s ‘Cockroach’ Protest Leader Faces Court in Voter-List Row",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+   "utc": "2026-10-17T02:34:29Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With Young Indians",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-17/jio-s-3-2-billion-ipo-tests-ambani-appeal-with-young-indians",
+   "utc": "2026-10-17T02:30:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+   "utc": "2026-10-17T02:30:00Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Brazil's Flavio Bolsonaro pledges fiscal adjustment, rejects cuts to social spending",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjFnNmM2TmIzYWxwNnpqVXBjYWNxWlBIUmJNTEJUY3NhTVM2dG9jcWR2Qzg5YVNwbFUtSE8yMmdRVnhYQWdQdndqa1VWbGI3RDhhS1lZSzk4N3NjVG5RWUIxeGNqdk5QSWpzeFBvWEJyMzU0NXI0R3BjS1gtc3FkU2RBcW5lODlid1pNVVZCNzlEVVhNZ3B1QlpqSUhGVDNWQV81MXVaYjA1bXBmb0FlbWtHRFBMM3BEWmp4YlNYZW5aXzc4Z0hHaWd3?oc=5",
+   "utc": "2026-10-17T02:21:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNFgxQWRlMlpCVjhFMmNSS2RuaUo5NGs1NXgxTXYyc2oyQXVnSHZ6MjNMdC1LaDd5bnVRR2xRbzJaQTNRVXBHZU40ajRSQS02OEVXcE11dF9mVkx6eHBuanRZLXhEd2VBdWNSOURjSEs5V0FKZUR2MG11eWhtVUVFa1F0LXo2cGJqYldiZjhPcXNuWWgycGI3NjI3SkYzS1g5VTk1LW41Yll6RzlmMjBMbzNkSjZUUC03UGRodWZnT254WW8xSG1N?oc=5",
+   "utc": "2026-10-17T02:17:00Z",
    "tag": "AI",
    "breaking": false
   }

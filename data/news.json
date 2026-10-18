@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:41:10Z",
+ "updated": "2026-10-18T14:03:05Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (14)"
+  "Nikkei Asia": "ok (13)"
  },
  "items": [
   {
-   "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
-   "utc": "2026-10-18T09:07:13Z",
+   "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+   "utc": "2026-10-18T14:00:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+   "utc": "2026-10-18T14:00:00Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Rethinking America’s Faith in Innovation",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-18/rethinking-america-s-faith-in-innovation-video",
+   "utc": "2026-10-18T13:57:12Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+   "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-   "utc": "2026-10-18T07:22:07Z",
-   "tag": "OIL",
+   "link": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+   "utc": "2026-10-18T13:52:24Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+   "utc": "2026-10-18T13:10:33Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Hurricane Trudy brings heavy rain and strong winds to Mexico’s Pacific coast",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
+   "utc": "2026-10-18T13:08:21Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "America’s Downtowns Need More Than Offices",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-18/opinion-how-the-office-bust-could-revive-downtowns-video",
+   "utc": "2026-10-18T13:01:21Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+   "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+   "utc": "2026-10-18T13:00:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
-   "utc": "2026-10-18T07:13:32Z",
-   "tag": "AI",
+   "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+   "utc": "2026-10-18T13:00:00Z",
+   "tag": "BTC",
    "breaking": false
   },
   {
-   "title": "Two arrested for terrorism in Spain's Basque Country",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYWdaNW5WT1hQTzZCSDducVRYMll6RWgxTG9MOW9mWk0xSUhITm82cTZLbTZrRkFSaW9Ka0FLY251VWdVMUJ4Tm1rSXoyYTdTRkxyTmt0U3dXNGhtTHZTMTh0bWhmdXZuYlgzeVBlcDZrTVNkVmI1a3A1dUpyRzlqcXh0bE0yLWVlT3ZRS2pGNA?oc=5",
-   "utc": "2026-10-18T07:04:11Z",
-   "tag": "MARKETS",
+   "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+   "utc": "2026-10-18T13:00:00Z",
+   "tag": "BTC",
    "breaking": false
   },
   {
-   "title": "Poland Investigates Suspected Violation of Its Airspace",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/poland-investigates-suspected-violation-of-its-airspace",
-   "utc": "2026-10-18T06:52:54Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-10-18T06:48:48Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China proposes export controls on solar-manufacturing technologies",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
-   "utc": "2026-10-18T06:22:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Why hedge funds could be making a bond market shock more likely",
+   "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
-   "utc": "2026-10-18T06:13:05Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "German police investigate fence breach at Leipzig airport",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlJSWFV3MGlmTzZycjkxblNlamxtTC1OdUs1X0U3OUlHeFlod1JMVWQwQnpTX3JOMW1UN0RPekxSNWcwMms2akIzSVZhNFpnOFpsaGk1Zmk3SjNRZElHNEc0MzlxNU5ESDNOSTlXYzhOVWprRDhVclBoZUg4Q0Q5XzJYTlc0ZVRKZS1xbHY5aFZXbFE3bDl5UU01Qjk?oc=5",
-   "utc": "2026-10-18T06:04:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/17/trump-touts-his-power-at-kentucky-rally-ahead-of-midterms.html",
-   "utc": "2026-10-18T05:56:03Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Lithuania told residents to go to shelters after detecting a flying object",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGZjTGdJQ2V0X1ZyeE1icDdJQW4xQ2lJbVNqcHlqSnVuTE9OeUtMYWJTVFpXX0xfSmhkbTVveVFoMFpNeUJFVlBzVUN5TnU3LWFLY3JsOEI2U0l2akwzcU5RN21ZVjJ3SGhacks1NGgzZkVmamh2b2hBaGJBNkRCQkU1bmtkY1M0SFVHQ3RDd29SUEI3NEIxdDBDZjdUSVNPMlV2V19UQkxyRVVp?oc=5",
-   "utc": "2026-10-18T05:42:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Vietnam signs free-trade pact with European countries including Norway, Switzerland",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXJUYmVON2MyaDNUd3JSbXFwUmZ3ODRXVW05RTVSZ0cwQzRSSjF3OGkzNWMxQjVobFU3emI3a3FJVVRMQnRxSnFNWXF5QXQzVTZTZmlxNHdUd1hseVliMEJwZ0FEYm5FN1pPYVlfazVxaXpIRkRhZXhJaU1FSTlxRnNScThrMjlkQUhJVmZ6cHpkVF90bjZES2dYNEYtSWZDcXFYNGpsWFVEejdrSnJ5czJhQ0I2TTgzRW1keEw5dFk1Z3M?oc=5",
-   "utc": "2026-10-18T05:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China GDP, To Lam visits EU, Mynt listing",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVRHYjNGU0NITWdteE43bGJfdXFITU1JbXpjaDgxNWMxUWJCOXlzelFFOVNOS2d3cC1OX2xaQXlYdVZ6VV9YUU5SZURyR3V2RVJHNmJLTlRPV0E2VmpvZlhGalViWEM2VUl6MkVCUFBkQndoWlB3TWppbEFHWmZ0RXE0Y21CVC1tdXVKS3dKb2xNMzNLcGc?oc=5",
-   "utc": "2026-10-18T05:27:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Kolkata Stampede Leaves At Least 19 Dead, Dozens Injured",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/kolkata-stampede-leaves-at-least-19-dead-dozens-injured",
-   "utc": "2026-10-18T05:23:16Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China Condemns Japan’s ‘Negative Moves’ Over Yasukuni Shrine",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-condemns-japan-s-negative-moves-over-yasukuni-shrine",
-   "utc": "2026-10-18T05:11:17Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmFpc0NDcHNWM0tpSVFxYURNSGY4OTFCRlhISGVnLUZqUGtaWEpJUXhsTVpyNzZaRmV3R1JhRnRIdjJjS21DaVFjTDRHaEtIUXEySXNwd0U3el93cmNJeEtHblpNc2VhZERoMXliOUFxXzFMVHhnTUNpY1dRVHJEMGxVR1Uxb0ctRThOeGNxN0ZxaW8wQjhJVTJpSG5sSWVNWndGWWRTOW40TjFEa0d3MDVYcU1Id2tRekxlbURxS2gxcDQ5dlZYUnJ4UWlRUQ?oc=5",
-   "utc": "2026-10-18T05:03:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "The US-China grand bargain remains out of reach",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlVuZk5lMEFYZm8zcC1pWHlBa3R3UFVQQ05SNHhiY0JBdHVXNXJrRm1KWmtwUHpHdzhjSDZKZXRQMVhSQmJjQkYxZTd0a2JUdm5EUlpUODdUcHhvV29tcWxNekFuWE5Tb2ppUHV2VHhvc2YzZ0ZvQUQ3OUtIYVd4T2t1REdkTEkycEVERTJibHNfV1E?oc=5",
-   "utc": "2026-10-18T04:56:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Antofagasta's Centinela strike ends after deal with unions",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckhuSk5YV05nTjhLZUwxcmNOUTc3MVVpZC1SZFVxYTNTVkVCZ014ZmR3OEdkTW5DS0xvWXhIQmMxdVNlVXNHNGs1Y0c4ekV4SE1ycFlBcnRpOWxFZU5xdGJjeUtoUWtlei1tc251cmU4c3k4YlJHOHlNMlUtYWx1S1BwdHV1M3VsV2xCdkdGR0RIRE1uMXdXVjllQWh2cE5ONXdhZ0RnVFlxMjJaRWd0NVVMMUI5d0k?oc=5",
-   "utc": "2026-10-18T04:37:00Z",
+   "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+   "utc": "2026-10-18T12:50:33Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "AI, climate and private capital reveal Asia's diverging fortunes",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXhkS2ZXZEMybDJSN0lsRTF5MVlDSmtHWTNCMFczUVgxVE9pcHlCNEJGRXZXeEo4ZW5XZ01tODdRMlREZzdtTG5GeEdkVkp4cGl6UjJ5aFBTZXlFNEVCXzBRMVkyZmlwb1I0SkxvbC1MMUVzdlhWZ29TTUZXVEdjcUFRMjQwR0NONEFJZzNyelZTVTJ2VWpkeWtfRQ?oc=5",
-   "utc": "2026-10-18T04:21:00Z",
-   "tag": "AI",
+   "title": "Roy Cooper's North Carolina playbook is working. Can other Democrats copy it?",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXVOM1JwQnJBTlRESW5tSjFSVERkbnRrNDBlSkx2bEJ6UENYaVVpNEpnbTlLaGdncWp1dkNZTE5yUjJZZVBtd3BNUHN2WElaeXRZdnJrOFFCS2dSc2RPRUF6WmJwNWRTRFBFVWUtcXRHYklNSXc5T3lzY0pkWW95M3YtcnY2ak5hMkxJUEJWV0lLcFY5Vlk3RDlxaGJ6dndraGtwMW4xN2xYX29Sc2E0YnREZWZXa2wwbUhhc3BPMjlZSjM1NHc?oc=5",
+   "utc": "2026-10-18T12:46:22Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Manchester City scandal tests Premier League's pull in Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzY1MUR2d0tmZzh2blFmTThaa1JDUjFDUnllbjlxRUZ4TUxCOW5qd0VVY0djbkM4TW1nMGtfNndHVkU2c29nSzlqcFkyXzdoVFQzck5OZ3NlTnY5dkRpbUVTaGhzdW9RV2F6NndJX3hhRHVZdmdXRnpVcGJzRGdpWWx6aENNRlFxN2t6VGZOX0pza1I3ZzBOd09udHN6QnBTakE?oc=5",
-   "utc": "2026-10-18T04:07:00Z",
+   "title": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWltTVc0eTlSb1h1dnRjTUoyam5sQUMzODdwMVFqOEZpMmJfaDM2ZDVpWm1VSjAxOEs5c2FLN051SWo3R3JLSmRyMGVsX2RlcGFZajhlVWxBY0dwNDRVRGQ3RkdkNGVXVkRpeXdBSmt1R0lzWGdLLTJpeklQTkR2NVFTd0N6VGs2eFFRQ3N6TnluZ19PamJlSVY0YlA0NWRmc3dNWWtvZzNqTDRhMWZZ?oc=5",
+   "utc": "2026-10-18T12:45:09Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Meta Platforms and Tesla are among the companies set to report next week. What to expect",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html",
+   "utc": "2026-10-18T12:41:18Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+   "utc": "2026-10-18T12:34:51Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "France counts cost of worst unrest in years",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
+   "utc": "2026-10-18T12:34:05Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "By The Way: Headlines You May Have Missed",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-18/by-the-way-headlines-you-may-have-missed-video",
+   "utc": "2026-10-18T12:33:25Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
+   "utc": "2026-10-18T12:32:35Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Election Rallies That Swept Latin America Face Reality Check",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/election-rallies-that-swept-latin-america-face-reality-check",
+   "utc": "2026-10-18T12:30:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Pope Leo Looks Ahead After Cancer Surgery",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-18/pope-leo-looks-ahead-after-cancer-surgery-video",
+   "utc": "2026-10-18T12:13:11Z",
    "tag": "MARKETS",
    "breaking": false
   }

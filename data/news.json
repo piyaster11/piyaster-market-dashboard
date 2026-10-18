@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T00:00:16Z",
+ "updated": "2026-10-18T00:05:24Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -34,7 +34,7 @@
    "link": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
    "utc": "2026-10-17T23:04:00Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
@@ -42,6 +42,14 @@
    "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
    "utc": "2026-10-17T23:00:00Z",
    "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "TREO.O - | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IcDI3dnVpWGZmd1k4OUxfRzFqZEpGWUstU0ZFMVFKeHJyZm5QcHpyclpSaldrZUcxLS1VWm1nb3JoWkU0WTJhaHJ1dzNoTnN6X0t2Y19zTC1sRTZQOHZQc3FR?oc=5",
+   "utc": "2026-10-17T22:58:03Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
@@ -162,14 +170,6 @@
    "link": "https://www.cnbc.com/2026/10/17/trump-touts-his-power-at-kentucky-rally-ahead-of-midterms.html",
    "utc": "2026-10-17T19:54:13Z",
    "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-   "utc": "2026-10-17T19:35:18Z",
-   "tag": "WAR",
    "breaking": false
   }
  ]

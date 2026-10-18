@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:25:14Z",
+ "updated": "2026-10-18T20:51:15Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,46 +9,38 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (11)"
+  "Nikkei Asia": "ok (13)"
  },
  "items": [
   {
-   "title": "France counts the cost of worst unrest in years as tensions flare again in Paris",
+   "title": "Macron urges calm as France counts cost of worst unrest in years",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
-   "utc": "2026-10-18T17:11:49Z",
+   "utc": "2026-10-18T20:08:11Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Davidovich Fokina overcomes Jodar to claim Shanghai crown",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlJ1TFIyWXlJclFycGpaSmZ4ckpFcDJ0MU9wS1Ryb3FWX1NYSlEzZ3JfS202THFRRTczMWhqemE4XzRMbDB3UV9hOENkOTlRRHZEMm9xZjFrMHI0Vm9PbVFhOFh4aUNiYkIyanZLUm1NdV9GVWJSV1lBejFQTEk2Qk5XeDFzc2FmZXUzc3FUbFZ2bnFRRnNwVnhNeHUyWmctVWcydE8tc3dadlM5YTJyTjJB?oc=5",
-   "utc": "2026-10-18T17:08:49Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-   "utc": "2026-10-18T17:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Faces-Rising-Threat-From-Within-as-Baluch-Insurgency-Escalates.html",
-   "utc": "2026-10-18T17:00:00Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Mitsubishi Heavy to revive shipbuilding line for Japan resupply vessel",
+   "title": "Takaichi's DIY governance could be her achilles heel",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVnROOVNuOG11Mkk0eU9qSzJ5aE1sMHh0SnNTdzNvNmNhbGlBX3Z5c2sxcHpzaVlwNFdoZFZJZGNDbWdYbEtsX0lsNHZvY0xsTHljbE1MWHhtSWF6QmNJNXgzZ0d5SXNQYVNhTFUzMXRCU1FILTFCZ2lJVVY2cFlubExNMzJ6cnltUkVxNDBYdl9iT3Ata1JJanljYWtOTFMyNGVkcUZweThSbEFZZV9pcmh2a3hQVWZTUm9qZWlFd3dUSjBRdHFXX3FqdUY?oc=5",
-   "utc": "2026-10-18T16:45:00Z",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzFlX1Nxb1FraExJMTktRGlvLUFnVWJNMWNPRFJvdmxwbFBIbWdEZG1uQXNNRjlHRkFYQ0ZaSU1Cd1R0X3lEZ19UQUR3UnJKT3pnQmZmbjh4dkN1NU9xNWdQcTlKdDhRWk1SWDBEa0ZGcHU1M3NqZF9naWI0UnNvYTZNZEpha01YR0E1RQ?oc=5",
+   "utc": "2026-10-18T20:05:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/traders-grow-wary-of-copper-bull-market-with-no-sign-of-tariffs",
+   "utc": "2026-10-18T20:00:04Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Roy Cooper's North Carolina playbook is working. Can other Democrats copy it?",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXVOM1JwQnJBTlRESW5tSjFSVERkbnRrNDBlSkx2bEJ6UENYaVVpNEpnbTlLaGdncWp1dkNZTE5yUjJZZVBtd3BNUHN2WElaeXRZdnJrOFFCS2dSc2RPRUF6WmJwNWRTRFBFVWUtcXRHYklNSXc5T3lzY0pkWW95M3YtcnY2ak5hMkxJUEJWV0lLcFY5Vlk3RDlxaGJ6dndraGtwMW4xN2xYX29Sc2E0YnREZWZXa2wwbUhhc3BPMjlZSjM1NHc?oc=5",
+   "utc": "2026-10-18T19:56:05Z",
    "tag": "MARKETS",
    "breaking": true
   },
@@ -56,120 +48,128 @@
    "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
-   "utc": "2026-10-18T16:44:10Z",
+   "utc": "2026-10-18T19:37:28Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region",
+   "title": "News By Location: News & Insights",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwd1EyVXpkV0JqMFlrSjIzSFVMOGsySmFfR2dyM0k5MDNUeWF2MFNCb21LRmw1cXZQWXZZU1NFdk9vMEplQ200?oc=5",
+   "utc": "2026-10-18T19:31:23Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "At least 4 killed in major fire at Canadian military base",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkdkNk9DVENGZU50OHVsbHF4Z3ZWbnBxcHVqaDJSa1JEWXZ5aFVqbTQwWmwzUGpvZUJsTUFzSnZHd2laVHpqd05XaF9KM2YxdUNUSVV0YUp1SFVKbTBRVHNzcVc0ek84cTY5TTVmZGhPbnhzMVJiejFXaDdXV3pBcTZYeEI3QkZrNDlOOWllWFk3ejFfMVdVd3lQUGJMeXBhNW5xTjZJQnBINTVSTjVDUnZKSm1laDdKaEE3eGdoSUtaQQ?oc=5",
-   "utc": "2026-10-18T16:42:18Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXEzTWctWFllT2dCNGlES0Ewcm9qV0djallLZ3c2bEdoRVlta2RBQ09uQ1hZQnMxbndPUHNzRzdmakNYZU5IeHRPbF9wUVlFNTBCLUwyWE9TbUFFYjRua1BEM01VWm5ab0NwRm5QWXV2eW1ycERzRklTbzdxV2NpS1lOV29pZWtsRzgyOE9RTVVRNDhOdXhBdnJ6REFJQk54azV3ag?oc=5",
+   "utc": "2026-10-18T19:17:43Z",
    "tag": "WAR",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta",
+   "title": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/18/deaths-confirmed-after-fire-at-canada-military-base-in-alberta.html",
-   "utc": "2026-10-18T16:41:08Z",
-   "tag": "WAR",
-   "breaking": true
+   "link": "https://www.cnbc.com/2026/10/18/macron-tv-speech-protests-riots.html",
+   "utc": "2026-10-18T19:16:12Z",
+   "tag": "STOCKS",
+   "breaking": false
   },
   {
-   "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+   "title": "Anthropic to commit 5% stake to new public benefit fund",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
+   "utc": "2026-10-18T19:11:37Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Milan police clash with protesters on second day of unrest",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNem5RVUNnUFN4V1Q4aUVmQ2NwbmZsZ19HR0h6VURQNkd4OG45OFVyclZwNTdtZnVqczdTRWhxOXVvMjJPWno3ckxFS3NUOGxsRXA1bF9lNl9ELUpJNUVhT19BZVkwbW0tUWVKLURsOElEWVpGaUZ3ejZnbjlPR0NmeG5VWnNITE5TUU1qZmhiMU40LTNXN1dEbXFB?oc=5",
+   "utc": "2026-10-18T19:07:43Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles",
+   "utc": "2026-10-18T19:00:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "CPI Test Set to Make or Break New Zealand Dollar’s Losing Run",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/cpi-test-set-to-make-or-break-new-zealand-dollar-s-losing-run",
+   "utc": "2026-10-18T19:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Nuclear-Power-Shortcut-That-Could-Add-Gigawatts-to-the-US-Grid.html",
+   "utc": "2026-10-18T19:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Macron condemns \"shocking\" scenes of violence across France",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmJ1bnhSTWszS2NQXzcxU2k2YWxiUThROTNpQmN6YzJtbXJQbEVaUHpFeFRxbjVFbm5FZ0UxRDZOUlVSNkY0Q0JrRXBhVm5CcGlCMkJfUW4wb0lnWmFaUnNDQ08xNnh6enBjaVh5dzYyaUxZMnYyUDJHTk5zeHRNam40bVhhVW9Sd05SV09pUWpXZWxoSHpvS1N3Z3A?oc=5",
+   "utc": "2026-10-18T18:45:44Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Subaru to launch software-defined vehicles in late 2020s",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHNVS3ZGT1J0OVdBZ21aT0pYQmY5VnZ1dkJ5ekI2QzZCSEE3RWQtbVVCU0JTdnVPSWZuQllOYjU4amtFVHgyQXRkUVZDSHg0Y2UyQUltNXk1N2ViUzNOU1czaDZHTUZ2aHQ1TjIyZ19LSHVKUzg0cGF1Y1RGdGNONkJ3R1JubVR5S2FSX3pPVGhndXR4UjdVaFAxcnhpZEJhUFJv?oc=5",
+   "utc": "2026-10-18T18:35:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "The White House's crypto chief departs: State of Crypto",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-   "utc": "2026-10-18T16:33:00Z",
+   "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+   "utc": "2026-10-18T18:30:00Z",
    "tag": "BTC",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Brazil's Bolsonaro, Lula head into first debate a week before vote",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzg5OGp3WHJKSjREX2N5WnZTbTJOX2pVai1IRDl3eGVEMmFzZnczd2UxTnlWR25GYlFKa1kzbk9OSWt6cXFjUExNWXlSa1dkNFJLaG9mTnR4MnY2bkZSVThOVmg0blgwbGNUUGxNMEpNRmlNWkhnbWJzVlAtVUxOaEF1WWdLZ0E1V3o2OEVuQVRVYW85TTRoQ3BTY3lqMnhKb1JwbFJxVGI2WDRHSEhVWTVraw?oc=5",
+   "utc": "2026-10-18T18:19:50Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Arsenal edge Forest with late goal, Man United held by Leeds",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG9sT1M3X1JVUW1CTUxEYU1yT3lkYXJDZ0l4bHBZS1NIRkhFYU8zTmRjRTlwOHhZRERrUEM0R0NyZ2pyVTlDMWpBRVdjUXdfQkhhdWNndFI3ZkhwTzBEV0NNRndvWXJ0ZkpSa0h2ZXBHcFc3TnZ5VS1Bb3l1bHNnN0hacU5OOGg1ODI2S0NRZzE0bEVqOGpQNy1JZ3h5Q1RoclR5cVF3NDJHZVptRGtEMHNRWVBNODlRZ2NuVw?oc=5",
+   "utc": "2026-10-18T18:19:43Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "Hurricane Trudy brings heavy rain and strong winds to Mexico’s Pacific coast",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
-   "utc": "2026-10-18T16:26:56Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-   "utc": "2026-10-18T16:15:00Z",
+   "utc": "2026-10-18T18:02:06Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Trump endorses Netanyahu in Israeli election",
+   "title": "Transcript - Reuters",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
-   "utc": "2026-10-18T16:10:37Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-   "utc": "2026-10-18T16:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZWx5bmNsLURMbFZ4T0NIVmFjeW12N1dxQlI4S2dGNDhmc3RIa2NoZE5INFJtSkJmT3hVWnowLV9SX3Z5UE9XRFZyS3l3UVNGUUpiSUJnT18xVUFDcEQ0eE04bjVzanBreG1nMmN4d19TTlBvOEpCdm5TNGo5RUl5Rzc2VUJrUWNpcGZN?oc=5",
+   "utc": "2026-10-18T18:00:00Z",
    "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
-   "utc": "2026-10-18T16:00:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
-   "utc": "2026-10-18T15:54:36Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Here are the 3 big things we're watching in the stock market this week",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/18/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
-   "utc": "2026-10-18T15:24:37Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Bookmarked: News Stories On Our Reading List",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-18/bookmarked-news-stories-on-our-reading-list-video",
-   "utc": "2026-10-18T15:17:20Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-   "utc": "2026-10-18T15:15:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Lithuania says attempted Starlink arson was Russia-linked sabotage",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0FMbVJmdl80MGprYjdwckNocW1aRTVXa3RSazdUZzZxTDBrRWVuQ2tXWGNYcEhmYUdSOGRzWTUzaklVSllyNllRLTlKMlBOaFc5OEpHQVJDRGxndHo3V1V4LWM2Tl80cURPcTBlSVluOURBZmZzVkRtXzVZbVdoUXNWRHdBd0xROE54WHBxclBYQVJjM0tfWWRFLWItSHRMODFBSmVPQkRUcXlyZzVoZkNRRjVRSkxpVm96eU1sU0d1d00?oc=5",
-   "utc": "2026-10-18T15:06:11Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
-   "utc": "2026-10-18T15:03:59Z",
-   "tag": "AI",
    "breaking": false
   }
  ]

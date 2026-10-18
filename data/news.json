@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:41:43Z",
+ "updated": "2026-10-18T09:41:10Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,16 +9,160 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (15)"
+  "Nikkei Asia": "ok (14)"
  },
  "items": [
+  {
+   "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
+   "utc": "2026-10-18T09:07:13Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+   "utc": "2026-10-18T07:22:07Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+   "utc": "2026-10-18T07:13:32Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Two arrested for terrorism in Spain's Basque Country",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYWdaNW5WT1hQTzZCSDducVRYMll6RWgxTG9MOW9mWk0xSUhITm82cTZLbTZrRkFSaW9Ka0FLY251VWdVMUJ4Tm1rSXoyYTdTRkxyTmt0U3dXNGhtTHZTMTh0bWhmdXZuYlgzeVBlcDZrTVNkVmI1a3A1dUpyRzlqcXh0bE0yLWVlT3ZRS2pGNA?oc=5",
+   "utc": "2026-10-18T07:04:11Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Poland Investigates Suspected Violation of Its Airspace",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/poland-investigates-suspected-violation-of-its-airspace",
+   "utc": "2026-10-18T06:52:54Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-10-18T06:48:48Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "China proposes export controls on solar-manufacturing technologies",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGtBN1ctcU1NbGFxLXVKb01UVVdDUklxa3Z6Tk1ac05vT2lkd0d2THJqR1Q4VDBDTjJFSUlJYXNCdF83Tko2S0hrbDZSX3NrWWRrWFljNFNHOWhVUnpib3JpdjY3TWZJUEpEQzJKdnFpckZhZTM4X3RXTnhuMzVJWXRxemxoUTdlcDcwckxSUlROQ1pqbHZWdFplOEZUTHh1dDVxb3pfTlN3X2dURk1ETnJzTXJmUFluU0dfck1OSFl4YVlqZHE1NA?oc=5",
+   "utc": "2026-10-18T06:22:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Why hedge funds could be making a bond market shock more likely",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+   "utc": "2026-10-18T06:13:05Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "German police investigate fence breach at Leipzig airport",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlJSWFV3MGlmTzZycjkxblNlamxtTC1OdUs1X0U3OUlHeFlod1JMVWQwQnpTX3JOMW1UN0RPekxSNWcwMms2akIzSVZhNFpnOFpsaGk1Zmk3SjNRZElHNEc0MzlxNU5ESDNOSTlXYzhOVWprRDhVclBoZUg4Q0Q5XzJYTlc0ZVRKZS1xbHY5aFZXbFE3bDl5UU01Qjk?oc=5",
+   "utc": "2026-10-18T06:04:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trump touts his power at Kentucky rally to energize voters ahead of midterm elections",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/17/trump-touts-his-power-at-kentucky-rally-ahead-of-midterms.html",
+   "utc": "2026-10-18T05:56:03Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Lithuania told residents to go to shelters after detecting a flying object",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGZjTGdJQ2V0X1ZyeE1icDdJQW4xQ2lJbVNqcHlqSnVuTE9OeUtMYWJTVFpXX0xfSmhkbTVveVFoMFpNeUJFVlBzVUN5TnU3LWFLY3JsOEI2U0l2akwzcU5RN21ZVjJ3SGhacks1NGgzZkVmamh2b2hBaGJBNkRCQkU1bmtkY1M0SFVHQ3RDd29SUEI3NEIxdDBDZjdUSVNPMlV2V19UQkxyRVVp?oc=5",
+   "utc": "2026-10-18T05:42:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Vietnam signs free-trade pact with European countries including Norway, Switzerland",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXJUYmVON2MyaDNUd3JSbXFwUmZ3ODRXVW05RTVSZ0cwQzRSSjF3OGkzNWMxQjVobFU3emI3a3FJVVRMQnRxSnFNWXF5QXQzVTZTZmlxNHdUd1hseVliMEJwZ0FEYm5FN1pPYVlfazVxaXpIRkRhZXhJaU1FSTlxRnNScThrMjlkQUhJVmZ6cHpkVF90bjZES2dYNEYtSWZDcXFYNGpsWFVEejdrSnJ5czJhQ0I2TTgzRW1keEw5dFk1Z3M?oc=5",
+   "utc": "2026-10-18T05:30:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "China GDP, To Lam visits EU, Mynt listing",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVRHYjNGU0NITWdteE43bGJfdXFITU1JbXpjaDgxNWMxUWJCOXlzelFFOVNOS2d3cC1OX2xaQXlYdVZ6VV9YUU5SZURyR3V2RVJHNmJLTlRPV0E2VmpvZlhGalViWEM2VUl6MkVCUFBkQndoWlB3TWppbEFHWmZ0RXE0Y21CVC1tdXVKS3dKb2xNMzNLcGc?oc=5",
+   "utc": "2026-10-18T05:27:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Kolkata Stampede Leaves At Least 19 Dead, Dozens Injured",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/kolkata-stampede-leaves-at-least-19-dead-dozens-injured",
+   "utc": "2026-10-18T05:23:16Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "China Condemns Japan’s ‘Negative Moves’ Over Yasukuni Shrine",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-condemns-japan-s-negative-moves-over-yasukuni-shrine",
+   "utc": "2026-10-18T05:11:17Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Rubio heads to Central Asia while other US officials hit foreign policy hot spots",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmFpc0NDcHNWM0tpSVFxYURNSGY4OTFCRlhISGVnLUZqUGtaWEpJUXhsTVpyNzZaRmV3R1JhRnRIdjJjS21DaVFjTDRHaEtIUXEySXNwd0U3el93cmNJeEtHblpNc2VhZERoMXliOUFxXzFMVHhnTUNpY1dRVHJEMGxVR1Uxb0ctRThOeGNxN0ZxaW8wQjhJVTJpSG5sSWVNWndGWWRTOW40TjFEa0d3MDVYcU1Id2tRekxlbURxS2gxcDQ5dlZYUnJ4UWlRUQ?oc=5",
+   "utc": "2026-10-18T05:03:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "The US-China grand bargain remains out of reach",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlVuZk5lMEFYZm8zcC1pWHlBa3R3UFVQQ05SNHhiY0JBdHVXNXJrRm1KWmtwUHpHdzhjSDZKZXRQMVhSQmJjQkYxZTd0a2JUdm5EUlpUODdUcHhvV29tcWxNekFuWE5Tb2ppUHV2VHhvc2YzZ0ZvQUQ3OUtIYVd4T2t1REdkTEkycEVERTJibHNfV1E?oc=5",
+   "utc": "2026-10-18T04:56:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Antofagasta's Centinela strike ends after deal with unions",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckhuSk5YV05nTjhLZUwxcmNOUTc3MVVpZC1SZFVxYTNTVkVCZ014ZmR3OEdkTW5DS0xvWXhIQmMxdVNlVXNHNGs1Y0c4ekV4SE1ycFlBcnRpOWxFZU5xdGJjeUtoUWtlei1tc251cmU4c3k4YlJHOHlNMlUtYWx1S1BwdHV1M3VsV2xCdkdGR0RIRE1uMXdXVjllQWh2cE5ONXdhZ0RnVFlxMjJaRWd0NVVMMUI5d0k?oc=5",
+   "utc": "2026-10-18T04:37:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
   {
    "title": "AI, climate and private capital reveal Asia's diverging fortunes",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXhkS2ZXZEMybDJSN0lsRTF5MVlDSmtHWTNCMFczUVgxVE9pcHlCNEJGRXZXeEo4ZW5XZ01tODdRMlREZzdtTG5GeEdkVkp4cGl6UjJ5aFBTZXlFNEVCXzBRMVkyZmlwb1I0SkxvbC1MMUVzdlhWZ29TTUZXVEdjcUFRMjQwR0NONEFJZzNyelZTVTJ2VWpkeWtfRQ?oc=5",
    "utc": "2026-10-18T04:21:00Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Manchester City scandal tests Premier League's pull in Asia",
@@ -26,150 +170,6 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzY1MUR2d0tmZzh2blFmTThaa1JDUjFDUnllbjlxRUZ4TUxCOW5qd0VVY0djbkM4TW1nMGtfNndHVkU2c29nSzlqcFkyXzdoVFQzck5OZ3NlTnY5dkRpbUVTaGhzdW9RV2F6NndJX3hhRHVZdmdXRnpVcGJzRGdpWWx6aENNRlFxN2t6VGZOX0pza1I3ZzBOd09udHN6QnBTakE?oc=5",
    "utc": "2026-10-18T04:07:00Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "China’s Anti-Graft Body Investigates Ex-Guangxi Official Huang",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-s-anti-graft-body-investigates-ex-guangxi-official-huang",
-   "utc": "2026-10-18T03:39:38Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-rail-logs-record-3-71-billion-trips-in-first-nine-months",
-   "utc": "2026-10-18T03:34:56Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFZiZFozb1RWTzVBbk4wZU8xMHlSeHhuSmhkMi1FSVhqTTZ5U3BMbF9aaU5fVjRpWnI1MkJTMTZscVcxTWM0YnVFRXFWdXQ2SnpSdVNPVm5LR1QzbVhpQjliR3VNZFl4WXhjODUzbjNZRXg0S0l0al80ZDlwdjc5ejFRU0E3NlJBZm1iOWg3VjhybzNLbWpOelQ4ZDZBWTkxS3Y4Rm9MUm9vTjdfYk9iaVRJd29DSDhMUi1KOGZMcDhzZGs?oc=5",
-   "utc": "2026-10-18T03:18:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Asia meth seizures soar as Myanmar becomes hotbed of production",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ05lbnl1WUlOOWVPaXdkTUJQNXlIVnhwQ2Z6cHdDVmRMZEVuVUdlcW9KTWR6dW9RVUhlUUlaR2NSZGEzUDFfOWRMVmFqSTNaalpka3ZJWG5RMTVnbWlhTzVib2Zic2FZRkd0VWRfZ3k4aldRUF9sWEFzcFNJeENRS0doTF8zQ3FYbVlFcnVqajhrVDNfckxjbU8temJHUWF1VjBJQmlNUFJMVmVRdVJpTw?oc=5",
-   "utc": "2026-10-18T03:08:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Stephen Schwarzman",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwTU5vZThPRTFTSmE3MkFHa1Q0dGJRMUxkZzNuejFtSjNuSW5QcmlQdFNhTlRmZUxMVGplMVpkem1JZlJkTTVfOEhmbE9LcHJ6X2o0QzJaSEFSRlJUX1duUWtvMm9ZX2F2WHY3SXlBSGhpcHNoUlJ3T2lMOHg?oc=5",
-   "utc": "2026-10-18T02:36:42Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5",
-   "utc": "2026-10-18T02:13:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Guyana to Block Vape Product Imports Amid Youth Health Concerns",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/guyana-to-block-vape-product-imports-amid-youth-health-concerns",
-   "utc": "2026-10-18T01:49:34Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Two India ‘Cockroach’ Leaders Set to Be Freed as Protests Spread",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread",
-   "utc": "2026-10-18T01:45:09Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "AI and US-China rivalry put universities to the test: Vanderbilt head",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVU9OU1FCV3pvcW1sa0tOYjJCS1Y1TjFrclhJNkFjYVZ6b1ZvY1I1Tzk0d082NHBrV0ozbjBrWm9hdGhxNXBaVDZ2dnZyVlZ4RkZIVTh1Mk5VbVhva09MY05MOGtjVE9sSktmbnp3MDBKM3JRZ0hrNmFSalNzeGxSWXNzbU9QWEhNN3hQTmg1RDRUM3BWck0taW1wcDNLN254dUxvTU93QWpjbFUyeWprOExVUWJNYmJi?oc=5",
-   "utc": "2026-10-18T01:25:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-   "utc": "2026-10-18T01:06:35Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "On the Ganges, the river sets the itinerary",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMFo0a3FKd0I5VUFaeTMxM09xN3hkdV9HWVJwWldXOFhONkkzdEhYakVTeXJreG9JMUIyU1dDXzB3aHFWWGdyQzFDbzlSYkw1SVlrY3ExTURzbnVBX2V1TG9USFB6QmplblpOSlhVTG9xWWFzTWE0RDI3SWpmZXZDX3BVU1QxT0ViOWh4TlFBcTVxYm5uZHc5b0x3?oc=5",
-   "utc": "2026-10-18T01:01:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years",
-   "utc": "2026-10-18T00:48:28Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Woodside natural gas project unit paused after Greenpeace protest off Western Australia",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEtSYkpzYzU2WUhsb0V2bGwyamh6Z3dVYzZnaThBanotNU0wakx2RHdsLURpNWlTWXpDZllDZUQ1ZktNUThWXzVKWkZ4LVVWSWk2bXBwREd3MGRDelpPRHAtTmxfclh0WG1MQXBZQ01tbWxZa0VhZEFyWWJfdTV6cWpXWDFHb0syMFdTb3NfWl9TcjhzUm9pYUlTbDNVQ0t4RDEwb1RTRi1vVXpIeXh4YmZmN05zNVpHZkNiUi00ZUVheWcwazBhNw?oc=5",
-   "utc": "2026-10-17T23:57:44Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Australian Home Auctions Decline as Rate Hikes Dampen Activity",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-17/australian-home-auctions-decline-as-rate-hikes-dampen-activity",
-   "utc": "2026-10-17T23:57:37Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Australian home prices tumble as tax rules, rate hikes bite",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnE4elNiSUl4N3RITEFLbUJPY09CRFRDRGg1ZUd0MjRSMU9nNk9DNGV2eTd2dG5jTGFjblVTUnQzSmZqWTBPR2VZWVJLQlB5aDVFS0V0b2lnUVpXaW5Xc18zVlRzT3dFMm55Q0ZxLURsMVpUY2REZHhDTTYwV1FHNGRTRC04YUZEMzlaSzFNQlk4VVFiOUlfRVJ1UFBzb21uLW9zNDgzbGxUQ0hG?oc=5",
-   "utc": "2026-10-17T23:52:00Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RPSkdZZ0xrcm1MRkYySnVIVFRmRFN0UXBfV21jVlcxZ2xrUDloZlFYWE1Za0JnRXNHVXdRbWkzSVljckpwSmpUSzFsWHpCcV9YM2RTSGZZNEprQlNkSmFPQlgtYUZCejI3a3BuS2RmUEgwS3JmUUNIbkxvSzJoNUg3ckdsRUxvVE9BdTFBX0NUR3pYcThTQjBUb05tQ1V2QzlUR3JneGU5ZTB2Z0xPTGdUM2lSemFsQmc?oc=5",
-   "utc": "2026-10-17T23:49:37Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Hurricane Trudy gains strength near Mexico's coast, but is expected to weaken by Sunday",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR?oc=5",
-   "utc": "2026-10-17T23:33:43Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "(NANR.N) | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrdW9BTThkRkkwUDRmM09WM1VoelhRWFhINW94MHZzQklicTdQZDgxem9OSVoyMFdfdDg2b281QjU3UWZpcndnbklwVWpXWlZqd3hKOEY3bTlTblcwNjduZURhNA?oc=5",
-   "utc": "2026-10-17T23:20:56Z",
-   "tag": "STOCKS",
    "breaking": false
   }
  ]

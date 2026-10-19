@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T04:50:03Z",
+ "updated": "2026-10-19T10:51:54Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (18)"
+  "Nikkei Asia": "ok (20)"
  },
  "items": [
-  {
-   "title": "India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-   "utc": "2026-10-19T04:46:26Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Indonesia Stocks Sell Off Again. Here's What May Cushion the Market.",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/indonesia-selloff-deepens-what-can-cushion-the-market-video",
-   "utc": "2026-10-19T04:43:15Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
-   "utc": "2026-10-19T04:36:39Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Indonesian wildfires threaten forest carbon projects",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmRqYzdYVE9fZ2FwSlJwLUFlM2dGQUhtSmEzSEs1THhTTlRINnMwUksyUnZ3ZTNqLUNGcUpaTjd2OG1jUFNfS0Y5M2t1Q2pmNzA1SnY5RFBKTG00cnY4YU03c3dCXzJfTkpGQ0s0QTZ2V0lEdHZ2U0xEdVJ5UW5HM3VYY3o5bVJfeUZSd2ctdUlrcGhJLTd4dVY2VDF1a2s?oc=5",
-   "utc": "2026-10-19T04:34:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Markets left to figure out sanctions",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
-   "utc": "2026-10-19T04:31:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Asian Chip Stocks Extend Losses",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/the-asia-trade-10-19-2026-video",
-   "utc": "2026-10-19T04:27:38Z",
-   "tag": "AI",
-   "breaking": true
-  },
   {
    "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
-   "utc": "2026-10-19T04:19:30Z",
+   "utc": "2026-10-19T10:40:39Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "'Where there's smoke there's fire': Why BTIG is sounding the alarm on tech",
+   "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/tech-semiconductor-chips-ai-stocks.html",
-   "utc": "2026-10-19T04:17:15Z",
-   "tag": "MARKETS",
+   "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+   "utc": "2026-10-19T10:37:43Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "French Violence Raises Alert as Protests Flare Across Europe",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/french-violence-raises-alert-as-protests-flare-across-europe",
-   "utc": "2026-10-19T04:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "PIIE’s Lovely on China-US Trade",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/piie-s-lovely-on-china-us-trade-video",
-   "utc": "2026-10-19T04:14:12Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Foxconn, Mitsubishi Electric join forces for global EV push",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcl82TGJqb0p0Z0R5SUhzZXJHOW1ZelgzYVhOSXlRRXFaQmRNWDVmRnU4ZFdIU2Nzc2hIcFZlWFVpR2VGbUpOMnU4RzhTYXR4V2JRYUpHWEFtdkNpLU5JOE12SFZodW04aEF3bXVjUVB3X1JYS21lVmtFRC1ycEowMlN1dU1pXzYwRWJyVXBQQmlQUGRndXZMRWxaTk1XZkFkXzdBekFB?oc=5",
-   "utc": "2026-10-19T04:13:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "China's Growth Rebounds While Home-Price Slump Eases",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/china-s-growth-rebounds-while-home-price-slump-eases-video",
-   "utc": "2026-10-19T04:02:32Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "The UK Shows How AI Could Affect Jobs",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/opinion-the-uk-shows-how-ai-could-affect-jobs-video",
-   "utc": "2026-10-19T04:01:30Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+   "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-   "utc": "2026-10-19T03:56:03Z",
+   "utc": "2026-10-19T10:36:47Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "Indonesian stocks slide to six-year low as MSCI warning weighs",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3339705/indonesian-stocks-slide-to-sixyear-low-as-msci-warning-weighs",
-   "utc": "2026-10-19T03:46:00Z",
+   "title": "French Stocks and Bonds Retreat as Government Comes Under Pressure",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-19/french-stocks-and-bonds-retreat-as-government-comes-under-pressure",
+   "utc": "2026-10-19T10:36:25Z",
    "tag": "STOCKS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+   "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+   "utc": "2026-10-19T10:36:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan’s Electricity Prices Surge 25% as LNG and Coal Costs Soar",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Electricity-Prices-Surge-25-as-LNG-and-Coal-Costs-Soar.html",
+   "utc": "2026-10-19T10:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-   "utc": "2026-10-19T03:36:58Z",
+   "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+   "utc": "2026-10-19T10:26:33Z",
    "tag": "BTC",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Vietnam Plans Index Options for Next Year After FTSE Upgrade",
+   "title": "Kospi Correction Inevitable After Rally, President Lee Says",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/vietnam-plans-index-options-for-next-year-after-ftse-upgrade",
-   "utc": "2026-10-19T03:25:57Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/kospi-correction-inevitable-after-rally-president-lee-says",
+   "utc": "2026-10-19T10:24:46Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+   "title": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
+   "utc": "2026-10-19T10:23:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
-   "utc": "2026-10-19T03:18:51Z",
+   "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+   "utc": "2026-10-19T10:21:39Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Indonesia Said to Meet Monday With MSCI Over Shock Index Threat",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/indonesia-said-to-meet-monday-with-msci-over-shock-index-threat",
-   "utc": "2026-10-19T03:17:53Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
+   "title": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, cites funding shortages",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
-   "utc": "2026-10-19T03:11:00Z",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenIya2dWLVowN3ZJZjB5eXlJekpqc3VCajlVN0N3eldBMzg4d05JSG9MQXVKQWdqbVZRYnZ3VXlVSGktNEE2MndNU1dZX2FFd0YyeW9teDFfN19WNk9RS09rV0JlM2dnbEluVlgydFFJc3QtQ0RNRkRSWkkxV0V6WjNRM21NX0FqRVZLdnp0WWFtNmFWZEh6YUJXXzJRRVU5Sy1MbmtjRm5pc1VVc1daWk9MTmFScG5yRmh4SHZBNno1eUloQXVDRkRVNU5kUQ?oc=5",
+   "utc": "2026-10-19T10:16:52Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "The midterm election outcomes that could shape Trump's final two years",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEV4NHdWNVNlYU41Q0ZMbVJEbGl1bC1Sb3Y1aW9pWE5pR083em1jeXphd1RfSlkxdW4ySzR1ekdpMUNta3JXenJQOGR4VkNMektwRXlhcVRISTZqci1sNDRMYTNzbk5aRWc4WTJKaWZfazFGRXNMdG1fR1BjWnJRdHNoZ3NMWjVMU0tzTTNsNTUyWEhIc0FvN2tleXFlemx6RFBqWE9vRUtFWU91V3JxRHE3UUphdUoyV0E?oc=5",
+   "utc": "2026-10-19T10:16:33Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Cameroon Eurobond Yields Soar as Fitch Downgrade Flags Risks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/cameroon-eurobond-yields-soar-as-fitch-downgrade-flags-risks",
+   "utc": "2026-10-19T10:05:09Z",
    "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Explainer - MSCI's case against Indonesian stocks and the $65 billion fallout",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3339819/explainer-mscis-case-against-indonesian-stocks-and-the-65-billion-fallout",
+   "utc": "2026-10-19T10:04:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+   "utc": "2026-10-19T10:03:47Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Australian lawmaker Helen Haines in critical condition after vehicle attack",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/australian-lawmaker-helen-haines-in-critical-condition-after-vehicle-attack-.html",
+   "utc": "2026-10-19T10:00:15Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+   "utc": "2026-10-19T10:00:01Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
+   "utc": "2026-10-19T09:58:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Spain's rush to clear Ceuta migrant backlog raises rights concerns",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhVRndKQndRWEM0aUtFR1FmbU9HRDRmNFlwWkZtVE9ZdWR6UWp2Z2ZsOGw3b3JDXzZXOVJoelRQa1NIRUFPVmlySWRDTTJfT0theUFWOXFiZGdfLWtRelM3OHNSLVB3SUtvLWZSNVZIaUZkNFN3d3JkbHQxMDRXX19ZT0xkNVd6MmxKQ3kyWV95TWVhcy1qdnVMMWdoblUyaFg5NC14WjB5d1NOZUV1UQ?oc=5",
+   "utc": "2026-10-19T09:57:24Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Citi’s Manthey Sees French Equities Volatile Beyond April Vote",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/citi-s-manthey-sees-french-equities-volatile-beyond-april-vote",
+   "utc": "2026-10-19T09:51:46Z",
+   "tag": "STOCKS",
    "breaking": false
   }
  ]

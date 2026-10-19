@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:19:29Z",
+ "updated": "2026-10-19T04:50:03Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (16)"
+  "Nikkei Asia": "ok (18)"
  },
  "items": [
   {
-   "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
-   "utc": "2026-10-18T23:10:45Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "UK housing market showing signs of mortgage rates impact, Rightmove says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWFjYmdlWlpxc2JxSGc1YnZhM3ptTFp2bHdQbUUwVS1XTnoyeFpMVXh5TjNINy0tWm5hMmViQ2xpdzRFZWRHZjRyMHF4TkhDY0l0ZXhjS2FUTWpaNlpGRjl0ZEFUTm9qR1B2bUpYTnpWQjVNWXhwZDR0OFo0V2RheDdobm5jMGFCNWZuXzQ5WUdzM20xQ2dkd3JkUW9PWFh3Z1JrREVxcnJyNG1UR0M5ZXM0SQ?oc=5",
-   "utc": "2026-10-18T23:06:08Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+   "title": "India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-   "utc": "2026-10-18T23:00:01Z",
+   "utc": "2026-10-19T04:46:26Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Record-Shipping-Costs-Force-Oil-Producers-to-Slash-Prices.html",
-   "utc": "2026-10-18T23:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
-   "utc": "2026-10-18T22:55:48Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "EQT Agrees to Buy Australia’s Cleanaway Waste for $6.5 Billion",
+   "title": "Indonesia Stocks Sell Off Again. Here's What May Cushion the Market.",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/eqt-agrees-to-buy-australia-s-cleanaway-waste-for-6-5-billion",
-   "utc": "2026-10-18T22:47:16Z",
-   "tag": "MARKETS",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-19/indonesia-selloff-deepens-what-can-cushion-the-market-video",
+   "utc": "2026-10-19T04:43:15Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Bangkok meetings offer economic boost",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3339578/bangkok-meetings-offer-economic-boost",
-   "utc": "2026-10-18T22:38:00Z",
-   "tag": "THAI",
-   "breaking": true
-  },
-  {
-   "title": "Flying solo: the trend of living alone",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3339643/flying-solo-the-trend-of-living-alone",
-   "utc": "2026-10-18T22:28:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
-   "utc": "2026-10-18T22:24:51Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Why I am taking the other side of the trade that crushed the market Friday",
+   "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html",
-   "utc": "2026-10-18T22:23:08Z",
+   "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+   "utc": "2026-10-19T04:36:39Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Indonesian wildfires threaten forest carbon projects",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmRqYzdYVE9fZ2FwSlJwLUFlM2dGQUhtSmEzSEs1THhTTlRINnMwUksyUnZ3ZTNqLUNGcUpaTjd2OG1jUFNfS0Y5M2t1Q2pmNzA1SnY5RFBKTG00cnY4YU03c3dCXzJfTkpGQ0s0QTZ2V0lEdHZ2U0xEdVJ5UW5HM3VYY3o5bVJfeUZSd2ctdUlrcGhJLTd4dVY2VDF1a2s?oc=5",
+   "utc": "2026-10-19T04:34:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Computer price hikes continue into 2027",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3339568/computer-price-hikes-continue-into-2027",
-   "utc": "2026-10-18T22:21:00Z",
+   "title": "Markets left to figure out sanctions",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
+   "utc": "2026-10-19T04:31:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "AI agents emerge as growth driver",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3339573/ai-agents-emerge-as-growth-driver",
-   "utc": "2026-10-18T22:19:00Z",
+   "title": "Asian Chip Stocks Extend Losses",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-19/the-asia-trade-10-19-2026-video",
+   "utc": "2026-10-19T04:27:38Z",
    "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Fourth quarter uneasiness",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3339618/fourth-quarter-uneasiness",
-   "utc": "2026-10-18T22:17:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
    "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
-   "utc": "2026-10-18T22:15:10Z",
+   "utc": "2026-10-19T04:19:30Z",
    "tag": "AI",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "US Stock Futures Bounce From Tech Rout, Oil Slips: Markets Wrap",
+   "title": "'Where there's smoke there's fire': Why BTIG is sounding the alarm on tech",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/tech-semiconductor-chips-ai-stocks.html",
+   "utc": "2026-10-19T04:17:15Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "French Violence Raises Alert as Protests Flare Across Europe",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
-   "utc": "2026-10-18T22:07:25Z",
-   "tag": "OIL",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/french-violence-raises-alert-as-protests-flare-across-europe",
+   "utc": "2026-10-19T04:15:00Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
-   "title": "Latest Oil Market News and Analysis for Oct. 19",
+   "title": "PIIE’s Lovely on China-US Trade",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19",
-   "utc": "2026-10-18T22:02:51Z",
-   "tag": "OIL",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/videos/2026-10-19/piie-s-lovely-on-china-us-trade-video",
+   "utc": "2026-10-19T04:14:12Z",
+   "tag": "CHINA",
+   "breaking": true
   },
   {
-   "title": "Australia's Challenger gets takeover bid from unit of Japan's Daiichi Life",
+   "title": "Foxconn, Mitsubishi Electric join forces for global EV push",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0FRMHhObUIxWk5VVlVuOXFBZ2ZNcVRWVWk5NkZSSkdnaG1xdnI2dFRLaXh6SkU0RDFQMDlGMWZqTlh3QlVEQWpJMF9NajdoaGpiN1Y2MDdMU1hxbWZaTVZhMzRTRGdodS1SMEk4VkM2R0F0SE9BcUNkTHV1ekIzemc1UnJsM25zWU9wM3ZFZUVCZ0VsRU1FM1ZFMjhEbllvZnRteFBIY2Q2M1lpMllDTjdBOGh0ems0Sl9YdTFmMA?oc=5",
-   "utc": "2026-10-18T22:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcl82TGJqb0p0Z0R5SUhzZXJHOW1ZelgzYVhOSXlRRXFaQmRNWDVmRnU4ZFdIU2Nzc2hIcFZlWFVpR2VGbUpOMnU4RzhTYXR4V2JRYUpHWEFtdkNpLU5JOE12SFZodW04aEF3bXVjUVB3X1JYS21lVmtFRC1ycEowMlN1dU1pXzYwRWJyVXBQQmlQUGRndXZMRWxaTk1XZkFkXzdBekFB?oc=5",
+   "utc": "2026-10-19T04:13:00Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "IMF/World Bank meetings leave developing countries with more questions than answers",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOek14dnVaSHRfckw2SkxnWUlJb0ZXSmcyeTJuNlpXMjR6bS1WRExZejg4dUFweG5sUmVUTndpeXQ4X0EwVHFwVzIxU24xME1OaHVUeHdqYjJpSGJ3SDB4aVFWcmlNVEZVMHFDbndVSC1aQ0NhY09odHctV2xKWFpwNEtvaDYwakF1WHVOTHJzbVEwRkx6Z214RGk2U0tGUE0xcDNBenZGZU5KSnZLRkVKVUxuTjNYdzhyczBn?oc=5",
-   "utc": "2026-10-18T22:00:51Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "title": "China's Growth Rebounds While Home-Price Slump Eases",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-19/china-s-growth-rebounds-while-home-price-slump-eases-video",
+   "utc": "2026-10-19T04:02:32Z",
+   "tag": "CHINA",
+   "breaking": true
   },
   {
-   "title": "Edgcomb: Stephen Schwarzman (18)",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSEVPZi1adkpMYkhxZURITVl6bmkyaVh3OTgwa1pIWGVKYi01QnZJbElPUXpEOVhqemtCVlNidGx0Y0dhWmdyZTFnV1JhalB5QWs4Um1keWVyUlBBOUpYRTZ3ZjJrbkNsUlRwZVJDYWQ0aUxlSXhscG9NQUdMS0tTd1RQRDFqS0FoZERB?oc=5",
-   "utc": "2026-10-18T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "title": "The UK Shows How AI Could Affect Jobs",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-19/opinion-the-uk-shows-how-ai-could-affect-jobs-video",
+   "utc": "2026-10-19T04:01:30Z",
+   "tag": "AI",
+   "breaking": true
   },
   {
-   "title": "Investment takes centre stage after curtain falls",
+   "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+   "utc": "2026-10-19T03:56:03Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Indonesian stocks slide to six-year low as MSCI warning weighs",
    "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/investment/3339583/investment-takes-centre-stage-after-curtain-falls",
-   "utc": "2026-10-18T21:47:00Z",
+   "link": "https://www.bangkokpost.com/business/general/3339705/indonesian-stocks-slide-to-sixyear-low-as-msci-warning-weighs",
+   "utc": "2026-10-19T03:46:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+   "utc": "2026-10-19T03:36:58Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Vietnam Plans Index Options for Next Year After FTSE Upgrade",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/vietnam-plans-index-options-for-next-year-after-ftse-upgrade",
+   "utc": "2026-10-19T03:25:57Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
+   "utc": "2026-10-19T03:18:51Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Indonesia Said to Meet Monday With MSCI Over Shock Index Threat",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/indonesia-said-to-meet-monday-with-msci-over-shock-index-threat",
+   "utc": "2026-10-19T03:17:53Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
+   "utc": "2026-10-19T03:11:00Z",
+   "tag": "FED",
    "breaking": false
   }
  ]

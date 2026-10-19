@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T10:51:54Z",
+ "updated": "2026-10-19T17:32:17Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (20)"
+  "Nikkei Asia": "ok (28)"
  },
  "items": [
   {
-   "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates",
+   "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "utc": "2026-10-19T17:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Pakistan’s Growth Slows as Hormuz Crisis Hits Industry",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistans-Growth-Slows-as-Hormuz-Crisis-Hits-Industry.html",
+   "utc": "2026-10-19T17:30:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Goldman says play defense with these stocks if you're worried about the AI bull failing",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
-   "utc": "2026-10-19T10:40:39Z",
+   "link": "https://www.cnbc.com/2026/10/19/goldman-says-play-defense-with-these-stocks-if-youre-worried-about-the-ai-bull-failing.html",
+   "utc": "2026-10-19T17:28:11Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+   "title": "Nasdaq gains as investors buy the dip in the AI trade: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
-   "utc": "2026-10-19T10:37:43Z",
-   "tag": "STOCKS",
+   "link": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
+   "utc": "2026-10-19T17:27:26Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+   "title": "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would be",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-   "utc": "2026-10-19T10:36:47Z",
+   "link": "https://www.cnbc.com/investingclub/2026/10/19/apples-iphone-duo-is-proving-the-catalyst-that-jim-cramer-said-it-would-be.html",
+   "utc": "2026-10-19T17:25:20Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "CoreWeave Upgraded to Buy at Goldman on Overblown Debt Worries",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/coreweave-upgraded-to-buy-at-goldman-on-overblown-debt-worries",
+   "utc": "2026-10-19T17:12:49Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Thinking More About AI and the Shale Boom Parallel",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-19/thinking-more-about-ai-and-the-shale-boom-parallel",
+   "utc": "2026-10-19T17:09:52Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "CNBC Points Pro: Which card should I use for an appliance purchase?",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/select/which-credit-card-should-i-use-to-buy-an-appliance/",
+   "utc": "2026-10-19T17:07:12Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+   "utc": "2026-10-19T17:01:26Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "French Stocks and Bonds Retreat as Government Comes Under Pressure",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-10-19/french-stocks-and-bonds-retreat-as-government-comes-under-pressure",
-   "utc": "2026-10-19T10:36:25Z",
-   "tag": "STOCKS",
+   "title": "BoE looks into claim Barclays private credit exposure misrepresented, FT reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSUFpLTRDXzBZLUNxdTJiY29fNlNnSjgzdWRIMmZISEtvUUtrSU1pUTBtX2U0NGExZFhTajAwUUgwYVh6WXVWSktYNGItbDg1VUdhOFVDc2VqX2g2SW1jZzFrY3NrclU2U3NMMF8yLW1SeS0yaWdRNnRZeUdzRFdOT01reC1WaDY3NkFNZDFwcVRRQXhqS2NYZE04VXRFVlNsTlI2VURYOGVXVG5lWU9XazlkcjNockRpRlJUcVhaZEEyUl9E?oc=5",
+   "utc": "2026-10-19T17:01:18Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+   "title": "Micron and other chip stocks spring back to life after bruising selloff",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-   "utc": "2026-10-19T10:36:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japan’s Electricity Prices Surge 25% as LNG and Coal Costs Soar",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Electricity-Prices-Surge-25-as-LNG-and-Coal-Costs-Soar.html",
-   "utc": "2026-10-19T10:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
-   "utc": "2026-10-19T10:26:33Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Kospi Correction Inevitable After Rally, President Lee Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/kospi-correction-inevitable-after-rally-president-lee-says",
-   "utc": "2026-10-19T10:24:46Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
-   "utc": "2026-10-19T10:23:00Z",
-   "tag": "STOCKS",
+   "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+   "utc": "2026-10-19T16:59:00Z",
+   "tag": "AI",
    "breaking": true
   },
   {
    "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-   "utc": "2026-10-19T10:21:39Z",
+   "utc": "2026-10-19T16:58:20Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, cites funding shortages",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenIya2dWLVowN3ZJZjB5eXlJekpqc3VCajlVN0N3eldBMzg4d05JSG9MQXVKQWdqbVZRYnZ3VXlVSGktNEE2MndNU1dZX2FFd0YyeW9teDFfN19WNk9RS09rV0JlM2dnbEluVlgydFFJc3QtQ0RNRkRSWkkxV0V6WjNRM21NX0FqRVZLdnp0WWFtNmFWZEh6YUJXXzJRRVU5Sy1MbmtjRm5pc1VVc1daWk9MTmFScG5yRmh4SHZBNno1eUloQXVDRkRVNU5kUQ?oc=5",
-   "utc": "2026-10-19T10:16:52Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "The midterm election outcomes that could shape Trump's final two years",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEV4NHdWNVNlYU41Q0ZMbVJEbGl1bC1Sb3Y1aW9pWE5pR083em1jeXphd1RfSlkxdW4ySzR1ekdpMUNta3JXenJQOGR4VkNMektwRXlhcVRISTZqci1sNDRMYTNzbk5aRWc4WTJKaWZfazFGRXNMdG1fR1BjWnJRdHNoZ3NMWjVMU0tzTTNsNTUyWEhIc0FvN2tleXFlemx6RFBqWE9vRUtFWU91V3JxRHE3UUphdUoyV0E?oc=5",
-   "utc": "2026-10-19T10:16:33Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Cameroon Eurobond Yields Soar as Fitch Downgrade Flags Risks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/cameroon-eurobond-yields-soar-as-fitch-downgrade-flags-risks",
-   "utc": "2026-10-19T10:05:09Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Explainer - MSCI's case against Indonesian stocks and the $65 billion fallout",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3339819/explainer-mscis-case-against-indonesian-stocks-and-the-65-billion-fallout",
-   "utc": "2026-10-19T10:04:00Z",
+   "title": "Stocks making the biggest moves midday: Sandisk, Marvell, Datadog, Cleveland-Cliffs, Amazon & more",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-midday-sndk-mrvl-ddog-clf-amzn.html",
+   "utc": "2026-10-19T16:56:45Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+   "title": "Hedge Funds Cut Tech at Fastest Pace in a Decade, Goldman Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/hedge-funds-cut-tech-at-fastest-pace-in-a-decade-goldman-says",
+   "utc": "2026-10-19T16:53:40Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "FTSE 100 ends lower after three sessions of gains, on weakness in banking, mining stocks",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSktyR2k0NjJYQ3VQZDQyUy13dHpIbV9MWTU1QVU4ZmNnaHRyVGxlZWdVUUoxXzFKLTVJNlhGX3hvOVoxd0JpYzVYNWhZcWVaMEVQMWE5bzdScWVhX2szZFg4aEFlUXlhRmlhUzlqSUh0dnJqaDV6aERFdWFReEZyMDNjSlA3LURlWVNMVmVR?oc=5",
+   "utc": "2026-10-19T16:49:19Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-   "utc": "2026-10-19T10:03:47Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Australian lawmaker Helen Haines in critical condition after vehicle attack",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/australian-lawmaker-helen-haines-in-critical-condition-after-vehicle-attack-.html",
-   "utc": "2026-10-19T10:00:15Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-   "utc": "2026-10-19T10:00:01Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
-   "utc": "2026-10-19T09:58:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Spain's rush to clear Ceuta migrant backlog raises rights concerns",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhVRndKQndRWEM0aUtFR1FmbU9HRDRmNFlwWkZtVE9ZdWR6UWp2Z2ZsOGw3b3JDXzZXOVJoelRQa1NIRUFPVmlySWRDTTJfT0theUFWOXFiZGdfLWtRelM3OHNSLVB3SUtvLWZSNVZIaUZkNFN3d3JkbHQxMDRXX19ZT0xkNVd6MmxKQ3kyWV95TWVhcy1qdnVMMWdoblUyaFg5NC14WjB5d1NOZUV1UQ?oc=5",
-   "utc": "2026-10-19T09:57:24Z",
+   "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+   "utc": "2026-10-19T16:47:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Citi’s Manthey Sees French Equities Volatile Beyond April Vote",
+   "title": "Avis Budget (CAR) Stock Crashes as 600% Short Squeeze Rally Fully Unwinds",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/citi-s-manthey-sees-french-equities-volatile-beyond-april-vote",
-   "utc": "2026-10-19T09:51:46Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/avis-budget-car-stock-crashes-as-600-short-squeeze-rally-fully-unwinds",
+   "utc": "2026-10-19T16:45:14Z",
    "tag": "STOCKS",
-   "breaking": false
+   "breaking": true
+  },
+  {
+   "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+   "utc": "2026-10-19T16:42:14Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+   "utc": "2026-10-19T16:42:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
+   "utc": "2026-10-19T16:35:00Z",
+   "tag": "STOCKS",
+   "breaking": true
   }
  ]
 }

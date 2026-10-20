@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T22:25:49Z",
+ "updated": "2026-10-20T01:52:58Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -13,162 +13,162 @@
  },
  "items": [
   {
-   "title": "US Stock Futures Edge Higher After Chipmaker Rally: Markets Wrap",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/stock-market-today-dow-s-p-live-updates",
-   "utc": "2026-10-19T22:09:31Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Latest Oil Market News and Analysis for Oct. 20",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20",
-   "utc": "2026-10-19T22:04:11Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "UK Pays Record Sums to Balance Grid as Transmission Falls Behind",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/UK-Pays-Record-Sums-to-Balance-Grid-as-Transmission-Falls-Behind.html",
-   "utc": "2026-10-19T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "EOP: Stephen Schwarzman (19)",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEtIaENWMFp3MHpwTGN5Mi1kQTI1cWFVZ2wydXV2VXRneS0zV2NUZzNnc0JOeTNUOG9TaEx0aEFPYW4tcVlHY3FiMk1qT3pJTDlRRVBrbFl3bUVGQXAwbUx5eEtpSVpHbl9NWU1VVndFWU9WVUVzQTZkNnlrV0FLT2VwSVNoZw?oc=5",
-   "utc": "2026-10-19T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
-   "utc": "2026-10-19T21:58:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Alberta votes on leaving Canada; separatist movement likely to outlast expected defeat",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVhpOEEtQU9ScjZPUU5YUnZfaG9LVXh6VHlxYzBrbzJzSGlzc2kweEZqMDZZMGpwNFNSQUtvNmF1bnVidmFNdU5ELUR5MTVaLTNhaTUwdTB3Rnd2cUhOM0ZIQ0k3TTd3VTFucWc4clltY3M4YnNrTGMzcnY0R2dmaXdZQnUxbEQ1eHd1ai1ldV9EUXQ3QTNlRXUwWjZWQlVEUWFCTmVYR05fYXFTbVdidElWcHoyV1RVYWdJVmZPbHA3Q1NheEZjd09B?oc=5",
-   "utc": "2026-10-19T21:39:43Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "When should you dump your target-date funds?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
-   "utc": "2026-10-19T21:37:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
-   "utc": "2026-10-19T21:36:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "How the Buffett Kids Will Shape a $150 Billion Legacy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/how-the-buffett-kids-will-shape-a-150-billion-legacy-video",
-   "utc": "2026-10-19T21:35:07Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "utc": "2026-10-19T21:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Oil tanker rate surge pushes Asia, Europe refiners into the red",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWURLaFJ2VFEwQ0Itbm1SbEFiWGxEQkVCWlVjc2ZpRjQ2RmxmVmw4NlI0VlJzMkstR2RXVDlfX2FIWDB0QThHZlNLUUwyZjZBWHI5NWZIY0lrT1B5b1RGZVAxdkZ5RnpIVkY5b1BQc2pJcGxnU1UyN2NxcFZYVFowejF2Z2M3a1lSLTJwY0hsdXlFcmF6NDlnbERiaEtGNEFINlNGcQ?oc=5",
-   "utc": "2026-10-19T21:30:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "US officials plan to travel to Norway for Ukraine talks, sources say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOE4zYUpvQklLdjJ2UnU4NHpYZV9xempmUGVUdnAtOG5KS0dWbXhhb0EzV0M5UDNaUHRYNnY3ZFZuZjVfUDNkWnliYUVDa1R2OFpybEU1eVB6bkpyX3lwSW1uV3ZzVjRYaHNlX3pkelptSkhfTE05TkFlaTI4OUFlZGdBTG96SkxSYmFpSEFETGFkVHBCTlBqZFhDRmVpNjZZTGNRQjJxM0ROdw?oc=5",
-   "utc": "2026-10-19T21:25:20Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-   "utc": "2026-10-19T21:15:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Germany's Merz urges AI investment ahead of Nvidia deal",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT09KR2R3TjktZGltSk9PMGtKcGVMeFBuSmR5eTVkMERSbkVuc0d5bGhnanJ2WloyWUtULU1PTkFVQlNhaklmWmJESHF2cEV0Q01YQ3NBb3RxWklLQlNLelBEMzVBSF9nZ09Uc0FjLUhHUmhOeUF1Z0pObndUclVjT0s2Q3Fka2Z6dWltWC1MQ0g5cmo0V1dUeFY0M3hEOE5aSzV3RjdZZ2JFUTU4TEE?oc=5",
-   "utc": "2026-10-19T21:11:49Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Micron and other chip stocks spring back to life after bruising selloff",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-   "utc": "2026-10-19T21:06:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Japan launches spacecraft to Mars moons in mission to retrieve soil samples",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTm5UZ2dRTkNaTzY1aFdqc3daVEhUcWRZRlFXLVFOemJ2WkVQbjUyaVhJYzdROVd1NksyUEtNNkw2VTdXSlNWeERTTnRPcnlHM2tuQTdqT3NBdGpNWFVFYWc2Q1dLRDJva0w1V2hXVXNLZUxvZmp6ajZuZEZHcDBfSTZFMWszeXJDQnJYZF96M1poeHAxWjdPZlNWSGRpZGRmaXJoSGNkalFyajZXeWtpRUFicnAtSzA?oc=5",
-   "utc": "2026-10-19T21:06:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+   "title": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-   "utc": "2026-10-19T21:05:20Z",
-   "tag": "AI",
-   "breaking": false
+   "link": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
+   "utc": "2026-10-20T01:52:05Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
-   "title": "SpaceX earnings will be all about AI — for better or for worse",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
-   "utc": "2026-10-19T21:02:00Z",
-   "tag": "AI",
-   "breaking": false
+   "title": "Australia has deep-tech innovation 'in spades,' says startup incubator CEO",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNWZqTVFwcEpudExGTmFBdDRYWVFXQlB5T0hCcWdIbU51bFBjUzBmVGFSVWZlUFpvVkM0TFJtcGFpZ0hGT2dRbVluUDRQNmczOWU1Njd0ZzFER3N6VnhpaVhVZ1ZsZVFwLWZ5b1lPeUxIc1RVbzJvVWxqbTlPNGg0OWc2dGFBcXF5Q0JFcElSR3BGa1Z6a3I4TXlqeVYyUnNMSzRrTUdpamtKWXF1TUI3eFVaMVV0dw?oc=5",
+   "utc": "2026-10-20T01:31:00Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
-   "title": "Data centres and AI to fuel digital investment boom",
+   "title": "Takaichi Reaffirms No Deficit Bonds to Fund Food Sales Tax Cut",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-20/takaichi-reaffirms-no-deficit-bonds-to-fund-food-sales-tax-cut",
+   "utc": "2026-10-20T01:04:02Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Egco increases stake in US power plant",
    "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3339988/data-centres-and-ai-to-fuel-digital-investment-boom",
-   "utc": "2026-10-19T21:02:00Z",
+   "link": "https://www.bangkokpost.com/business/general/3340088/egco-increases-stake-in-us-power-plant",
+   "utc": "2026-10-20T01:04:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures rise slightly after tech shares rebound to start the week: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+   "utc": "2026-10-20T01:00:55Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Malaysia’s Anwar Says No Financial Support Agreed for AirAsia",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-20/malaysia-s-anwar-says-no-financial-support-agreed-for-airasia",
+   "utc": "2026-10-20T00:57:46Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "How SoftBank plans to power its AI ambitions",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVF1RDNnMVBGYkRXcW81bzd2c2ZvWEN6dEQ3cE9zVkd4aWNhZWh6bGxrSkhaWFVZcHk1c0ptX2dFSVFNZV9ZZHY1RzlJWDRiWjFONjJ4djJqa0Fua2NURy1pdkd4ZmNaR1ptN242QkMxaGpCSGZNOUFlbXhCUWYyZGNpVkY0WnFlSkotbU45YUYydi1oZ3R3VEhjXzVQcWQ2VmlaUG1SclZVeUU?oc=5",
+   "utc": "2026-10-20T00:54:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Robot Wars – How China Has the Robotics Industry in Its Grip",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html",
+   "utc": "2026-10-20T00:41:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Philippines set to build 'sponge cities' after devastating floods",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWp4a25lRExzZU11NHM0M1o3Z1gwOGJuWkFWYVJnT0FKNFpBUU9zLTBRckdwS05ONXJyM3RnN3M5WGdkSk04Wm5jVXZZS1c5R3o4RFZOMWh5MzNzdC1UbzF6V3ltbmVDWUphOUlXUDIzd2lDVmVhX1haTmJEVFAteXBBSlN1bHIxcGczTHVXZldSNEFzRWJxSzRkWUhfbTYyYkFGQzJDbmpJVXFDR0E?oc=5",
+   "utc": "2026-10-20T00:37:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Treasuries Losing Luster as Hedge Tool, Citi Australia CEO Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-losing-luster-as-hedge-tool-citi-australia-ceo-says",
+   "utc": "2026-10-20T00:34:32Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "Three big takeaways from the IMF-World Bank meetings",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+   "utc": "2026-10-20T00:33:34Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Rest of the World",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMXFSX2EzTjlUb3I1VlJhVTVacGVabWFPVERQRU1peU5NRFNlY2ZaRWM2NmhBZkNNMTdod0dKVnlMc3JfcFEtUWNvT1lTRlRKRGVzUmtqaXJyTTJIVkxN?oc=5",
+   "utc": "2026-10-20T00:13:25Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "BDMS invests in gene therapy",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3339923/bdms-invests-in-gene-therapy",
+   "utc": "2026-10-20T00:07:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "French Protests Taper Off as Officials Admit Failure",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-20/french-protests-taper-off-as-officials-admit-failure-video",
+   "utc": "2026-10-20T00:00:15Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path",
+   "utc": "2026-10-19T23:55:45Z",
+   "tag": "GOLD",
+   "breaking": false
+  },
+  {
+   "title": "AI content risks losing copyright protection",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3340123/ai-content-risks-losing-copyright-protection",
+   "utc": "2026-10-19T23:34:00Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-   "utc": "2026-10-19T21:00:02Z",
+   "title": "Nasdaq climbs as chip and AI-linked stocks bounce back",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
+   "utc": "2026-10-19T23:31:42Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "COMMENTARY: Ballooning global imbalances risk amplifying messy AI unwind: McGeever",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkJXWk93aWxuTEM4NmVkd2VjSlgtREktVkNGRDBOcnZlV0p5OXZVNUh2VlNnaXZfWlFSWkdoSXN3V2tZVHdCNFlyWjkwQUV1Y3E2SElJeE00Rzh5Wlp4VUxnQVZLTEhOS0lEUnZfbm9pdW5BQkZIV2NaMXNSb1BpS3J6bDE4NVgydFZRejg0MDRJN1RtdGRBR3hoc3JidlR6WlZsTDgtRkxMU3FjQVkyWWROVl9HVC1faHlRRDNnbS1IeXFwZ0pReDNLcGxmMVd0SThKTQ?oc=5",
+   "utc": "2026-10-19T23:30:20Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5",
+   "utc": "2026-10-19T23:18:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Trump open to idea of joint meeting with Xi, Putin next month",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDVCRHZIaExvYmF4b2JfV1RoVC1WLXRuMmhDY04tcXBuYjhHVjEwejRvSGhha2RCUzZjamhrRkx4SFpHa01zY2oyYTZvN19qaWROcWZnN2sxLWlqd0lFamlPWnAtc21abDNFX3VrenBJajJwNm1GcUV0OU5Bam9IOTFhMFpId1hRYTFRQzRXTnFYWGptWWhDRC16Ym80U1QzcUxnU3FodTlFLUFUdkxlb2pQTmVDX2Va?oc=5",
+   "utc": "2026-10-19T23:17:00Z",
    "tag": "MARKETS",
    "breaking": false
   }

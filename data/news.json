@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T22:21:48Z",
+ "updated": "2026-10-20T23:59:07Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (26)"
+  "Nikkei Asia": "ok (27)"
  },
  "items": [
   {
-   "title": "Latest Oil Market News and Analysis for Oct. 21",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21",
-   "utc": "2026-10-20T22:04:52Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
+   "title": "Japan exports post huge miss in September as growth slows to 16.7%",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
-   "utc": "2026-10-20T22:03:15Z",
+   "link": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+   "utc": "2026-10-20T23:55:22Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-   "utc": "2026-10-20T22:01:11Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Europe’s Power Demand Returns to Growth",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Power-Demand-Returns-to-Growth.html",
-   "utc": "2026-10-20T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "The Main Event -- Going Public: Stephen Schwarzman (20)",
+   "title": "Kazakh borrowers issue billions of yuan debt as China ties tighten",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmtBbGp3TGpfTW5DUnZONzBLdkQtc3JpY0lLV1RvYVFFbUYxTm15d1Yyd2ZJZnJLZGRZdGRaalRUdDlDMXhmWjFHamJ3V0dTWkxjc28zRzNTSmxYVTBLQUpLYVFfekFIQXRCeDZNUUtyMFdBVGtnNFlSY1Uwc2RaemFCUmU5TkVfcUItMDZzNEtoeHlxX25abE9qWWZZWk1oYmZnQV9B?oc=5",
-   "utc": "2026-10-20T22:00:00Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2FiTEdBV1dpNDRiOG0wS1ZVX2VGOW5JdE5TTFZ2V21RZG9TMmxieE8xM0E1eWRReDI3VzBLeHVfRDR4TUlUV3RDUUFHVDRNUjJVMm9ZQWhyaW5pTDgwUnptWHpMSXgweWtpeVNkLUhEX2tPZnBobkllZE16S0RfWWhBc0lhWUtzempVZmFUUHFHd2xoYXRsYXo0SDMyUlVNTk1MaWlsc1U3S3FsUkpMY0pBNA?oc=5",
+   "utc": "2026-10-20T23:52:00Z",
+   "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Elon Musk says SpaceX and Tesla discussing possible merger",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODJDU255QUVqUW1vYjZlUnExTkJYWDM5ZmxOTW5ya2taQ3o4ZjN5VXhMNmJHcXRkbGx1Y3VJMXhDSGI1SGQ5Y0V2ZjFJaGhleXJXU1NKbWhqOW5tS1J3YW1pVFJYa3AzbEMxNkZyQ1pKckF6d1pCMGFBdU9vU0oyVGRsUTZ3eWtMa1pwVkNDWElDMVM1U0F6RGpFbGh0cXFhM0dod3hQWnU2SS05OXdKbnJYTENfd0NER2JQbw?oc=5",
-   "utc": "2026-10-20T21:59:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Netflix Sales Growth to Decline for Fourth Quarter in a Row",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-20/netflix-forecasts-adds-to-growth-concerns-video",
-   "utc": "2026-10-20T21:58:49Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
-   "utc": "2026-10-20T21:47:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Surprising Netflix Is Not Looking at Other Opportunities: Fmr. Content Director",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-20/-netflix-is-lazy-former-content-dir-on-its-strategy-video",
-   "utc": "2026-10-20T21:36:41Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+   "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-   "utc": "2026-10-20T21:30:06Z",
+   "link": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
+   "utc": "2026-10-20T23:34:14Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "PGIM’s Bryan McDonnell on 2027 Real Estate Credit Market",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-20/pgim-s-bryan-mcdonnell-on-2027-real-estate-credit-market-video",
-   "utc": "2026-10-20T21:29:42Z",
+   "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+   "utc": "2026-10-20T23:32:16Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1daQTg5d2lOVXV0UWliMmhhb1R0c0MtbVFIRDRTSFBQWmZub2dmNFRTZmJWSDB3ME4xS1U3WnZ3MEtCamNScWNyYy13R25hSEdqOFdCcVZUNFRsTU1MMGxLWVRpSHB5NWxKTkR3d01Bb2ZheGg2WUtRTmZKZTJ4WHJKNG8tc0ZpSEZWUDNYLU5wUTJObmhqTU9wV3dWMVR4NXNqNVBpMUZGejV6M2hSZWZCUVZ5TGFJQUpNcUFkUnZ1dnVoajdBay1B?oc=5",
+   "utc": "2026-10-20T23:30:21Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Petrobras-Deepwater-Push-Sets-Off-a-Race-for-Offshore-Vessels.html",
+   "utc": "2026-10-20T23:30:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
-   "utc": "2026-10-20T21:12:21Z",
-   "tag": "AI",
-   "breaking": false
+   "title": "Thais still keen on overseas travel despite uncertainty",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3340634/thais-still-keen-on-overseas-travel-despite-uncertainty",
+   "utc": "2026-10-20T23:11:00Z",
+   "tag": "THAI",
+   "breaking": true
   },
   {
-   "title": "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Energy-Costs-Are-Driving-US-Inflation-and-Wages-Arent-Keeping-Up.html",
-   "utc": "2026-10-20T21:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China's medtech scores bright prognosis as it gains on global brands",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVEtM3F0WVJqSm9icUVRN24ya0VINXBlejFRUXRmRXBOM1ZJVnlqLUw3WXI1Q3F1elVFYlNoZlVtc3BCakVxYWlReEM5TXBMcnBiNmxvdTFTNEpIa3dMczFJWUVySlVvTmZwQkZ4V3lGY2p1bklELTlrcE9yeHEtN0ZoWXhDWGxoYlNDMVN5ei1tWWh4VFc3Y09nakpCQmU5NVFWUzJmYy02M3lrcTV1X3FnZE5qQQ?oc=5",
-   "utc": "2026-10-20T21:00:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
+   "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-   "utc": "2026-10-20T20:57:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+   "utc": "2026-10-20T23:10:00Z",
+   "tag": "AI",
+   "breaking": true
   },
   {
-   "title": "API: Crude, Product Inventories Continue to Draw",
+   "title": "Betagro gains major stake in Freshket",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3340704/betagro-gains-major-stake-in-freshket",
+   "utc": "2026-10-20T23:01:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Crude-Products-Continu-eto-Draw.html",
-   "utc": "2026-10-20T20:56:00Z",
-   "tag": "OIL",
+   "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Mexico-Poised-to-Approve-125-Billion-in-Renewable-Energy-Projects.html",
+   "utc": "2026-10-20T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Pilot prevails in pay dispute against Thai Vietjet Air",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3340794/pilot-prevails-in-pay-dispute-against-thai-vietjet-air",
+   "utc": "2026-10-20T22:56:00Z",
+   "tag": "THAI",
    "breaking": false
   },
   {
    "title": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
    "source": "CNBC Markets",
    "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html",
-   "utc": "2026-10-20T20:54:20Z",
+   "utc": "2026-10-20T22:55:27Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-   "utc": "2026-10-20T20:54:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-   "utc": "2026-10-20T20:45:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "The Social Security Administration corrected millions of records, and says there’s more to fix",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-social-security-administration-corrected-millions-of-records-and-says-theres-more-to-fix-e57185bd?mod=mw_rss_topstories",
-   "utc": "2026-10-20T20:26:00Z",
+   "title": "CP Group exposition showcases 90 projects",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3340539/cp-group-exposition-showcases-90-projects",
+   "utc": "2026-10-20T22:53:00Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Ride-hailing fees earn public consultation",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3340534/ridehailing-fees-earn-public-consultation",
+   "utc": "2026-10-20T22:47:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "utc": "2026-10-20T22:45:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "High prices create multiple crises",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3340689/high-prices-create-multiple-crises",
+   "utc": "2026-10-20T22:44:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Investors await data centre rules",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3340699/investors-await-data-centre-rules",
+   "utc": "2026-10-20T22:42:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "US coaxing refiners to produce more diesel as prices surge, energy officials say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQczBsMElXTmU3MHktOU91QkR4MWE3TkFnNjZ2OWNZakp6bFIzY1NGZk1nQWJ6T1h0VjExcUlBOUVHSW9KekVmVW54X25HNjBZM1oxOWUxN05pLXRZOENWOG53QnBqTEwwODlIWGVseU1PQjlHU1VzdERwclZGS0JxSi1PdFlmd2RjbE56c0E1RER2VzhYTExoY0gzaFdZUmdsb1REMHRCNTBERFYyT1NDNlZJWFg2enJvaV9rOEtoeDZqSXl6a2JRX3hR?oc=5",
+   "utc": "2026-10-20T22:38:22Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+   "utc": "2026-10-20T22:37:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+   "utc": "2026-10-20T22:33:00Z",
+   "tag": "STOCKS",
    "breaking": false
   }
  ]

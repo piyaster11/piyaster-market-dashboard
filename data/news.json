@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T07:41:02Z",
+ "updated": "2026-10-20T13:37:32Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (27)"
+  "Nikkei Asia": "ok (30)"
  },
  "items": [
   {
-   "title": "Horizons Middle East & Africa 10/20/2026 (Video)",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-20/horizons-middle-east-africa-10-20-2026-video",
-   "utc": "2026-10-20T07:31:28Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "- Nikkei Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFd6eHRrSjJVSkVfSm91RDg0MXhQQk11UHUyMzVaN0dTLV9QZ1REN08yUHRHZ0lCVUlCSjlodjBTUWh3T0taOVRWR0RJbDRDdEVfSXlqYmdnai1mTHhqaS1mb0NheDZPd2dXMW50cXNDU3oyU09VZmZtZUV0MHJJT1JjM3JiRGNRSnUyTEhqTHA3eXdDSGhfdllBYnJhMjNXRWl5anVmWFh2NmJ1OFd3ZlY4Wmc?oc=5",
-   "utc": "2026-10-20T07:23:04Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "What’s making Europe so angry? The frustration behind the protests",
+   "title": "Nasdaq falls as AI trade resumes sell-off: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
-   "utc": "2026-10-20T07:19:16Z",
-   "tag": "MARKETS",
+   "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+   "utc": "2026-10-20T13:35:44Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn’t buying it yet",
+   "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
+   "utc": "2026-10-20T13:35:08Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/daily-open-tech-stocks-rebound.html",
-   "utc": "2026-10-20T07:14:27Z",
-   "tag": "MARKETS",
+   "link": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+   "utc": "2026-10-20T13:34:57Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Nomura Fined Over Late Commerzbank Disclosures in UniCredit Bid",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/nomura-fined-over-late-commerzbank-disclosures-in-unicredit-bid",
-   "utc": "2026-10-20T07:06:16Z",
-   "tag": "MARKETS",
+   "title": "SpaceX earnings live updates: Starlink growth, AI revenue and merger speculation",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+   "utc": "2026-10-20T13:33:06Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "The ‘Four Ps’ of business are not wrong, just outnumbered",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3340343/the-four-ps-of-business-are-not-wrong-just-outnumbered",
-   "utc": "2026-10-20T07:02:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
+   "title": "HSBC Sees Hormuz Becoming Redundant in Five Years",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-LNG-Prices-Surge-Past-30-as-Middle-East-Shipping-Risks-Escalate.html",
-   "utc": "2026-10-20T07:00:00Z",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/HSBC-Sees-Hormuz-Becoming-Redundant-in-Five-Years.html",
+   "utc": "2026-10-20T13:30:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Meet the college students trying to reverse an obscure ban on trading onion futures",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/meet-the-college-students-trying-to-reverse-an-obscure-ban-on-trading-onion-futures-16b8dc5d?mod=mw_rss_topstories",
+   "utc": "2026-10-20T13:24:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "UK Jobs Data, Wage Growth Strengthens Case for Bank of England Rate Hikes",
+   "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+   "utc": "2026-10-20T13:23:15Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+   "utc": "2026-10-20T13:18:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+   "utc": "2026-10-20T13:15:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+   "utc": "2026-10-20T13:11:31Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Wall St set for lower open as oil prices jump, earnings in focus",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
+   "utc": "2026-10-20T13:08:25Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "utc": "2026-10-20T13:05:15Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+   "utc": "2026-10-20T13:03:55Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+   "utc": "2026-10-20T13:03:31Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Higher Ed Startup Uses AI to Help Colleges Prevent Dropouts",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/uk-jobs-data-wage-growth-strengthens-case-for-bank-of-england-rate-hikes",
-   "utc": "2026-10-20T06:51:05Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-20/higher-ed-startup-uses-ai-to-help-colleges-prevent-dropouts",
+   "utc": "2026-10-20T13:00:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+   "utc": "2026-10-20T12:58:24Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Meta is back on offense — and its next move could signal higher AI spending across Big Tech",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/meta-is-back-on-offense-and-its-next-move-could-signal-higher-ai-spending-across-big-tech-09682ff7?mod=mw_rss_topstories",
+   "utc": "2026-10-20T12:56:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+   "utc": "2026-10-20T12:50:24Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
+   "utc": "2026-10-20T12:45:30Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+   "utc": "2026-10-20T12:43:49Z",
    "tag": "FED",
    "breaking": true
-  },
-  {
-   "title": "Stephen Roach: Xi May Be Using Trump Summits to Buy Time",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-20/stephen-roach-xi-may-be-using-trump-summits-to-buy-time-video-mvgbogtq",
-   "utc": "2026-10-20T06:48:57Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
-   "utc": "2026-10-20T06:25:26Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Brent crude holds near five-month high on Middle East tension",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/brent-crude-holds-near-five-month-high-middle-east-tension.html",
-   "utc": "2026-10-20T06:20:02Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "China’s Huachen Energy Risks Fresh Default on $956 Million Debt",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/china-s-huachen-energy-risks-fresh-default-on-956-million-debt",
-   "utc": "2026-10-20T06:03:19Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "As France erupts, Europe's far right gains from fuel-price anger ahead of elections",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjl5VmhGZHJ1bUpkdTZQaElWaWdnSFVkdVVQOUhzN3Y5SFdHOUNpS0pXQjdsVzhMVm1YOFloSGhHbnNYT29talRoNVJWdlRDVkdCM0VQV1lIUFZSbG9MV3BPclJZZGVtejVZZFNNWWxxdFdBM19hS2pQdHNaWm51MFRFNWxLWHdzVzQwN1ZxeXFFenRPREthTGRvVW9vOW1JdWpiVWk0VE9UQWlqRnZJWEJ0aFVYd2xBR3FN?oc=5",
-   "utc": "2026-10-20T06:02:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "GCash Parent Mynt Open to Acquisitions After IPO",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-20/gcash-parent-mynt-open-to-acquisitions-after-ipo-video",
-   "utc": "2026-10-20T05:57:58Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
-   "utc": "2026-10-20T05:57:34Z",
-   "tag": "GOLD",
-   "breaking": false
-  },
-  {
-   "title": "FTSE 100 Live: UK Stocks Set to Fall as European Weakness Extends",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/live-blog/2026-10-20/ftse-100-live-pound-uk-jobs-data-bonds-gilts-ai-stocks-french-protests-what-s-moving-uk-markets-right-now-markets-today",
-   "utc": "2026-10-20T05:47:08Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "South Korea to pull more Ukraine embassy staff after POW dispute",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmhoSjZnaVJGWEpDQlNXcXFkRFRCeVRZNTBWVWY1bE9wbXhuQjZrdmQyQ2VtWmNjbUZicE05SXdxUjhFckJRSFJCS0FnUlppUzhaa3ZXNEtrYTRadnhRMXdFM3hZLTBNRk1fRWtCTzBTMVlfYV96akhJZk55OTd4bUtoMnh6cGtHX3hySmtacGd0bUVZUk5tZzBzVkhrT2Q3TzdJcnJ6bmp2YVVDTU16RnE5YlZBbFU3bzE1dkNmVDU3MHhvamZB?oc=5",
-   "utc": "2026-10-20T05:47:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Mitsubishi Motors bets on distinctive vehicles as path diverges from Nissan",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0x0Z0djZnlWQnl2V1pUMjM5T2k2YU9iRE9sQlc3dm10X05vc25MLWZ0Z1BxQUVJWEpET2pPa2pGX2JFekVQU3NOMVktWlZvaG9wR1lhTkh6UEJtU1BibDR1Tm5oTE54V194cmJfV2N5WmVvbFg5M3RUMHhzRU55TWlxRXBYc2E0OTZEVGxzcm81N1llLW1nNGk5RUY4aUFfVHl1OGgxaXRLdGotLURUblhGMmZaRWh5VTNGTQ?oc=5",
-   "utc": "2026-10-20T05:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Saudi Arabia Postpones FII Summit After Houthi Attacks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-20/saudi-arabia-postpones-fii-summit-after-houthi-attacks-video",
-   "utc": "2026-10-20T05:29:49Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "The world’s finance chiefs see new risks — and less China angst",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-   "utc": "2026-10-20T05:27:53Z",
-   "tag": "CHINA",
-   "breaking": false
   }
  ]
 }

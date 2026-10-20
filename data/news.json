@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:37:32Z",
+ "updated": "2026-10-20T18:30:43Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (30)"
+  "Nikkei Asia": "ok (29)"
  },
  "items": [
   {
-   "title": "Nasdaq falls as AI trade resumes sell-off: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
-   "utc": "2026-10-20T13:35:44Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+   "title": "OKX-ICE’s Andrew Cuomo calls issuer objections a ‘natural response’ to tokenized stock plans",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
-   "utc": "2026-10-20T13:35:08Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
-   "utc": "2026-10-20T13:34:57Z",
+   "link": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+   "utc": "2026-10-20T18:26:29Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "SpaceX earnings live updates: Starlink growth, AI revenue and merger speculation",
+   "title": "The healthcare sector is getting a safe haven boost. This one stock is headed for a long-term breakout",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
-   "utc": "2026-10-20T13:33:06Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "HSBC Sees Hormuz Becoming Redundant in Five Years",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/HSBC-Sees-Hormuz-Becoming-Redundant-in-Five-Years.html",
-   "utc": "2026-10-20T13:30:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Meet the college students trying to reverse an obscure ban on trading onion futures",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/meet-the-college-students-trying-to-reverse-an-obscure-ban-on-trading-onion-futures-16b8dc5d?mod=mw_rss_topstories",
-   "utc": "2026-10-20T13:24:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-   "utc": "2026-10-20T13:23:15Z",
+   "link": "https://www.cnbc.com/2026/10/20/the-healthcare-sector-is-getting-a-safe-haven-boost-this-one-stock-is-headed-for-a-long-term-breakout.html",
+   "utc": "2026-10-20T18:25:50Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-   "utc": "2026-10-20T13:18:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-   "utc": "2026-10-20T13:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
+   "title": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-   "utc": "2026-10-20T13:11:31Z",
-   "tag": "OIL",
+   "link": "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html",
+   "utc": "2026-10-20T18:23:54Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Wall St set for lower open as oil prices jump, earnings in focus",
+   "title": "Salesforce deepens AI bets with $5.66 billion Braze deal",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
-   "utc": "2026-10-20T13:08:25Z",
-   "tag": "OIL",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5",
+   "utc": "2026-10-20T18:16:00Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-   "utc": "2026-10-20T13:05:15Z",
+   "title": "Here’s what matters most to Tesla investors heading into earnings",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
+   "utc": "2026-10-20T18:15:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+   "title": "Traders are betting Netflix's stock drama may be coming to an end",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-   "utc": "2026-10-20T13:03:55Z",
-   "tag": "AI",
+   "link": "https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html",
+   "utc": "2026-10-20T18:10:13Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-   "utc": "2026-10-20T13:03:31Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Higher Ed Startup Uses AI to Help Colleges Prevent Dropouts",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/higher-ed-startup-uses-ai-to-help-colleges-prevent-dropouts",
-   "utc": "2026-10-20T13:00:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
-   "utc": "2026-10-20T12:58:24Z",
+   "title": "Iran's Pezeshkian discusses mediation efforts with Pakistan army chief",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDA0LXdKQ2pTQUlaNE15eWttYVFtZE5MaThWbWdyU3VxSUhmUnMtNnlrU1VxOGg3SmtWUllES2oxM1kxTjROM250QUEtdTdxYXpjc2tpSDVmaDk0bUgydVc3N3lmUHZBMkhqa1ljTGRNcHhRQ0dhMFdlaG56RDZacDY0cjJtbVBFQUVKSFd3bkNaZFd6TC1wM3VwM2Ftb29TT1U0d2hmR2FUME1iSGt0RXREWjRUdXdCcTFOMmVtRzJ3LUZBSkE?oc=5",
+   "utc": "2026-10-20T18:10:00Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "Meta is back on offense — and its next move could signal higher AI spending across Big Tech",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/meta-is-back-on-offense-and-its-next-move-could-signal-higher-ai-spending-across-big-tech-09682ff7?mod=mw_rss_topstories",
-   "utc": "2026-10-20T12:56:00Z",
-   "tag": "AI",
+   "title": "Stocks try for back-to-back gains — plus, Qnity gets iPhone business from Apple",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/20/stocks-try-for-back-to-back-gains-plus-qnity-gets-iphone-business-from-apple.html",
+   "utc": "2026-10-20T18:09:42Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+   "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-   "utc": "2026-10-20T12:50:24Z",
+   "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+   "utc": "2026-10-20T18:06:13Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+   "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
-   "utc": "2026-10-20T12:45:30Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-   "utc": "2026-10-20T12:43:49Z",
+   "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+   "utc": "2026-10-20T18:03:57Z",
    "tag": "FED",
    "breaking": true
+  },
+  {
+   "title": "Iran tells Pakistan army chief no talks with Washington until demands are met",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp4OTg0VV9xWWllLUJGYkFkdw?oc=5",
+   "utc": "2026-10-20T18:02:06Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Geothermal Just Proved It Can Compete With Solar-Plus-Storage on Price",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Geothermal-Just-Proved-It-Can-Compete-With-Solar-Plus-Storage-on-Price.html",
+   "utc": "2026-10-20T18:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "SpaceX earnings live updates: Here's why analysts are bullish ahead of the report",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+   "utc": "2026-10-20T17:57:36Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Stands-Firm-Against-Arctic-Oil-and-Gas-Drilling-Despite-Energy-Crisis.html",
+   "utc": "2026-10-20T17:45:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
+   "utc": "2026-10-20T17:38:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
+   "utc": "2026-10-20T17:29:38Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Dow jumps 500 points as solid earnings, falling crude oil stir rebound: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+   "utc": "2026-10-20T17:24:24Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Revolut says some services back online after outage",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmtxU0llU3JkYXhuYzZuM21hMGt6cUxxM1JWMWFPRWF1UzdGQzk4MlVhYnV1OTRKU0pOWFhTNmRqdzJZU3lzeXF5MWE1RWoweEVSam9rMG5pQUFnX05INkFZRHpVWnVWRUY3OEF0U0NTS2lPVkc5aUNYSFkxbXc5OHFMV1psOTg3LWM1ZC1obkdUZDFTbTVrSXIyblZicFZqNmVCTW1LNA?oc=5",
+   "utc": "2026-10-20T17:21:50Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Japan brokerage IwaiCosmo hit with unauthorized trades in cyberattack",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVFoQ25GejFqMWRCQVRmX0o2WmZTRTJIYkFta0JtV2lFdmxsVHNpZ3N3R3paY0JVSkRZSWljaF9CODlLY2dOU3JvMzV4ZXMtQnlCc3k1ekVhVWZTUkExMmY0bFdCejJNTjNMSm55N0FJRGR3S3ZJU1QtSUtuVnQ5dTZNajlLQ0lnN3A2VGZBN2psNUFEZWV2LXp1ckxfdUYxVUNIbFNGUzdnSFJaZHlET2tMMmN3OW5H?oc=5",
+   "utc": "2026-10-20T17:18:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+   "utc": "2026-10-20T17:15:00Z",
+   "tag": "MARKETS",
+   "breaking": false
   }
  ]
 }

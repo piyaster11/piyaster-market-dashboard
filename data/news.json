@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T01:52:58Z",
+ "updated": "2026-10-20T07:41:02Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (31)"
+  "Nikkei Asia": "ok (27)"
  },
  "items": [
   {
-   "title": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
-   "utc": "2026-10-20T01:52:05Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Australia has deep-tech innovation 'in spades,' says startup incubator CEO",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNWZqTVFwcEpudExGTmFBdDRYWVFXQlB5T0hCcWdIbU51bFBjUzBmVGFSVWZlUFpvVkM0TFJtcGFpZ0hGT2dRbVluUDRQNmczOWU1Njd0ZzFER3N6VnhpaVhVZ1ZsZVFwLWZ5b1lPeUxIc1RVbzJvVWxqbTlPNGg0OWc2dGFBcXF5Q0JFcElSR3BGa1Z6a3I4TXlqeVYyUnNMSzRrTUdpamtKWXF1TUI3eFVaMVV0dw?oc=5",
-   "utc": "2026-10-20T01:31:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Takaichi Reaffirms No Deficit Bonds to Fund Food Sales Tax Cut",
+   "title": "Horizons Middle East & Africa 10/20/2026 (Video)",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/takaichi-reaffirms-no-deficit-bonds-to-fund-food-sales-tax-cut",
-   "utc": "2026-10-20T01:04:02Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-20/horizons-middle-east-africa-10-20-2026-video",
+   "utc": "2026-10-20T07:31:28Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Egco increases stake in US power plant",
+   "title": "- Nikkei Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFd6eHRrSjJVSkVfSm91RDg0MXhQQk11UHUyMzVaN0dTLV9QZ1REN08yUHRHZ0lCVUlCSjlodjBTUWh3T0taOVRWR0RJbDRDdEVfSXlqYmdnai1mTHhqaS1mb0NheDZPd2dXMW50cXNDU3oyU09VZmZtZUV0MHJJT1JjM3JiRGNRSnUyTEhqTHA3eXdDSGhfdllBYnJhMjNXRWl5anVmWFh2NmJ1OFd3ZlY4Wmc?oc=5",
+   "utc": "2026-10-20T07:23:04Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "What’s making Europe so angry? The frustration behind the protests",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
+   "utc": "2026-10-20T07:19:16Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn’t buying it yet",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/daily-open-tech-stocks-rebound.html",
+   "utc": "2026-10-20T07:14:27Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nomura Fined Over Late Commerzbank Disclosures in UniCredit Bid",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-20/nomura-fined-over-late-commerzbank-disclosures-in-unicredit-bid",
+   "utc": "2026-10-20T07:06:16Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "The ‘Four Ps’ of business are not wrong, just outnumbered",
    "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3340088/egco-increases-stake-in-us-power-plant",
-   "utc": "2026-10-20T01:04:00Z",
+   "link": "https://www.bangkokpost.com/business/general/3340343/the-four-ps-of-business-are-not-wrong-just-outnumbered",
+   "utc": "2026-10-20T07:02:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Stock futures rise slightly after tech shares rebound to start the week: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
-   "utc": "2026-10-20T01:00:55Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Malaysia’s Anwar Says No Financial Support Agreed for AirAsia",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/malaysia-s-anwar-says-no-financial-support-agreed-for-airasia",
-   "utc": "2026-10-20T00:57:46Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "How SoftBank plans to power its AI ambitions",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVF1RDNnMVBGYkRXcW81bzd2c2ZvWEN6dEQ3cE9zVkd4aWNhZWh6bGxrSkhaWFVZcHk1c0ptX2dFSVFNZV9ZZHY1RzlJWDRiWjFONjJ4djJqa0Fua2NURy1pdkd4ZmNaR1ptN242QkMxaGpCSGZNOUFlbXhCUWYyZGNpVkY0WnFlSkotbU45YUYydi1oZ3R3VEhjXzVQcWQ2VmlaUG1SclZVeUU?oc=5",
-   "utc": "2026-10-20T00:54:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Robot Wars – How China Has the Robotics Industry in Its Grip",
+   "title": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html",
-   "utc": "2026-10-20T00:41:00Z",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-LNG-Prices-Surge-Past-30-as-Middle-East-Shipping-Risks-Escalate.html",
+   "utc": "2026-10-20T07:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "UK Jobs Data, Wage Growth Strengthens Case for Bank of England Rate Hikes",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/uk-jobs-data-wage-growth-strengthens-case-for-bank-of-england-rate-hikes",
+   "utc": "2026-10-20T06:51:05Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Stephen Roach: Xi May Be Using Trump Summits to Buy Time",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-20/stephen-roach-xi-may-be-using-trump-summits-to-buy-time-video-mvgbogtq",
+   "utc": "2026-10-20T06:48:57Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+   "utc": "2026-10-20T06:25:26Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Brent crude holds near five-month high on Middle East tension",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/brent-crude-holds-near-five-month-high-middle-east-tension.html",
+   "utc": "2026-10-20T06:20:02Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "China’s Huachen Energy Risks Fresh Default on $956 Million Debt",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-20/china-s-huachen-energy-risks-fresh-default-on-956-million-debt",
+   "utc": "2026-10-20T06:03:19Z",
    "tag": "CHINA",
    "breaking": false
   },
   {
-   "title": "Philippines set to build 'sponge cities' after devastating floods",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWp4a25lRExzZU11NHM0M1o3Z1gwOGJuWkFWYVJnT0FKNFpBUU9zLTBRckdwS05ONXJyM3RnN3M5WGdkSk04Wm5jVXZZS1c5R3o4RFZOMWh5MzNzdC1UbzF6V3ltbmVDWUphOUlXUDIzd2lDVmVhX1haTmJEVFAteXBBSlN1bHIxcGczTHVXZldSNEFzRWJxSzRkWUhfbTYyYkFGQzJDbmpJVXFDR0E?oc=5",
-   "utc": "2026-10-20T00:37:00Z",
+   "title": "As France erupts, Europe's far right gains from fuel-price anger ahead of elections",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjl5VmhGZHJ1bUpkdTZQaElWaWdnSFVkdVVQOUhzN3Y5SFdHOUNpS0pXQjdsVzhMVm1YOFloSGhHbnNYT29talRoNVJWdlRDVkdCM0VQV1lIUFZSbG9MV3BPclJZZGVtejVZZFNNWWxxdFdBM19hS2pQdHNaWm51MFRFNWxLWHdzVzQwN1ZxeXFFenRPREthTGRvVW9vOW1JdWpiVWk0VE9UQWlqRnZJWEJ0aFVYd2xBR3FN?oc=5",
+   "utc": "2026-10-20T06:02:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Treasuries Losing Luster as Hedge Tool, Citi Australia CEO Says",
+   "title": "GCash Parent Mynt Open to Acquisitions After IPO",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/treasuries-losing-luster-as-hedge-tool-citi-australia-ceo-says",
-   "utc": "2026-10-20T00:34:32Z",
-   "tag": "FED",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-20/gcash-parent-mynt-open-to-acquisitions-after-ipo-video",
+   "utc": "2026-10-20T05:57:58Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Three big takeaways from the IMF-World Bank meetings",
+   "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-   "utc": "2026-10-20T00:33:34Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Rest of the World",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMXFSX2EzTjlUb3I1VlJhVTVacGVabWFPVERQRU1peU5NRFNlY2ZaRWM2NmhBZkNNMTdod0dKVnlMc3JfcFEtUWNvT1lTRlRKRGVzUmtqaXJyTTJIVkxN?oc=5",
-   "utc": "2026-10-20T00:13:25Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "BDMS invests in gene therapy",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3339923/bdms-invests-in-gene-therapy",
-   "utc": "2026-10-20T00:07:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "French Protests Taper Off as Officials Admit Failure",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-20/french-protests-taper-off-as-officials-admit-failure-video",
-   "utc": "2026-10-20T00:00:15Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path",
-   "utc": "2026-10-19T23:55:45Z",
+   "link": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
+   "utc": "2026-10-20T05:57:34Z",
    "tag": "GOLD",
    "breaking": false
   },
   {
-   "title": "AI content risks losing copyright protection",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3340123/ai-content-risks-losing-copyright-protection",
-   "utc": "2026-10-19T23:34:00Z",
-   "tag": "AI",
+   "title": "FTSE 100 Live: UK Stocks Set to Fall as European Weakness Extends",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/live-blog/2026-10-20/ftse-100-live-pound-uk-jobs-data-bonds-gilts-ai-stocks-french-protests-what-s-moving-uk-markets-right-now-markets-today",
+   "utc": "2026-10-20T05:47:08Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Nasdaq climbs as chip and AI-linked stocks bounce back",
+   "title": "South Korea to pull more Ukraine embassy staff after POW dispute",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
-   "utc": "2026-10-19T23:31:42Z",
-   "tag": "AI",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmhoSjZnaVJGWEpDQlNXcXFkRFRCeVRZNTBWVWY1bE9wbXhuQjZrdmQyQ2VtWmNjbUZicE05SXdxUjhFckJRSFJCS0FnUlppUzhaa3ZXNEtrYTRadnhRMXdFM3hZLTBNRk1fRWtCTzBTMVlfYV96akhJZk55OTd4bUtoMnh6cGtHX3hySmtacGd0bUVZUk5tZzBzVkhrT2Q3TzdJcnJ6bmp2YVVDTU16RnE5YlZBbFU3bzE1dkNmVDU3MHhvamZB?oc=5",
+   "utc": "2026-10-20T05:47:00Z",
+   "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "COMMENTARY: Ballooning global imbalances risk amplifying messy AI unwind: McGeever",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkJXWk93aWxuTEM4NmVkd2VjSlgtREktVkNGRDBOcnZlV0p5OXZVNUh2VlNnaXZfWlFSWkdoSXN3V2tZVHdCNFlyWjkwQUV1Y3E2SElJeE00Rzh5Wlp4VUxnQVZLTEhOS0lEUnZfbm9pdW5BQkZIV2NaMXNSb1BpS3J6bDE4NVgydFZRejg0MDRJN1RtdGRBR3hoc3JidlR6WlZsTDgtRkxMU3FjQVkyWWROVl9HVC1faHlRRDNnbS1IeXFwZ0pReDNLcGxmMVd0SThKTQ?oc=5",
-   "utc": "2026-10-19T23:30:20Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5",
-   "utc": "2026-10-19T23:18:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Trump open to idea of joint meeting with Xi, Putin next month",
+   "title": "Mitsubishi Motors bets on distinctive vehicles as path diverges from Nissan",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDVCRHZIaExvYmF4b2JfV1RoVC1WLXRuMmhDY04tcXBuYjhHVjEwejRvSGhha2RCUzZjamhrRkx4SFpHa01zY2oyYTZvN19qaWROcWZnN2sxLWlqd0lFamlPWnAtc21abDNFX3VrenBJajJwNm1GcUV0OU5Bam9IOTFhMFpId1hRYTFRQzRXTnFYWGptWWhDRC16Ym80U1QzcUxnU3FodTlFLUFUdkxlb2pQTmVDX2Va?oc=5",
-   "utc": "2026-10-19T23:17:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0x0Z0djZnlWQnl2V1pUMjM5T2k2YU9iRE9sQlc3dm10X05vc25MLWZ0Z1BxQUVJWEpET2pPa2pGX2JFekVQU3NOMVktWlZvaG9wR1lhTkh6UEJtU1BibDR1Tm5oTE54V194cmJfV2N5WmVvbFg5M3RUMHhzRU55TWlxRXBYc2E0OTZEVGxzcm81N1llLW1nNGk5RUY4aUFfVHl1OGgxaXRLdGotLURUblhGMmZaRWh5VTNGTQ?oc=5",
+   "utc": "2026-10-20T05:30:00Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Saudi Arabia Postpones FII Summit After Houthi Attacks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-20/saudi-arabia-postpones-fii-summit-after-houthi-attacks-video",
+   "utc": "2026-10-20T05:29:49Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "The world’s finance chiefs see new risks — and less China angst",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+   "utc": "2026-10-20T05:27:53Z",
+   "tag": "CHINA",
    "breaking": false
   }
  ]

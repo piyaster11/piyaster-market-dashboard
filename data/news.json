@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:30:43Z",
+ "updated": "2026-10-20T22:21:48Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (29)"
+  "Nikkei Asia": "ok (26)"
  },
  "items": [
   {
-   "title": "OKX-ICE’s Andrew Cuomo calls issuer objections a ‘natural response’ to tokenized stock plans",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
-   "utc": "2026-10-20T18:26:29Z",
-   "tag": "STOCKS",
+   "title": "Latest Oil Market News and Analysis for Oct. 21",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21",
+   "utc": "2026-10-20T22:04:52Z",
+   "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "The healthcare sector is getting a safe haven boost. This one stock is headed for a long-term breakout",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/the-healthcare-sector-is-getting-a-safe-haven-boost-this-one-stock-is-headed-for-a-long-term-breakout.html",
-   "utc": "2026-10-20T18:25:50Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html",
-   "utc": "2026-10-20T18:23:54Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Salesforce deepens AI bets with $5.66 billion Braze deal",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5",
-   "utc": "2026-10-20T18:16:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Here’s what matters most to Tesla investors heading into earnings",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
-   "utc": "2026-10-20T18:15:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Traders are betting Netflix's stock drama may be coming to an end",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html",
-   "utc": "2026-10-20T18:10:13Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Iran's Pezeshkian discusses mediation efforts with Pakistan army chief",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDA0LXdKQ2pTQUlaNE15eWttYVFtZE5MaThWbWdyU3VxSUhmUnMtNnlrU1VxOGg3SmtWUllES2oxM1kxTjROM250QUEtdTdxYXpjc2tpSDVmaDk0bUgydVc3N3lmUHZBMkhqa1ljTGRNcHhRQ0dhMFdlaG56RDZacDY0cjJtbVBFQUVKSFd3bkNaZFd6TC1wM3VwM2Ftb29TT1U0d2hmR2FUME1iSGt0RXREWjRUdXdCcTFOMmVtRzJ3LUZBSkE?oc=5",
-   "utc": "2026-10-20T18:10:00Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Stocks try for back-to-back gains — plus, Qnity gets iPhone business from Apple",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/20/stocks-try-for-back-to-back-gains-plus-qnity-gets-iphone-business-from-apple.html",
-   "utc": "2026-10-20T18:09:42Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
-   "utc": "2026-10-20T18:06:13Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-   "utc": "2026-10-20T18:03:57Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Iran tells Pakistan army chief no talks with Washington until demands are met",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp4OTg0VV9xWWllLUJGYkFkdw?oc=5",
-   "utc": "2026-10-20T18:02:06Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Geothermal Just Proved It Can Compete With Solar-Plus-Storage on Price",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Geothermal-Just-Proved-It-Can-Compete-With-Solar-Plus-Storage-on-Price.html",
-   "utc": "2026-10-20T18:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "SpaceX earnings live updates: Here's why analysts are bullish ahead of the report",
+   "title": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
-   "utc": "2026-10-20T17:57:36Z",
-   "tag": "STOCKS",
+   "utc": "2026-10-20T22:03:15Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
+   "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+   "utc": "2026-10-20T22:01:11Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Europe’s Power Demand Returns to Growth",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Stands-Firm-Against-Arctic-Oil-and-Gas-Drilling-Despite-Energy-Crisis.html",
-   "utc": "2026-10-20T17:45:00Z",
-   "tag": "OIL",
+   "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Power-Demand-Returns-to-Growth.html",
+   "utc": "2026-10-20T22:00:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
+   "title": "The Main Event -- Going Public: Stephen Schwarzman (20)",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmtBbGp3TGpfTW5DUnZONzBLdkQtc3JpY0lLV1RvYVFFbUYxTm15d1Yyd2ZJZnJLZGRZdGRaalRUdDlDMXhmWjFHamJ3V0dTWkxjc28zRzNTSmxYVTBLQUpLYVFfekFIQXRCeDZNUUtyMFdBVGtnNFlSY1Uwc2RaemFCUmU5TkVfcUItMDZzNEtoeHlxX25abE9qWWZZWk1oYmZnQV9B?oc=5",
+   "utc": "2026-10-20T22:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Elon Musk says SpaceX and Tesla discussing possible merger",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODJDU255QUVqUW1vYjZlUnExTkJYWDM5ZmxOTW5ya2taQ3o4ZjN5VXhMNmJHcXRkbGx1Y3VJMXhDSGI1SGQ5Y0V2ZjFJaGhleXJXU1NKbWhqOW5tS1J3YW1pVFJYa3AzbEMxNkZyQ1pKckF6d1pCMGFBdU9vU0oyVGRsUTZ3eWtMa1pwVkNDWElDMVM1U0F6RGpFbGh0cXFhM0dod3hQWnU2SS05OXdKbnJYTENfd0NER2JQbw?oc=5",
+   "utc": "2026-10-20T21:59:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Netflix Sales Growth to Decline for Fourth Quarter in a Row",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-20/netflix-forecasts-adds-to-growth-concerns-video",
+   "utc": "2026-10-20T21:58:49Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
-   "utc": "2026-10-20T17:38:00Z",
+   "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
+   "utc": "2026-10-20T21:47:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Surprising Netflix Is Not Looking at Other Opportunities: Fmr. Content Director",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-20/-netflix-is-lazy-former-content-dir-on-its-strategy-video",
+   "utc": "2026-10-20T21:36:41Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+   "utc": "2026-10-20T21:30:06Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
-   "utc": "2026-10-20T17:29:38Z",
-   "tag": "STOCKS",
+   "title": "PGIM’s Bryan McDonnell on 2027 Real Estate Credit Market",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-20/pgim-s-bryan-mcdonnell-on-2027-real-estate-credit-market-video",
+   "utc": "2026-10-20T21:29:42Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+   "utc": "2026-10-20T21:12:21Z",
+   "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Dow jumps 500 points as solid earnings, falling crude oil stir rebound: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
-   "utc": "2026-10-20T17:24:24Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Revolut says some services back online after outage",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmtxU0llU3JkYXhuYzZuM21hMGt6cUxxM1JWMWFPRWF1UzdGQzk4MlVhYnV1OTRKU0pOWFhTNmRqdzJZU3lzeXF5MWE1RWoweEVSam9rMG5pQUFnX05INkFZRHpVWnVWRUY3OEF0U0NTS2lPVkc5aUNYSFkxbXc5OHFMV1psOTg3LWM1ZC1obkdUZDFTbTVrSXIyblZicFZqNmVCTW1LNA?oc=5",
-   "utc": "2026-10-20T17:21:50Z",
+   "title": "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Energy-Costs-Are-Driving-US-Inflation-and-Wages-Arent-Keeping-Up.html",
+   "utc": "2026-10-20T21:00:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Japan brokerage IwaiCosmo hit with unauthorized trades in cyberattack",
+   "title": "China's medtech scores bright prognosis as it gains on global brands",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVFoQ25GejFqMWRCQVRmX0o2WmZTRTJIYkFta0JtV2lFdmxsVHNpZ3N3R3paY0JVSkRZSWljaF9CODlLY2dOU3JvMzV4ZXMtQnlCc3k1ekVhVWZTUkExMmY0bFdCejJNTjNMSm55N0FJRGR3S3ZJU1QtSUtuVnQ5dTZNajlLQ0lnN3A2VGZBN2psNUFEZWV2LXp1ckxfdUYxVUNIbFNGUzdnSFJaZHlET2tMMmN3OW5H?oc=5",
-   "utc": "2026-10-20T17:18:00Z",
-   "tag": "WAR",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVEtM3F0WVJqSm9icUVRN24ya0VINXBlejFRUXRmRXBOM1ZJVnlqLUw3WXI1Q3F1elVFYlNoZlVtc3BCakVxYWlReEM5TXBMcnBiNmxvdTFTNEpIa3dMczFJWUVySlVvTmZwQkZ4V3lGY2p1bklELTlrcE9yeHEtN0ZoWXhDWGxoYlNDMVN5ei1tWWh4VFc3Y09nakpCQmU5NVFWUzJmYy02M3lrcTV1X3FnZE5qQQ?oc=5",
+   "utc": "2026-10-20T21:00:00Z",
+   "tag": "CHINA",
    "breaking": false
   },
   {
-   "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+   "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-   "utc": "2026-10-20T17:15:00Z",
+   "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
+   "utc": "2026-10-20T20:57:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "API: Crude, Product Inventories Continue to Draw",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Crude-Products-Continu-eto-Draw.html",
+   "utc": "2026-10-20T20:56:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
+   "source": "CNBC Markets",
+   "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html",
+   "utc": "2026-10-20T20:54:20Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+   "utc": "2026-10-20T20:54:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+   "utc": "2026-10-20T20:45:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "The Social Security Administration corrected millions of records, and says there’s more to fix",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-social-security-administration-corrected-millions-of-records-and-says-theres-more-to-fix-e57185bd?mod=mw_rss_topstories",
+   "utc": "2026-10-20T20:26:00Z",
    "tag": "MARKETS",
    "breaking": false
   }

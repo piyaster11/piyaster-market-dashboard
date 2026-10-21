@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T13:53:19Z",
+ "updated": "2026-10-21T18:42:56Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (27)"
+  "Nikkei Asia": "ok (29)"
  },
  "items": [
   {
-   "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
+   "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-   "utc": "2026-10-21T13:52:43Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-   "utc": "2026-10-21T13:48:00Z",
+   "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+   "utc": "2026-10-21T18:38:51Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
-   "utc": "2026-10-21T13:44:35Z",
+   "title": "Waiting For 'Dam To Break' On Exits: HIG CEO Schwartz",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/waiting-for-dam-to-break-on-exits-hig-ceo-schwartz-video",
+   "utc": "2026-10-21T18:34:15Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Government websites go dark as vulnerabilities in programming language send shudder across internet",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
-   "utc": "2026-10-21T13:44:19Z",
+   "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
+   "utc": "2026-10-21T18:32:12Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
+   "title": "Meta earnings live updates: AI spending, ad revenue and stock reaction",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
-   "utc": "2026-10-21T13:44:12Z",
+   "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+   "utc": "2026-10-21T18:28:04Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
+   "title": "Nasdaq gains as Musk's SpaceX and Tesla revive tech rally: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-   "utc": "2026-10-21T13:44:01Z",
-   "tag": "WAR",
+   "link": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+   "utc": "2026-10-21T18:26:57Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Surging Yields Bring Biggest Spate of Debt Sale Delays This Year",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/surging-yields-bring-biggest-spate-of-debt-sale-delays-this-year",
-   "utc": "2026-10-21T13:36:51Z",
+   "title": "Egypt rejects Libyan approval of maritime deal with Turkey",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSlBhSWRTTVJEdVc1eUlhVmRvUExLdXVQS084ZFhadGdEOEV4aXZPZjZLUjltWUdRdzFhY3VFVFNGV1gwNkFtclVzZDZaYUZSdzBrUFB4amNkNmc4VlRPY0hLRjdnQVp2X0NrX2NJQXZuZTJ2SFNwSzBmX2RVZ2NGOG9ZRFRlVmVvV2lsZklZblMxQTVYUTJFZ1REbGJqX3JlNW9LRUYtY094MmppTEtjM3gyUUFfOTRCZ2ZUOQ?oc=5",
+   "utc": "2026-10-21T18:14:30Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Capital One delivered a strong quarter. Why we're not declaring victory just yet",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/21/capital-one-delivered-a-strong-quarter-why-were-not-declaring-victory-just-yet.html",
+   "utc": "2026-10-21T18:06:31Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "GM aims to develop vehicles in as little as two years with AI, software push",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
+   "utc": "2026-10-21T18:03:55Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Washington’s Central Asia Charm Offensive Yields $12 Billion in Deals",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Geopolitics/Asia/Washingtons-Central-Asia-Charm-Offensive-Yields-12-Billion-in-Deals.html",
+   "utc": "2026-10-21T18:00:00Z",
    "tag": "FED",
    "breaking": true
   },
   {
-   "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+   "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-   "utc": "2026-10-21T13:30:57Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "United ‘Still Solidly Profitable’ as Fuels Costs Rise, CEO Kirby Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/united-till-solidly-profitable-as-fuels-costs-rise-ceo-video",
-   "utc": "2026-10-21T13:30:36Z",
+   "link": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
+   "utc": "2026-10-21T17:51:21Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs",
+   "title": "Rest of the World",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMXFSX2EzTjlUb3I1VlJhVTVacGVabWFPVERQRU1peU5NRFNlY2ZaRWM2NmhBZkNNMTdod0dKVnlMc3JfcFEtUWNvT1lTRlRKRGVzUmtqaXJyTTJIVkxN?oc=5",
+   "utc": "2026-10-21T17:48:04Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+   "utc": "2026-10-21T17:45:23Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Legendary Entertainment Makes Bid for Lionsgate Studios",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/legendary-entertainment-makes-bid-for-lionsgate-studios-video",
+   "utc": "2026-10-21T17:39:43Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "University of Chicago Professor on What Made the US Economy Thrive",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/odd-lots-what-made-the-us-economy-thrive-video",
+   "utc": "2026-10-21T17:38:30Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Trade-Deficit-Doubles-as-Hormuz-Crisis-Hikes-Energy-Import-Costs.html",
-   "utc": "2026-10-21T13:30:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "How to save on hotels and flights ahead of the most expensive holiday travel season in 10 years",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/select/how-to-save-money-on-2026-holiday-travel/",
-   "utc": "2026-10-21T13:28:36Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Fãs de música brasileira entram na divisão política",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/fas-de-musica-brasileira-entram-na-divisao-politica-video",
-   "utc": "2026-10-21T13:20:15Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Merz Urges Trump to Invite South Africa to G-20 Summit in Miami",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/merz-urges-trump-to-invite-south-africa-to-g-20-summit-in-miami",
-   "utc": "2026-10-21T13:18:08Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
-   "utc": "2026-10-21T13:13:48Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Our top 10 things to watch in the stock market Wednesday",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/21/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-   "utc": "2026-10-21T13:08:24Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/openai-chatgpt-ads-26-countries.html",
-   "utc": "2026-10-21T13:00:01Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Ukraine Welcomes Restored U.S. Intelligence Amid Russian Attacks",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Welcomes-Restored-US-Intelligence-Amid-Russian-Attacks.html",
-   "utc": "2026-10-21T13:00:00Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Oil prices little changed as traders assess Middle East developments",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-   "utc": "2026-10-21T12:48:55Z",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Crude-Exports-Hit-Five-Month-High-as-Production-Falls-to-Record-Low.html",
+   "utc": "2026-10-21T17:30:00Z",
    "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+   "title": "Argentina’s Bond Selloff Blindsides Bulls as Election Fears Grow",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/argentina-s-bond-selloff-blindsides-bulls-as-election-fears-grow",
+   "utc": "2026-10-21T17:28:46Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
-   "utc": "2026-10-21T12:43:49Z",
+   "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+   "utc": "2026-10-21T17:27:34Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Micron won't pursue 4F-squared memory chips despite CXMT's advance: CTO",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa3V1OEtCUExXSVBXVk82MW8zWDVHQnhTV2hCVnBMTk0wYi1JNHR4dHd5WGN1eFNEaUt5LVFHbHlFOGdGWmItTHBxYXlOZ1J6NF9OQWYtWV9kRjUyTVZwZU5Jem5zaWlLa18yTHBJcUdZXzBwbGZWNlQ1Z3BISEdSaUFYVEdmaXg2aVpUdFF6dnpZa3BtbmpOWkRQR2RVQVQxelRIb0ExZVVKdmpjZjJmUTVzWWNMWF82ZzJMbmR5MmY?oc=5",
+   "utc": "2026-10-21T17:27:00Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "End of an era? How the Hermes Birkin bag is losing its scarcity appeal",
+   "title": "Odd Lots: Why Politics Is Economists’ Blindspot",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/odd-lots-why-politics-is-economists-blindspot",
+   "utc": "2026-10-21T17:23:44Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Brookings paper offers broad plan to shrink Fed balance sheet",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkV0VkJwLW56SEZOb1R0N0xhSXJmcGtRRkZhOUk3dTdWQlB4NjFVVU1vak9vYXFnTDduRXlJdmMyRUtpMHp2Mm1MbXVRdlFUVG5ydk1NZ3IxTU1acTRmRUtLOHc4ZW91RGFUYzdTbGdabmt2WGlsWGg4MGFvSWJVRlMzdlF3MXpxY3YtcmlmbDdqV1dXNjdtaG9KVHphdnprelNmZmpVU1JUSm84ck9rdHFxcWlTM3FsazFpQmN6NGU?oc=5",
-   "utc": "2026-10-21T12:39:16Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWJYd0NERVlESGhjUzBFQm1tQkdDMVZtbnZxXzByQkxIS29abXpTRXZqYXhyamV2b19FbUpCR2RoWW9aUGVvenh5Q20tVWpWQzhRYnQzTk1iaEtQZWxPTnJUZU5kUHR2NUxvMHlLS1JRR0g2dFktUEhCbDVvTGRUU2YybEk5SzFYRjRpZjFqUVhKQ0JQaElseUI2QjhGMmY1R3d1NGZxcmYwMVlyQ1dvWQ?oc=5",
+   "utc": "2026-10-21T17:20:10Z",
+   "tag": "FED",
    "breaking": false
   }
  ]

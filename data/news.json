@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:42:56Z",
+ "updated": "2026-10-21T22:25:04Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (29)"
+  "Nikkei Asia": "ok (30)"
  },
  "items": [
   {
-   "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+   "title": "Tesla beats on earnings and sales even as auto revenue declines",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-   "utc": "2026-10-21T18:38:51Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Waiting For 'Dam To Break' On Exits: HIG CEO Schwartz",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/waiting-for-dam-to-break-on-exits-hig-ceo-schwartz-video",
-   "utc": "2026-10-21T18:34:15Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
-   "utc": "2026-10-21T18:32:12Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Meta earnings live updates: AI spending, ad revenue and stock reaction",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
-   "utc": "2026-10-21T18:28:04Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Nasdaq gains as Musk's SpaceX and Tesla revive tech rally: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-   "utc": "2026-10-21T18:26:57Z",
+   "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+   "utc": "2026-10-21T22:16:40Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Egypt rejects Libyan approval of maritime deal with Turkey",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSlBhSWRTTVJEdVc1eUlhVmRvUExLdXVQS084ZFhadGdEOEV4aXZPZjZLUjltWUdRdzFhY3VFVFNGV1gwNkFtclVzZDZaYUZSdzBrUFB4amNkNmc4VlRPY0hLRjdnQVp2X0NrX2NJQXZuZTJ2SFNwSzBmX2RVZ2NGOG9ZRFRlVmVvV2lsZklZblMxQTVYUTJFZ1REbGJqX3JlNW9LRUYtY094MmppTEtjM3gyUUFfOTRCZ2ZUOQ?oc=5",
-   "utc": "2026-10-21T18:14:30Z",
+   "title": "Zuckerberg commits to staying in California for 8 years as part of creation of new class of Meta shares: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+   "utc": "2026-10-21T22:14:10Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Oct. 22",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/latest-oil-market-news-and-analysis-for-oct-22",
+   "utc": "2026-10-21T22:05:54Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+   "utc": "2026-10-21T22:03:37Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Capital One delivered a strong quarter. Why we're not declaring victory just yet",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/21/capital-one-delivered-a-strong-quarter-why-were-not-declaring-victory-just-yet.html",
-   "utc": "2026-10-21T18:06:31Z",
+   "title": "U.S. Energy Red Tape Gives China an Edge",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Red-Tape-Gives-China-an-Edge.html",
+   "utc": "2026-10-21T22:00:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "The Global Financial Crisis, Part 1: Stephen Schwarzman (21)",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVG9XU3VRazZtLV9FMEpLMmpBQzdHMWhTM05aYVl4aUpQN3ROZWJhRmJGWG9iTkdqS3M3endHdjl1SlVjSm9RcDV3c21EaEt0S3FVaHpTSzVpVjk5NVJUaHRtWHpialVpZDZYalBVQUd2ajVpWFFyZFBLcUdxOGw0NF9oWk10RjZOaTR1MW40c0x3T0F4WkNOWUxScVduenh4TzN1U1Q4U0VOR2tCOFlv?oc=5",
+   "utc": "2026-10-21T22:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "GM aims to develop vehicles in as little as two years with AI, software push",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
-   "utc": "2026-10-21T18:03:55Z",
+   "title": "Gundam maker Bandai Namco's stock surge reflects market AI doubts",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOW5vNGFvT3RpTjZTTWVCVEwtck9Tbm5uN3Q3bHNNdnFnMGRQWWFBUHZWQjJBMnQ3QjFUTEdZdHQ3OTZnV1Bacm82LXBvZXhzR1JuLU9JUXJuM1YyUlI2UElSUm8xd0ZvQUgzY1lSRVNZWjdjNmg0ekxQWFhoRlo0ZlIxa3FjT1hWc2JiNms5dFVpVTl4dUNZWFFNZmdmYzQtU0ZUc2xwMjlnX1VYQXA1dzhIY3k3U0Z6V2FfODdhVDctQkVtbFdTbjFnRERWdw?oc=5",
+   "utc": "2026-10-21T22:00:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Washington’s Central Asia Charm Offensive Yields $12 Billion in Deals",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Geopolitics/Asia/Washingtons-Central-Asia-Charm-Offensive-Yields-12-Billion-in-Deals.html",
-   "utc": "2026-10-21T18:00:00Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
-   "utc": "2026-10-21T17:51:21Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Rest of the World",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMXFSX2EzTjlUb3I1VlJhVTVacGVabWFPVERQRU1peU5NRFNlY2ZaRWM2NmhBZkNNMTdod0dKVnlMc3JfcFEtUWNvT1lTRlRKRGVzUmtqaXJyTTJIVkxN?oc=5",
-   "utc": "2026-10-21T17:48:04Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-   "utc": "2026-10-21T17:45:23Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Legendary Entertainment Makes Bid for Lionsgate Studios",
+   "title": "Nextdc Investor UniSuper Says ‘Not That Keen’ on Data Centers",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/legendary-entertainment-makes-bid-for-lionsgate-studios-video",
-   "utc": "2026-10-21T17:39:43Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "University of Chicago Professor on What Made the US Economy Thrive",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/odd-lots-what-made-the-us-economy-thrive-video",
-   "utc": "2026-10-21T17:38:30Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Crude-Exports-Hit-Five-Month-High-as-Production-Falls-to-Record-Low.html",
-   "utc": "2026-10-21T17:30:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Argentina’s Bond Selloff Blindsides Bulls as Election Fears Grow",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/argentina-s-bond-selloff-blindsides-bulls-as-election-fears-grow",
-   "utc": "2026-10-21T17:28:46Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-   "utc": "2026-10-21T17:27:34Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Micron won't pursue 4F-squared memory chips despite CXMT's advance: CTO",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa3V1OEtCUExXSVBXVk82MW8zWDVHQnhTV2hCVnBMTk0wYi1JNHR4dHd5WGN1eFNEaUt5LVFHbHlFOGdGWmItTHBxYXlOZ1J6NF9OQWYtWV9kRjUyTVZwZU5Jem5zaWlLa18yTHBJcUdZXzBwbGZWNlQ1Z3BISEdSaUFYVEdmaXg2aVpUdFF6dnpZa3BtbmpOWkRQR2RVQVQxelRIb0ExZVVKdmpjZjJmUTVzWWNMWF82ZzJMbmR5MmY?oc=5",
-   "utc": "2026-10-21T17:27:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/nextdc-investor-unisuper-says-not-that-keen-on-data-centers",
+   "utc": "2026-10-21T21:55:42Z",
    "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "EEUU se encamina a sus elecciones legislativas más caras",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/eeuu-se-encamina-a-sus-elecciones-legislativas-mas-caras-video",
+   "utc": "2026-10-21T21:53:32Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+   "utc": "2026-10-21T21:48:02Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
+   "utc": "2026-10-21T21:44:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+   "utc": "2026-10-21T21:41:23Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Six injured in Russian missile attack on Ukrainian capital",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGRlYThKZW5JNEE0N2pYaVZRaVozOGRaTjhpeHRaVWFEQVZXLWcxc2hNY0VqT0JlcW5ZQUVZLTgyenltX1h0NXR5cmcxN1VjSjNkcm9vbk1DTkR6bVVKNmljX0xMOWRncVY4UEc2VUNhRmw0eHJnTklSZGlzYzdDSi1RRkhZTVhVSVIzeFRJRW1tTmhmM194QkZPeFppQzliNDVQQ3Y5SEJsdHdOQmtVeVNFWm91bWhvOXRHMzhrQQ?oc=5",
+   "utc": "2026-10-21T21:41:23Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Japan growth strategy to focus on chips in short term, AI in medium term",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLVFBNFJGemcyREg3ZU5kZTNMaXM0YjQ5ajdNalFPZFdWRC1xNGlXdkZUTEhBMTJkZmtHUGVkZHRuVUk2NzlaQ213LWRXSjRkU3NCRVhlUXlRdHhlSWhpZDAtQ2JsSTdsMTluRW5aMjl5d1MzS25Yb3paSzJQX2dzYnRRSkJuQlVsWGV3VUtsdUNDeW1ZZFNLdlpLY095M1k1S1BYazhB?oc=5",
+   "utc": "2026-10-21T21:36:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
+   "utc": "2026-10-21T21:31:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "BlackRock Director on Investment Shifts, Wealth Transfer",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/blackrock-director-on-investment-shifts-wealth-transfer-video",
+   "utc": "2026-10-21T21:26:36Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+   "utc": "2026-10-21T21:14:00Z",
+   "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "Odd Lots: Why Politics Is Economists’ Blindspot",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/odd-lots-why-politics-is-economists-blindspot",
-   "utc": "2026-10-21T17:23:44Z",
+   "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+   "utc": "2026-10-21T21:12:29Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+   "utc": "2026-10-21T21:07:11Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Brookings paper offers broad plan to shrink Fed balance sheet",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWJYd0NERVlESGhjUzBFQm1tQkdDMVZtbnZxXzByQkxIS29abXpTRXZqYXhyamV2b19FbUpCR2RoWW9aUGVvenh5Q20tVWpWQzhRYnQzTk1iaEtQZWxPTnJUZU5kUHR2NUxvMHlLS1JRR0g2dFktUEhCbDVvTGRUU2YybEk5SzFYRjRpZjFqUVhKQ0JQaElseUI2QjhGMmY1R3d1NGZxcmYwMVlyQ1dvWQ?oc=5",
-   "utc": "2026-10-21T17:20:10Z",
-   "tag": "FED",
+   "title": "The Two Cities Fighting for Asia’s Cash Crown",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/the-battle-for-asia-s-money-video",
+   "utc": "2026-10-21T21:01:00Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

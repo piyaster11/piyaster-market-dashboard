@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:45:18Z",
+ "updated": "2026-10-21T13:53:19Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (30)"
+  "Nikkei Asia": "ok (27)"
  },
  "items": [
   {
-   "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+   "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-   "utc": "2026-10-21T07:43:03Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Carlsberg Said to Near Public Filing for $700 Million India IPO",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/carlsberg-said-to-near-public-filing-for-700-million-india-ipo",
-   "utc": "2026-10-21T07:23:07Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "AI's spending boom faces a 'gut check': Who can actually make money?",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-   "utc": "2026-10-21T07:20:37Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-   "utc": "2026-10-21T07:19:49Z",
+   "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+   "utc": "2026-10-21T13:52:43Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it.",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
-   "utc": "2026-10-21T07:03:48Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Chiriseri: France’s Fiscal Picture Concern Bond Markets",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/chiriseri-france-s-fiscal-picture-concern-bond-markets-video",
-   "utc": "2026-10-21T07:00:05Z",
+   "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+   "utc": "2026-10-21T13:48:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar",
+   "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
+   "utc": "2026-10-21T13:44:35Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Government websites go dark as vulnerabilities in programming language send shudder across internet",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+   "utc": "2026-10-21T13:44:19Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+   "utc": "2026-10-21T13:44:12Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+   "utc": "2026-10-21T13:44:01Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Surging Yields Bring Biggest Spate of Debt Sale Delays This Year",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/surging-yields-bring-biggest-spate-of-debt-sale-delays-this-year",
+   "utc": "2026-10-21T13:36:51Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+   "utc": "2026-10-21T13:30:57Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "United ‘Still Solidly Profitable’ as Fuels Costs Rise, CEO Kirby Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/united-till-solidly-profitable-as-fuels-costs-rise-ceo-video",
+   "utc": "2026-10-21T13:30:36Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Administration-Pushes-Refiners-to-Boost-Diesel-Output-as-Prices-Soar.html",
-   "utc": "2026-10-21T07:00:00Z",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Trade-Deficit-Doubles-as-Hormuz-Crisis-Hikes-Energy-Import-Costs.html",
+   "utc": "2026-10-21T13:30:00Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Indonesia Holds Rate, Cuts RRR as MSCI Shock Hits Rupiah",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/bank-indonesia-holds-rate-as-msci-shock-threatens-rupiah",
-   "utc": "2026-10-21T06:55:59Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Cybersecurity companies urge Indonesia to boost AI talent",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPajdiUWdlSE9TSzFPN0htc0xubmliWWl1M3VlVzF5V2ZOdXJXSXIyVGYxelM0ZlFlVHM2WDlJWVBVdmtLTUNEMmhZZHhQckoycGpJTVBOYUlEZl9kMmdTSGlwMVBIVTJWWXZOSVNrSkZrN2twcDBURUxPU25rLWpDbVEtRWJWM0RYY1ZaRl81aXFCWDV5eTl0a2JSczlneExCbkFtb0ZQclM?oc=5",
-   "utc": "2026-10-21T06:55:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+   "title": "How to save on hotels and flights ahead of the most expensive holiday travel season in 10 years",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
-   "utc": "2026-10-21T06:52:28Z",
+   "link": "https://www.cnbc.com/select/how-to-save-money-on-2026-holiday-travel/",
+   "utc": "2026-10-21T13:28:36Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Fãs de música brasileira entram na divisão política",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/fas-de-musica-brasileira-entram-na-divisao-politica-video",
+   "utc": "2026-10-21T13:20:15Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Merz Urges Trump to Invite South Africa to G-20 Summit in Miami",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/merz-urges-trump-to-invite-south-africa-to-g-20-summit-in-miami",
+   "utc": "2026-10-21T13:18:08Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
+   "utc": "2026-10-21T13:13:48Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Our top 10 things to watch in the stock market Wednesday",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/21/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+   "utc": "2026-10-21T13:08:24Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/openai-chatgpt-ads-26-countries.html",
+   "utc": "2026-10-21T13:00:01Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "US Wants India’s Reliance to Refine More Venezuelan Oil",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/us-wants-india-s-reliance-to-refine-more-venezuelan-oil-video",
-   "utc": "2026-10-21T06:48:59Z",
-   "tag": "OIL",
+   "title": "Ukraine Welcomes Restored U.S. Intelligence Amid Russian Attacks",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Welcomes-Restored-US-Intelligence-Amid-Russian-Attacks.html",
+   "utc": "2026-10-21T13:00:00Z",
+   "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "Japan's new farm minister says to verify facts on alleged illegal donation",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0FueG8wYmJBZEhaRjQyZzVQM3F6ZDhZdnlXeXRteHZxZXdjTHUzVnZGTkJhaXk4czlJTkhHb0ZIY1dZaE1KcG9MMjYtb0J0RTh6b09pN1p4YUk4UDM1TGl0X1VONmJqZ0JrV0hrb0NsczVURDhJOTVLOG1QQTh3c1ZUYUgzWlRBeU1FdEFSenhiVGVjTDJzU0h4bFNMc3dPUk9FSW91cWowb1k?oc=5",
-   "utc": "2026-10-21T06:42:00Z",
-   "tag": "MARKETS",
+   "title": "Oil prices little changed as traders assess Middle East developments",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+   "utc": "2026-10-21T12:48:55Z",
+   "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "UK Inflation at 11-Month High Pressures BOE to Hike",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/uk-inflation-at-11-month-high-pressures-boe-to-hike",
-   "utc": "2026-10-21T06:41:54Z",
-   "tag": "MARKETS",
+   "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+   "utc": "2026-10-21T12:43:49Z",
+   "tag": "AI",
    "breaking": false
   },
   {
-   "title": "UK to Send Fighter Jets to Defend Saudi Arabia From Houthi Attacks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/horizons-middle-east-africa-10-21-2026-video",
-   "utc": "2026-10-21T06:40:48Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "CATL's HK Shares Drop By Record After Earnings Miss",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/the-china-show-10-21-2026-video",
-   "utc": "2026-10-21T06:34:32Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "North Korean Army chief inspects border with South Korea, says troops must act if enemy provokes",
+   "title": "End of an era? How the Hermes Birkin bag is losing its scarcity appeal",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHllSVpuQVItNDhYcW9GeTVrUkJHVngxel9VR20xQnZVLUlJcHYxYktzQjFoNEpMWkFLcmlWZS1HU2dFMTFSaDZjX3NrNlNQT2ZFS0JqeGJkZ25lREY0ZUZNbVp6clBlbmg4Y1dDMUlyT0RxajZYMTdZU1VUaW9NbjFURGtPbjB0X09ScFJ4UWVnMFRxMFd6VGRFdTBMeDJlQV83NE94SUFFZzJVeGRuVzlndEpMNUIydDRZcXQ0OVlPTFIwQ2RIV1lpeWxZbzB3?oc=5",
-   "utc": "2026-10-21T06:34:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "BlackRock Flags ‘Generational High Yields’ in Corporate Credit",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/blackrock-flags-generational-high-yields-in-corporate-credit",
-   "utc": "2026-10-21T06:30:00Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Super Typhoon Champi on Path to Impact China, Taiwan Within Days",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/super-typhoon-champi-on-path-to-impact-china-taiwan-within-days",
-   "utc": "2026-10-21T06:17:40Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU85S2NnYVlHbGstUGNaTkNxaEpqd1Atbm1ycEZYSEExYWx3bjFjYm40TGVQSG9jaXd5TFdrVDdQRWFxX0JqT0RqeldyMGxqTmhkMlBlNW96b3hnRjh4N2IwMHZsSF9Wc29fSWkxLTVpZnlRZ3NVaFVlY1RtVmRzRG5jbzdidTFhZkdLd1JmMmowX2pkRTcwVlgyYlNuVnNIamQ4Q0hUeFN2ZElxYzZ5dlJRWGJNQmNnaWNNZ2dZcTNCX2FW?oc=5",
-   "utc": "2026-10-21T06:11:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "UK Debt Tops £3 Trillion as Deficit Overshoots Before Budget",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/uk-borrowing-exceeds-forecast-in-final-data-before-budget",
-   "utc": "2026-10-21T06:09:33Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkV0VkJwLW56SEZOb1R0N0xhSXJmcGtRRkZhOUk3dTdWQlB4NjFVVU1vak9vYXFnTDduRXlJdmMyRUtpMHp2Mm1MbXVRdlFUVG5ydk1NZ3IxTU1acTRmRUtLOHc4ZW91RGFUYzdTbGdabmt2WGlsWGg4MGFvSWJVRlMzdlF3MXpxY3YtcmlmbDdqV1dXNjdtaG9KVHphdnprelNmZmpVU1JUSm84ck9rdHFxcWlTM3FsazFpQmN6NGU?oc=5",
+   "utc": "2026-10-21T12:39:16Z",
    "tag": "MARKETS",
    "breaking": false
   }

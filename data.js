@@ -1,4 +1,4 @@
-window.DASH={ver:"VER_20261021070314",asOf:"Wed 21 Oct 2026, 07:30 Bangkok (ICT) · prices are Tuesday's (20 Oct) US close and SET close",
+window.DASH={ver:"VER_20261021070314",asOf:"Wed 21 Oct 2026, 07:05 Bangkok (ICT) · prices are Tuesday's (20 Oct) US close and SET close",
 bottom:"Stocks steadied for a second day: the Dow jumped 1% and the S&P 500 rose 0.3% on strong earnings, while oil slipped back from five-month highs as US-Iran mediation talks continued, though attacks around Hormuz and on Saudi Arabia keep Brent near $109. CNN's mood gauge improved to Fear (27.2) from Extreme Fear last week; markets still see the Fed holding on 28 Oct (~83%) but hiking by December (~94%). Netflix fell after hours and Meta/Tesla report today.",
 ticker:[["S&P 500","~7,713","+0.3%",1],["DOW","~52,496","+1.0%",1],["NASDAQ","~26,425","−0.02%",0],["US10Y","~5.12%","−1.5bp",1],["WTI","~$97.8","−0.7%",0],["BRENT","~$108.8","−0.7%",0],["GOLD","~$4,145","−0.4%",0],["BTC","~$83,000","+1.3%",1],["US DIESEL","~$6.32/gal","near record",1]],
 assets:[

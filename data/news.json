@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T01:39:49Z",
+ "updated": "2026-10-21T07:45:18Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,30 +9,30 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (27)"
+  "Nikkei Asia": "ok (30)"
  },
  "items": [
   {
-   "title": "What's next for Takaichi? 5 challenges ahead for Japan's PM",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaHFSaE96UEZha0NxX3lWTUY5dkJyTEtvcjhtYlZ2ei1tVVcxMGsxZnpkNFBEeHQ2TXVKSm9ZMDRZdTFQbHZ1WGdWUEc2VkxtVklXWkkxcVU1c3BOVWNmWlhTbUJWRi13TDBhMndlc1Z3em9OdWo2MW5pS1FQVHRqTnM3cUktMmZwMmh6VGlIX2VTNFNZcTkzcnMybGZib0haS2t1eg?oc=5",
-   "utc": "2026-10-21T01:28:00Z",
+   "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+   "utc": "2026-10-21T07:43:03Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Carlsberg Said to Near Public Filing for $700 Million India IPO",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/carlsberg-said-to-near-public-filing-for-700-million-india-ipo",
+   "utc": "2026-10-21T07:23:07Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Korean Data Center Firm Elice Jumps by Limit After Debut Slump",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/korean-ai-supplier-elice-jumps-by-daily-limit-after-debut-slump",
-   "utc": "2026-10-21T01:07:01Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
+   "title": "AI's spending boom faces a 'gut check': Who can actually make money?",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-   "utc": "2026-10-21T01:02:36Z",
+   "utc": "2026-10-21T07:20:37Z",
    "tag": "AI",
    "breaking": true
   },
@@ -40,136 +40,136 @@
    "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-   "utc": "2026-10-21T01:00:17Z",
+   "utc": "2026-10-21T07:19:49Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Citi's Luet Sees AI Infrastructure Theme Continuing",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-luet-sees-ai-infrastructure-theme-continuing-video",
-   "utc": "2026-10-21T00:58:48Z",
+   "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it.",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+   "utc": "2026-10-21T07:03:48Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Japan exports post huge miss in September as growth slows to 16.7%",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
-   "utc": "2026-10-21T00:44:16Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
-   "utc": "2026-10-21T00:42:08Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "CATL’s Slower Profit Growth Fans Fears for China Battery Rivals",
+   "title": "Chiriseri: France’s Fiscal Picture Concern Bond Markets",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals",
-   "utc": "2026-10-21T00:41:04Z",
-   "tag": "CHINA",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/chiriseri-france-s-fiscal-picture-concern-bond-markets-video",
+   "utc": "2026-10-21T07:00:05Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Japan's September exports rise 16.7%, helped by chip demand",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXMyOHEwbnJGTk04dDI1UzNTbU5fODRydXZwcmVaSU5CZi1TcEliWEp6c0xjbkhQNm9HR250REFRLTN3SzQ5NDNqQkRIZ3E5bGhxYnJ0Q2dtcC12Q3IyMlhEWG96SnpfWUJDLW9TcFZHaVgxMHY4WXdkN0RvSlF4aU1KTldHUml5Vlp0a1RBYUpYN1R5QmU2MjZPUQ?oc=5",
-   "utc": "2026-10-21T00:36:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-   "utc": "2026-10-21T00:24:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-   "utc": "2026-10-21T00:15:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-   "utc": "2026-10-21T00:14:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates",
-   "utc": "2026-10-21T00:13:21Z",
-   "tag": "GOLD",
-   "breaking": false
-  },
-  {
-   "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-   "utc": "2026-10-21T00:12:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Central Phuket doubles luxury zone",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3340589/central-phuket-doubles-luxury-zone",
-   "utc": "2026-10-21T00:01:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "How Bad Would It Get If China Blocks Rare Earths to America?",
+   "title": "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/How-Bad-Would-It-Get-If-China-Blocks-Rare-Earths-to-America.html",
-   "utc": "2026-10-21T00:00:00Z",
-   "tag": "CHINA",
-   "breaking": false
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Administration-Pushes-Refiners-to-Boost-Diesel-Output-as-Prices-Soar.html",
+   "utc": "2026-10-21T07:00:00Z",
+   "tag": "OIL",
+   "breaking": true
   },
   {
-   "title": "Kazakh borrowers issue billions of yuan debt as China ties tighten",
+   "title": "Indonesia Holds Rate, Cuts RRR as MSCI Shock Hits Rupiah",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/bank-indonesia-holds-rate-as-msci-shock-threatens-rupiah",
+   "utc": "2026-10-21T06:55:59Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Cybersecurity companies urge Indonesia to boost AI talent",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2FiTEdBV1dpNDRiOG0wS1ZVX2VGOW5JdE5TTFZ2V21RZG9TMmxieE8xM0E1eWRReDI3VzBLeHVfRDR4TUlUV3RDUUFHVDRNUjJVMm9ZQWhyaW5pTDgwUnptWHpMSXgweWtpeVNkLUhEX2tPZnBobkllZE16S0RfWWhBc0lhWUtzempVZmFUUHFHd2xoYXRsYXo0SDMyUlVNTk1MaWlsc1U3S3FsUkpMY0pBNA?oc=5",
-   "utc": "2026-10-20T23:52:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPajdiUWdlSE9TSzFPN0htc0xubmliWWl1M3VlVzF5V2ZOdXJXSXIyVGYxelM0ZlFlVHM2WDlJWVBVdmtLTUNEMmhZZHhQckoycGpJTVBOYUlEZl9kMmdTSGlwMVBIVTJWWXZOSVNrSkZrN2twcDBURUxPU25rLWpDbVEtRWJWM0RYY1ZaRl81aXFCWDV5eTl0a2JSczlneExCbkFtb0ZQclM?oc=5",
+   "utc": "2026-10-21T06:55:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+   "utc": "2026-10-21T06:52:28Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "US Wants India’s Reliance to Refine More Venezuelan Oil",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/us-wants-india-s-reliance-to-refine-more-venezuelan-oil-video",
+   "utc": "2026-10-21T06:48:59Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Japan's new farm minister says to verify facts on alleged illegal donation",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0FueG8wYmJBZEhaRjQyZzVQM3F6ZDhZdnlXeXRteHZxZXdjTHUzVnZGTkJhaXk4czlJTkhHb0ZIY1dZaE1KcG9MMjYtb0J0RTh6b09pN1p4YUk4UDM1TGl0X1VONmJqZ0JrV0hrb0NsczVURDhJOTVLOG1QQTh3c1ZUYUgzWlRBeU1FdEFSenhiVGVjTDJzU0h4bFNMc3dPUk9FSW91cWowb1k?oc=5",
+   "utc": "2026-10-21T06:42:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "UK Inflation at 11-Month High Pressures BOE to Hike",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-21/uk-inflation-at-11-month-high-pressures-boe-to-hike",
+   "utc": "2026-10-21T06:41:54Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "UK to Send Fighter Jets to Defend Saudi Arabia From Houthi Attacks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/horizons-middle-east-africa-10-21-2026-video",
+   "utc": "2026-10-21T06:40:48Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "CATL's HK Shares Drop By Record After Earnings Miss",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-21/the-china-show-10-21-2026-video",
+   "utc": "2026-10-21T06:34:32Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "North Korean Army chief inspects border with South Korea, says troops must act if enemy provokes",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHllSVpuQVItNDhYcW9GeTVrUkJHVngxel9VR20xQnZVLUlJcHYxYktzQjFoNEpMWkFLcmlWZS1HU2dFMTFSaDZjX3NrNlNQT2ZFS0JqeGJkZ25lREY0ZUZNbVp6clBlbmg4Y1dDMUlyT0RxajZYMTdZU1VUaW9NbjFURGtPbjB0X09ScFJ4UWVnMFRxMFd6VGRFdTBMeDJlQV83NE94SUFFZzJVeGRuVzlndEpMNUIydDRZcXQ0OVlPTFIwQ2RIV1lpeWxZbzB3?oc=5",
+   "utc": "2026-10-21T06:34:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "BlackRock Flags ‘Generational High Yields’ in Corporate Credit",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/blackrock-flags-generational-high-yields-in-corporate-credit",
+   "utc": "2026-10-21T06:30:00Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "Super Typhoon Champi on Path to Impact China, Taiwan Within Days",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/super-typhoon-champi-on-path-to-impact-china-taiwan-within-days",
+   "utc": "2026-10-21T06:17:40Z",
    "tag": "CHINA",
    "breaking": false
   },
   {
-   "title": "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
+   "title": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
-   "utc": "2026-10-20T23:44:20Z",
-   "tag": "STOCKS",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU85S2NnYVlHbGstUGNaTkNxaEpqd1Atbm1ycEZYSEExYWx3bjFjYm40TGVQSG9jaXd5TFdrVDdQRWFxX0JqT0RqeldyMGxqTmhkMlBlNW96b3hnRjh4N2IwMHZsSF9Wc29fSWkxLTVpZnlRZ3NVaFVlY1RtVmRzRG5jbzdidTFhZkdLd1JmMmowX2pkRTcwVlgyYlNuVnNIamQ4Q0hUeFN2ZElxYzZ5dlJRWGJNQmNnaWNNZ2dZcTNCX2FW?oc=5",
+   "utc": "2026-10-21T06:11:00Z",
+   "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
-   "utc": "2026-10-20T23:34:14Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "COMMENTARY: Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1daQTg5d2lOVXV0UWliMmhhb1R0c0MtbVFIRDRTSFBQWmZub2dmNFRTZmJWSDB3ME4xS1U3WnZ3MEtCamNScWNyYy13R25hSEdqOFdCcVZUNFRsTU1MMGxLWVRpSHB5NWxKTkR3d01Bb2ZheGg2WUtRTmZKZTJ4WHJKNG8tc0ZpSEZWUDNYLU5wUTJObmhqTU9wV3dWMVR4NXNqNVBpMUZGejV6M2hSZWZCUVZ5TGFJQUpNcUFkUnZ1dnVoajdBay1B?oc=5",
-   "utc": "2026-10-20T23:30:21Z",
-   "tag": "FED",
+   "title": "UK Debt Tops £3 Trillion as Deficit Overshoots Before Budget",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-21/uk-borrowing-exceeds-forecast-in-final-data-before-budget",
+   "utc": "2026-10-21T06:09:33Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

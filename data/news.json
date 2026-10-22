@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T13:51:49Z",
+ "updated": "2026-10-22T15:17:34Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -13,18 +13,106 @@
  },
  "items": [
   {
-   "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
+   "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
-   "utc": "2026-10-22T13:49:37Z",
+   "link": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+   "utc": "2026-10-22T15:14:37Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Investors’ recent money moves show a preference for quality over momentum within the S&P 500",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+   "utc": "2026-10-22T15:10:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
+   "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
-   "utc": "2026-10-22T13:44:19Z",
+   "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+   "utc": "2026-10-22T15:08:47Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Retirement Longevity Risk a Top Factor for Investors",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/retirement-longevity-risk-a-top-factor-for-investors-video",
+   "utc": "2026-10-22T15:03:29Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Moderna has a plan to revolutionize how certain cancers are treated. We’re about to find out its potential in melanoma.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+   "utc": "2026-10-22T15:03:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Private Credit's Daily Marks Under Fire",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/private-credit-s-daily-marks-under-fire-video",
+   "utc": "2026-10-22T15:00:42Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+   "utc": "2026-10-22T15:00:25Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+   "utc": "2026-10-22T15:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Iran's Hardliners Push for Nuclear Weapons as U.S. War Drags On",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Geopolitics/Middle-East/Irans-Hardliners-Push-for-Nuclear-Weapons-as-US-War-Drags-On.html",
+   "utc": "2026-10-22T15:00:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+   "utc": "2026-10-22T14:58:31Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Spotify Rallies on Subscribers; Hermès falls on China Sales | Stock Movers",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/spotify-up-on-subscribers-hermes-falls-on-china-sales-video",
+   "utc": "2026-10-22T14:54:37Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "‘Paralyzed’ US IPO Market Asks If There’s Life After Anthropic",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/-paralyzed-us-ipo-market-asks-if-there-s-life-after-anthropic",
+   "utc": "2026-10-22T14:52:25Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+   "utc": "2026-10-22T14:52:09Z",
    "tag": "MARKETS",
    "breaking": true
   },
@@ -32,71 +120,39 @@
    "title": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
-   "utc": "2026-10-22T13:37:21Z",
+   "utc": "2026-10-22T14:47:29Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Stocks sell off as Meta and Tesla lead AI trade lower and oil rises: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
-   "utc": "2026-10-22T13:34:59Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Qatar Agrees to Buy US LNG to 2054 as War Disrupts Own Supply",
+   "title": "Partners’ EyeCare Set to Close Deal to Repay Debt at Discount",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/qatar-agrees-to-buy-us-lng-to-2054-as-war-disrupts-own-supply",
-   "utc": "2026-10-22T13:33:21Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "COMMENTARY: Asia buys more LNG despite surging prices, El Nino clouds outlook",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZEd6MUJ0RzZBWktFMGFuNkUzNVZKejZBX3EtdmdGUW5SQWpmM18yNEpWb212MzA5dENESGNJcHVWaXNBdTFNc2oyM1FNS2l5bmJLaWNCb3cwaG1WX3FYUXItdHo4cDhsV1Q1ZXNpVXZaVE1ReTVpY0hXN0V3NDFpYVJpWWY0OTk0MV85VHFJSmVNa001SVdnOF9EUkhieURyQjlfX1NzTGY2WmZZcVQxenhkZVBIMVVQdTBHTVZucWpONFdWOXBQQnRudFpEdw?oc=5",
-   "utc": "2026-10-22T13:30:59Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/partners-eyecare-set-to-close-deal-to-repay-debt-at-discount",
+   "utc": "2026-10-22T14:45:38Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Typhoon Champi Shuts Taiwan’s $5 Trillion Stock Market",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/typhoon-champi-shuts-taiwan-s-5-trillion-stock-market",
-   "utc": "2026-10-22T13:28:31Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-   "utc": "2026-10-22T13:21:27Z",
+   "title": "No plans for departure tax as government prioritises tourism growth",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3341730/no-plans-for-departure-tax-as-government-prioritises-tourism-growth",
+   "utc": "2026-10-22T14:38:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "The 3 questions every AI investor needs to ask right now",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-3-questions-every-ai-investor-needs-to-ask-right-now-2d9399b9?mod=mw_rss_topstories",
-   "utc": "2026-10-22T13:21:00Z",
-   "tag": "AI",
+   "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+   "utc": "2026-10-22T14:37:12Z",
+   "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+   "title": "Why cybersecurity stocks are getting another big boost. They're key to the AI trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-   "utc": "2026-10-22T13:18:36Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html",
-   "utc": "2026-10-22T13:12:38Z",
+   "link": "https://www.cnbc.com/2026/10/22/why-cybersecurity-stocks-are-getting-another-big-boost-theyre-key-to-the-ai-trade.html",
+   "utc": "2026-10-22T14:35:03Z",
    "tag": "AI",
    "breaking": true
   },
@@ -104,73 +160,17 @@
    "title": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
-   "utc": "2026-10-22T13:10:07Z",
+   "utc": "2026-10-22T14:33:34Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Wall St set for lower open as AI jitters rekindle, oil gains",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-   "utc": "2026-10-22T13:05:43Z",
+   "title": "Nasdaq tumbles on AI spending concerns and jump in oil prices: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+   "utc": "2026-10-22T14:30:11Z",
    "tag": "OIL",
    "breaking": true
-  },
-  {
-   "title": "Myanmar's Aung San Suu Kyi speaks to son for first time in over five years",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1RhSjEtenY4UHVlZE95UUpraWxFSmhuTFR2SW5ieXRvdkhTNXVDWU9LYVRzLWNvbkRsaHVIQXpvd0lXN2VIN3F0V2JaaXd1X1JzbG9waU5pQUMyTFNJZ2xtZmlkQUlrYzdmRnF5QUpLdmFuS0x3UHhBSnRFSVFVZURRV2N2RUhBaFFlWGFrdUpSRGFPczdLaENXNGhDcV96QWZfTVZDaG1pZGhHNVRIbUo4WWh5RGFwY0ZReHRMREI?oc=5",
-   "utc": "2026-10-22T13:01:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
-   "utc": "2026-10-22T13:00:00Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Grid Constraints Curtailed 119 GW of Renewables in India in September",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Grid-Constraints-Curtailed-119-GW-of-Renewables-in-India-in-September.html",
-   "utc": "2026-10-22T13:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Spain accuses Trump ally Milei of ‘disgraceful’ election interference",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/spain-sanchez-milei-trump-election-protests.html",
-   "utc": "2026-10-22T12:52:41Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Our top 10 things to watch in the stock market Thursday",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/22/our-top-10-things-to-watch-in-the-stock-market-thursday.html",
-   "utc": "2026-10-22T12:51:20Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "US Jobless Claims Hit Three-Month Low at 194,000",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/us-jobless-claims-hit-three-month-low-at-194-000-video",
-   "utc": "2026-10-22T12:50:19Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Meta Platforms beat the Street. Here's why analysts are bullish on the stock",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/meta-platforms-beat-the-street-heres-why-analysts-are-bullish-on-the-stock.html",
-   "utc": "2026-10-22T12:48:13Z",
-   "tag": "STOCKS",
-   "breaking": false
   }
  ]
 }

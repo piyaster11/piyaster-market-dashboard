@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:35:01Z",
+ "updated": "2026-10-22T07:41:02Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -13,163 +13,163 @@
  },
  "items": [
   {
-   "title": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
-   "utc": "2026-10-22T01:28:13Z",
+   "title": "Citi ECM Chief Sees Near-Term IPO Caution on Neocloud Wobbles",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/citi-ecm-chief-sees-near-term-ipo-caution-on-neocloud-wobbles",
+   "utc": "2026-10-22T07:23:02Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Taiwan's first-ever chip workers strike begins at Micron plant",
+   "title": "Stock futures fall as investors digest earnings from Meta and Tesla: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+   "utc": "2026-10-22T07:20:28Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Pakistan trails India, Bangladesh, Nepal in battle against hunger",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjZvU0R1WTF1N1BjeURyWEVHcXpkcFR4MGdDU2JBY1JsZi1sbjR1ZlA5cDAwaUdlODZab3ExVURqcS1TcEZWU1FUVmxsREVHWVAzY0hRcTdtcTMxNHJiN3hxenNIcVkzOHRzeXZjbFNya0RYTFNZOGZ0M2hFWFVDOXR5UVRRTDFCcEsxaFhuR3Q1OXpyZnV6UWpUWmJLMUpnWnZFa0FkcUgtZl95UXFESFVfZUtOQQ?oc=5",
-   "utc": "2026-10-22T01:28:00Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
-   "utc": "2026-10-22T01:22:22Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
-   "utc": "2026-10-22T01:21:10Z",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0FqWnYxX1hVN3RVY1lWdFVzcklMcjNxRnVCTVplU0ZuSTFqS0tXdzl2VGppbkNQb2czMGRyY3Z4VDM4RGhNNUJEcGpqUGV1NmZsUWtCQ3RQRlpuWGtuVWFmMTJOSWJBbk1Da0xSR3V5Z2k5NklMcUxreGhrdDhGbm9tT0tNNzdyS1JBaElDN3pya3NpeUhWMWhMTQ?oc=5",
+   "utc": "2026-10-22T07:16:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Singapore Dollar Gains on Yen as Carry Funder, Analysts Say",
+   "title": "US Orders Some Diplomats Out of Saudi Arabia After Deadly Attacks, Brent Tops $110",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/singapore-dollar-gains-on-yen-as-carry-funder-analysts-say",
-   "utc": "2026-10-22T01:10:26Z",
-   "tag": "MARKETS",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/horizons-middle-east-africa-10-22-2026-video",
+   "utc": "2026-10-22T07:10:46Z",
+   "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-   "utc": "2026-10-22T01:05:15Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "AI Boom Likely to Cushion Asia Despite Earnings Woes",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/ai-boom-likely-to-cushion-asia-despite-earnings-woes-video",
-   "utc": "2026-10-22T00:55:16Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
-   "utc": "2026-10-22T00:53:01Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
-   "utc": "2026-10-22T00:48:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
-   "utc": "2026-10-22T00:47:38Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Nextdc Claws Back Losses after Profit Warning Prompts Plunge",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/nextdc-claws-back-losses-after-profit-warning-prompts-plunge",
-   "utc": "2026-10-22T00:44:05Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "China’s Iron Ore Sway May Leave Japan a Price Taker: Woodmac",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/china-s-iron-ore-sway-may-leave-japan-a-price-taker-woodmac",
-   "utc": "2026-10-22T00:30:34Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "China Stock Rescue May Need More State Buying to Work, BI Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/china-stock-rescue-may-need-more-state-buying-to-work-bi-says",
-   "utc": "2026-10-22T00:15:41Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
-   "utc": "2026-10-22T00:07:48Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
+   "title": "Iran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Metals/Commodities/Aluminium-Gives-Up-Its-War-Premium-Copper-Stays-Elevated.html",
-   "utc": "2026-10-22T00:00:00Z",
-   "tag": "WAR",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Reserves-Run-Dry-as-US-Naval-Blockade-Tightens.html",
+   "utc": "2026-10-22T07:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-10-22T06:57:19Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Top HSBC strategist has a warning for retail investors chasing the AI rally",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+   "utc": "2026-10-22T06:46:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "China Stocks Drop Most Since Liberation Day",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/the-china-show-10-22-2026-video",
+   "utc": "2026-10-22T06:43:46Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Jio Leverage Play Pops Up at SBI as India Brokers Lure IPO Bets",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/jio-leverage-play-pops-up-at-sbi-as-india-brokers-lure-ipo-bets",
+   "utc": "2026-10-22T06:42:37Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nestlé CEO says cash-strapped U.S. shoppers make for tough market",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/video/2026/10/22/nestle-earnings-q3-ceo-consumer.html",
+   "utc": "2026-10-22T06:41:46Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Evergrande Liquidators Plan First Payout to Creditors Next Year",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/evergrande-liquidators-plan-first-payout-to-creditors-next-year",
+   "utc": "2026-10-22T06:41:32Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "China’s Chip Catch-Up May Take Five Years: Miller",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/china-s-chip-catch-up-may-take-five-years-miller-video",
+   "utc": "2026-10-22T06:40:14Z",
+   "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Gold Edges Lower as Traders Weigh Mideast Signals, Fed Rate Path",
+   "title": "BOE Interest Rates Beyond November Clouded by Energy Uncertainty",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-21/gold-edges-lower-as-traders-weigh-mideast-signals-fed-rate-path",
-   "utc": "2026-10-21T23:56:16Z",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/boe-interest-rates-beyond-november-clouded-by-energy-uncertainty",
+   "utc": "2026-10-22T06:37:32Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "US-backed Southeast Asia data cable taking shape",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3341593/usbacked-southeast-asia-data-cable-taking-shape",
+   "utc": "2026-10-22T06:36:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Japan's Daiichi Life turns to gold as market risks rise",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0JTNnFTUzJhR2J5YWxUajY1RWc4M2JQR2ZfQXd1Z2RMR2xoWHJ3UE90WEg1aWJiWkwyNmx2QkdXYW5BQTEzMFhFcU5hUmpldzFCNnZxVUxrZ3lpLWp2MXhKNVVsSTZPM0Z5aVJHZmp0QjhObElERG5iNkloa2otQi1ObklGM2MtNmU0S0xpOUlfdk9NRHFEcDhWbkhEOVE?oc=5",
+   "utc": "2026-10-22T06:31:00Z",
+   "tag": "GOLD",
+   "breaking": false
+  },
+  {
+   "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+   "utc": "2026-10-22T06:24:10Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Tesla Cuts Capex Guidance, Meta Hikes AI Spending Outlook, Announces New Stock Class",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/the-asia-trade-10-22-2026-video",
+   "utc": "2026-10-22T06:13:57Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "China's Xi calls for qualitative improvement, measurable growth in economy",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllVbXM0azZlXzdGa012NnR5VUNOMVZ1VmFlNzBFanFsMGdwVVpucGFDMm1Yc2IzNVp3SElaZnpHSTBYZWF3N0o2UWRsaGxmTXRmMlVPNkt6TzVZUUF5V05aUnNucFJyYnNKRTBZNXNqOTl0WWNCUl9udHZYdi12MFhvTFVaVjRid1RaOTktaHhTX21VVklYb2dWSW5IMVdTTWREcjFHOUdyczlpWDdjR1ZDaw?oc=5",
+   "utc": "2026-10-22T06:13:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "U.S. Treasury yields may be poised for a breakout with Fed meeting as catalyst, says BMO",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/us-treasury-yields-breakout-fed-bmo-.html",
+   "utc": "2026-10-22T06:11:40Z",
    "tag": "FED",
    "breaking": false
   },
   {
-   "title": "Meta reports third-quarter revenue beat and issues strong guidance",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
-   "utc": "2026-10-21T23:45:42Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "As Reliance Jio eyes listing, what are India's biggest share offerings?",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeG5heEtMLUdoSk9CTU9qb2s2RHZzUW9abFV6ODhKdVRLdklKOWJvR0Fvd3lfRUJpc2xFRDNxZXBTMU1wUlJBcWZHcjJBRmdLWTI4MGJIb0NHeW1RNzljNHk4aFJ4LURHMHFRNTQxa2QxbF9Sb2lrRjlLUFc5dW1aYWdHbmNjUU1tYkhNcGhzZmVIcjd2NGRSSDFNcU54cDd5?oc=5",
-   "utc": "2026-10-21T23:45:31Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Tesla beats on earnings and sales even as auto revenue declines",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-   "utc": "2026-10-21T23:32:04Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "COMMENTARY: Five AI quirks and conundrums to watch this earnings season",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd1B1bUZjZ09QOC1FaEFmZVZkMWpPT1ZINU5VVnl4RUZUc3VFWDE3UFFWeXNpZ3pBSEFwYVlObjJkd2dOVFgwbXVqSzVLb3ZHWVVBbERZX0V4ZWRNTTI4c19RUHFZbmdHMkt5QjJVVkptaXN4TDYzc2tFdjdqTU8wbnlQT1BsOVdwNnQ1aEE4YXFSa0FSZDRBS0NKZ2NURS1ON0dxUWZicDJSeWdaRXFPMmNhQVI3QzhlMW5SeWdR?oc=5",
-   "utc": "2026-10-21T23:31:35Z",
-   "tag": "AI",
+   "title": "Oil Market Crunch Could Happen in Months: BofA's Blanch",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/oil-market-crunch-could-happen-in-months-bofa-s-blanch-video",
+   "utc": "2026-10-22T06:08:52Z",
+   "tag": "OIL",
    "breaking": false
   }
  ]

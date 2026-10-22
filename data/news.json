@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:41:02Z",
+ "updated": "2026-10-22T13:51:49Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (28)"
+  "Nikkei Asia": "ok (30)"
  },
  "items": [
   {
-   "title": "Citi ECM Chief Sees Near-Term IPO Caution on Neocloud Wobbles",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/citi-ecm-chief-sees-near-term-ipo-caution-on-neocloud-wobbles",
-   "utc": "2026-10-22T07:23:02Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stock futures fall as investors digest earnings from Meta and Tesla: Live updates",
+   "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
-   "utc": "2026-10-22T07:20:28Z",
+   "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+   "utc": "2026-10-22T13:49:37Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Pakistan trails India, Bangladesh, Nepal in battle against hunger",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0FqWnYxX1hVN3RVY1lWdFVzcklMcjNxRnVCTVplU0ZuSTFqS0tXdzl2VGppbkNQb2czMGRyY3Z4VDM4RGhNNUJEcGpqUGV1NmZsUWtCQ3RQRlpuWGtuVWFmMTJOSWJBbk1Da0xSR3V5Z2k5NklMcUxreGhrdDhGbm9tT0tNNzdyS1JBaElDN3pya3NpeUhWMWhMTQ?oc=5",
-   "utc": "2026-10-22T07:16:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "US Orders Some Diplomats Out of Saudi Arabia After Deadly Attacks, Brent Tops $110",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/horizons-middle-east-africa-10-22-2026-video",
-   "utc": "2026-10-22T07:10:46Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Iran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Reserves-Run-Dry-as-US-Naval-Blockade-Tightens.html",
-   "utc": "2026-10-22T07:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-10-22T06:57:19Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Top HSBC strategist has a warning for retail investors chasing the AI rally",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
-   "utc": "2026-10-22T06:46:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "China Stocks Drop Most Since Liberation Day",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/the-china-show-10-22-2026-video",
-   "utc": "2026-10-22T06:43:46Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Jio Leverage Play Pops Up at SBI as India Brokers Lure IPO Bets",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/jio-leverage-play-pops-up-at-sbi-as-india-brokers-lure-ipo-bets",
-   "utc": "2026-10-22T06:42:37Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nestlé CEO says cash-strapped U.S. shoppers make for tough market",
+   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/video/2026/10/22/nestle-earnings-q3-ceo-consumer.html",
-   "utc": "2026-10-22T06:41:46Z",
+   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+   "utc": "2026-10-22T13:44:19Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Evergrande Liquidators Plan First Payout to Creditors Next Year",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/evergrande-liquidators-plan-first-payout-to-creditors-next-year",
-   "utc": "2026-10-22T06:41:32Z",
+   "title": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+   "utc": "2026-10-22T13:37:21Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "China’s Chip Catch-Up May Take Five Years: Miller",
+   "title": "Stocks sell off as Meta and Tesla lead AI trade lower and oil rises: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+   "utc": "2026-10-22T13:34:59Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Qatar Agrees to Buy US LNG to 2054 as War Disrupts Own Supply",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/china-s-chip-catch-up-may-take-five-years-miller-video",
-   "utc": "2026-10-22T06:40:14Z",
-   "tag": "AI",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/qatar-agrees-to-buy-us-lng-to-2054-as-war-disrupts-own-supply",
+   "utc": "2026-10-22T13:33:21Z",
+   "tag": "WAR",
+   "breaking": true
   },
   {
-   "title": "BOE Interest Rates Beyond November Clouded by Energy Uncertainty",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/boe-interest-rates-beyond-november-clouded-by-energy-uncertainty",
-   "utc": "2026-10-22T06:37:32Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "US-backed Southeast Asia data cable taking shape",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3341593/usbacked-southeast-asia-data-cable-taking-shape",
-   "utc": "2026-10-22T06:36:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan's Daiichi Life turns to gold as market risks rise",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0JTNnFTUzJhR2J5YWxUajY1RWc4M2JQR2ZfQXd1Z2RMR2xoWHJ3UE90WEg1aWJiWkwyNmx2QkdXYW5BQTEzMFhFcU5hUmpldzFCNnZxVUxrZ3lpLWp2MXhKNVVsSTZPM0Z5aVJHZmp0QjhObElERG5iNkloa2otQi1ObklGM2MtNmU0S0xpOUlfdk9NRHFEcDhWbkhEOVE?oc=5",
-   "utc": "2026-10-22T06:31:00Z",
-   "tag": "GOLD",
-   "breaking": false
-  },
-  {
-   "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-   "utc": "2026-10-22T06:24:10Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Tesla Cuts Capex Guidance, Meta Hikes AI Spending Outlook, Announces New Stock Class",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/the-asia-trade-10-22-2026-video",
-   "utc": "2026-10-22T06:13:57Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "China's Xi calls for qualitative improvement, measurable growth in economy",
+   "title": "COMMENTARY: Asia buys more LNG despite surging prices, El Nino clouds outlook",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllVbXM0azZlXzdGa012NnR5VUNOMVZ1VmFlNzBFanFsMGdwVVpucGFDMm1Yc2IzNVp3SElaZnpHSTBYZWF3N0o2UWRsaGxmTXRmMlVPNkt6TzVZUUF5V05aUnNucFJyYnNKRTBZNXNqOTl0WWNCUl9udHZYdi12MFhvTFVaVjRid1RaOTktaHhTX21VVklYb2dWSW5IMVdTTWREcjFHOUdyczlpWDdjR1ZDaw?oc=5",
-   "utc": "2026-10-22T06:13:00Z",
-   "tag": "CHINA",
-   "breaking": false
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZEd6MUJ0RzZBWktFMGFuNkUzNVZKejZBX3EtdmdGUW5SQWpmM18yNEpWb212MzA5dENESGNJcHVWaXNBdTFNc2oyM1FNS2l5bmJLaWNCb3cwaG1WX3FYUXItdHo4cDhsV1Q1ZXNpVXZaVE1ReTVpY0hXN0V3NDFpYVJpWWY0OTk0MV85VHFJSmVNa001SVdnOF9EUkhieURyQjlfX1NzTGY2WmZZcVQxenhkZVBIMVVQdTBHTVZucWpONFdWOXBQQnRudFpEdw?oc=5",
+   "utc": "2026-10-22T13:30:59Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
-   "title": "U.S. Treasury yields may be poised for a breakout with Fed meeting as catalyst, says BMO",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/us-treasury-yields-breakout-fed-bmo-.html",
-   "utc": "2026-10-22T06:11:40Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Oil Market Crunch Could Happen in Months: BofA's Blanch",
+   "title": "Typhoon Champi Shuts Taiwan’s $5 Trillion Stock Market",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/oil-market-crunch-could-happen-in-months-bofa-s-blanch-video",
-   "utc": "2026-10-22T06:08:52Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/typhoon-champi-shuts-taiwan-s-5-trillion-stock-market",
+   "utc": "2026-10-22T13:28:31Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+   "utc": "2026-10-22T13:21:27Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "The 3 questions every AI investor needs to ask right now",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-3-questions-every-ai-investor-needs-to-ask-right-now-2d9399b9?mod=mw_rss_topstories",
+   "utc": "2026-10-22T13:21:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+   "utc": "2026-10-22T13:18:36Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html",
+   "utc": "2026-10-22T13:12:38Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
+   "utc": "2026-10-22T13:10:07Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Wall St set for lower open as AI jitters rekindle, oil gains",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+   "utc": "2026-10-22T13:05:43Z",
    "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Myanmar's Aung San Suu Kyi speaks to son for first time in over five years",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1RhSjEtenY4UHVlZE95UUpraWxFSmhuTFR2SW5ieXRvdkhTNXVDWU9LYVRzLWNvbkRsaHVIQXpvd0lXN2VIN3F0V2JaaXd1X1JzbG9waU5pQUMyTFNJZ2xtZmlkQUlrYzdmRnF5QUpLdmFuS0x3UHhBSnRFSVFVZURRV2N2RUhBaFFlWGFrdUpSRGFPczdLaENXNGhDcV96QWZfTVZDaG1pZGhHNVRIbUo4WWh5RGFwY0ZReHRMREI?oc=5",
+   "utc": "2026-10-22T13:01:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+   "utc": "2026-10-22T13:00:00Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Grid Constraints Curtailed 119 GW of Renewables in India in September",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Grid-Constraints-Curtailed-119-GW-of-Renewables-in-India-in-September.html",
+   "utc": "2026-10-22T13:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Spain accuses Trump ally Milei of ‘disgraceful’ election interference",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/spain-sanchez-milei-trump-election-protests.html",
+   "utc": "2026-10-22T12:52:41Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Our top 10 things to watch in the stock market Thursday",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/22/our-top-10-things-to-watch-in-the-stock-market-thursday.html",
+   "utc": "2026-10-22T12:51:20Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "US Jobless Claims Hit Three-Month Low at 194,000",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/us-jobless-claims-hit-three-month-low-at-194-000-video",
+   "utc": "2026-10-22T12:50:19Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Meta Platforms beat the Street. Here's why analysts are bullish on the stock",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/meta-platforms-beat-the-street-heres-why-analysts-are-bullish-on-the-stock.html",
+   "utc": "2026-10-22T12:48:13Z",
+   "tag": "STOCKS",
    "breaking": false
   }
  ]

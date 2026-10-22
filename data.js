@@ -1,4 +1,4 @@
-window.DASH={ver:"VER_20261022070957",asOf:"Thu 22 Oct 2026, 07:30 Bangkok (ICT) · prices are Wednesday's (21 Oct) US close and SET close",
+window.DASH={ver:"VER_20261022070957",asOf:"Thu 22 Oct 2026, 07:10 Bangkok (ICT) · prices are Wednesday's (21 Oct) US close and SET close",
 bottom:"Stocks rose for a third day: the Nasdaq jumped 1.05% and the S&P 500 0.58% as SpaceX and Super Micro revived the AI trade. After the bell Meta beat and raised guidance (shares up ~2-3%), while Tesla slipped ~2-3% on flat sales, so US futures dipped ~0.5% overnight. Oil is steady near $109 Brent as Iran hits more ships and the US pulls non-essential staff from Saudi Arabia, but Russia agreed to resume Ukraine peace talks. CNN's mood gauge rose to 31.4 (Fear); markets see the Fed holding on 28 Oct (~84%) but hiking by December (~92%).",
 ticker:[["S&P 500","~7,757","+0.58%",1],["DOW","~52,856","+0.69%",1],["NASDAQ","~26,703","+1.05%",1],["US10Y","~5.11%","−0.6bp",1],["WTI","~$97.2","−0.7%",0],["BRENT","~$108.8","+0.03%",1],["GOLD","~$4,156","+0.3%",1],["BTC","~$84,100","+1.5%",1],["US DIESEL","~$6.32/gal","near record",1]],
 assets:[

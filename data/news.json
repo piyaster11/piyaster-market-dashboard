@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:35:46Z",
+ "updated": "2026-10-22T22:24:40Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,142 +9,54 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (30)"
+  "Nikkei Asia": "ok (31)"
  },
  "items": [
   {
-   "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-   "utc": "2026-10-22T18:30:57Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Moderna shares plunge after leak of partial cancer vaccine data",
+   "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-   "utc": "2026-10-22T18:30:22Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
-   "utc": "2026-10-22T18:29:41Z",
+   "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+   "utc": "2026-10-22T22:21:08Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "The perfect storm behind the Nasdaq's rout — plus, some of the bright spots in the market",
+   "title": "Stocks making the biggest moves in after hours: Western Digital, Bloom Energy, Deckers Outdoor & more",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/22/perfect-storm-behind-the-nasdaqs-rout-plus-some-bright-spots-in-the-market.html",
-   "utc": "2026-10-22T18:23:05Z",
+   "link": "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-in-after-hours-wdc-be-deck.html",
+   "utc": "2026-10-22T22:17:28Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "UBS Defeats Ex-Credit Suisse Managing Directors’ Back-Pay Claims",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/ubs-defeats-ex-credit-suisse-managing-directors-back-pay-claims",
-   "utc": "2026-10-22T18:22:55Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "What Happens When Active ETFs Have Exposure to Stocks That Are Shorted",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/what-happens-when-active-etfs-have-exposure-to-stocks-that-are-shorted",
-   "utc": "2026-10-22T18:19:51Z",
+   "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+   "utc": "2026-10-22T22:17:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Traders’ Cost of Hedging Against Big Treasuries Rally Is Soaring",
+   "title": "Latest Oil Market News and Analysis for Oct. 23",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/traders-cost-of-hedging-against-big-treasuries-rally-is-soaring-mvjv24q7",
-   "utc": "2026-10-22T18:14:46Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/latest-oil-market-news-and-analysis-for-oct-23",
+   "utc": "2026-10-22T22:08:52Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+   "utc": "2026-10-22T22:07:00Z",
    "tag": "FED",
    "breaking": true
   },
   {
-   "title": "AI debt and French bonds face a stress test — why it may not be over",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html",
-   "utc": "2026-10-22T18:13:37Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "RBC’s New Canada Stock Strategy Chief Sets TSX Target at 38,600",
+   "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/rbc-s-new-canada-stock-strategy-chief-sets-tsx-target-at-38-600",
-   "utc": "2026-10-22T18:13:18Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Moderna’s stock tumbles after reported leak of data for cancer vaccine",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
-   "utc": "2026-10-22T18:10:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-   "utc": "2026-10-22T18:08:39Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Personal agents like Meta's Muse could fuel AI’s growth — and challenge Amazon and Apple",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/meta-muse-personal-ai-agents.html",
-   "utc": "2026-10-22T18:07:55Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Elon Musk invests about $1 billion in Skydance",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-   "utc": "2026-10-22T18:02:05Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "New Zealand Cost Crisis Drives Election Vows to Rein In Business",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/new-zealand-cost-crisis-drives-election-vows-to-rein-in-business",
-   "utc": "2026-10-22T18:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Canadian Data Cast Doubt on China-US Bond ‘Conspiracy,’ NBF Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/canadian-data-cast-doubt-on-china-us-bond-conspiracy-nbf-says",
-   "utc": "2026-10-22T18:00:00Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "EU’s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/EUs-Proposed-Shipping-Subsidies-Could-Make-BioLNG-Cheaper-Than-Fuel-Oil.html",
-   "utc": "2026-10-22T18:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-   "utc": "2026-10-22T17:53:08Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
+   "utc": "2026-10-22T22:05:06Z",
    "tag": "STOCKS",
    "breaking": true
   },
@@ -152,23 +64,111 @@
    "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-   "utc": "2026-10-22T17:49:53Z",
+   "utc": "2026-10-22T22:02:34Z",
    "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-   "utc": "2026-10-22T17:48:43Z",
-   "tag": "AI",
+   "title": "EU’s Arctic Strategy Excludes Oil and Gas",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Natural-Gas/EUs-Arctic-Strategy-Excludes-Oil-and-Gas.html",
+   "utc": "2026-10-22T22:00:00Z",
+   "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Brazil Hedging Costs Spike as Election Anxiety Surges",
+   "title": "The Global Financial Crisis, Part 2: Stephen Schwarzman (22)",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2JIVTZOWHZhM19kM0l1eDJYNFZLeEZJUlZZRmJ2TWVSWHdZUmF3TmVVc1lRakI3bFduUmJjQ19weGN3ZDEyb0MyVUZScE1EaWl3ckNPZnhwMlNlQWFnSy1mR3hBS240cmR0dUJQckpYR2Q2MXM3QkFqUDNjTmFvdGJJZkxSakxZSGlDWkpmS0VEbVltdkdzZ01YUTB3REdIX1lPeTBaRG02LVlQclJZ?oc=5",
+   "utc": "2026-10-22T22:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+   "utc": "2026-10-22T21:58:42Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Mickey Drexler on Decker Results and Retail Outlook",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/brazil-hedging-costs-spike-as-election-anxiety-surges",
-   "utc": "2026-10-22T17:44:41Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/mickey-drexler-on-decker-results-and-retail-outlook-video",
+   "utc": "2026-10-22T21:58:03Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Affirm, Sam’s Club Strike Exclusive Buy Now, Pay Later Deal",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/affirm-sam-s-club-strike-exclusive-bnpl-deal-video",
+   "utc": "2026-10-22T21:53:37Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Australian Growth Likely Slower Than Expected On Rates, Prices",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/australian-growth-likely-slower-than-expected-on-rates-prices",
+   "utc": "2026-10-22T21:53:30Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+   "utc": "2026-10-22T21:52:02Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Kroger CFO: We Are an Agent for the Consumer",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/kroger-cfo-we-are-an-agent-for-the-consumer-video",
+   "utc": "2026-10-22T21:47:22Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Think tank highlights insecurity among Thais",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3341974/think-tank-highlights-insecurity-among-thais",
+   "utc": "2026-10-22T21:46:00Z",
+   "tag": "THAI",
+   "breaking": true
+  },
+  {
+   "title": "Huntington Bancshares CEO Stephen Steinour on 3Q Results",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/huntington-bancshares-ceo-stephen-steinour-on-3q-results-video",
+   "utc": "2026-10-22T21:44:47Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Trump invokes Cold War era Defense Production Act for oil production, refining",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/trump-defense-production-act.html",
+   "utc": "2026-10-22T21:37:31Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Yen on track to gain from US midterm elections and France unrest",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXdrSWkwMHBUdzVYWFhsLWVuSTBtcU43QjNsZ1dTdTl0RG5GM1JITWpHMlFTRnlTel85bmxQSU95NE00b3huaFl2TmpBMjhFcmFlWmtQSFppRnlIMGxQMDBMajdjemtPalltTHgxMmdtaGE2VWs2a0FkMFBobnA0Sk81VFJyb05aVHpYWGJlWWZvQ0J6dmM4cU8xdkRkeF9BaGUyVHM3dVUwTEt5ekRiRWVkbm04dVk?oc=5",
+   "utc": "2026-10-22T21:32:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Apple bets iPhone Duo can remake foldable market as sales begin",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTlwRzRMSWgwZGFjeWp0bG01c2c1WUkxckYtOGR3MUhieUYwZUwxRVNHdFBCbWUwSm02TWgzdG5fRGxEX0U1TUtvUnF5bGpXQkRaN1lnbmJZeTVuZmZzS21ob0FTMnBYekcySDlic3VVUE0ySjZTOHhJR2V1RzlmN09ZdDh1Mlg1a0N3dXR5ckstOW13Mk91YjJOcmdqNkd3dFR1MzhKYmFORFItakQyMTltekVOaVQyc0ZMSm5B?oc=5",
+   "utc": "2026-10-22T21:31:31Z",
    "tag": "MARKETS",
    "breaking": true
   }

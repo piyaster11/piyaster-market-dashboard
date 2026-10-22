@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T15:18:28Z",
+ "updated": "2026-10-22T18:36:08Z",
  "level": 41,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   82,
+   79,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   5,
+   2,
    0,
    10,
    "baseline still building (needs 6+ hourly samples)"
@@ -61,7 +61,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -72,7 +72,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.9,
+   "score": 6.8,
    "airspace": false
   },
   {
@@ -83,18 +83,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.7,
    "airspace": false
   },
   {
    "title": "Aramco Orders Dhahran Evacuation as Houthi Attacks Intensify; U.S. Prepares Gulf Embassy Departures",
    "source": "Forth.News",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wckpJVDVDa1VwOUM2R1JPN2VITjBERE5idml0S21td2VYZXJhaHlNT3gxRlJfQnhhdXBMRndUYmxnV0w2YnVTTlphQlFvMkNHaVdzbTB5STZUNi1hOTJfSXln?oc=5",
-   "utc": "2026-10-22T11:53:43Z",
+   "utc": "2026-10-22T11:58:31Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -105,29 +105,29 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.7,
+   "score": 8.5,
    "airspace": false
   },
   {
    "title": "US State Department denies Gulf-wide evacuation plan",
    "source": "Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWtPOG5wVFl1bVhWZzdUbEIyQ0tZMUZ5MjJ5d0t5SlE5UDZyV0NlN1B2QnB1QlBfVjhjTG40QlpLS0w1OVFkNC1PSTRmVEg3OW1WZUJiU0xwbzJkdUEzVWdTTEhzYnJIell0TTdMZzMzT0FjOE1WNDVCN1BDekZTZlNYMjNSWk95QXQ4UVFxQTFPOTltMkxzLUt3?oc=5",
-   "utc": "2026-10-22T00:43:48Z",
+   "utc": "2026-10-21T20:41:58Z",
    "tags": [
     "EVAC"
    ],
-   "score": 8.4,
+   "score": 8.1,
    "airspace": false
   },
   {
    "title": "US State Department denies Gulf-wide evacuation plan, says ordered departure applies only to Saudi Arabia",
    "source": "Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUnN4QU55SjVKTE5LdDlscGpOeThfS1h2TE04ekcwTHZhR3VvbDRteGxNMjlVVUlwTkhFVUFYNlNrcEVSZ0psWi1oUHJaMmFyd2JDamFuMVpWZkkyYkpRYzU4a2hQcklqYy1sb3B6bFE3anZ5djN1S2VXNE5mamU1TFBqZ0FuNmRIVTRQUU1Dc2tsQ1pPRzIxV210VE5RSFNZZnpINUhYVFFLXzlidUh0UERPbkhUeG9HMEhmSG5hMW5rc3M0ZmplSVpPOXNoeDRJT3o3Mmp1dlhBam10NEtB?oc=5",
-   "utc": "2026-10-21T20:41:58Z",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGFhek5aQldZeVN2YmJCczJNR1I3UjcxbDByVXlRQ09MVUJoX2FxNzd3ZTNUeFU4ajh3dUZDcHMzbnU3Y0c5aGtsNGttWF83SUhsOVljU0daalQ4aFA3Ty1XMl9KZHp2N0RuVGdDLWoxMGlRNDFyQmozMzM4MDBRNjJoS3RpUVRXb0RhTUttVngwM1pHS050cGFkS1E0NnN3U3FTM0RUMFRGVTdvYjRkNzVlYlNtSVowU3gtTXVmQVpJWkVWQmpfQ2lfZDdWb0RNelRKdDJRSWdkQQ?oc=5",
+   "utc": "2026-10-21T20:41:19Z",
    "tags": [
     "EVAC"
    ],
-   "score": 6.2,
+   "score": 6.1,
    "airspace": false
   },
   {
@@ -138,7 +138,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 20.2,
+   "score": 20.0,
    "airspace": false
   },
   {
@@ -149,7 +149,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.2,
+   "score": 11.0,
    "airspace": false
   },
   {
@@ -161,15 +161,15 @@
     "AIRSPACE",
     "EVAC"
    ],
-   "score": 6.4,
+   "score": 6.2,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 5,
-  "global": 479,
+  "count": 2,
+  "global": 448,
   "baseline": null,
-  "samples": 2,
+  "samples": 3,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -182,6 +182,10 @@
    [
     "2026-10-22T15:18:28Z",
     5
+   ],
+   [
+    "2026-10-22T18:36:08Z",
+    2
    ]
   ],
   "box": [

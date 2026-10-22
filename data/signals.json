@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T15:14:50Z",
+ "updated": "2026-10-22T15:18:28Z",
  "level": 41,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   80,
+   82,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   4,
+   5,
    0,
    10,
    "baseline still building (needs 6+ hourly samples)"
@@ -149,7 +149,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 11.2,
+   "score": 8.2,
    "airspace": false
   },
   {
@@ -166,10 +166,10 @@
   }
  ],
  "mil": {
-  "count": 4,
-  "global": 495,
+  "count": 5,
+  "global": 479,
   "baseline": null,
-  "samples": 1,
+  "samples": 2,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -178,6 +178,10 @@
    [
     "2026-10-22T15:14:50Z",
     4
+   ],
+   [
+    "2026-10-22T15:18:28Z",
+    5
    ]
   ],
   "box": [

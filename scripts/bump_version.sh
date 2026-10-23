@@ -3,5 +3,5 @@
 # index.html (data.js?v=..., chart.json?v=..., expected version) and DASH.ver in data.js.
 set -e; cd "$(dirname "$0")/.."
 NEW="VER_$(date +%Y%m%d%H%M%S)"
-sed -i -E "s/VER_[0-9a-z]+/$NEW/g" index.html data.js
+sed -i -E "s/VER_[0-9a-z]+/$NEW/g" index.html data.js $( [ -f preview.html ] && echo preview.html )
 echo "version -> $NEW"

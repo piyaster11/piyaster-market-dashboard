@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:25:01Z",
+ "updated": "2026-10-23T00:02:40Z",
  "level": 38,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   77,
+   79,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   2,
    0,
    10,
    "baseline still building (needs 6+ hourly samples)"
@@ -61,7 +61,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -72,7 +72,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.6,
+   "score": 6.5,
    "airspace": false
   },
   {
@@ -83,7 +83,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -94,7 +94,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.4,
+   "score": 8.3,
    "airspace": false
   },
   {
@@ -127,7 +127,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 19.9,
+   "score": 19.8,
    "airspace": false
   },
   {
@@ -138,7 +138,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 10.9,
+   "score": 10.8,
    "airspace": false
   },
   {
@@ -149,7 +149,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.8,
+   "score": 7.7,
    "airspace": false
   },
   {
@@ -161,15 +161,15 @@
     "AIRSPACE",
     "EVAC"
    ],
-   "score": 6.1,
+   "score": 6.0,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 281,
+  "count": 2,
+  "global": 275,
   "baseline": null,
-  "samples": 4,
+  "samples": 5,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -190,6 +190,10 @@
    [
     "2026-10-22T22:25:01Z",
     0
+   ],
+   [
+    "2026-10-23T00:02:40Z",
+    2
    ]
   ],
   "box": [

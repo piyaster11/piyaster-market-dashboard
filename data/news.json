@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:24:40Z",
+ "updated": "2026-10-23T00:02:25Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (31)"
+  "Nikkei Asia": "ok (32)"
  },
  "items": [
   {
-   "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
-   "utc": "2026-10-22T22:21:08Z",
+   "title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
+   "utc": "2026-10-23T00:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Stocks making the biggest moves in after hours: Western Digital, Bloom Energy, Deckers Outdoor & more",
+   "title": "These funds can juice your tax-free portfolio income. Just be sure to mind the risk",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-in-after-hours-wdc-be-deck.html",
-   "utc": "2026-10-22T22:17:28Z",
-   "tag": "STOCKS",
+   "link": "https://www.cnbc.com/2026/10/22/municipal-bond-funds-tax-free-income.html",
+   "utc": "2026-10-22T23:59:27Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
-   "utc": "2026-10-22T22:17:00Z",
-   "tag": "STOCKS",
+   "title": "Companies cutting jobs as investments shift toward AI",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzk5bDFrWVpNb3dlZ1ZMR2ZhU1NYTkJYRzh2c3JXWHcwQVBVNDhtLUo3QU1XNGFXU3kzZWFvdjdEMnd3TDc4eTI2T2NXemhfcEg5U0dISVRBRE9RUW0yMngyQy1tOXFfZ1kyZUhCa2JoOVBWcm55QWVXekVnWC1HUmw3WmI1Mm9MUE1yNEUyeXZhOXpXMnlWSzZIX3AxMHpYdjBEcXZZQmhwR2lKc2c?oc=5",
+   "utc": "2026-10-22T23:47:17Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Latest Oil Market News and Analysis for Oct. 23",
+   "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+   "utc": "2026-10-22T23:45:50Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+   "utc": "2026-10-22T23:43:51Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan Inflation Rises Above BOJ Target Level, Backing Rate Hikes",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/latest-oil-market-news-and-analysis-for-oct-23",
-   "utc": "2026-10-22T22:08:52Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-   "utc": "2026-10-22T22:07:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/japan-inflation-rises-above-boj-target-level-backing-rate-hikes",
+   "utc": "2026-10-22T23:32:16Z",
    "tag": "FED",
    "breaking": true
   },
   {
-   "title": "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
-   "utc": "2026-10-22T22:05:06Z",
+   "title": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkppSzFJMWI2bE5OT3FVMnR3LTAwQklDLXJnV2lVX2EwbWtneGd1ay03REY5Y3ZSLV9leEN4Z0x0S1NZaTIwVkFmZHU5bGZsYW1MZjlzbjN0UHNZcXAwRkdmYmpTbWkyRThKenJSdGswSk9RZEpiMWpKczczQU40WjZqSjNQSHR6YU4tbXIwTks1OGxmZXctN2l0VzQ1blp5WTlpdUNPS2RaZzE0eU9CYzVqMVFZc3MyTXdmc2EybEJRRUdFQVNjT0pENWE?oc=5",
+   "utc": "2026-10-22T23:31:44Z",
    "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-   "utc": "2026-10-22T22:02:34Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "EU’s Arctic Strategy Excludes Oil and Gas",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Natural-Gas/EUs-Arctic-Strategy-Excludes-Oil-and-Gas.html",
-   "utc": "2026-10-22T22:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "The Global Financial Crisis, Part 2: Stephen Schwarzman (22)",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2JIVTZOWHZhM19kM0l1eDJYNFZLeEZJUlZZRmJ2TWVSWHdZUmF3TmVVc1lRakI3bFduUmJjQ19weGN3ZDEyb0MyVUZScE1EaWl3ckNPZnhwMlNlQWFnSy1mR3hBS240cmR0dUJQckpYR2Q2MXM3QkFqUDNjTmFvdGJJZkxSakxZSGlDWkpmS0VEbVltdkdzZ01YUTB3REdIX1lPeTBaRG02LVlQclJZ?oc=5",
-   "utc": "2026-10-22T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
-   "utc": "2026-10-22T21:58:42Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Mickey Drexler on Decker Results and Retail Outlook",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/mickey-drexler-on-decker-results-and-retail-outlook-video",
-   "utc": "2026-10-22T21:58:03Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Affirm, Sam’s Club Strike Exclusive Buy Now, Pay Later Deal",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/affirm-sam-s-club-strike-exclusive-bnpl-deal-video",
-   "utc": "2026-10-22T21:53:37Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Australian Growth Likely Slower Than Expected On Rates, Prices",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/australian-growth-likely-slower-than-expected-on-rates-prices",
-   "utc": "2026-10-22T21:53:30Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-   "utc": "2026-10-22T21:52:02Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Kroger CFO: We Are an Agent for the Consumer",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/kroger-cfo-we-are-an-agent-for-the-consumer-video",
-   "utc": "2026-10-22T21:47:22Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Think tank highlights insecurity among Thais",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3341974/think-tank-highlights-insecurity-among-thais",
-   "utc": "2026-10-22T21:46:00Z",
-   "tag": "THAI",
-   "breaking": true
-  },
-  {
-   "title": "Huntington Bancshares CEO Stephen Steinour on 3Q Results",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/huntington-bancshares-ceo-stephen-steinour-on-3q-results-video",
-   "utc": "2026-10-22T21:44:47Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Trump invokes Cold War era Defense Production Act for oil production, refining",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/trump-defense-production-act.html",
-   "utc": "2026-10-22T21:37:31Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Yen on track to gain from US midterm elections and France unrest",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXdrSWkwMHBUdzVYWFhsLWVuSTBtcU43QjNsZ1dTdTl0RG5GM1JITWpHMlFTRnlTel85bmxQSU95NE00b3huaFl2TmpBMjhFcmFlWmtQSFppRnlIMGxQMDBMajdjemtPalltTHgxMmdtaGE2VWs2a0FkMFBobnA0Sk81VFJyb05aVHpYWGJlWWZvQ0J6dmM4cU8xdkRkeF9BaGUyVHM3dVUwTEt5ekRiRWVkbm04dVk?oc=5",
-   "utc": "2026-10-22T21:32:00Z",
-   "tag": "MARKETS",
    "breaking": true
   },
   {
    "title": "Apple bets iPhone Duo can remake foldable market as sales begin",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTlwRzRMSWgwZGFjeWp0bG01c2c1WUkxckYtOGR3MUhieUYwZUwxRVNHdFBCbWUwSm02TWgzdG5fRGxEX0U1TUtvUnF5bGpXQkRaN1lnbmJZeTVuZmZzS21ob0FTMnBYekcySDlic3VVUE0ySjZTOHhJR2V1RzlmN09ZdDh1Mlg1a0N3dXR5ckstOW13Mk91YjJOcmdqNkd3dFR1MzhKYmFORFItakQyMTltekVOaVQyc0ZMSm5B?oc=5",
-   "utc": "2026-10-22T21:31:31Z",
+   "utc": "2026-10-22T23:29:57Z",
    "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+   "utc": "2026-10-22T23:26:43Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Australia’s Victoria State Approves $700 Million Gas Project",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-22/australia-s-victoria-state-approves-700-million-gas-project",
+   "utc": "2026-10-22T23:25:32Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "SK Hynix says Solidigm drops plan for US IPO amid market volatility",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakIxS1gtNjFlNDJKUVl5cUZZTGlsamY3UG5ST0Y5UjEyU1RUSmx2Skh3aXZIRE95MjFUdHdXOFhVZVpRZmVUclRwSVJMNUVnYWFSOXFRRzdYWXNBbDJxZlBMbXlmVGYtQ09KOWtrWnJZTXdEQmRzeHNDUi0tMGJoWXVmaHNqZTkyRm1CQmFUcUE4OEN3YnJWQ2M1cEo0d1hNQ3BzVVVLakd2SXVo?oc=5",
+   "utc": "2026-10-22T23:17:23Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+   "utc": "2026-10-22T23:15:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Fuel tax cuts loom as a last resort for relief",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3341954/fuel-tax-cuts-loom-as-a-last-resort-for-relief",
+   "utc": "2026-10-22T23:14:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "What a 35-Hour Train Ride Reveals About Vietnam’s Future",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-22/what-a-35-hour-train-ride-reveals-about-vietnam-s-future-video",
+   "utc": "2026-10-22T23:00:33Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "utc": "2026-10-22T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Rising-Crude-Oil-Imports-Reduce-Chinas-Need-to-Draw-from-Stocks.html",
+   "utc": "2026-10-22T23:00:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "BoT seeks feedback on THB stablecoins",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3342129/bot-seeks-feedback-on-thb-stablecoins",
+   "utc": "2026-10-22T23:00:00Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Thai banking profits fall by 9.7% in Q3",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3342054/thai-banking-profits-fall-by-97-in-q3",
+   "utc": "2026-10-22T22:57:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
+   "utc": "2026-10-22T22:54:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Thailand ready for take-off as minister unveils solar subsidies",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3341874/thailand-ready-for-takeoff-as-minister-unveils-solar-subsidies",
+   "utc": "2026-10-22T22:52:00Z",
+   "tag": "THAI",
+   "breaking": false
   }
  ]
 }

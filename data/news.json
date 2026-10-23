@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:02:25Z",
+ "updated": "2026-10-23T01:35:34Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,16 +9,128 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (32)"
+  "Nikkei Asia": "ok (33)"
  },
  "items": [
+  {
+   "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+   "utc": "2026-10-23T01:23:12Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Yen Hits One-Month High as US Tech Rout Revives Haven Appeal",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/yen-hits-one-month-high-as-us-tech-rout-revives-haven-appeal",
+   "utc": "2026-10-23T01:15:38Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "SK Hynix abandons plan for US unit's IPO, citing market volatility",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcTVrN29mNzQ2S0tfWVByNk5GaXRGZkk1d3ZVbEppazQ1RVZEVUJ3dW0tSVhRVHVRblM3bXczX0p0M3pOWXNqYVp1amsyU2F2SGJCLUxFWWtBUHdyU1g4MjZlclY3cEdtRU91SnBrODRSMkFiREN5NENybzB4QUl1RlR2OXVRZmZ6RTdiWU5KTHdLcktkc3F1bnpmR01DYzg5Y0NlYW05ZFB5aEh1UVgzdEw0SXQxR2hyNUE?oc=5",
+   "utc": "2026-10-23T01:02:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+   "utc": "2026-10-23T00:55:11Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+   "utc": "2026-10-23T00:53:36Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+   "utc": "2026-10-23T00:46:09Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japanese Bond Yields Fall as AI Jitters Spur Haven Demand",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/japanese-bond-yields-fall-as-ai-jitters-spur-haven-demand",
+   "utc": "2026-10-23T00:42:43Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Magnitude 7 earthquake strikes Tibet, killing 16, Xinhua reports",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjhtNHU3LWpfUjlncDhJSnVleGFRNWhjU1FienVhcW45bUZNQlVIYUtJZ2xvcFJ6bWlXaE1jaURsWFY2ZUpuaXA0VmVyYVpEb3ZRSm5fUU1mT1ZtRWl6WnNhOTNGNzlndXI2eFZOMWNJXzNzQU1OLVpLUTc1NVVCZFl5ZmhuTXltYkdleEM0elJYcGlTZUkyMjRHRWk1V3ZiUGFibXRVbUp4NWdOb3dUalZn?oc=5",
+   "utc": "2026-10-23T00:33:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing",
+   "utc": "2026-10-23T00:30:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Nasdaq Drops as Doubts Grow Over AI Spending",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/nasdaq-drops-as-doubts-grow-over-ai-spending-video",
+   "utc": "2026-10-23T00:17:42Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Zip Shares Slide 50% After Flagging Costs Tied to US Fraud Event",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/zip-shares-slide-50-after-flagging-costs-tied-to-us-fraud-event",
+   "utc": "2026-10-23T00:17:05Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Gold Holds Near Three-Month Low as AI Jitters Fuel Volatility",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility",
+   "utc": "2026-10-23T00:15:37Z",
+   "tag": "GOLD",
+   "breaking": false
+  },
+  {
+   "title": "Stock futures are little changed after tech sector sell-off: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+   "utc": "2026-10-23T00:11:40Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/korean-stocks-drop-on-chip-losses-after-us-selloff-oil-gains",
+   "utc": "2026-10-23T00:06:35Z",
+   "tag": "OIL",
+   "breaking": false
+  },
   {
    "title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
    "source": "OilPrice",
    "link": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
    "utc": "2026-10-23T00:00:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "These funds can juice your tax-free portfolio income. Just be sure to mind the risk",
@@ -26,15 +138,15 @@
    "link": "https://www.cnbc.com/2026/10/22/municipal-bond-funds-tax-free-income.html",
    "utc": "2026-10-22T23:59:27Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Companies cutting jobs as investments shift toward AI",
+   "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzk5bDFrWVpNb3dlZ1ZMR2ZhU1NYTkJYRzh2c3JXWHcwQVBVNDhtLUo3QU1XNGFXU3kzZWFvdjdEMnd3TDc4eTI2T2NXemhfcEg5U0dISVRBRE9RUW0yMngyQy1tOXFfZ1kyZUhCa2JoOVBWcm55QWVXekVnWC1HUmw3WmI1Mm9MUE1yNEUyeXZhOXpXMnlWSzZIX3AxMHpYdjBEcXZZQmhwR2lKc2c?oc=5",
-   "utc": "2026-10-22T23:47:17Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+   "utc": "2026-10-22T23:54:52Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
@@ -42,39 +154,15 @@
    "link": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
    "utc": "2026-10-22T23:45:50Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-   "utc": "2026-10-22T23:43:51Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japan Inflation Rises Above BOJ Target Level, Backing Rate Hikes",
+   "title": "Japan Inflation Rises Above BOJ Target, Backing Rate Hikes",
    "source": "Bloomberg",
    "link": "https://www.bloomberg.com/news/articles/2026-10-22/japan-inflation-rises-above-boj-target-level-backing-rate-hikes",
    "utc": "2026-10-22T23:32:16Z",
    "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkppSzFJMWI2bE5OT3FVMnR3LTAwQklDLXJnV2lVX2EwbWtneGd1ay03REY5Y3ZSLV9leEN4Z0x0S1NZaTIwVkFmZHU5bGZsYW1MZjlzbjN0UHNZcXAwRkdmYmpTbWkyRThKenJSdGswSk9RZEpiMWpKczczQU40WjZqSjNQSHR6YU4tbXIwTks1OGxmZXctN2l0VzQ1blp5WTlpdUNPS2RaZzE0eU9CYzVqMVFZc3MyTXdmc2EybEJRRUdFQVNjT0pENWE?oc=5",
-   "utc": "2026-10-22T23:31:44Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Apple bets iPhone Duo can remake foldable market as sales begin",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTlwRzRMSWgwZGFjeWp0bG01c2c1WUkxckYtOGR3MUhieUYwZUwxRVNHdFBCbWUwSm02TWgzdG5fRGxEX0U1TUtvUnF5bGpXQkRaN1lnbmJZeTVuZmZzS21ob0FTMnBYekcySDlic3VVUE0ySjZTOHhJR2V1RzlmN09ZdDh1Mlg1a0N3dXR5ckstOW13Mk91YjJOcmdqNkd3dFR1MzhKYmFORFItakQyMTltekVOaVQyc0ZMSm5B?oc=5",
-   "utc": "2026-10-22T23:29:57Z",
-   "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
@@ -82,94 +170,6 @@
    "link": "https://www.cnbc.com/2026/10/22/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
    "utc": "2026-10-22T23:26:43Z",
    "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Australia’s Victoria State Approves $700 Million Gas Project",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/australia-s-victoria-state-approves-700-million-gas-project",
-   "utc": "2026-10-22T23:25:32Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "SK Hynix says Solidigm drops plan for US IPO amid market volatility",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakIxS1gtNjFlNDJKUVl5cUZZTGlsamY3UG5ST0Y5UjEyU1RUSmx2Skh3aXZIRE95MjFUdHdXOFhVZVpRZmVUclRwSVJMNUVnYWFSOXFRRzdYWXNBbDJxZlBMbXlmVGYtQ09KOWtrWnJZTXdEQmRzeHNDUi0tMGJoWXVmaHNqZTkyRm1CQmFUcUE4OEN3YnJWQ2M1cEo0d1hNQ3BzVVVLakd2SXVo?oc=5",
-   "utc": "2026-10-22T23:17:23Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-   "utc": "2026-10-22T23:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Fuel tax cuts loom as a last resort for relief",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3341954/fuel-tax-cuts-loom-as-a-last-resort-for-relief",
-   "utc": "2026-10-22T23:14:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "What a 35-Hour Train Ride Reveals About Vietnam’s Future",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-22/what-a-35-hour-train-ride-reveals-about-vietnam-s-future-video",
-   "utc": "2026-10-22T23:00:33Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "utc": "2026-10-22T23:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Rising-Crude-Oil-Imports-Reduce-Chinas-Need-to-Draw-from-Stocks.html",
-   "utc": "2026-10-22T23:00:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "BoT seeks feedback on THB stablecoins",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3342129/bot-seeks-feedback-on-thb-stablecoins",
-   "utc": "2026-10-22T23:00:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Thai banking profits fall by 9.7% in Q3",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3342054/thai-banking-profits-fall-by-97-in-q3",
-   "utc": "2026-10-22T22:57:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
-   "utc": "2026-10-22T22:54:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Thailand ready for take-off as minister unveils solar subsidies",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3341874/thailand-ready-for-takeoff-as-minister-unveils-solar-subsidies",
-   "utc": "2026-10-22T22:52:00Z",
-   "tag": "THAI",
    "breaking": false
   }
  ]

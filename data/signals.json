@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:02:40Z",
+ "updated": "2026-10-23T01:35:57Z",
  "level": 38,
  "band": "Watch",
  "components": [
@@ -29,7 +29,7 @@
    2,
    0,
    10,
-   "baseline still building (needs 6+ hourly samples)"
+   "10 pts per +100% above baseline"
   ]
  ],
  "advisories": [
@@ -53,6 +53,17 @@
   }
  ],
  "headlines": [
+  {
+   "title": "Aramco Evacuates Dhahran HQ Amid Houthi Escalation; U.S. Prepares to Withdraw Embassy Staff",
+   "source": "Forth.News",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wckpJVDVDa1VwOUM2R1JPN2VITjBERE5idml0S21td2VYZXJhaHlNT3gxRlJfQnhhdXBMRndUYmxnV0w2YnVTTlphQlFvMkNHaVdzbTB5STZUNi1hOTJfSXln?oc=5",
+   "utc": "2026-10-22T19:58:31Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
   {
    "title": "Saudi Aramco evacuates Dhahran headquarters, orders staff to work from home",
    "source": "Gulf News",
@@ -83,7 +94,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -94,7 +105,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.3,
+   "score": 8.2,
    "airspace": false
   },
   {
@@ -105,7 +116,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.9,
+   "score": 7.8,
    "airspace": false
   },
   {
@@ -116,7 +127,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -127,7 +138,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 19.8,
+   "score": 19.7,
    "airspace": false
   },
   {
@@ -138,7 +149,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 10.8,
+   "score": 10.7,
    "airspace": false
   },
   {
@@ -151,25 +162,13 @@
    ],
    "score": 7.7,
    "airspace": false
-  },
-  {
-   "title": "India’s Saudi Advisory for 2.65 Million Stops Short of Evacuation",
-   "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzR0Y0aGFGMnd2aHN1UUdvYU1odjg1TFktaTM3RkhLNjluTkRqVS1YNW1uYVpTajNCSU05T2JodTVPUU5qV1NjR0lfX0ltWHRTV0pzOUNQdEdBRk12Vk03SmJXUHd0bDFERzB2b2dEUDJySGxWYW9z?oc=5",
-   "utc": "2026-10-21T00:16:28Z",
-   "tags": [
-    "AIRSPACE",
-    "EVAC"
-   ],
-   "score": 6.0,
-   "airspace": false
   }
  ],
  "mil": {
   "count": 2,
-  "global": 275,
-  "baseline": null,
-  "samples": 5,
+  "global": 268,
+  "baseline": 3.0,
+  "samples": 6,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -193,6 +192,10 @@
    ],
    [
     "2026-10-23T00:02:40Z",
+    2
+   ],
+   [
+    "2026-10-23T01:35:57Z",
     2
    ]
   ],

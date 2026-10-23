@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T13:32:26Z",
- "level": 42,
+ "updated": "2026-10-23T18:26:34Z",
+ "level": 39,
  "band": "Watch",
  "components": [
   [
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   5,
    4,
+   1,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -54,10 +54,10 @@
  ],
  "headlines": [
   {
-   "title": "Passengers evacuated from Sheremetyevo in Moscow, flights restricted — RMF24",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHU0b2xiV1hVRDRmdWhkSXRyOWYzNEt5V1ByVTgyekNFSGdjblpfS3RqLXVlVl9ZZ0ZMY2N3MnlCcnR5Y3FZcEc1bHJNVjFFQzdIMk12Rm5uakhsT3diNmlteWpQTlNldTZMNlVpR19VOXJVcXVhcFFrS01ZM3dlSVpGaWhwbU4yazFGejNqV0pPNTVmT1I3SjZHX1Ywdw?oc=5",
-   "utc": "2026-10-23T13:21:54Z",
+   "title": "Areas evacuated at Moscow’s largest airport due to Ukrainian drone threat",
+   "source": "صوت الإمارات",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNjZ2WmxOOTZBRHd1T2F5RTBkaDlPNUhJZmI2ZEJiU0pBNF9DSXp4Y2lHYVB0c1h1NVAwUkRDSzg3YW5NcVZsWXp2X0YteEZNWEs3VFNoTlJZZTY0QloyRklrRUFfTVlBOUtJU3RWY0dUNW9DdkFDTUVFZ3FlQW5kLWItOVlSQzRzSzFyY09ldF9sX1ZNNkVjQmY0WVZsRm5lY1p0UFRPRGdwaVNDeU0zLVVzOXJ0RzlzOWJhNkFUZDFWdw?oc=5",
+   "utc": "2026-10-23T17:22:10Z",
    "tags": [
     "AIRSPACE"
    ],
@@ -65,14 +65,36 @@
    "airspace": false
   },
   {
-   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
-   "utc": "2026-10-23T12:28:22Z",
+   "title": "Ukrainian embassy in DC evacuated and major bridge closed over bomb scare",
+   "source": "New York Post",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNclNfYnh1VGozUkpGaUo0WnNTVTlzdGNfaEw5aXpiTWV3U0g5VVdPYVRZd1N4LVRHTkNxcGw4NFRjNE0xMHhuQVJyWkpMbDRSTVJyV2NQQlE2YmdpaTBpZHE3TVRWb2RtV1JhSFJfalZKVWFONTM3ZE1PbldrT0JwQ0lDVHFYT3ZrTldsNXdaQjY2bXhhYXpFZWxwNko5X3VrQkhUSmpNSmpqQQ?oc=5",
+   "utc": "2026-10-23T16:46:35Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 5.0,
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Suspicious Object Near Ukrainian Embassy Sparks Alert, Bomb Squad At The Site; Premises Evacuated",
+   "source": "Oneindia",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLXd1Ukh0ZWFDVzRhMmY2UkVMMG1mZVRncDRSczJPa2NuUkhPUXh2VXhBdVlhdy1EZ1RhQ3ZGa2VhMEdjQWhhTzlyYnkxWHVGVmtoU2pQbmlsYml1TWtjTmY0ZndKWmVzcmJkSkFOa2hGMV9uNzluZ0VDdE81S3pIaGtUZXVjRUdkdmZmY3hfb1dvYUV5MURrNzVWWFA2VEdudWdKdHRRdTZXOUhNUFhyUWV4Wm1zWHRFUXFQSDduQS0xZkgyQTZUdS1lMEpwc3IyMWY2MkJlalBESXZEekUyaQ?oc=5",
+   "utc": "2026-10-23T15:22:52Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Ukrainian embassy in US evacuated after object found, probe finds it poses no threat | World News",
+   "source": "Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajJtQXhDV05QX1N1RE1OUDZBT1dwQm9sZ2hXNEJoWVRsckNyT1oyNGNERndJVm5jZUxsSy1haC1IVllNWW5panhFWGNiU2ptekZhS3hyZUR2eEFsVzZ1dWFHSVpGRFRGSG1HWGJ0U2ZtckprS0dETDY4bVh5Nm5lajEzaGxqeU11WUx5LS1zMFZNdzRNTjBUc0N0SVpSNDVyM21MN01WeFdJcDlZRmxHRlZhZldLcUJWZk9DRk5YZV9iZXJTRWlLVUJWRnJCblVhVllIN3ZxN3F4c01PdVdDcWJMVG5TQXNGS2fSAe8BQVVfeXFMTWZTRU5iQmVPQ3dUYTluXzRkWFduT3hiV2NsMnk1U1UxSmRTWGo0S2RVQzVhanA0SFFiSjJyUzNFWlNDVHJSWnA0bGQzRGVYazJBU096N1NlRU5QYmhzTUhCN2pySlEtRWIwbVVjS3U3ZmJFRGY1QVJjaTJHYVZhN1oySlVDSXVnNWxqcHpvSDlzbFJVc05sajE5QW9yRU5BU1dpQ2ctWDRCdjM5aTB0bjVVWHJzcy1mZnFEREg4ZDRlRkZvRVdMRllIRzNUakx6ZlRyR0hDQTIwRU56bThMSlJKZ1RBU0RzaEpwR2cxLUU?oc=5",
+   "utc": "2026-10-23T15:10:24Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
    "airspace": false
   },
   {
@@ -83,29 +105,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
-   "airspace": false
-  },
-  {
-   "title": "Saudi Aramco evacuates Dhahran headquarters, orders staff to work from home",
-   "source": "Gulf News",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmNKdDJEcmVVRVA5aGVjOGdZUmR0THd2NFZNVFFMNHhlNmI4U3lnbEhEbFlXbmUwN0VxQk5CdWFsR3A1c2dMSGZGUXlBWXYzbEVtUlN2V1k1Y1M0alFHMDlmMy1NbW1YWkd0d0FDMmdsQlQtMmpQVGhQQWsxWFhWeFkwQ2pLSXdMb0R0Zl8zSUtOd1RDM0c0cFZ3OFFiMTBGMUxlUXBSaEc5bTFhbkdOY1N3LUZwU2lEWk1UVFB5WU1FdElXOXF3dw?oc=5",
-   "utc": "2026-10-22T13:02:02Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.0,
-   "airspace": false
-  },
-  {
-   "title": "Day 237| US preparing ordered departure of personnel from Gulf embassies: Reuters",
-   "source": "Roya News",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakFyRFRvaFRxMDdySkc4YnJ2UlJsYVAwc3JHdERQUENwNFc2aGs2RXJmbmY1UzMzeDEzUXdJNldxSXR3Nk9rRDEzTG9seW5VcjkxNlQ2Vkl1RjByLThTSFA1dkljRnkzaXRCNWFIR1pFbFlKZFV0Q05Ka3pmSHhVSEF5cGJicjJ4YTFpVzVjVWRZYUdnOXNKYkhMSlVmeXZPNlZZc3loUkZpM19sRXB2MlpXSnNPa1V4TFpz?oc=5",
-   "utc": "2026-10-22T12:06:54Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.9,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -116,7 +116,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.7,
+   "score": 7.5,
    "airspace": false
   },
   {
@@ -127,7 +127,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.3,
+   "score": 7.1,
    "airspace": false
   },
   {
@@ -138,7 +138,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -149,7 +149,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 13.2,
+   "score": 13.0,
    "airspace": false
   },
   {
@@ -160,15 +160,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 10.2,
+   "score": 10.0,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 5,
-  "global": 358,
-  "baseline": 3.5,
-  "samples": 8,
+  "count": 4,
+  "global": 427,
+  "baseline": 3.7,
+  "samples": 9,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -205,6 +205,10 @@
    [
     "2026-10-23T13:32:26Z",
     5
+   ],
+   [
+    "2026-10-23T18:26:34Z",
+    4
    ]
   ],
   "box": [

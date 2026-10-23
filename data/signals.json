@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T18:26:34Z",
- "level": 39,
+ "updated": "2026-10-23T22:17:28Z",
+ "level": 47,
  "band": "Watch",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   65,
+   59,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   1,
-   3,
+   4,
+   12,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   4,
-   1,
+   3,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -54,15 +54,48 @@
  ],
  "headlines": [
   {
-   "title": "Areas evacuated at Moscow’s largest airport due to Ukrainian drone threat",
-   "source": "صوت الإمارات",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNjZ2WmxOOTZBRHd1T2F5RTBkaDlPNUhJZmI2ZEJiU0pBNF9DSXp4Y2lHYVB0c1h1NVAwUkRDSzg3YW5NcVZsWXp2X0YteEZNWEs3VFNoTlJZZTY0QloyRklrRUFfTVlBOUtJU3RWY0dUNW9DdkFDTUVFZ3FlQW5kLWItOVlSQzRzSzFyY09ldF9sX1ZNNkVjQmY0WVZsRm5lY1p0UFRPRGdwaVNDeU0zLVVzOXJ0RzlzOWJhNkFUZDFWdw?oc=5",
-   "utc": "2026-10-23T17:22:10Z",
+   "title": "Akasa Air Flight Cancellation: Jeddah Flights Suspended Until November 10, Riyadh Until November 30",
+   "source": "LatestLY",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNjh2b3JoZGZ0elptN2J5MmJJUkx6Sm9Ia25ycTBZYzBCUlM2MnJHVkFlemotREJ0dDI3REM4M1BBY0tJbFVkeERjbWk4T25KNHdWNUk2cDU3U1V1VklkYjdmd0FlbWFZTnVfSVNzdFlLd0pJXzNMeUpNNmp3ZzZIY3hLX1dhRExLcEg0RDhmMkozbFNNVlYtYnE2RlFCNjYwdjcxX0RETTBHV2lfUVRQdG4wUzUtTnhDMjlhOVk1R2Zqb0FmUFIxeXJOUmgwdVEzVlpuQUN3NGpIakhtSS1Z0gHkAUFVX3lxTE02QmlBdzFpT0ZuRXZCX0p5RThYbEphWlp6VWtYNlVueTNFZW0wV29aLTFCblhDb21kQmlLMkRjZ2hZNFA4OTBacGNTTkgwZ0ZCTGtjRXgzVlk2QnFXT096TE5SVEJnanpJQ1NlX0FKY2hxZVlqUnhHNXFTTGEwZk1ZSDZlcXYySUdqM3B6RFhtVlBYN291MGlpRGFNVUdic3hCQXpuZURzeEJUZXRUb3FlcXJMLWc1Nng0RWlRU1dQSnZCUGdCMVRiX3pNdUg1cnNOaDhxdnNpNDRrdkR3Y0dTdEdzUA?oc=5",
+   "utc": "2026-10-23T18:24:32Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.0,
+   "score": 5.8,
+   "airspace": true
+  },
+  {
+   "title": "A false bomb threat forces the evacuation of the Embassy of Ukraine in Washington",
+   "source": "Demócrata",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlJuSzZFSHgtTDV5RkcydzRsQWhrRnVLSjlrcjItcVI2Q2N1MmFuZkRyYUhQdWpoRnFhVWJLc2JZXzh0RkZNajRNLXh4OHBaNjl5Q1R4eWNGOFRyZXAtc3RnbEQzV3lYUHNxLVB3ZDlfUG01UUdBSkhqeG9fT1Q5SmxKM2Z5Q1ZrcW5nNXpIVzA1eXJpeENibXpPY2NVbmdhMGpKckhpcHEzd0pIUmFSbDJfaWVTd256ZXk0bHhwdFIzd9IBxwFBVV95cUxNaEJaU2VhN2ZtTmdxUnRzQVZVZ3NPZXd4aERvRTNKT3lBOEVpSzdpMFJQb1NHa3lyRzg2OEFXd2MyMDE2dm0xa3IzYVVCTHdBMHRLSHh4RVdtNmhKVE44M2Z2NHpOX2R1S1NrOHdhbFJNeXpvXzV5UXVMMFhQSFhBLXBMQWpmdVVtQ2s5WTg1VlBNS1NPdjdBT3RteDJubEczbW9pLW1yaGYtQndDZXVGdHk0QjB5cUZzeDJ6OHFPNTVyQ2U1ZjhV?oc=5",
+   "utc": "2026-10-23T17:06:47Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.8,
    "airspace": false
+  },
+  {
+   "title": "Ukrainian Embassy in Washington temporarily evacuated over suspicious object",
+   "source": "Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHQ5RTJZRXpPcWZpcldUcV9yRDI1RHZsR082dmdRWWNMcmJmX2xTVTdnTEM1d3k5OXVEUDBlYUtnR242MTE3N01GVGxZWEtxeDhwd01fYjd5VEdrSUU4d2ZlMFV0Qlcwd2dfQ2dsOHA5ZGxvalQzXzRUT3d3d3VQcWtlVXo3V2d6VlBOTnhSY08yZ3NNcTM4S3ItdmZsNHdQOUU2Z2NVbzZOYUp1dksyVnBTbkhmOEN2Ukw1SDV0YWNsbkZz0gHKAUFVX3lxTFB3S1BXTzNGZnVkM19Fa1FCemlTSXJ6QUx4SmdhYzU2bmJPV0xfb1NDN21iY0dvVUl6ZXhER19oSi16QmdkNF9VLXRpMnI5QnppYUU5SWNiRlJObDBiMHYxNjNkbk0ta0ZrU01qQV8ydWo3VWhLQWY4aXJsYndiejF3TzZUYldGdFlmcUh0ZXQwZUs3VEd5Y201WExnN0ppSjJNS0FNNWZOUVllQXBZV3BSQ2NoWmFCZS1ad0pQd3c1R2xOa1BQQ1FsOEE?oc=5",
+   "utc": "2026-10-23T17:00:00Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "Drone attack alert in Moscow, Russia's largest airport evacuated and flights suspended",
+   "source": "Pamfleti",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHRLaFVTbF8zSkpwLWVGcndHS1ZueVlsRWFCR2x5ZWFJRzI1akFGOEp3QVF5bko5MzZLX0QtVnVxczhFM0h0MF9PamVtNUM5MjVaWG5rX1J4VElaT0JUNTlVVXNDWktDc2VsZVIwby1zcUN1NzR3MXRHZ1BXMzJRdEQ1NDhUMTNrMGFyZWlKNjBsalRORFphMVJZUUoxSm5abmlJa0FoRmI0UE9xbGdoMVkwOA?oc=5",
+   "utc": "2026-10-23T16:52:00Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.8,
+   "airspace": true
   },
   {
    "title": "Ukrainian embassy in DC evacuated and major bridge closed over bomb scare",
@@ -72,7 +105,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "Suspicious object found near Ukraine’s embassy in Washington; people evacuated",
+   "source": "Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0pCTklkU01rcFhiUjMzRFlldTdYV2EzVWhzOU9rQTIxUWZPaXlMeVZ0RHpKcnBGZHkyTTBld2U0TnlQWVVBVXZIUnI2OG5UeGhsOWJXUGxJa2JvTnlfY29MeGpJazc0Sk0wOXdraFVQWUE4RnRoVzVrVmU1T3RnX2g3Z2FyQnZRV0E?oc=5",
+   "utc": "2026-10-23T16:18:30Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -83,7 +127,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -94,18 +138,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.7,
    "airspace": false
   },
   {
-   "title": "Aramco Evacuates Dhahran HQ Amid Houthi Escalation; U.S. Prepares to Withdraw Embassy Staff",
-   "source": "Forth.News",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wckpJVDVDa1VwOUM2R1JPN2VITjBERE5idml0S21td2VYZXJhaHlNT3gxRlJfQnhhdXBMRndUYmxnV0w2YnVTTlphQlFvMkNHaVdzbTB5STZUNi1hOTJfSXln?oc=5",
-   "utc": "2026-10-22T19:58:31Z",
+   "title": "US State Department denies Gulf-wide evacuation plan",
+   "source": "Ammon News",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MMjJ3dWJyY1FQSGpveFlTODlaRU1DRkljeExrVG1GTGQ0OGsxN1R2eGl1TXNxVGZDWHA2MXpVNWpWT0FHakR3SkxaODcxY1k?oc=5",
+   "utc": "2026-10-22T08:54:25Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 7.4,
    "airspace": false
   },
   {
@@ -116,59 +160,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.5,
-   "airspace": false
-  },
-  {
-   "title": "US State Department denies Gulf-wide evacuation plan",
-   "source": "Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWtPOG5wVFl1bVhWZzdUbEIyQ0tZMUZ5MjJ5d0t5SlE5UDZyV0NlN1B2QnB1QlBfVjhjTG40QlpLS0w1OVFkNC1PSTRmVEg3OW1WZUJiU0xwbzJkdUEzVWdTTEhzYnJIell0TTdMZzMzT0FjOE1WNDVCN1BDekZTZlNYMjNSWk95QXQ4UVFxQTFPOTltMkxzLUt3?oc=5",
-   "utc": "2026-10-21T20:41:58Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 7.1,
-   "airspace": false
-  },
-  {
-   "title": "US State Department denies Gulf-wide evacuation plan, says ordered departure applies only to Saudi Arabia",
-   "source": "Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGFhek5aQldZeVN2YmJCczJNR1I3UjcxbDByVXlRQ09MVUJoX2FxNzd3ZTNUeFU4ajh3dUZDcHMzbnU3Y0c5aGtsNGttWF83SUhsOVljU0daalQ4aFA3Ty1XMl9KZHp2N0RuVGdDLWoxMGlRNDFyQmozMzM4MDBRNjJoS3RpUVRXb0RhTUttVngwM1pHS050cGFkS1E0NnN3U3FTM0RUMFRGVTdvYjRkNzVlYlNtSVowU3gtTXVmQVpJWkVWQmpfQ2lfZDdWb0RNelRKdDJRSWdkQQ?oc=5",
-   "utc": "2026-10-21T20:41:19Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "US preparing to issue ordered departure of some personnel from Gulf embassies, say US officials",
-   "source": "Tri-City Herald",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd1Z6am5rQlJjS2h6LTAta2ZRdm0xR0xpU3UxMmtIN2NTeFFjdDZ0aWhnUjI5cThaV2dsaGdYdFRrZGRWQlpSTFBXZUxPYXlWMnhKRXZoM00xcHZvSGFTbzJwZWlUZ3ZKaVE0SEdjdmQxZlVGZVN1OVpZZDdBaE9acnVR?oc=5",
-   "utc": "2026-10-21T19:28:07Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 13.0,
-   "airspace": false
-  },
-  {
-   "title": "Exclusive-US preparing to issue ordered departure of some personnel from Gulf embassies - US officials",
-   "source": "Forth.News",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oVTNPYkU0My1pUXBHNEp4VGhaaWp3YUJHSTJBdFlQTW4xbDhDR3Y3SUdSTGpqZVdPUy1EeGhPN2NKdHNhMXlxb0prUF9TZjZMakh3clNFaGRvcVo1YndTWTBYVQ?oc=5",
-   "utc": "2026-10-21T18:58:18Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 10.0,
+   "score": 7.4,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 4,
-  "global": 427,
+  "count": 3,
+  "global": 194,
   "baseline": 3.7,
-  "samples": 9,
+  "samples": 10,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -209,6 +209,10 @@
    [
     "2026-10-23T18:26:34Z",
     4
+   ],
+   [
+    "2026-10-23T22:17:28Z",
+    3
    ]
   ],
   "box": [

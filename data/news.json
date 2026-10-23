@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:26:14Z",
+ "updated": "2026-10-23T22:17:13Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (36)"
+  "Nikkei Asia": "ok (37)"
  },
  "items": [
   {
-   "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+   "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-   "utc": "2026-10-23T18:24:49Z",
+   "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
+   "utc": "2026-10-23T22:16:54Z",
    "tag": "FED",
    "breaking": true
   },
   {
-   "title": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
+   "title": "Andrew Brandt on MLB Salary Cap Fight as World Series Begins",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/andrew-brandt-on-mlb-salary-cap-as-world-series-begins-video",
+   "utc": "2026-10-23T22:09:13Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "'Notes on Being a Man', 'The Invisible Hand'",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/-notes-on-being-a-man-the-invisible-hand-video",
+   "utc": "2026-10-23T22:05:12Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+   "utc": "2026-10-23T22:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
+   "utc": "2026-10-23T22:00:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Larry: Stephen Schwarzman (23)",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbF9xdzB2d1RCeHhfRTFYbDM1Y1Q1MWtjRXRGMFNHQ2VGZUhzVENpRl9KUXZPWWdpZDJjc0tWcHVGOUxFVTJ6c0cxRktFWEpoYm4wNlZ1cnVWMENFajFhR3JZbXFvd1NYS0xNZlVZcENQalhqclQ5Zk5EeFVrWVE1bDhCbTcwWFZx?oc=5",
+   "utc": "2026-10-23T22:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "US Family Annual Healthcare Plan Now Costs More Than $28K",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-family-healthcare-plan-now-costs-more-than-28k-video",
+   "utc": "2026-10-23T21:58:51Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/data-centers-face-downgrade-risk-amid-local-pushback-s-p-says",
+   "utc": "2026-10-23T21:56:15Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Cidade do Pará rebelada contra política ambiental abraça Flávio",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/cidade-do-para-abraca-flavio-video",
+   "utc": "2026-10-23T21:51:49Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Manga is having its moment in the New York art scene",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1NPTzQ4a2NVck8ycTN1RjUyQklnQjYwUUVxZnFOSEU4T084WlBJWWMtZXZMaElzajJOMEFWOVp5VGN3SzZqaHJ1cHFDWDVma2MxSFV6U05nanlJVGZBVndBcHM0NkZYX29nV3hmRDhDLWJwQ2FtUXNMTGl0U2tjLW10dmVDcndMdlNoT0Vfa1daQ0FQb3c?oc=5",
+   "utc": "2026-10-23T21:51:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Gold traders mull repercussions of US political turmoil",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3342684/gold-traders-mull-repercussions-of-us-political-turmoil",
+   "utc": "2026-10-23T21:50:00Z",
+   "tag": "GOLD",
+   "breaking": true
+  },
+  {
+   "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+   "utc": "2026-10-23T21:46:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Robin Wigglesworth on the Importance of Curiosity",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/robin-wigglesworth-on-the-importance-of-curiosity-video",
+   "utc": "2026-10-23T21:39:56Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "National Wealth Tax Could Work: Tilson",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/national-wealth-tax-could-work-tilson-video",
+   "utc": "2026-10-23T21:34:51Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "All-America Economic Survey",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/all-america-economic-survey/",
+   "utc": "2026-10-23T21:31:22Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "San Diego to Leave Muni Bond Group After SEC Oversight Concerns",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/san-diego-to-leave-muni-bond-group-after-sec-oversight-concerns",
+   "utc": "2026-10-23T21:29:20Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-   "utc": "2026-10-23T18:23:47Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-   "utc": "2026-10-23T18:23:35Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Trump says he ordered DOJ suit to block Alaska Senate race certification if Republican loses: 'I'm the one that said 'do it''",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-   "utc": "2026-10-23T18:21:54Z",
+   "utc": "2026-10-23T21:26:59Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?",
+   "title": "Wall St Week Ahead Earnings flood, Fed meeting will test rickety AI market rally",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5",
+   "utc": "2026-10-23T21:21:32Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
+   "utc": "2026-10-23T21:19:02Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/can-nvidias-stock-become-a-safe-haven-as-wall-street-rethinks-the-ai-trade-64862936?mod=mw_rss_topstories",
-   "utc": "2026-10-23T18:19:00Z",
+   "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+   "utc": "2026-10-23T21:13:00Z",
    "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Something Is Going on With the Discount Window",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/something-is-going-on-with-the-discount-window",
-   "utc": "2026-10-23T18:16:09Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Dow tumbles 600 points as Middle East tensions rise, selling broadens beyond tech: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-   "utc": "2026-10-23T18:09:56Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Kinder Morgan, Energy Transfer and Williams could benefit from cheap natural gas",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/cheap-natural-gas-pipeline-stocks.html",
-   "utc": "2026-10-23T18:07:34Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japan, Micronesia affirm cooperation on free and open Indo-Pacific",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYzhpMjhhSW50TEh6NVpFczF5c2hESHpMajJXbG05aXh3SVVWQ0FQaFhrVl9aTmtVa0l3YlVLeVBydmExaWpTZmM3ZE1EckNMNUVoNDlWUkxKdEwtM3lRZE9tOUVvWjZhMmhFR0FnclZldHhpeThYZzVaOGo1eUFaS0xEUzFIcWd2NDJDMkVqa09XSktjbmxfV1lwVVhLTGIzQXlqNmVnZlpDbFpmS0pZTUNWNkFIejBRc3ZUVEhpbEpkbEo0MmZVWkU2VFBlbS1m?oc=5",
-   "utc": "2026-10-23T18:05:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Dow, S&P 500 fall, tech steadies to end rocky week",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5",
-   "utc": "2026-10-23T18:00:19Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "France boosts police presence, hoping to prevent repeat of riots",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkg2U21rX0FPY3pMbWlwRW5TYmJ1OEVLUUFpWGE0NG1ud3JCTkEzSzVaaGJDOGs3UFdOcDFnX0NBMTI3YWtQLXRrWjFkV3YxdWlGNnI2LVNoLWpkQ0Z6QjBoNUVXYkNRcG9KWm0tcmJKbExKaWtXYTNuSGdMZ0l4MzQxQlZmcGhiVWxpOG1lX0t1c2wzUUpYd0QzbXl3RkxZbDl5cWI4Ry16dmZYbHhqZHVUaEIyUQ?oc=5",
-   "utc": "2026-10-23T17:42:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-   "utc": "2026-10-23T17:41:25Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Investors are starting to find opportunities in the battered bond market",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
-   "utc": "2026-10-23T17:40:31Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-   "utc": "2026-10-23T17:26:12Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-   "utc": "2026-10-23T17:25:29Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Wells Fargo, Intuit latest companies to object to their shares being tokenized, document shows",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1IyYVRJX1Vlemd2UTZ5OHpUS2ZYU3A2eHpIel9JOHdrUy1sNG40Mlp6M3h4dDhiZmRnMFR0UU5fSGx0SkdPdTVYU2t4NUxFOW9uZTBEbTNZN1RvZVdfajRXbzRrc2xiVXlZRzNvYVdqWjBtd1NaNjVwVzZnQ1QzVVk3aFhGdk9EWkJZcjdndVlIZXNBd1ZUeWlQVEo0S3NwUzdmOVdmNUxlMnRxSHE2TXA4cm00V29Nc01PVktZbFIzZ2c?oc=5",
-   "utc": "2026-10-23T17:23:26Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-   "utc": "2026-10-23T17:21:10Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Repo Market Set for Volatility in Late Clearing Push, CIBC Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-23/repo-market-set-for-volatility-in-late-clearing-push-cibc-says",
-   "utc": "2026-10-23T17:20:58Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/6-Million-Barrels-in-Two-Minutes-Draws-CFTC-Scrutiny.html",
-   "utc": "2026-10-23T17:20:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Building collapses in Kenyan capital, rescuers on the scene",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVpLTzd4NkFaVmRUa3lENmlHdGxvZmJuWHN0TG1DeXVNbXhlSkVDc3RxeV91MkNLYjJtdUlQY1BlUXo0TlFuOXZNTGpFd1JoWVRFMERXTVlYZEpqb2Y5WTFqd1ptMVd0ZmVjM0hWLWxtWmMtQWpyd0dhYVpaTlJZbDVfS0VQY1hMTTdZWXdtUjdmc0tENjFUMUlWNHY3QQ?oc=5",
-   "utc": "2026-10-23T17:17:50Z",
-   "tag": "MARKETS",
    "breaking": false
   }
  ]

@@ -33,7 +33,7 @@ l:["<b>Don't panic-sell, don't rush to buy.</b> The mood fell to 19.8 (Extreme F
 DASH.glossary={
 fg:{m:"Fear & Greed",d:"CNN's 0-100 mood gauge for US stocks, built from 7 signals. 19.8 = Extreme Fear, down from 31.4 the day before and 30.3 a week ago: Thursday's tech rout scared investors."},
 fgbands:{d:"0-25 Extreme Fear, 26-45 Fear, 46-55 Neutral, 56-75 Greed, 76-100 Extreme Greed. Fear often comes before rebounds, but not always."},
-nk:{m:"Nuclear Escalation",d:"Our editorial 0-100 tension score from weighted news factors. Not a probability. ~44 = Elevated, up from ~40: reports of US-Israel plans for renewed Iran strikes after the midterms, more ship attacks and Saudi strikes, and Russian missiles on Kyiv right after agreeing to talks; no new explicit nuclear threats."},
+nk:{m:"Nuclear Escalation",d:"Our editorial 0-100 tension score from weighted news factors. Not a probability. ~45 = Elevated, up from ~40: reports of US-Israel plans for renewed Iran strikes after the midterms, more ship attacks and Saudi strikes, and Russian missiles on Kyiv right after agreeing to talks; no new explicit nuclear threats."},
 nkbands:{d:"0-20 Low, 21-40 Guarded, 41-60 Elevated, 61-80 High, 81-100 Severe. Each factor's score × weight adds up to the total."},
 mom:{m:"Market momentum",d:"S&P 500 vs its 125-day average. 22.6 = extreme fear: Thursday's drop knocked momentum down sharply."},
 str:{m:"price strength",d:"Stocks at 52-week highs vs lows. 17.6 = more lows than highs, extreme fear."},

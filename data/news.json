@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T01:35:34Z",
+ "updated": "2026-10-23T07:38:17Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (33)"
+  "Nikkei Asia": "ok (37)"
  },
  "items": [
   {
-   "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+   "title": "Stock futures trade mixed after tech sector sell-off: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
-   "utc": "2026-10-23T01:23:12Z",
+   "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+   "utc": "2026-10-23T07:31:46Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+   "utc": "2026-10-23T07:29:28Z",
    "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Yen Hits One-Month High as US Tech Rout Revives Haven Appeal",
+   "title": "Hermès, Cartier’s Last Reliable Shoppers Are Retreating in China",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-23/yen-hits-one-month-high-as-us-tech-rout-revives-haven-appeal",
-   "utc": "2026-10-23T01:15:38Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/hermes-cartier-s-last-reliable-shoppers-are-retreating-in-china",
+   "utc": "2026-10-23T07:19:20Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+   "utc": "2026-10-23T07:15:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "SK Hynix abandons plan for US unit's IPO, citing market volatility",
+   "title": "Volvo Cars to cut 2,500 jobs as third quarter swings to loss",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcTVrN29mNzQ2S0tfWVByNk5GaXRGZkk1d3ZVbEppazQ1RVZEVUJ3dW0tSVhRVHVRblM3bXczX0p0M3pOWXNqYVp1amsyU2F2SGJCLUxFWWtBUHdyU1g4MjZlclY3cEdtRU91SnBrODRSMkFiREN5NENybzB4QUl1RlR2OXVRZmZ6RTdiWU5KTHdLcktkc3F1bnpmR01DYzg5Y0NlYW05ZFB5aEh1UVgzdEw0SXQxR2hyNUE?oc=5",
-   "utc": "2026-10-23T01:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlZDS2VQMS05VFV4bXBoREo2aUZhNHdnWGx4Z3FWcWJwX0ZzX2J4dVc0empIUFdndTIxVEFoNXRZNXhkbU9YMGtUcHR1UmQ4MEthZ1I3YlZFQWhadVd5VUg3VUVCVC1id08yRGZJNXJCYVY0aGZxNEhuMlc4V0N4MFhGc090RTdiSVdpZkgyNUZURHVCMHlYR0YxWTRQQ1dkNlkwVE9DVEs?oc=5",
+   "utc": "2026-10-23T07:15:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-   "utc": "2026-10-23T00:55:11Z",
-   "tag": "MARKETS",
+   "title": "Chinese stocks fight economic gloom after slide into bear territory",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmsxT1JxZ2VOMVJDM3lvajF3bE9MQ2lDSkMwQzdaaTFBcHdLRzh4aHFqOGpjU0NGcW9rSzlFTDNLdnV5cUZucFFKTHk0SzNPeEZURnlKdDdCTGVXM1VkM2FkMHo4UmhkM1dLWmVBeHpUMGtqcjdTd3VEczUwbFR3dUZRY1FNbXZyYUlQdG1mRUdhX0V3M1AySndZblFhQXM2dnhXZlVqYXpJX3lO?oc=5",
+   "utc": "2026-10-23T07:09:00Z",
+   "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-   "utc": "2026-10-23T00:53:36Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
-   "utc": "2026-10-23T00:46:09Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japanese Bond Yields Fall as AI Jitters Spur Haven Demand",
+   "title": "Margin Trade Liquidation Speeds Indian Small-Cap Stock Decline",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-23/japanese-bond-yields-fall-as-ai-jitters-spur-haven-demand",
-   "utc": "2026-10-23T00:42:43Z",
-   "tag": "FED",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/margin-trade-liquidation-speeds-indian-small-cap-stock-decline",
+   "utc": "2026-10-23T07:04:57Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Magnitude 7 earthquake strikes Tibet, killing 16, Xinhua reports",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjhtNHU3LWpfUjlncDhJSnVleGFRNWhjU1FienVhcW45bUZNQlVIYUtJZ2xvcFJ6bWlXaE1jaURsWFY2ZUpuaXA0VmVyYVpEb3ZRSm5fUU1mT1ZtRWl6WnNhOTNGNzlndXI2eFZOMWNJXzNzQU1OLVpLUTc1NVVCZFl5ZmhuTXltYkdleEM0elJYcGlTZUkyMjRHRWk1V3ZiUGFibXRVbUp4NWdOb3dUalZn?oc=5",
-   "utc": "2026-10-23T00:33:00Z",
+   "title": "China Offshore Yuan Bonds Priced at Record Lows Amid Rally",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/china-offshore-yuan-bonds-priced-at-record-lows-amid-rally",
+   "utc": "2026-10-23T07:01:59Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Japan Weighs Gasoline Subsidy Cuts as Energy Costs Soar",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Weighs-Gasoline-Subsidy-Cuts-as-Energy-Costs-Soar.html",
+   "utc": "2026-10-23T07:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Bridgewater China Cut Gold and Is ‘Optimistic’ on Local Stocks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/bridgewater-china-cut-gold-and-is-optimistic-on-local-stocks",
+   "utc": "2026-10-23T06:53:36Z",
+   "tag": "GOLD",
+   "breaking": true
+  },
+  {
+   "title": "Nigeria's Shift to Solar",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/nigeria-s-shift-to-solar-video",
+   "utc": "2026-10-23T06:48:57Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "UK Retail Sales Fall, Consumer Confidence Worst Since Covid",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/uk-retail-sales-fall-consumer-confidence-worst-since-covid",
+   "utc": "2026-10-23T06:46:28Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Azour: War Impact on Energy Markets Under Control",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/azour-war-impact-on-energy-markets-under-control-video",
+   "utc": "2026-10-23T06:36:22Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
+   "title": "Russia Turns to a Disputed Region to Keep Wheat Exports Flowing",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-23/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing",
-   "utc": "2026-10-23T00:30:00Z",
-   "tag": "AI",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/russia-turns-to-a-disputed-region-to-keep-wheat-exports-flowing",
+   "utc": "2026-10-23T06:28:26Z",
+   "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Nasdaq Drops as Doubts Grow Over AI Spending",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-23/nasdaq-drops-as-doubts-grow-over-ai-spending-video",
-   "utc": "2026-10-23T00:17:42Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Zip Shares Slide 50% After Flagging Costs Tied to US Fraud Event",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-23/zip-shares-slide-50-after-flagging-costs-tied-to-us-fraud-event",
-   "utc": "2026-10-23T00:17:05Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Gold Holds Near Three-Month Low as AI Jitters Fuel Volatility",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-23/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility",
-   "utc": "2026-10-23T00:15:37Z",
-   "tag": "GOLD",
-   "breaking": false
-  },
-  {
-   "title": "Stock futures are little changed after tech sector sell-off: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-   "utc": "2026-10-23T00:11:40Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-23/korean-stocks-drop-on-chip-losses-after-us-selloff-oil-gains",
-   "utc": "2026-10-23T00:06:35Z",
+   "title": "EXCLUSIVE: Tanker carrying 40,000 T of Russian diesel heads to New York after Putin-Trump deal, data shows",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3Zka2dCZ1RzeXJfN1BWOGlIbHpxODVFbTdvdjFuengzUlVHTkpLVGlOa05wUXNvdWpyNl9MTGRVMTJmWFdMTTFyU3pka3FrZ0hzMGhHVEJTRGpVQXV1TEhPYXBsSjU2UllWZHlfVzBCMnBvT01NbVNUdkJiMER4YWhKZDljRUVMY2N1REdxMEpZVkg1RFhOMGFkT3NnNWljS29Jd05ZLXdNMnhmaUlUZXJWY3hGTzN4b3hEM2ExUGxNcDRLMDVr?oc=5",
+   "utc": "2026-10-23T06:27:00Z",
    "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
-   "utc": "2026-10-23T00:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "These funds can juice your tax-free portfolio income. Just be sure to mind the risk",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/municipal-bond-funds-tax-free-income.html",
-   "utc": "2026-10-22T23:59:27Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-   "utc": "2026-10-22T23:54:52Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
-   "utc": "2026-10-22T23:45:50Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Japan Inflation Rises Above BOJ Target, Backing Rate Hikes",
+   "title": "French Crisis Creates a Cheap Contrarian Trade: Taking Stock",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-22/japan-inflation-rises-above-boj-target-level-backing-rate-hikes",
-   "utc": "2026-10-22T23:32:16Z",
-   "tag": "FED",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/french-crisis-creates-a-cheap-contrarian-trade-taking-stock",
+   "utc": "2026-10-23T06:26:20Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/22/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-   "utc": "2026-10-22T23:26:43Z",
+   "title": "Editor's Choice: What really separates Silicon Valley startups from Asia?",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTzFySGtZX0pzMkdjdDRCRVpua0tGc29hOHpCaVZRRVotUncxbmRGQ0t0WEs1cXhfRDR2bXJWQnQ1QjhXc1ZGQTBsdTY1bHk4SFdHdzJTeGI3SVFITG1qbGVGYTVGRnN3Zzk0RGw2QlBWYmtkZVo4RGgwbUFnZERxT2NpN2FyVFBnNXFlc1FlOUY1Z3VMZ1YxTnpyLXhrVktPQlAzVlRXaVVJN3o4bTgtQ2pfUktrQUs3cWl2TzZPZXJLZnBRbG9BT3M1ZTNLUzg?oc=5",
+   "utc": "2026-10-23T06:19:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Hedge Funds Log Widest Daily Drawdown Since Covid in Stock Rout",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-log-widest-daily-drawdown-since-covid-in-stock-rout",
+   "utc": "2026-10-23T06:17:21Z",
    "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+   "utc": "2026-10-23T06:15:54Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Rathbones Warms to Longer UK Gilts on Bets for Budget Discipline",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/rathbones-warms-to-longer-uk-gilts-on-bets-for-budget-discipline",
+   "utc": "2026-10-23T06:15:00Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

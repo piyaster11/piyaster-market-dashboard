@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T01:35:57Z",
- "level": 38,
+ "updated": "2026-10-23T07:38:45Z",
+ "level": 45,
  "band": "Watch",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   79,
+   65,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   1,
-   3,
+   0,
+   0,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
-   0,
+   8,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -61,7 +61,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -72,18 +72,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
-   "airspace": false
-  },
-  {
-   "title": "3 p.m. recap: Washington to evacuate 'non-essential' staff from Riyadh embassy; Iran threatens to hit US bases in response to Hormuz escorts",
-   "source": "L'Orient Today",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNG5DdE9mZ0h0cFk5N0FtcjY1RnItUWRTVlYtUmZqcDZFSExnSmFxbjdKUGNNTGNZajRTS3BRLTNXWk93TVFndlBsQkdJQmFwWUdha0xZUW13V2NYbllKWG05QVViUHRIRGlEMmM2djBlRVYzaXdsdjlKcjJ3cXVubEFwM0R3ZzlwLWpDZ0VmVkVlOWN4cUZNRkRCVGo5MTJVUmh2QjMwUEpLZzBlcUViWndLZWRjS3M3NHBsX2tsZzctWnU4akh1dm1aaEJwUWdIcm55M21obC1Pa1RzMi1mb2RnVVFVX1hzcnFzVzZfalQtQVlwTWhJbjVicXRjckNvbk44X010SzBpV3M5eVM4dFpydDA2QQ?oc=5",
-   "utc": "2026-10-22T12:55:08Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 6.5,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -94,7 +83,29 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.2,
+   "airspace": false
+  },
+  {
+   "title": "US media reports that Washington is evacuating bases in the Middle East.",
+   "source": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnFMZjBNUkY4SGlINXVCc2gtczZ2RHdLd05XMDVPWHBqMElKblRDQVpOSGYya2NlVUxieUxwZnRRYkZLY1MwVi1NWHNqQk1waEl0bkhKenE5VExISmZMQzhfTkR5SWpmYTBrSlJIc1JWWHFSV3JDWmVRN3JlcVJCeGZCM0NoZUt3aHRRSzNqY2xmMkctb3Yw?oc=5",
+   "utc": "2026-10-22T10:04:48Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.1,
+   "airspace": false
+  },
+  {
+   "title": "West Asia Conflict: US orders embassy officials in Saudi Arabia to evacuate amid deadly Houthi strikes",
+   "source": "Organiser Weekly",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRnRtbjVndWJEejl0RlA1QVRKTUo5NUVtNHVoUzBremd4b1dKN0NpTWFBSmhSYTA5djBYM0tjWUI0NkVXNEdTT21wazBGS1pkS3JlT1I5M0tZdWRzWXpfMkl4NG5JMXdBZGI4bEVFMmFvZ1BPekQ3dEttbUlNVGk1a2Z6MThQd2pWenBlRXNPbFFlWE1wcUVpVWVNWXQxa19idUZTRmllMWtkNzVORHlILUFnUi1UekJrZ1U0eVVYajJMeGxYTVVLWGQyaUowdW5MR3ZDNmZqdnFQclNEVDZRdVB30gHnAUFVX3lxTFBZZnItYWdCVlJDLXRxSWdoQ0JvWDc0ZUhzWDJxanBkLVFhb2REZXBRZG5ZRTdGZXBrLU0wLVpMWGlST1ZNdmRtUlowR3VLWEtxUVJ5WVNYWjh0Mm0wWWhxWk54U0hxVk1Rd1NBNE9hekxoeWZzd1d0TzdSV3ZDY01KaGp6SU5qWnR2NmRFeE5fQ2xMWm8zeFlEaHNUUDdHTEU2anp1N3RIUTdRYTRhWXphUzl4dW1fSFRSbENBcUZFbUJRWGdVM2xES1NPbDk1bVFkNGhrTG9BN1FlSDdKVmRLbjRyT0d3VQ?oc=5",
+   "utc": "2026-10-22T07:36:40Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -105,7 +116,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.2,
+   "score": 8.0,
    "airspace": false
   },
   {
@@ -116,7 +127,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.8,
+   "score": 7.5,
    "airspace": false
   },
   {
@@ -127,18 +138,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.5,
    "airspace": false
   },
   {
-   "title": "US preparing to issue ordered departure of some personnel from Gulf embassies",
-   "source": "Ynetnews",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fVUFMYXF4Vi1NY2hPQ0Uxanhmb19Gc0h0bWxUdTZFTVJRWUwzTHB5OGFwVWRSWHg4R2dXbFZ2Z0FsN014dHIyd1Z6Vk5GX3huVWRIY0V3?oc=5",
-   "utc": "2026-10-21T19:06:10Z",
+   "title": "US preparing to issue ordered departure of some personnel from Gulf embassies, say US officials",
+   "source": "Tri-City Herald",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd1Z6am5rQlJjS2h6LTAta2ZRdm0xR0xpU3UxMmtIN2NTeFFjdDZ0aWhnUjI5cThaV2dsaGdYdFRrZGRWQlpSTFBXZUxPYXlWMnhKRXZoM00xcHZvSGFTbzJwZWlUZ3ZKaVE0SEdjdmQxZlVGZVN1OVpZZDdBaE9acnVR?oc=5",
+   "utc": "2026-10-21T19:28:07Z",
    "tags": [
     "EVAC"
    ],
-   "score": 19.7,
+   "score": 16.5,
    "airspace": false
   },
   {
@@ -149,26 +160,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 10.7,
-   "airspace": false
-  },
-  {
-   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
-   "utc": "2026-10-21T17:34:05Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 7.7,
+   "score": 10.5,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 268,
-  "baseline": 3.0,
-  "samples": 6,
+  "count": 8,
+  "global": 208,
+  "baseline": 2.9,
+  "samples": 7,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -197,6 +197,10 @@
    [
     "2026-10-23T01:35:57Z",
     2
+   ],
+   [
+    "2026-10-23T07:38:45Z",
+    8
    ]
   ],
   "box": [

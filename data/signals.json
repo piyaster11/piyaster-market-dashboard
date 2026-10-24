@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24T07:22:30Z",
- "level": 87,
+ "updated": "2026-10-24T12:44:34Z",
+ "level": 97,
  "band": "Critical",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   51,
+   55,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   4,
-   12,
+   5,
+   15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   0,
+   6,
+   7,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,39 @@
  ],
  "headlines": [
   {
+   "title": "Ukrainian Embassy DC Evacuated, Key Bridge Closed Over Scare",
+   "source": "Hoodline",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjNfWFFHUEpTMjU2RGdIV0FUSUs4Vy1ENXI1RXZVbGJ3S0RLRUFUYV9IN3ZsLTU1UzE4ZGJyWC1vWFo0bmJxYnRwZ3hGODQzUzZlSFFCSm42QlVLa1o4TUVIVFFKa3A2dG0tUk81Y1l2WjA5WGJvYUVzWWl5WVhJSDdGTnVTN19iUm1IVzZTQTdaOG5LTEJzUkhLZmE?oc=5",
+   "utc": "2026-10-24T11:59:01Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 6.0,
+   "airspace": false
+  },
+  {
+   "title": "Russia Rejects Claims of Staff Evacuation From Iran’s Bushehr Nuclear Plant",
+   "source": "Caspian Post",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSk1oeTJZV3U3X2JqWFBUeFlERDhVdjRScEN0dGh0UmFFVExaZXlmcnZzSWpDa1ZRNWVicmozVkhwaThwVDhEdTRJaDJuMUp4RTZnbmkyR0JLcllYX0M4NDdvcWdZRllGMUNhOVFhOWVoTVpuN1ZQUTRNdEw1UEh6Q2hVakNGNlpNU3p2SGpBQmNHcUVxYkVyN3lrWVh5QjZLaS1ZSlhmZw?oc=5",
+   "utc": "2026-10-24T10:50:10Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "The US is urgently evacuating diplomats from the Middle East: the threat of further escalation is mounting",
+   "source": "UkrMedia News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONlNQYVFESUxDTnA0dVQxNHZ6LW15RmJxVlRQWWl6emlwaVVlYmNjcWVEZXBDUjJ3VjZFTXdxbkctd3ZEVVkydlk4T04wbW5QVVg2Tzk5cXRIWlh2OTlPdnF4aFlxbkYzbl9URzRlTEIzN0JrOHJ6M2dJV2NKR2x1U3p6SDA?oc=5",
+   "utc": "2026-10-24T06:45:09Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
    "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
@@ -97,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -108,7 +141,29 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.4,
+   "airspace": false
+  },
+  {
+   "title": "Toledo, Ohio, mayor says employee error caused chemical leak, lifts remaining evacuation orders",
+   "source": "The Northern Virginia Daily",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ3A4Ti1tekwtMDl0ZnRsSFBPM20zQ182dGRmY3RFemRwZ3QxN2lId2hRX2k3TEI3T0lmTE4weFE5bHNFclZOOFdxV01tRlQwVWgzTU5tam1fekVwbk93QVY5dVN2TklSOFQtN3dnWkVRU1dhR2Fib3lmNnFSdDhNMkVrczl2THNzUWpDZnVhQlRzdmVYU3RTUWVnd3c5ODFIWDNEazVXZEtZZjJMQ1h0OUNlbWRrZ3lOUTQ3UFVINWsyNU9kR0ZBQmpkNmZwS0NKeTBxOTl3b3FHMVo3N3BDRGZfWEhvbGREaWRlRmxUY2dPWVo1YkNEY00yWC1FczFZTVMtZXRIVk9xeUhjRGNrV1hqd2pxQzVQeUR3OQ?oc=5",
+   "utc": "2026-10-23T21:44:20Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.4,
+   "airspace": false
+  },
+  {
+   "title": "Severe flooding in the Four Corners region triggers rooftop rescues and evacuation orders",
+   "source": "The Northern Virginia Daily",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVE1lcnUycE5ZejZROXc2c0piVUNQMS1NbDBLY0NYeWk4X2Q0aUhoY3R5NHQyTzUtYmp4MTVMR2t0WkZXLWtrVWZXXzJNYXRHNGZ3MmtiYjdKVGxac3NIQXJBZ1NJYWMxbS1JUkljZXgtTUxSVEZ2QTBza2JRRzJ3X1BIY0JhWHh4OUl3dmhrd3Vjenh4X2FWdldMZW1NYWllQnA5RzJ6OEJmekJ2T1RHOGhHRmpDaUdsbzhIX2t4a3ZYTjRkeDVYU1RiRm0wLWpJUVJtWWY4UFhCRzVKal9Tcmx3VVhsUk03T3YzLWc5eko0TjE5LS1SZWNyYUZGUktXbF8wVjlvektLNjEzaW9UejhCWkxKOGQ4?oc=5",
+   "utc": "2026-10-23T20:49:20Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -119,7 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -130,81 +185,26 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.5,
+   "score": 5.2,
    "airspace": true
   },
   {
-   "title": "A false bomb threat forces the evacuation of the Embassy of Ukraine in Washington",
-   "source": "Demócrata",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlJuSzZFSHgtTDV5RkcydzRsQWhrRnVLSjlrcjItcVI2Q2N1MmFuZkRyYUhQdWpoRnFhVWJLc2JZXzh0RkZNajRNLXh4OHBaNjl5Q1R4eWNGOFRyZXAtc3RnbEQzV3lYUHNxLVB3ZDlfUG01UUdBSkhqeG9fT1Q5SmxKM2Z5Q1ZrcW5nNXpIVzA1eXJpeENibXpPY2NVbmdhMGpKckhpcHEzd0pIUmFSbDJfaWVTd256ZXk0bHhwdFIzd9IBxwFBVV95cUxNaEJaU2VhN2ZtTmdxUnRzQVZVZ3NPZXd4aERvRTNKT3lBOEVpSzdpMFJQb1NHa3lyRzg2OEFXd2MyMDE2dm0xa3IzYVVCTHdBMHRLSHh4RVdtNmhKVE44M2Z2NHpOX2R1S1NrOHdhbFJNeXpvXzV5UXVMMFhQSFhBLXBMQWpmdVVtQ2s5WTg1VlBNS1NPdjdBT3RteDJubEczbW9pLW1yaGYtQndDZXVGdHk0QjB5cUZzeDJ6OHFPNTVyQ2U1ZjhV?oc=5",
-   "utc": "2026-10-23T17:06:47Z",
+   "title": "Flight Cancellations Leave Kashmiri Umrah Pilgrims Stranded In Saudi Arabia, Seek Evacuation",
+   "source": "ETV Bharat",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEdaSmJZc0pxWUk4cFc1Q1lPTVFQcGd5TnlYdDZDck03bndkMV9HWEZta2NfcEs0dWk5WUt5bnR3WE1VVzMzUmUxSjV3Wmt1RW5BXy1qUzVVSEQtU2xBWjQ0eTk3bVM4c01oZnpIRmN4NjRSbzBpZmkyLXlFdk9rWnR3Y1JCaUdOSVlVMFk2RkF3RXJXYWJkSEFJNWx0NGU2WGZHT29FWG5aazFXbEVlRDFRSDVVVC1yQVdKc09rMU90T1XSAcgBQVVfeXFMTnNQc25KaDcxOGo3M3huVHpTbF95WUFva0gxSXhJZngtMVd0OTVEbndRbE5idmxvYTNSUE5KVUFGZ2p5Y2ZGaU51RW0xSzlWcDhoeUdramtSMWVkOWM0V1pOMmVTaFVzaVMybGZ3cHRwdmJWUHE5eERWMy1oMWx0TnBnU21YUUNKQTUxWjNhZlU1dmphYjNoMU1hN3NKZS1SOTh5NzZPdFY4aWxacW1oUFAzUkwwUm1xTlRtZmNpRjdaQUZwTnA5RHc?oc=5",
+   "utc": "2026-10-23T10:53:04Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
-   "airspace": false
-  },
-  {
-   "title": "Ukrainian Embassy in Washington temporarily evacuated over suspicious object",
-   "source": "Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHQ5RTJZRXpPcWZpcldUcV9yRDI1RHZsR082dmdRWWNMcmJmX2xTVTdnTEM1d3k5OXVEUDBlYUtnR242MTE3N01GVGxZWEtxeDhwd01fYjd5VEdrSUU4d2ZlMFV0Qlcwd2dfQ2dsOHA5ZGxvalQzXzRUT3d3d3VQcWtlVXo3V2d6VlBOTnhSY08yZ3NNcTM4S3ItdmZsNHdQOUU2Z2NVbzZOYUp1dksyVnBTbkhmOEN2Ukw1SDV0YWNsbkZz0gHKAUFVX3lxTFB3S1BXTzNGZnVkM19Fa1FCemlTSXJ6QUx4SmdhYzU2bmJPV0xfb1NDN21iY0dvVUl6ZXhER19oSi16QmdkNF9VLXRpMnI5QnppYUU5SWNiRlJObDBiMHYxNjNkbk0ta0ZrU01qQV8ydWo3VWhLQWY4aXJsYndiejF3TzZUYldGdFlmcUh0ZXQwZUs3VEd5Y201WExnN0ppSjJNS0FNNWZOUVllQXBZV3BSQ2NoWmFCZS1ad0pQd3c1R2xOa1BQQ1FsOEE?oc=5",
-   "utc": "2026-10-23T17:00:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.4,
-   "airspace": false
-  },
-  {
-   "title": "Drone attack alert in Moscow, Russia's largest airport evacuated and flights suspended",
-   "source": "Pamfleti",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHRLaFVTbF8zSkpwLWVGcndHS1ZueVlsRWFCR2x5ZWFJRzI1akFGOEp3QVF5bko5MzZLX0QtVnVxczhFM0h0MF9PamVtNUM5MjVaWG5rX1J4VElaT0JUNTlVVXNDWktDc2VsZVIwby1zcUN1NzR3MXRHZ1BXMzJRdEQ1NDhUMTNrMGFyZWlKNjBsalRORFphMVJZUUoxSm5abmlJa0FoRmI0UE9xbGdoMVkwOA?oc=5",
-   "utc": "2026-10-23T16:52:00Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 5.4,
+   "score": 5.9,
    "airspace": true
-  },
-  {
-   "title": "Ukrainian embassy in DC evacuated and major bridge closed over bomb scare",
-   "source": "New York Post",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNclNfYnh1VGozUkpGaUo0WnNTVTlzdGNfaEw5aXpiTWV3U0g5VVdPYVRZd1N4LVRHTkNxcGw4NFRjNE0xMHhuQVJyWkpMbDRSTVJyV2NQQlE2YmdpaTBpZHE3TVRWb2RtV1JhSFJfalZKVWFONTM3ZE1PbldrT0JwQ0lDVHFYT3ZrTldsNXdaQjY2bXhhYXpFZWxwNko5X3VrQkhUSmpNSmpqQQ?oc=5",
-   "utc": "2026-10-23T16:46:35Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.4,
-   "airspace": false
-  },
-  {
-   "title": "Day 237| US preparing ordered departure of personnel from Gulf embassies: Reuters",
-   "source": "Roya News",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakFyRFRvaFRxMDdySkc4YnJ2UlJsYVAwc3JHdERQUENwNFc2aGs2RXJmbmY1UzMzeDEzUXdJNldxSXR3Nk9rRDEzTG9seW5VcjkxNlQ2Vkl1RjByLThTSFA1dkljRnkzaXRCNWFIR1pFbFlKZFV0Q05Ka3pmSHhVSEF5cGJicjJ4YTFpVzVjVWRZYUdnOXNKYkhMSlVmeXZPNlZZc3loUkZpM19sRXB2MlpXSnNPa1V4TFpz?oc=5",
-   "utc": "2026-10-22T12:06:54Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 7.2,
-   "airspace": false
-  },
-  {
-   "title": "US denies Gulf-wide evacuation, pulls staff from Saudi Arabia only",
-   "source": "Türkiye Today",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGFWQ3RQMmNGaG5aSXJqdVotUjBNWXd0ak1PWGlvZXQzc3VZMTNvc3ZRVG9ad3RsLVQ3cHJVTFZSbUJaZUFXY192R3FUZXRCRDVlekhxcGY3RmpZQkV0NkFXd09oWW1rSkY1V3pyNEtyMGJDNkVxWW1vdnFCUUhkUWY3UTR6NjBnRHVJYS1mNXROMk5qY0RUaVdVM3c0VjRIbUNiQmVkQ0RIdkl2TlE?oc=5",
-   "utc": "2026-10-22T07:30:46Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 7.0,
-   "airspace": false
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 83,
-  "baseline": 3.7,
-  "samples": 13,
+  "count": 6,
+  "global": 111,
+  "baseline": 3.6,
+  "samples": 14,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -261,6 +261,10 @@
    [
     "2026-10-24T07:22:30Z",
     3
+   ],
+   [
+    "2026-10-24T12:44:34Z",
+    6
    ]
   ],
   "box": [

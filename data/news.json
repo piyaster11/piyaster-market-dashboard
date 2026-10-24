@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:44:18Z",
+ "updated": "2026-10-24T16:39:36Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (22)"
+  "Nikkei Asia": "ok (21)"
  },
  "items": [
   {
-   "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-   "utc": "2026-10-24T12:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
-   "utc": "2026-10-24T12:25:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "France Faces New Protests After Week of Violence",
+   "title": "French Protestors Dispersed with Gas as Tensions Rise",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-24/france-faces-new-protests-after-week-of-violence-video",
-   "utc": "2026-10-24T12:23:42Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video",
+   "utc": "2026-10-24T16:31:00Z",
    "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+   "utc": "2026-10-24T16:18:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
+   "utc": "2026-10-24T16:14:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
+   "utc": "2026-10-24T16:04:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+   "utc": "2026-10-24T16:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+   "utc": "2026-10-24T16:00:00Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+   "utc": "2026-10-24T15:44:53Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Money-saving habits to cope with higher prices — from our readers",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
+   "utc": "2026-10-24T15:27:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly",
+   "utc": "2026-10-24T15:21:35Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+   "utc": "2026-10-24T15:21:06Z",
+   "tag": "AI",
+   "breaking": false
   },
   {
    "title": "Why popular airplanes are getting scrapped years early",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-   "utc": "2026-10-24T12:20:22Z",
+   "utc": "2026-10-24T15:18:30Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Ukraine says Starlink back to normal after week of throttling",
+   "title": "France deploys 70,000 police to try to contain nationwide protests",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
+   "utc": "2026-10-24T15:16:34Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5",
+   "utc": "2026-10-24T15:14:33Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Starlink in Ukraine back to normal after week of throttling",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
-   "utc": "2026-10-24T12:03:42Z",
+   "utc": "2026-10-24T15:13:55Z",
    "tag": "WAR",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories",
-   "utc": "2026-10-24T12:00:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-   "utc": "2026-10-24T12:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+   "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
-   "utc": "2026-10-24T12:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Gershkovich Says Putin Seeks His Terms, Not a Deal",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-24/gershkovich-says-putin-seeks-his-terms-not-a-deal-video",
-   "utc": "2026-10-24T11:54:12Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Fire devastates the Eagle's Nest retreat built for Hitler in Germany. A person is detained",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/eagles-nest-adolf-hitler-germany-fire.html",
-   "utc": "2026-10-24T11:54:02Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Oil Markets Brace for Renewed Iran Fighting",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-24/oil-markets-brace-for-renewed-iran-fighting-video",
-   "utc": "2026-10-24T11:39:37Z",
-   "tag": "OIL",
+   "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+   "utc": "2026-10-24T15:11:24Z",
+   "tag": "BTC",
    "breaking": false
   },
   {
-   "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+   "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
-   "utc": "2026-10-24T11:30:00Z",
-   "tag": "FED",
+   "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+   "utc": "2026-10-24T15:10:00Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Barclays ‘House of Fixed Income’ Pins Future Growth on Equities",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-24/barclays-house-of-fixed-income-pins-future-growth-on-equities",
-   "utc": "2026-10-24T11:02:54Z",
+   "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
+   "utc": "2026-10-24T15:00:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+   "utc": "2026-10-24T15:00:00Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-   "utc": "2026-10-24T11:00:01Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories",
-   "utc": "2026-10-24T11:00:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-   "utc": "2026-10-24T10:59:16Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Russia says drone attack damages Togliatti facilities, Ukraine says petrochemical plant hit",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLVlneFRqcVJHMTZlOGpILW51QW1qWXBtVHd3aFpRZGRjT1NDUnVaUW9US2dMTUg2SGp0SGx4YjFENFZQYjVKamhPemJoYlpNQzlHS0E1ZTBHZnlwOXE2OVVJS0NqcFpCaGFuQ3lqUjZxalpSZkVzRUhTOEEzSk9jZTBhSVRuZUZreWtkWkJULXplX2VZMV9KRlN4SklZb0ZlVnhPZVRRMDNoWEdSanlPbEI3SGxSZmI3ZER6X2NneHFwMjNkUS1Dc1lid1ZPa1h1RURSTXFOX0JOSEE?oc=5",
-   "utc": "2026-10-24T10:58:24Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Saudi-led coalition says it intercepted Houthi ballistic missiles targeting Saudi cities",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
-   "utc": "2026-10-24T10:07:59Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Beauty giants target 'Ozempic face' as boom in obesity drugs opens new market",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzBscFc1bVNobHJsZmJJNHE4dmlON3Viekp4ZDd1R2QwdlZaZkZJc1QyTW9aQmhnOGxmUW14NnFWbFlkSWVDbkJiRjdzdjhLODlSMmd1T2hETGxfbXRnaFo2NFE5UG5vbVNWZ21Zd0tWTDM2NExxaVI4bU5zNTlrbHM2dmhiT1ZOVkwzWVItdHlYeTFESEFSMVRla0hPUzFueUdGVl80NS1IbHJlQWhsakRqN0lsbjF3cF9TODFrMA?oc=5",
-   "utc": "2026-10-24T10:05:13Z",
+   "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
+   "utc": "2026-10-24T15:00:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "France mounts huge security operation as protesters prepare to march",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
-   "utc": "2026-10-24T09:37:43Z",
+   "title": "Metals Traders Reap Bonanza With Another Year of Record Profits",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/metals-traders-reap-bonanza-with-another-year-of-record-profits",
+   "utc": "2026-10-24T14:45:05Z",
    "tag": "MARKETS",
    "breaking": false
   }

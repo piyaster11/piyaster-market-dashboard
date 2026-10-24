@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24T12:44:34Z",
- "level": 97,
+ "updated": "2026-10-24T16:39:52Z",
+ "level": 91,
  "band": "Critical",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   55,
+   51,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   6,
-   7,
+   4,
+   1,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,39 @@
  ],
  "headlines": [
   {
+   "title": "Russian embassy denies evacuation of diplomats and specialists from Iran",
+   "source": "Apa.az",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXRMb3VSVm1iOE1NeHJIUVJrYm5OUlBGRzd1RnBNbUJ2SV91NTc0dlh1Mm1hTHRUOS15aGJxdFdDSnd1OHBXcTlldXhieVJtTEkwdE1DOXp5UkVrSEJ2VXZVeGNEc2loT0dhcE1JNG9zYXJHeHlHbjZMcWt4cHNGbDNIUjBZd3dfZ1lxLVlrOWZvWUhENWR4RkZyYk02cm5zTTlURk9zc09wUWx2YjFsdQ?oc=5",
+   "utc": "2026-10-24T15:32:00Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 6.0,
+   "airspace": false
+  },
+  {
+   "title": "CNN: The State Department is evacuating US diplomats from the Middle East amid chaos",
+   "source": "EADaily",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGZJOU9WMVBQOWhaa1I3TWlUcXhQUWFmZ3QxaTAyb2JHOE1UVjZwRzJvRXcyNUt2V3FmUXZOQ2Z1ZWxNSGF3OHR1amlSZG9kZXdYMU51Y1BBZVJjamZSdUZjRG1BUjY4SUxhUHZqWFByVHlXa2lWOGI4ZENZakI3YzFqSjgtcUNIY29hNDdTaGhCUUZ4T1ZjbEtYVUktSFZWY0hlZWtJcXVSZWhRbzlIdzd3dWhMTmZ3SXowOEw4ONIBwwFBVV95cUxORUU1eUMzSDU2LU5QVnExdGVlZ2J3QXliV2g4NDItVmQyVFdxVjU5cEJPOXNkQTF2djRJVW84dHZDcTlmYWlObkR0dzVnX3FMMzJyV0xHSFU1WXhHS0pJaGVWVlVwSktJTko2MkFTZnpEUEhMd1RKQjZSMHJVWG9hMnBtN0UxdGpNdjRCaHR0TTRURHpHV0lKd0FxU2NoVW5MNGdTUTVCamZYR0NaTnllQnJfWWVyMnJBT21WR2EzeFFHMGM?oc=5",
+   "utc": "2026-10-24T13:15:00Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Russia reacts to claims of evacuating nuclear specialist from Iran",
+   "source": "Tabnak",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHJjRHQwZk1lX0tiekRCUWJqb05zd2hUNHlieUI3R09nRS1mQV9JZER1QVg2TjVkdE1FZ3U1LUVtMzdzQVhjSEVsdlFZQ2xZaHpTOHQxdFZsdEw5Wmc5NWltY3NhZDMyWjZCOTI4RnRmZWdvZmx6MWpUMWptOThfbjlGczNpV19YZzdBd0tsVnpaWlhBSWhKTlAyeDZSM1NUNWxZ?oc=5",
+   "utc": "2026-10-24T12:58:04Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
    "title": "Ukrainian Embassy DC Evacuated, Key Bridge Closed Over Scare",
    "source": "Hoodline",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjNfWFFHUEpTMjU2RGdIV0FUSUs4Vy1ENXI1RXZVbGJ3S0RLRUFUYV9IN3ZsLTU1UzE4ZGJyWC1vWFo0bmJxYnRwZ3hGODQzUzZlSFFCSm42QlVLa1o4TUVIVFFKa3A2dG0tUk81Y1l2WjA5WGJvYUVzWWl5WVhJSDdGTnVTN19iUm1IVzZTQTdaOG5LTEJzUkhLZmE?oc=5",
@@ -97,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.0,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -108,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -119,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -130,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -141,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -152,41 +185,8 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
-   "airspace": false
-  },
-  {
-   "title": "Severe flooding in the Four Corners region triggers rooftop rescues and evacuation orders",
-   "source": "The Northern Virginia Daily",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVE1lcnUycE5ZejZROXc2c0piVUNQMS1NbDBLY0NYeWk4X2Q0aUhoY3R5NHQyTzUtYmp4MTVMR2t0WkZXLWtrVWZXXzJNYXRHNGZ3MmtiYjdKVGxac3NIQXJBZ1NJYWMxbS1JUkljZXgtTUxSVEZ2QTBza2JRRzJ3X1BIY0JhWHh4OUl3dmhrd3Vjenh4X2FWdldMZW1NYWllQnA5RzJ6OEJmekJ2T1RHOGhHRmpDaUdsbzhIX2t4a3ZYTjRkeDVYU1RiRm0wLWpJUVJtWWY4UFhCRzVKal9Tcmx3VVhsUk03T3YzLWc5eko0TjE5LS1SZWNyYUZGUktXbF8wVjlvektLNjEzaW9UejhCWkxKOGQ4?oc=5",
-   "utc": "2026-10-23T20:49:20Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.3,
-   "airspace": false
-  },
-  {
-   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2tKSXpRQ2RURVJRWkNUcVFBMU9sNGRYc3JqUWFLMWdOSnRBS0R6Nm1GYkFBaGpDVkg5RDg3NFI2NXRfZmlEaFBMODBDQkxwNmw3NG5iY0Q4NjFsR1pZMHJvLUlybnVodV85UmN1Nm1oV01qS1hkdXFxb3BZZGFWYTFLT25vYk9FeWZqUXVjQ2NjZFdQOVBTbXFFMzQ1QQ?oc=5",
-   "utc": "2026-10-23T20:33:38Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.3,
-   "airspace": false
-  },
-  {
-   "title": "Akasa Air Flight Cancellation: Jeddah Flights Suspended Until November 10, Riyadh Until November 30",
-   "source": "LatestLY",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNjh2b3JoZGZ0elptN2J5MmJJUkx6Sm9Ia25ycTBZYzBCUlM2MnJHVkFlemotREJ0dDI3REM4M1BBY0tJbFVkeERjbWk4T25KNHdWNUk2cDU3U1V1VklkYjdmd0FlbWFZTnVfSVNzdFlLd0pJXzNMeUpNNmp3ZzZIY3hLX1dhRExLcEg0RDhmMkozbFNNVlYtYnE2RlFCNjYwdjcxX0RETTBHV2lfUVRQdG4wUzUtTnhDMjlhOVk1R2Zqb0FmUFIxeXJOUmgwdVEzVlpuQUN3NGpIakhtSS1Z0gHkAUFVX3lxTE02QmlBdzFpT0ZuRXZCX0p5RThYbEphWlp6VWtYNlVueTNFZW0wV29aLTFCblhDb21kQmlLMkRjZ2hZNFA4OTBacGNTTkgwZ0ZCTGtjRXgzVlk2QnFXT096TE5SVEJnanpJQ1NlX0FKY2hxZVlqUnhHNXFTTGEwZk1ZSDZlcXYySUdqM3B6RFhtVlBYN291MGlpRGFNVUdic3hCQXpuZURzeEJUZXRUb3FlcXJMLWc1Nng0RWlRU1dQSnZCUGdCMVRiX3pNdUg1cnNOaDhxdnNpNDRrdkR3Y0dTdEdzUA?oc=5",
-   "utc": "2026-10-23T18:24:32Z",
-   "tags": [
-    "AIRSPACE"
-   ],
    "score": 5.2,
-   "airspace": true
+   "airspace": false
   },
   {
    "title": "Flight Cancellations Leave Kashmiri Umrah Pilgrims Stranded In Saudi Arabia, Seek Evacuation",
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
    "airspace": true
   }
  ],
  "mil": {
-  "count": 6,
-  "global": 111,
-  "baseline": 3.6,
-  "samples": 14,
+  "count": 4,
+  "global": 158,
+  "baseline": 3.8,
+  "samples": 15,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -265,6 +265,10 @@
    [
     "2026-10-24T12:44:34Z",
     6
+   ],
+   [
+    "2026-10-24T16:39:52Z",
+    4
    ]
   ],
   "box": [

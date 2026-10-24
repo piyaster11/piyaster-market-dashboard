@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24T16:39:52Z",
- "level": 91,
+ "updated": "2026-10-24T19:32:15Z",
+ "level": 96,
  "band": "Critical",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   51,
+   52,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   4,
-   1,
+   6,
+   6,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "US evacuates Middle East embassies and bases over advanced Iranian plot targeting Americans.",
+   "source": "Kurdistan24",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVVlYVFVhNE1lLTNjWUh4SHZ3b2w1NlN5TloyV0huMll0SzY2Y19OZEhNUmhENW0tcUU1RE4tYUNSZmpxeThYaEFnQ0VvZ2ZBWFV2MU1BS0I5OXg3aGVlaTdqd2xJUHlPRms2WTM5X3E3UktGbjhBMWVzb2o4cWFEeEUzaG5IS0hkeEdmLVNKWXlSLXFHZjBKamRXWkMzYUdmYzM1blVNNW5KZm9wMUhvQnl6UFpNSWtKZ2k0Mlkxa0pDZG1ILUdKMTNnSU1PR29j?oc=5",
+   "utc": "2026-10-24T16:28:31Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
    "title": "Russian embassy denies evacuation of diplomats and specialists from Iran",
    "source": "Apa.az",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXRMb3VSVm1iOE1NeHJIUVJrYm5OUlBGRzd1RnBNbUJ2SV91NTc0dlh1Mm1hTHRUOS15aGJxdFdDSnd1OHBXcTlldXhieVJtTEkwdE1DOXp5UkVrSEJ2VXZVeGNEc2loT0dhcE1JNG9zYXJHeHlHbjZMcWt4cHNGbDNIUjBZd3dfZ1lxLVlrOWZvWUhENWR4RkZyYk02cm5zTTlURk9zc09wUWx2YjFsdQ?oc=5",
@@ -97,7 +108,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.0,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -108,7 +119,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -119,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -130,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -141,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.3,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -174,18 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
-   "airspace": false
-  },
-  {
-   "title": "Toledo, Ohio, mayor says employee error caused chemical leak, lifts remaining evacuation orders",
-   "source": "The Northern Virginia Daily",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ3A4Ti1tekwtMDl0ZnRsSFBPM20zQ182dGRmY3RFemRwZ3QxN2lId2hRX2k3TEI3T0lmTE4weFE5bHNFclZOOFdxV01tRlQwVWgzTU5tam1fekVwbk93QVY5dVN2TklSOFQtN3dnWkVRU1dhR2Fib3lmNnFSdDhNMkVrczl2THNzUWpDZnVhQlRzdmVYU3RTUWVnd3c5ODFIWDNEazVXZEtZZjJMQ1h0OUNlbWRrZ3lOUTQ3UFVINWsyNU9kR0ZBQmpkNmZwS0NKeTBxOTl3b3FHMVo3N3BDRGZfWEhvbGREaWRlRmxUY2dPWVo1YkNEY00yWC1FczFZTVMtZXRIVk9xeUhjRGNrV1hqd2pxQzVQeUR3OQ?oc=5",
-   "utc": "2026-10-23T21:44:20Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.2,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.6,
    "airspace": true
   }
  ],
  "mil": {
-  "count": 4,
-  "global": 158,
+  "count": 6,
+  "global": 144,
   "baseline": 3.8,
-  "samples": 15,
+  "samples": 16,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -269,6 +269,10 @@
    [
     "2026-10-24T16:39:52Z",
     4
+   ],
+   [
+    "2026-10-24T19:32:15Z",
+    6
    ]
   ],
   "box": [

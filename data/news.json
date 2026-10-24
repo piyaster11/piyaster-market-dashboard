@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:39:36Z",
+ "updated": "2026-10-24T19:31:54Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (21)"
+  "Nikkei Asia": "ok (13)"
  },
  "items": [
   {
-   "title": "French Protestors Dispersed with Gas as Tensions Rise",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video",
-   "utc": "2026-10-24T16:31:00Z",
+   "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5",
+   "utc": "2026-10-24T19:08:10Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-   "utc": "2026-10-24T16:18:00Z",
-   "tag": "MARKETS",
+   "title": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Syrias-Energy-Comeback-Could-Reshape-Middle-East-Oil-and-Gas.html",
+   "utc": "2026-10-24T19:00:00Z",
+   "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+   "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-   "utc": "2026-10-24T16:14:00Z",
-   "tag": "AI",
+   "link": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
+   "utc": "2026-10-24T18:56:29Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-   "utc": "2026-10-24T16:04:00Z",
+   "title": "Violence flares in Paris after massive, largely peaceful protests across France",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/24/france-paris-protests.html",
+   "utc": "2026-10-24T18:49:38Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+   "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-   "utc": "2026-10-24T16:00:00Z",
+   "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+   "utc": "2026-10-24T18:45:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-   "utc": "2026-10-24T16:00:00Z",
-   "tag": "BTC",
+   "title": "Violence flares in Paris after largely peaceful protests across France",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
+   "utc": "2026-10-24T18:34:05Z",
+   "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "Protests sweep Italian cities amid heavy security presence, some violence reported",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5",
+   "utc": "2026-10-24T18:23:43Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Flavio Bolsonaro, Lula about even ahead of Brazil election runoff, CNT/MDA poll shows",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOW9aaS1WT2hUWE5VTjd3U19BR0VxZ0xtUXd5QjQ5V3EzMkxsYWs2X0lHYm11TzU5YTY3RDQ2dGlnblllZklkV1AySElHOVF6a0RKZmNZZHpJMlVCaE82QjBXN1lHeFNFSGE4VlBjUGVwWlBSWkRQOTE0dzNRZ2NMQm9tWWRzN1FBaHhfbWVqcDl5Qkw5OW5wNlNDMEJjZXVmUkQ3NE5CSmdfci1IMkVVQktUdElSSEd2ZEs2VjRBQktYM3dXc2pvMmFR?oc=5",
+   "utc": "2026-10-24T18:06:33Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
+   "utc": "2026-10-24T18:03:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "More PHP-scale dangers lurk on the internet, CloudFlare CEO says",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1BGZ0dkVVVINjdQTUJ5b2NuQTdkYWViR3FkX2wwdDhFZmR2aFJMR1hEOGFQdGJGRUlJOVlLU0ZtSUZ1ZG0wZFJ3S2tJVzNnTXJiTVN0UENMb0FEVGROam5lVVBYU1RQd04zM3F3SC13U0VqODZxMTdvZXNqVDlMX2hyU0xmOG5oaVlpZGVTekZoRGhtWFZHNjVlTDV1MnFmcWE1T3hWcDY5aEc0LU9XTTNB?oc=5",
+   "utc": "2026-10-24T18:02:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Houthis say they attacked Saudi oil sites; strikes reported in Aden",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+   "utc": "2026-10-24T17:58:51Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Five takeaways from Trump's midterm campaign rallies",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWRrT1lOLWc2TVVFRWZhbENyYUE4ZVlBWHBLLXFHNHhjczlTellOcG9GdUpCaVNZNk9mMFdkSzJqMjdXcFhOSGJGWDJ5Njd6NDhOYkRzYzRzaF9UVE95X0IyR28xbHd2WW1VTXBCV1FrTDdwR092bm9jTHJlMm9acmEzQUJSQ1VaVFBiWW1SWWdwZ1Zna3c?oc=5",
+   "utc": "2026-10-24T17:41:12Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+   "utc": "2026-10-24T17:39:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Infantino laughs off resignation talk, touts global support as he seeks reelection",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUDJEcUNzdW85Z1BRTHU4RFFUMVd2UnZ0dFU5dW9lYnFoYXNDT3lsSUwtTkVlbEN0YTY5MmVIek1rNk54c2NMT1NNeGltcVViVzREZnhJNmFxYzd3MlZzeThIR1ktWUdDdUY0Zl9XUTBkUHNTb1hkY244RmkxaUlFNXhPeDZ1ZDgtSTJHdktaVVZIZVN2MTdHZW55VWVvNElRVk1fY3NRRjRuNWlYV3VQVExFN3RGX1piREUxb3E4VTNHT3ZnOV9z?oc=5",
+   "utc": "2026-10-24T17:30:16Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+   "utc": "2026-10-24T17:23:00Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-   "utc": "2026-10-24T15:44:53Z",
+   "utc": "2026-10-24T17:22:21Z",
    "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Money-saving habits to cope with higher prices — from our readers",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-   "utc": "2026-10-24T15:27:00Z",
-   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly",
-   "utc": "2026-10-24T15:21:35Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-   "utc": "2026-10-24T15:21:06Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Why popular airplanes are getting scrapped years early",
+   "title": "Six Flags says it will install seat belts on Georgia roller coaster after rider's death",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-   "utc": "2026-10-24T15:18:30Z",
+   "link": "https://www.cnbc.com/2026/10/24/six-flags-seat-belts-roller-coaster.html",
+   "utc": "2026-10-24T17:12:39Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "France deploys 70,000 police to try to contain nationwide protests",
+   "title": "Albanian police fire tear gas as anti-government student protests turn violent",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
-   "utc": "2026-10-24T15:16:34Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX21BMWozRzgtZFdWcVVVc3o5dHh3bUIzSzZjcTdZTnNzcFdXN2lVYVpXTmY0OHB0UWdFbjdmQ0FKV0hxOVUxeVJGNEhxTGdhQW9tZWtuTGoxTDNKZWplYjBkLWd4Q2sxdlhXdElFaVo1a0pWbm9walRONWoxRVZCU2VFTEUwMlZfNEZZeWpsVGJPMnF6MW9ZNW11WHlKRGEtVjNoRlFsMTIxT0pvQkU5UnRhT3RxTThD?oc=5",
+   "utc": "2026-10-24T17:11:44Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5",
-   "utc": "2026-10-24T15:14:33Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Starlink in Ukraine back to normal after week of throttling",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
-   "utc": "2026-10-24T15:13:55Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
-   "utc": "2026-10-24T15:11:24Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-   "utc": "2026-10-24T15:10:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-   "utc": "2026-10-24T15:00:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-   "utc": "2026-10-24T15:00:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
-   "utc": "2026-10-24T15:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Metals Traders Reap Bonanza With Another Year of Record Profits",
+   "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-24/metals-traders-reap-bonanza-with-another-year-of-record-profits",
-   "utc": "2026-10-24T14:45:05Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth",
+   "utc": "2026-10-24T17:05:04Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-10-24T17:02:07Z",
    "tag": "MARKETS",
    "breaking": false
   }

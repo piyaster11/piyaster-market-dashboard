@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:17:13Z",
+ "updated": "2026-10-24T00:04:10Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -13,12 +13,84 @@
  },
  "items": [
   {
+   "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
+   "utc": "2026-10-23T23:00:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
    "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-   "utc": "2026-10-23T22:16:54Z",
+   "utc": "2026-10-23T22:49:42Z",
    "tag": "FED",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+   "utc": "2026-10-23T22:49:04Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "utc": "2026-10-23T22:49:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Wealth Tax Debate, Midterm Investing, AI Anxiety",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-money-10-23-2026-video",
+   "utc": "2026-10-23T22:47:27Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
+   "utc": "2026-10-23T22:27:06Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
+   "utc": "2026-10-23T22:24:44Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Emerging technologies offer Thailand opportunities",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3342679/emerging-technologies-offer-thailand-opportunities",
+   "utc": "2026-10-23T22:23:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXBVcldURXc1c3hRcmpNWXdhcWRVR1hibkVqNF9YM1V4NzIzdmlDUzlGZHpjaVJWQlp3M1N2ckpRMzlSdlZZRTRJcVloUTNnR0l4UE1fSXlhTXpZWFlqVGdYWEljWG9DdWpXRGQyaUlvVkdyNUlhZjF0TS1iRWNLYTZjZjNZZXc0Zi1fUzdvWm0xYWk4VmNiaU9WdHhVUno5WTBxMGhkNWpkZWVJUXA4bVdtYw?oc=5",
+   "utc": "2026-10-23T22:21:31Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "AI adoption surges, but enterprise use lags",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3342674/ai-adoption-surges-but-enterprise-use-lags",
+   "utc": "2026-10-23T22:14:00Z",
+   "tag": "AI",
+   "breaking": false
   },
   {
    "title": "Andrew Brandt on MLB Salary Cap Fight as World Series Begins",
@@ -26,7 +98,15 @@
    "link": "https://www.bloomberg.com/news/videos/2026-10-23/andrew-brandt-on-mlb-salary-cap-as-world-series-begins-video",
    "utc": "2026-10-23T22:09:13Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Unpacking the proposed departure tax",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3342749/unpacking-the-proposed-departure-tax",
+   "utc": "2026-10-23T22:06:00Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "'Notes on Being a Man', 'The Invisible Hand'",
@@ -34,7 +114,15 @@
    "link": "https://www.bloomberg.com/news/videos/2026-10-23/-notes-on-being-a-man-the-invisible-hand-video",
    "utc": "2026-10-23T22:05:12Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Thailand looks to China for nuclear safety advice",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3342694/thailand-looks-to-china-for-nuclear-safety-advice",
+   "utc": "2026-10-23T22:02:00Z",
+   "tag": "THAI",
+   "breaking": false
   },
   {
    "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
@@ -42,7 +130,7 @@
    "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
    "utc": "2026-10-23T22:00:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
@@ -50,7 +138,7 @@
    "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
    "utc": "2026-10-23T22:00:00Z",
    "tag": "WAR",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Larry: Stephen Schwarzman (23)",
@@ -58,7 +146,7 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbF9xdzB2d1RCeHhfRTFYbDM1Y1Q1MWtjRXRGMFNHQ2VGZUhzVENpRl9KUXZPWWdpZDJjc0tWcHVGOUxFVTJ6c0cxRktFWEpoYm4wNlZ1cnVWMENFajFhR3JZbXFvd1NYS0xNZlVZcENQalhqclQ5Zk5EeFVrWVE1bDhCbTcwWFZx?oc=5",
    "utc": "2026-10-23T22:00:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "US Family Annual Healthcare Plan Now Costs More Than $28K",
@@ -66,7 +154,7 @@
    "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-family-healthcare-plan-now-costs-more-than-28k-video",
    "utc": "2026-10-23T21:58:51Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
@@ -74,102 +162,14 @@
    "link": "https://www.bloomberg.com/news/articles/2026-10-23/data-centers-face-downgrade-risk-amid-local-pushback-s-p-says",
    "utc": "2026-10-23T21:56:15Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Cidade do Pará rebelada contra política ambiental abraça Flávio",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-23/cidade-do-para-abraca-flavio-video",
-   "utc": "2026-10-23T21:51:49Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Manga is having its moment in the New York art scene",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1NPTzQ4a2NVck8ycTN1RjUyQklnQjYwUUVxZnFOSEU4T084WlBJWWMtZXZMaElzajJOMEFWOVp5VGN3SzZqaHJ1cHFDWDVma2MxSFV6U05nanlJVGZBVndBcHM0NkZYX29nV3hmRDhDLWJwQ2FtUXNMTGl0U2tjLW10dmVDcndMdlNoT0Vfa1daQ0FQb3c?oc=5",
-   "utc": "2026-10-23T21:51:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Gold traders mull repercussions of US political turmoil",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3342684/gold-traders-mull-repercussions-of-us-political-turmoil",
-   "utc": "2026-10-23T21:50:00Z",
-   "tag": "GOLD",
-   "breaking": true
-  },
-  {
-   "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
-   "utc": "2026-10-23T21:46:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Robin Wigglesworth on the Importance of Curiosity",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-23/robin-wigglesworth-on-the-importance-of-curiosity-video",
-   "utc": "2026-10-23T21:39:56Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "National Wealth Tax Could Work: Tilson",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-23/national-wealth-tax-could-work-tilson-video",
-   "utc": "2026-10-23T21:34:51Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "All-America Economic Survey",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/all-america-economic-survey/",
-   "utc": "2026-10-23T21:31:22Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "San Diego to Leave Muni Bond Group After SEC Oversight Concerns",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-23/san-diego-to-leave-muni-bond-group-after-sec-oversight-concerns",
-   "utc": "2026-10-23T21:29:20Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-   "utc": "2026-10-23T21:26:59Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Wall St Week Ahead Earnings flood, Fed meeting will test rickety AI market rally",
+   "title": "France spared Moody's ratings downgrade as it struggles with unrest",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5",
-   "utc": "2026-10-23T21:21:32Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
-   "utc": "2026-10-23T21:19:02Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-   "utc": "2026-10-23T21:13:00Z",
-   "tag": "AI",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDNzYlVKMzN1VE5rMDhtcVFnY1NsRXZNYmRVZmZKc2dxVC1xZ19abmEtTTlHclVXQWc4YWJXWHNtNktWU2ZBSUVWT1lwWmo1UDVsdFd1RUxjQUkwUGRROUVhWVZkTnJmSU1pdUl4d1FCYU1nTGRMckNaUnpaQVVlOFhkdzZuVFZKaUNCajRGWXFxS0RIODZYSUtVU0o?oc=5",
+   "utc": "2026-10-23T21:55:33Z",
+   "tag": "STOCKS",
    "breaking": false
   }
  ]

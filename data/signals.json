@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T22:17:28Z",
- "level": 47,
- "band": "Watch",
+ "updated": "2026-10-24T00:04:37Z",
+ "level": 54,
+ "band": "Alert",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   59,
+   58,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   0,
+   6,
+   7,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -54,6 +54,28 @@
  ],
  "headlines": [
   {
+   "title": "US accelerates diplomatic evacuations amid regrional escalation fears",
+   "source": "The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85WmFMTkVad2lweWl6NGZCYldycmhSTWNJOFphUjJDR3d4aUx0czJBWVNlQUVuTjBEbHR3N3NNaC11SVVOYzZYR2hBNWhjWDJOdTNJdU1RaWNUZEtUMk84TVZXQ19KaERIRUE?oc=5",
+   "utc": "2026-10-23T23:44:49Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 6.0,
+   "airspace": false
+  },
+  {
+   "title": "Ukrainian Embassy in Washington evacuated after suspicious package found nearby",
+   "source": "BNO News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1E3TTFSZXdvdXJGTGVaNE9vd3VvWlVFaUlVRldETGkzYVB0NXZjMHZVMTVtWV9ENm40dm9JX20tSjBmd25ubWppcHJZbkRZNGN5NUhfblM1dW5GVHYtN1dCRk1reTA4QUc0dEtYUWtYSUIxVFZEbi00WDdEd2RkRTY2Y0FMb0NLV2lBTzZTWXBZOVo3S0c1LWZJeWJqRlIzUHNRZEtuZjB5SmNXdTBqSVZlb3RoSnloVFE?oc=5",
+   "utc": "2026-10-23T22:21:21Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
    "title": "Akasa Air Flight Cancellation: Jeddah Flights Suspended Until November 10, Riyadh Until November 30",
    "source": "LatestLY",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNjh2b3JoZGZ0elptN2J5MmJJUkx6Sm9Ia25ycTBZYzBCUlM2MnJHVkFlemotREJ0dDI3REM4M1BBY0tJbFVkeERjbWk4T25KNHdWNUk2cDU3U1V1VklkYjdmd0FlbWFZTnVfSVNzdFlLd0pJXzNMeUpNNmp3ZzZIY3hLX1dhRExLcEg0RDhmMkozbFNNVlYtYnE2RlFCNjYwdjcxX0RETTBHV2lfUVRQdG4wUzUtTnhDMjlhOVk1R2Zqb0FmUFIxeXJOUmgwdVEzVlpuQUN3NGpIakhtSS1Z0gHkAUFVX3lxTE02QmlBdzFpT0ZuRXZCX0p5RThYbEphWlp6VWtYNlVueTNFZW0wV29aLTFCblhDb21kQmlLMkRjZ2hZNFA4OTBacGNTTkgwZ0ZCTGtjRXgzVlk2QnFXT096TE5SVEJnanpJQ1NlX0FKY2hxZVlqUnhHNXFTTGEwZk1ZSDZlcXYySUdqM3B6RFhtVlBYN291MGlpRGFNVUdic3hCQXpuZURzeEJUZXRUb3FlcXJMLWc1Nng0RWlRU1dQSnZCUGdCMVRiX3pNdUg1cnNOaDhxdnNpNDRrdkR3Y0dTdEdzUA?oc=5",
@@ -72,7 +94,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -83,7 +105,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -94,7 +116,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": true
   },
   {
@@ -105,7 +127,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -113,28 +135,6 @@
    "source": "Mezha.net",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0pCTklkU01rcFhiUjMzRFlldTdYV2EzVWhzOU9rQTIxUWZPaXlMeVZ0RHpKcnBGZHkyTTBld2U0TnlQWVVBVXZIUnI2OG5UeGhsOWJXUGxJa2JvTnlfY29MeGpJazc0Sk0wOXdraFVQWUE4RnRoVzVrVmU1T3RnX2g3Z2FyQnZRV0E?oc=5",
    "utc": "2026-10-23T16:18:30Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.8,
-   "airspace": false
-  },
-  {
-   "title": "Suspicious Object Near Ukrainian Embassy Sparks Alert, Bomb Squad At The Site; Premises Evacuated",
-   "source": "Oneindia",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLXd1Ukh0ZWFDVzRhMmY2UkVMMG1mZVRncDRSczJPa2NuUkhPUXh2VXhBdVlhdy1EZ1RhQ3ZGa2VhMEdjQWhhTzlyYnkxWHVGVmtoU2pQbmlsYml1TWtjTmY0ZndKWmVzcmJkSkFOa2hGMV9uNzluZ0VDdE81S3pIaGtUZXVjRUdkdmZmY3hfb1dvYUV5MURrNzVWWFA2VEdudWdKdHRRdTZXOUhNUFhyUWV4Wm1zWHRFUXFQSDduQS0xZkgyQTZUdS1lMEpwc3IyMWY2MkJlalBESXZEekUyaQ?oc=5",
-   "utc": "2026-10-23T15:22:52Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.7,
-   "airspace": false
-  },
-  {
-   "title": "Ukrainian embassy in US evacuated after object found, probe finds it poses no threat | World News",
-   "source": "Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajJtQXhDV05QX1N1RE1OUDZBT1dwQm9sZ2hXNEJoWVRsckNyT1oyNGNERndJVm5jZUxsSy1haC1IVllNWW5panhFWGNiU2ptekZhS3hyZUR2eEFsVzZ1dWFHSVpGRFRGSG1HWGJ0U2ZtckprS0dETDY4bVh5Nm5lajEzaGxqeU11WUx5LS1zMFZNdzRNTjBUc0N0SVpSNDVyM21MN01WeFdJcDlZRmxHRlZhZldLcUJWZk9DRk5YZV9iZXJTRWlLVUJWRnJCblVhVllIN3ZxN3F4c01PdVdDcWJMVG5TQXNGS2fSAe8BQVVfeXFMTWZTRU5iQmVPQ3dUYTluXzRkWFduT3hiV2NsMnk1U1UxSmRTWGo0S2RVQzVhanA0SFFiSjJyUzNFWlNDVHJSWnA0bGQzRGVYazJBU096N1NlRU5QYmhzTUhCN2pySlEtRWIwbVVjS3U3ZmJFRGY1QVJjaTJHYVZhN1oySlVDSXVnNWxqcHpvSDlzbFJVc05sajE5QW9yRU5BU1dpQ2ctWDRCdjM5aTB0bjVVWHJzcy1mZnFEREg4ZDRlRkZvRVdMRllIRzNUakx6ZlRyR0hDQTIwRU56bThMSlJKZ1RBU0RzaEpwR2cxLUU?oc=5",
-   "utc": "2026-10-23T15:10:24Z",
    "tags": [
     "EVAC"
    ],
@@ -160,15 +160,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.4,
+   "score": 7.3,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 194,
-  "baseline": 3.7,
-  "samples": 10,
+  "count": 6,
+  "global": 116,
+  "baseline": 3.6,
+  "samples": 11,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -213,6 +213,10 @@
    [
     "2026-10-23T22:17:28Z",
     3
+   ],
+   [
+    "2026-10-24T00:04:37Z",
+    6
    ]
   ],
   "box": [

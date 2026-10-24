@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:32:42Z",
+ "updated": "2026-10-24T23:57:44Z",
  "level": 90,
  "band": "Critical",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   52,
+   51,
    35,
    35,
    "1.5 pts per headline"
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "FPL Gameweek 8: Saturday’s goals, assists, bonus + DefCon points",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3VCQWw2Qk9NTGVnM214TFJhd2YzZE9iaDRxdDA0amw5YVJMZmctZUhGWW5rZExnUU8xZUozUnVjclZmMXUwNVc1dGJvTm16M3ppY2FDMXFzdTdBaVVBNmtiTDBadnRoazZnSThYWElILUJTQlBxbnF0WWVFT0VLc1pQeGdwTGNRUEQ5V2l3OUtQU19XSmNQWDFRYXUtUlRwV2dZanM1by0wOEZuZEIyWg?oc=5",
+   "utc": "2026-10-24T21:56:15Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
    "title": "US evacuates Middle East embassies and bases over advanced Iranian plot targeting Americans.",
    "source": "Kurdistan24",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVVlYVFVhNE1lLTNjWUh4SHZ3b2w1NlN5TloyV0huMll0SzY2Y19OZEhNUmhENW0tcUU1RE4tYUNSZmpxeThYaEFnQ0VvZ2ZBWFV2MU1BS0I5OXg3aGVlaTdqd2xJUHlPRms2WTM5X3E3UktGbjhBMWVzb2o4cWFEeEUzaG5IS0hkeEdmLVNKWXlSLXFHZjBKamRXWkMzYUdmYzM1blVNNW5KZm9wMUhvQnl6UFpNSWtKZ2k0Mlkxa0pDZG1ILUdKMTNnSU1PR29j?oc=5",
@@ -108,7 +119,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -130,18 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
-   "airspace": false
-  },
-  {
-   "title": "Ukrainian Embassy DC Evacuated, Key Bridge Closed Over Scare",
-   "source": "Hoodline",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjNfWFFHUEpTMjU2RGdIV0FUSUs4Vy1ENXI1RXZVbGJ3S0RLRUFUYV9IN3ZsLTU1UzE4ZGJyWC1vWFo0bmJxYnRwZ3hGODQzUzZlSFFCSm42QlVLa1o4TUVIVFFKa3A2dG0tUk81Y1l2WjA5WGJvYUVzWWl5WVhJSDdGTnVTN19iUm1IVzZTQTdaOG5LTEJzUkhLZmE?oc=5",
-   "utc": "2026-10-24T11:59:01Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -185,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.0,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -202,9 +202,9 @@
  ],
  "mil": {
   "count": 2,
-  "global": 82,
-  "baseline": 3.9,
-  "samples": 17,
+  "global": 75,
+  "baseline": 3.8,
+  "samples": 18,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -276,6 +276,10 @@
    ],
    [
     "2026-10-24T22:32:42Z",
+    2
+   ],
+   [
+    "2026-10-24T23:57:44Z",
     2
    ]
   ],

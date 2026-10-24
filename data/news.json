@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T01:39:07Z",
+ "updated": "2026-10-24T07:22:10Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (34)"
+  "Nikkei Asia": "ok (22)"
  },
  "items": [
   {
-   "title": "Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules",
+   "title": "Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules",
-   "utc": "2026-10-24T00:12:59Z",
-   "tag": "STOCKS",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/swiss-stocks-are-becoming-a-haven-from-ai-fears-roiling-markets",
+   "utc": "2026-10-24T07:00:00Z",
+   "tag": "AI",
+   "breaking": true
   },
   {
-   "title": "Big Camera is upbeat on compact digital demand",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3342699/big-camera-is-upbeat-on-compact-digital-demand",
-   "utc": "2026-10-24T00:10:00Z",
+   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+   "utc": "2026-10-24T07:00:00Z",
    "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+   "utc": "2026-10-24T06:41:14Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+   "utc": "2026-10-24T06:23:02Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "North Korea's Kim Jong Un visits China via Dandong bridge, Yonhap says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTlLSVZQYy0tZFRieEJTYXU0WnM4NElhS29hMlJ4R3g1Mzl3Wmo4TzFRRlE1QXhsQ09SQWV0Uzg5LUdSdWpfdjI4LU1YSXRqY3pOSTEzbTA0cjdHM2MzVUpqbUdOSm13ZGZZdHN3VWlfbm1laGVQSmEtRklGaHhDejhUT2F4MUktamhqTS13ZHpNaERZekprMkp0TWdyX0t4bXhsOGJ1bUwzZw?oc=5",
+   "utc": "2026-10-24T06:17:00Z",
+   "tag": "CHINA",
    "breaking": false
   },
   {
-   "title": "Wall Street closes lower to end rocky week",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5",
-   "utc": "2026-10-23T23:46:35Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "UK government sets out $800 million of AI security funding",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJseUNYVnJGcWZWUjlPR0RUSXJHTVItRmh1dkdnNTFiZ2tmTFhUM1p3YnI1T2RGdlpFZ1JWN3BGR2dCajk3Y1pBMlBCYjNFX2dnbjJzZnNJb1BONkNGREFYamNWT1FLRFJXdjdVeEdMUFZnM3FQRXE2VFBIbFdWUVItWEJwd3F4dmFRbHpKTzE4RWpXSGRnTzY4QVdISFJj?oc=5",
-   "utc": "2026-10-23T23:03:43Z",
+   "title": "What a day in customer service looks like — as AI changes everything",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
+   "utc": "2026-10-24T05:00:01Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
-   "utc": "2026-10-23T23:00:00Z",
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-10-24T04:48:50Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+   "utc": "2026-10-24T04:45:43Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Kenya Records Second Ebola Death, a Close Relative of First Case",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
+   "utc": "2026-10-24T04:41:29Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "US LNG Project Developer Funded by Russia’s Novatek, FT Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says",
+   "utc": "2026-10-24T04:24:04Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-   "utc": "2026-10-23T22:49:42Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-   "utc": "2026-10-23T22:49:04Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "utc": "2026-10-23T22:49:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Wealth Tax Debate, Midterm Investing, AI Anxiety",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-money-10-23-2026-video",
-   "utc": "2026-10-23T22:47:27Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
-   "utc": "2026-10-23T22:30:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
-   "utc": "2026-10-23T22:27:06Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Emerging technologies offer Thailand opportunities",
+   "title": "A risky world still has opportunities",
    "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3342679/emerging-technologies-offer-thailand-opportunities",
-   "utc": "2026-10-23T22:23:00Z",
-   "tag": "THAI",
+   "link": "https://www.bangkokpost.com/business/general/3342649/a-risky-world-still-has-opportunities",
+   "utc": "2026-10-24T04:17:00Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Bank of Canada to raise rates to 2.50% on October 28 and once again by end-March: Reuters poll",
+   "title": "India Regulator Orders Options Trainer Avadhut Sathe to Refund INR 5.46B",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/india-regulator-orders-options-trainer-avadhut-sathe-to-refund-inr-5-46b",
+   "utc": "2026-10-24T03:54:47Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Suspect arrested as fire engulfs Nazi guest house 'Eagle's Nest', German police say",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXBVcldURXc1c3hRcmpNWXdhcWRVR1hibkVqNF9YM1V4NzIzdmlDUzlGZHpjaVJWQlp3M1N2ckpRMzlSdlZZRTRJcVloUTNnR0l4UE1fSXlhTXpZWFlqVGdYWEljWG9DdWpXRGQyaUlvVkdyNUlhZjF0TS1iRWNLYTZjZjNZZXc0Zi1fUzdvWm0xYWk4VmNiaU9WdHhVUno5WTBxMGhkNWpkZWVJUXA4bVdtYw?oc=5",
-   "utc": "2026-10-23T22:21:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVZ0LWhGcGF5OWJmMVlpUndFTFgtVGhySFg3aUpZSDk1MGVGOWpvNmozNzR5SVg0eU1lbExKaGJtTmk0VGtDWEFZSnNpMFZTd0xFUU85cmk0RFFuWDVJTDVseVJsRm5ZeWtzNmFMZENRWDJSOGJrT1lUTDV3Y2NKMS1QRzBEWGhMWDZfaTVsVlRqb2pEWWZvMndSaV9HU3gwbHh5b1JBVFhMRHZ4RTE0cy1zNGptUEVtTThaY003bFctUQ?oc=5",
+   "utc": "2026-10-24T03:28:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Pentagon designates Confucius Institutes in US a national security threat",
+   "title": "Singapore Expands Haze Investigation to 10 Locally Based Firms",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms",
+   "utc": "2026-10-24T03:20:42Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Magnitude 7.2 earthquake strikes waters near Vanuatu, USGS says",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjlqd2hYQ2RCbHlUamZVR3B6YXNIckZLTldSbGZQbGdLeXd2b0RINDhOUVdfZm9TU3BFSGdWcmNKV093WXEwQ3BLSmtOWk5uc05fSnYySnV1VmdJdVhNOHZIU2hQSHRZeEFWWTd6dVJ6N280akV1TkNmZGwxaXBWOTVBNktfbHFRYVhXRm82YXI0QVdxMzdfVk1fZUdKUi1jSlp4X1h4TjRwNzNaTGs2THlkdw?oc=5",
-   "utc": "2026-10-23T22:20:28Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQm10VC01TjZ1RE14b2NHTUxaUWVoSmJRNGtyMUg4c2R4S1YxbXlmbWlHQkRUYWQ1eWlZVjRvV1oxSDU0X1NEX0lFTUh1UWIyT2M0Y2xISC0wWHpLTWszcWpmNnBUc0JxWVU4ZzJScXZWMGluUVhYNWYxWTY1SmhmMWxDbmY4dHh2VWdCdDQ3MWNpMkswMWJsQmV6UjlMYzBlRmFJS25IUHgzWmJheThyRW5fRldYZ3Q2ZVE?oc=5",
+   "utc": "2026-10-24T02:53:00Z",
+   "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "AI adoption surges, but enterprise use lags",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3342674/ai-adoption-surges-but-enterprise-use-lags",
-   "utc": "2026-10-23T22:14:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Andrew Brandt on MLB Salary Cap Fight as World Series Begins",
+   "title": "Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-23/andrew-brandt-on-mlb-salary-cap-as-world-series-begins-video",
-   "utc": "2026-10-23T22:09:13Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/iran-plots-houthi-attacks-spurred-us-depature-orders-in-mideast",
+   "utc": "2026-10-24T02:43:17Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Australian women bring fresh voices to indie pop",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZkdSYms2Q3ZvYmZ5MTRtNmtybHVkOUptOFNGQUxEd3lKQUNGQklBN01keE1ldnp6anMwQUpkNVZaQ3FHWHNTRTBzeGRuLXJvakI2dG15U1hob04tODVKWkhBVG9OeGxreG9xbU5vRGY3VUtqTjNvY0JZOUdQQmY3QWRUN3ZPcElrX2pyVFRSZFM?oc=5",
+   "utc": "2026-10-24T02:02:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Unpacking the proposed departure tax",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3342749/unpacking-the-proposed-departure-tax",
-   "utc": "2026-10-23T22:06:00Z",
+   "title": "Once-notorious Japanese chemical complex draws tourists after dark",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVVwNWY4VkhMN2k1R0ZEMTczeEVzTDk1TE12OE5SeURhN09raHd5Z2FfVG9MaHJBUllGRUhIRWlPWGFRVkxrdnk0UTVVSm84ZWw2S0ptOU5wLWpuU01yQS16OFBOZVBhVGRzU081d3FwQl93WHViWGZ0bl9Oa21XRFZyTzRqbzNlU2trWmYzSHVtUVBmNWptV3ljUjRYampJcUE4bU5xdmxscmthak5QbzJQVElQeHM?oc=5",
+   "utc": "2026-10-24T01:53:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "'Notes on Being a Man', 'The Invisible Hand'",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-23/-notes-on-being-a-man-the-invisible-hand-video",
-   "utc": "2026-10-23T22:05:12Z",
+   "title": "Stronger Japan alliance needed for deterrence: Senior US official",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHRmXzgxS0l5ai1DSVFHc2pwUkxYbk9ieTFKREdYcm9mRjBIa1hVbDdYZXk0ZXk0ZzdFWkxzNkUwMmN5U1F4czdzZEl5S25zX2JZTGJYLVFZeEZwcUkzS3VGSjBDYzZVcERIcU5jczIxc3VwTXJmYklmNXBBN3JqdVFlT3ZWMGJ6ZFB4eEJ3S205S0I1T1haS2pOeVZCeUdXYm1iTHI5RzE?oc=5",
+   "utc": "2026-10-24T01:47:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Thailand looks to China for nuclear safety advice",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3342694/thailand-looks-to-china-for-nuclear-safety-advice",
-   "utc": "2026-10-23T22:02:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
-   "utc": "2026-10-23T22:00:00Z",
+   "title": "UK's Healey to give two state-backed lenders £20 billion capital boost in budget",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlkwNlhJbDZMSlFaZnpESjFQMnk5aS0zaE1ZWm43RnVTbFhENWR5bUk4b0tldXZzU1BHbF9EbXBHaWtGSDZKZ2dMN2syS2p3bVdTallROTZhNFJ1MVpzSmdtZ3JtWC1oNnRBYzN2blp6cU9rR2xiYm1fdUdXWnRzZUZyUm9TQjQzWWp6VXhSV29mZld5WURwV0J2TlJMeG9zTkFaWTJ1VUJaOE4za090Qk1QYlRHa2ZUdnBZemgzU2tVRWs?oc=5",
+   "utc": "2026-10-24T00:54:00Z",
    "tag": "MARKETS",
    "breaking": false
   }

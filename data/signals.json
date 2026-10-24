@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-24T01:39:31Z",
- "level": 47,
- "band": "Watch",
+ "updated": "2026-10-24T07:22:30Z",
+ "level": 87,
+ "band": "Critical",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
-   0,
-   0,
+   5,
+   40,
    40,
    "20 per ordered/authorized departure, 12 per other Level 4"
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   59,
+   51,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
+   3,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -44,26 +44,51 @@
   },
   {
    "src": "US State",
+   "country": "Iraq",
+   "level": 4,
+   "ordered": false,
+   "authorized": false,
+   "date": "2026-10-23T00:00:00Z",
+   "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html"
+  },
+  {
+   "src": "US State",
+   "country": "Iran",
+   "level": 4,
+   "ordered": false,
+   "authorized": false,
+   "date": "2026-10-23T00:00:00Z",
+   "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irn.html"
+  },
+  {
+   "src": "US State",
+   "country": "Syria",
+   "level": 4,
+   "ordered": false,
+   "authorized": false,
+   "date": "2026-10-23T00:00:00Z",
+   "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html"
+  },
+  {
+   "src": "US State",
    "country": "Yemen",
    "level": 4,
    "ordered": false,
    "authorized": false,
-   "date": "2026-10-10T00:00:00Z",
+   "date": "2026-10-23T00:00:00Z",
    "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html"
+  },
+  {
+   "src": "US State",
+   "country": "Lebanon",
+   "level": 4,
+   "ordered": false,
+   "authorized": false,
+   "date": "2026-10-23T00:00:00Z",
+   "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html"
   }
  ],
  "headlines": [
-  {
-   "title": "US accelerates diplomatic evacuations amid regrional escalation fears",
-   "source": "The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85WmFMTkVad2lweWl6NGZCYldycmhSTWNJOFphUjJDR3d4aUx0czJBWVNlQUVuTjBEbHR3N3NNaC11SVVOYzZYR2hBNWhjWDJOdTNJdU1RaWNUZEtUMk84TVZXQ19KaERIRUE?oc=5",
-   "utc": "2026-10-23T23:44:49Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.9,
-   "airspace": false
-  },
   {
    "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
    "source": "EnergyNow.com",
@@ -72,18 +97,29 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.9,
+   "score": 5.7,
    "airspace": false
   },
   {
    "title": "Ukrainian Embassy in Washington evacuated after suspicious package found nearby",
    "source": "BNO News",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1E3TTFSZXdvdXJGTGVaNE9vd3VvWlVFaUlVRldETGkzYVB0NXZjMHZVMTVtWV9ENm40dm9JX20tSjBmd25ubWppcHJZbkRZNGN5NUhfblM1dW5GVHYtN1dCRk1reTA4QUc0dEtYUWtYSUIxVFZEbi00WDdEd2RkRTY2Y0FMb0NLV2lBTzZTWXBZOVo3S0c1LWZJeWJqRlIzUHNRZEtuZjB5SmNXdTBqSVZlb3RoSnloVFE?oc=5",
-   "utc": "2026-10-23T22:21:21Z",
+   "utc": "2026-10-23T22:22:02Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.6,
+   "airspace": false
+  },
+  {
+   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2tKSXpRQ2RURVJRWkNUcVFBMU9sNGRYc3JqUWFLMWdOSnRBS0R6Nm1GYkFBaGpDVkg5RDg3NFI2NXRfZmlEaFBMODBDQkxwNmw3NG5iY0Q4NjFsR1pZMHJvLUlybnVodV85UmN1Nm1oV01qS1hkdXFxb3BZZGFWYTFLT25vYk9FeWZqUXVjQ2NjZFdQOVBTbXFFMzQ1QQ?oc=5",
+   "utc": "2026-10-23T20:33:38Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -94,7 +130,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": true
   },
   {
@@ -105,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -116,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -127,7 +163,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": true
   },
   {
@@ -138,18 +174,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
-   "title": "Suspicious object found near Ukraine’s embassy in Washington; people evacuated",
-   "source": "Mezha.net",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0pCTklkU01rcFhiUjMzRFlldTdYV2EzVWhzOU9rQTIxUWZPaXlMeVZ0RHpKcnBGZHkyTTBld2U0TnlQWVVBVXZIUnI2OG5UeGhsOWJXUGxJa2JvTnlfY29MeGpJazc0Sk0wOXdraFVQWUE4RnRoVzVrVmU1T3RnX2g3Z2FyQnZRV0E?oc=5",
-   "utc": "2026-10-23T16:18:30Z",
+   "title": "Day 237| US preparing ordered departure of personnel from Gulf embassies: Reuters",
+   "source": "Roya News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakFyRFRvaFRxMDdySkc4YnJ2UlJsYVAwc3JHdERQUENwNFc2aGs2RXJmbmY1UzMzeDEzUXdJNldxSXR3Nk9rRDEzTG9seW5VcjkxNlQ2Vkl1RjByLThTSFA1dkljRnkzaXRCNWFIR1pFbFlKZFV0Q05Ka3pmSHhVSEF5cGJicjJ4YTFpVzVjVWRZYUdnOXNKYkhMSlVmeXZPNlZZc3loUkZpM19sRXB2MlpXSnNPa1V4TFpz?oc=5",
+   "utc": "2026-10-22T12:06:54Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 7.2,
    "airspace": false
   },
   {
@@ -160,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.2,
+   "score": 7.0,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 102,
-  "baseline": 3.8,
-  "samples": 12,
+  "count": 3,
+  "global": 83,
+  "baseline": 3.7,
+  "samples": 13,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -221,6 +257,10 @@
    [
     "2026-10-24T01:39:31Z",
     2
+   ],
+   [
+    "2026-10-24T07:22:30Z",
+    3
    ]
   ],
   "box": [

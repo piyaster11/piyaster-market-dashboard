@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:17:28Z",
+ "updated": "2026-10-24T07:22:30Z",
  "ok": 9,
  "q": {
   "spx": {
@@ -11,9 +11,9 @@
    "stale": false
   },
   "dow": {
-   "v": 52215.16,
+   "v": 52215.2,
    "chg": -1.23,
-   "t": "2026-10-23T20:42:55Z",
+   "t": "2026-10-23T20:00:00Z",
    "prev": 52867.9805,
    "src": "Yahoo Finance ^DJI",
    "stale": false
@@ -35,24 +35,24 @@
    "stale": false
   },
   "wti": {
-   "v": 103.44,
-   "chg": 3.99,
+   "v": 103.27,
+   "chg": 3.82,
    "t": "2026-10-23T20:59:58Z",
    "prev": 99.47,
    "src": "Yahoo Finance CL=F",
    "stale": false
   },
   "brent": {
-   "v": 111.66,
-   "chg": -1.33,
+   "v": 111.7,
+   "chg": -1.3,
    "t": "2026-10-23T20:59:19Z",
    "prev": 113.17,
    "src": "Yahoo Finance BZ=F",
    "stale": false
   },
   "gold": {
-   "v": 4010.0,
-   "chg": -1.24,
+   "v": 4007.9,
+   "chg": -1.29,
    "t": "2026-10-23T20:59:58Z",
    "prev": 4060.3999,
    "src": "Yahoo Finance GC=F",

@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T00:04:37Z",
- "level": 54,
- "band": "Alert",
+ "updated": "2026-10-24T01:39:31Z",
+ "level": 47,
+ "band": "Watch",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   58,
+   59,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   6,
-   7,
+   2,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -61,7 +61,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.0,
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
+   "utc": "2026-10-23T23:33:28Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.9,
    "airspace": false
   },
   {
@@ -83,7 +94,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": true
   },
   {
@@ -94,7 +105,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -105,7 +116,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -116,7 +127,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": true
   },
   {
@@ -127,7 +138,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -138,18 +149,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
-   "airspace": false
-  },
-  {
-   "title": "US State Department denies Gulf-wide evacuation plan",
-   "source": "Ammon News",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MMjJ3dWJyY1FQSGpveFlTODlaRU1DRkljeExrVG1GTGQ0OGsxN1R2eGl1TXNxVGZDWHA2MXpVNWpWT0FHakR3SkxaODcxY1k?oc=5",
-   "utc": "2026-10-22T08:54:25Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 7.4,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -160,15 +160,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.3,
+   "score": 7.2,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 6,
-  "global": 116,
-  "baseline": 3.6,
-  "samples": 11,
+  "count": 2,
+  "global": 102,
+  "baseline": 3.8,
+  "samples": 12,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -217,6 +217,10 @@
    [
     "2026-10-24T00:04:37Z",
     6
+   ],
+   [
+    "2026-10-24T01:39:31Z",
+    2
    ]
   ],
   "box": [

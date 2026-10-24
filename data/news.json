@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:04:10Z",
+ "updated": "2026-10-24T01:39:07Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,9 +9,41 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (37)"
+  "Nikkei Asia": "ok (34)"
  },
  "items": [
+  {
+   "title": "Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules",
+   "utc": "2026-10-24T00:12:59Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Big Camera is upbeat on compact digital demand",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3342699/big-camera-is-upbeat-on-compact-digital-demand",
+   "utc": "2026-10-24T00:10:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Wall Street closes lower to end rocky week",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5",
+   "utc": "2026-10-23T23:46:35Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "UK government sets out $800 million of AI security funding",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJseUNYVnJGcWZWUjlPR0RUSXJHTVItRmh1dkdnNTFiZ2tmTFhUM1p3YnI1T2RGdlpFZ1JWN3BGR2dCajk3Y1pBMlBCYjNFX2dnbjJzZnNJb1BONkNGREFYamNWT1FLRFJXdjdVeEdMUFZnM3FQRXE2VFBIbFdWUVItWEJwd3F4dmFRbHpKTzE4RWpXSGRnTzY4QVdISFJj?oc=5",
+   "utc": "2026-10-23T23:03:43Z",
+   "tag": "AI",
+   "breaking": false
+  },
   {
    "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
    "source": "OilPrice",
@@ -53,19 +85,19 @@
    "breaking": false
   },
   {
+   "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
+   "utc": "2026-10-23T22:30:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
    "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
    "utc": "2026-10-23T22:27:06Z",
    "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
-   "utc": "2026-10-23T22:24:44Z",
-   "tag": "WAR",
    "breaking": false
   },
   {
@@ -81,6 +113,14 @@
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXBVcldURXc1c3hRcmpNWXdhcWRVR1hibkVqNF9YM1V4NzIzdmlDUzlGZHpjaVJWQlp3M1N2ckpRMzlSdlZZRTRJcVloUTNnR0l4UE1fSXlhTXpZWFlqVGdYWEljWG9DdWpXRGQyaUlvVkdyNUlhZjF0TS1iRWNLYTZjZjNZZXc0Zi1fUzdvWm0xYWk4VmNiaU9WdHhVUno5WTBxMGhkNWpkZWVJUXA4bVdtYw?oc=5",
    "utc": "2026-10-23T22:21:31Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Pentagon designates Confucius Institutes in US a national security threat",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjlqd2hYQ2RCbHlUamZVR3B6YXNIckZLTldSbGZQbGdLeXd2b0RINDhOUVdfZm9TU3BFSGdWcmNKV093WXEwQ3BLSmtOWk5uc05fSnYySnV1VmdJdVhNOHZIU2hQSHRZeEFWWTd6dVJ6N280akV1TkNmZGwxaXBWOTVBNktfbHFRYVhXRm82YXI0QVdxMzdfVk1fZUdKUi1jSlp4X1h4TjRwNzNaTGs2THlkdw?oc=5",
+   "utc": "2026-10-23T22:20:28Z",
    "tag": "MARKETS",
    "breaking": false
   },
@@ -130,46 +170,6 @@
    "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
    "utc": "2026-10-23T22:00:00Z",
    "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
-   "utc": "2026-10-23T22:00:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Larry: Stephen Schwarzman (23)",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbF9xdzB2d1RCeHhfRTFYbDM1Y1Q1MWtjRXRGMFNHQ2VGZUhzVENpRl9KUXZPWWdpZDJjc0tWcHVGOUxFVTJ6c0cxRktFWEpoYm4wNlZ1cnVWMENFajFhR3JZbXFvd1NYS0xNZlVZcENQalhqclQ5Zk5EeFVrWVE1bDhCbTcwWFZx?oc=5",
-   "utc": "2026-10-23T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "US Family Annual Healthcare Plan Now Costs More Than $28K",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-family-healthcare-plan-now-costs-more-than-28k-video",
-   "utc": "2026-10-23T21:58:51Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-23/data-centers-face-downgrade-risk-amid-local-pushback-s-p-says",
-   "utc": "2026-10-23T21:56:15Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "France spared Moody's ratings downgrade as it struggles with unrest",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDNzYlVKMzN1VE5rMDhtcVFnY1NsRXZNYmRVZmZKc2dxVC1xZ19abmEtTTlHclVXQWc4YWJXWHNtNktWU2ZBSUVWT1lwWmo1UDVsdFd1RUxjQUkwUGRROUVhWVZkTnJmSU1pdUl4d1FCYU1nTGRMckNaUnpaQVVlOFhkdzZuVFZKaUNCajRGWXFxS0RIODZYSUtVU0o?oc=5",
-   "utc": "2026-10-23T21:55:33Z",
-   "tag": "STOCKS",
    "breaking": false
   }
  ]

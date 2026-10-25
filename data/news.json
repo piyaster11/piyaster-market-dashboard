@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T23:57:21Z",
+ "updated": "2026-10-25T01:15:04Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,16 +9,56 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (16)"
+  "Nikkei Asia": "ok (18)"
  },
  "items": [
+  {
+   "title": "Sydney's new international airport opens to passengers",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGVTQ1B1RGZ2UVI5REJPVVBEbDVLdV9JSUZIMXZ4MV9ZNVlwLXVtaGtqT3RGTTQ4aU1WLTNCMnBiWFR5RXhZRThGWkNJWndTN3JoWDFDVjFndHNiM1FLNUM2T0dEaTdrY3VCd19EcTE2SGJFVUVlTmhVRUx3NjF1aEdDZGxJekN3SklBV1U0RVVqZGJZYWZfQnM1VWtNWWZFSVFIZQ?oc=5",
+   "utc": "2026-10-25T01:08:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bulgaria votes for president in wake of deadly Black Sea drone strikes",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOE5IMGRMTzd6dTFDS21qbTdmVDBkUzcteU1OWlQ0aWt2Z1Z6d0cxRGRVbEhGNkVkSnRGQVN1WVlLdU9vRkJmVHphOWk5RUFCNmJuUzJ0TGVaNC1tenk5NGNmUldFSnVXVkQ1bHd4aHJzZHFlWWJ2UHU0VHhETDFVNFpoaXdsQXpDZ21rMllSTlplRTItdnNuNUt6X1JjckV5OWJrWA?oc=5",
+   "utc": "2026-10-25T00:03:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Insight: Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk0ycEtUWHg2S2g0aWMwczhtYU5ac3hLS2k1TkhmOTFHUnVkaW5fMlZFT2lsaVc1dnBvdjAzNmREUW1veE9IOUp6R19CRE1NQU94SDVQOHJqaGMyaE9mR2VLUVZnT21BMTV4LTYwVGM1R2hrRmZpVXNGWEZkSXlodEVsdmh3YktZekxNUjdlUFRwYm1iMWtreGlnYVdENGdfU3VlRkt5NDBlbVdITzdDaURmbE1tdWhp?oc=5",
+   "utc": "2026-10-24T23:51:14Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
   {
    "title": "Saudi-led coalition says it downed 2 missiles fired by Houthis",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTVWRFZORlBiakNwMEZORXdZX0JReXg2cklnLUpkX2lQbzNmSmlpRFNGY0lmZlBiSGxUanRqQlNKQnQ3d1FrcmtPOFQ1Qmpmd2s4MlE0QUlabWZsYUcxWDdRRV9KVEF0QkRyRDk4eWJOXzllWlAxbnk2bXl1RXlGU3czRTdyUkNqWXBhVExuMUFlblFlY1ZfYnI1NFRDT0U1RWY3WWsxcHFaN3Q1S2MwaERBZXU?oc=5",
    "utc": "2026-10-24T23:49:00Z",
    "tag": "WAR",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "North Korea's Kim Jong Un returns from China after war memorial visit, state media says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmFRMDdLSEpoaWR3LVZkWTlFQy1DYjJiU3JObElYXzRHWkFDaXQ0YXFZaGpyQ2pSeWN1UTV3UUFnZjA3bzRLbk1YQXJqa1E0OWk0eEttYzVrNlRRNzZvRnhVMXNUYTBSZTh2MXJROXNobTdxRThFaFRoc2hyaGMtZFlDUE1mUUZZMG13SEt3WHZYNGJ5WlpfWDloU2hkMnVCUFUtbEZxQWZYdnBhS25mbnZZUHlmS0JjOWtTWXNNbDFHRXlUOWUyLTdCOHhLYzFKZjdWRGxxTUdmZDQ?oc=5",
+   "utc": "2026-10-24T23:47:43Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Trump set to announce Audi plan to build US factory in Georgia, source says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
+   "utc": "2026-10-24T23:44:46Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "China urges US to halt proposed expansion of outbound investment curbs",
@@ -26,7 +66,15 @@
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2pHTEZOXzd1Y2VfelBNNnV4YnZKRU44elVIemFmZjVCYkMwQllTNHhGeFZ5dUlxcVFlOHc2bkZmTlhpbTJValk5cHVFTllYeGxNYUhCOE5iWjBXWC05aHZqa2hmekZjRVQ2NmNXVkpNaEpBcEtRQzNaeWUxOVpOT2J6UlhUeEw2Z3JxdnZKaXlkd0oxZ2NwU0Q5dXY3QnJ3LXIwQkRCSVQza0kzbm5zUEwxa19LcEhGUXU0N1lpY0t2cDZrd0tRMWJ2djV0emtfMlc5S3o1bUFXSnpzelE?oc=5",
    "utc": "2026-10-24T23:16:00Z",
    "tag": "CHINA",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-10-24T23:08:33Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "Bolsonaro, Lula about even in polls for Brazil runoff vote",
@@ -34,7 +82,7 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOW9aaS1WT2hUWE5VTjd3U19BR0VxZ0xtUXd5QjQ5V3EzMkxsYWs2X0lHYm11TzU5YTY3RDQ2dGlnblllZklkV1AySElHOVF6a0RKZmNZZHpJMlVCaE82QjBXN1lHeFNFSGE4VlBjUGVwWlBSWkRQOTE0dzNRZ2NMQm9tWWRzN1FBaHhfbWVqcDl5Qkw5OW5wNlNDMEJjZXVmUkQ3NE5CSmdfci1IMkVVQktUdElSSEd2ZEs2VjRBQktYM3dXc2pvMmFR?oc=5",
    "utc": "2026-10-24T23:02:10Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
@@ -42,7 +90,7 @@
    "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
    "utc": "2026-10-24T23:00:00Z",
    "tag": "OIL",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "US Justice Dept demands California counties help identify suspected noncitizen voters",
@@ -61,14 +109,6 @@
    "breaking": false
   },
   {
-   "title": "Trump set to announce Audi plan to build US factory in Georgia, source says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
-   "utc": "2026-10-24T22:52:30Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
    "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5",
@@ -77,10 +117,18 @@
    "breaking": false
   },
   {
-   "title": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
+   "title": "(ELOL.OQ) | Stock Price & Latest News",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk0ycEtUWHg2S2g0aWMwczhtYU5ac3hLS2k1TkhmOTFHUnVkaW5fMlZFT2lsaVc1dnBvdjAzNmREUW1veE9IOUp6R19CRE1NQU94SDVQOHJqaGMyaE9mR2VLUVZnT21BMTV4LTYwVGM1R2hrRmZpVXNGWEZkSXlodEVsdmh3YktZekxNUjdlUFRwYm1iMWtreGlnYVdENGdfU3VlRkt5NDBlbVdITzdDaURmbE1tdWhp?oc=5",
-   "utc": "2026-10-24T22:26:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcUpEV3ZDaGdqbjNxX3dBdEEtandreHo2REt0SjdjbjdQNGk4ajRGTzFNY29wbno5YkhCeW5iakd4bERjUVJydHl2VGFVUkpHUzZudXViX1VPUQ?oc=5",
+   "utc": "2026-10-24T22:38:17Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Lindt got chocolate price hikes wrong, chairman says after CEO's ouster",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXRJYXhTRHZJa181V2drYml1R21wTVF5YTdyZGVUSVJEUzN6QmhsLTFtdkpjRlAycnRyNFdtaGtEa3JrRS0xVzFtdDV2OF9UNWgwU2NwQTN0aXp3MURnS2FvcGJSVVhFcmhfd2lTZjhKQ1NIYjFtYkpVLXZCNWRfcXFRaS1ZUGNmQm0wV20tMXQ5MlczTF93UHNKNUxLc2xrdnJuSlBIcFlWRkhRdWloaTRCQjA5WWpuLW5JaXVCbm8yMU1DRGVXaTVR?oc=5",
+   "utc": "2026-10-24T22:22:11Z",
    "tag": "MARKETS",
    "breaking": false
   },
@@ -89,14 +137,6 @@
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5",
    "utc": "2026-10-24T22:15:27Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Protests sweep Italian cities amid heavy security presence, some violence reported",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVjV19ld3VNNFRlLXZaOFh2aUhReW5lUXgyblRhTHJPWEM4bUg0QU5XeFVXd0tKelV5LVFhSGJKMndmNjg1aFJLcmtITDNjTVpFVFU3YUFtcGdSc3ZGTDQzMHJTN05nZldOVkM0WDZyS3Y1TF9RbUVtMFh5MENrajRfRFRlOTR6Vlc5MWV4aklwMi1ielVIUEVmelIzMkVKaDAyT09wWWs2NXU2QVJwNUp0bXM?oc=5",
-   "utc": "2026-10-24T22:15:14Z",
    "tag": "MARKETS",
    "breaking": false
   },
@@ -129,46 +169,6 @@
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHBLamdtVGJUNUd5clFsd1ZsQ0RmOG15YktyT3BUbUJLUWx3d2pGZExMeWpUWHF3VFlYdGNHN0RPd1pNXzZ5cnhmeU9haVpCMXQzWUxCZlpWek5IRmJNTGYtMFFfbXdQQmw4R1JUOEY0MnRlaGpHR0drVWN6ZUtvcFp2dTJUMmZvT24wbkMzbw?oc=5",
    "utc": "2026-10-24T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM2dDQW5yVDVVYnk1ZzNMcVhCZEMxYUNyYkJxbE1vbkRuU20xVXRZVE9GdDRYQnBSY0Z3T3VIcDNmUFhub05LWS16LU9xdXdVc083b2ExNmJ0UXVCVzNLNzctOEMtUzYxX0xSVW1rMkNRWGVBMjEyRmVxTm13SXlmZDJoS3NlcG9uRHBzamVOZGl6STE4bW5vS1FUQjJSQ2hfN2Y5WXZyR1E4ZkN2ZWJ0djJrVDRnRXVhNWhnY0FKeUJVelBr?oc=5",
-   "utc": "2026-10-24T21:56:37Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Obama, in Ohio, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/obama-ohio-midterm-elections.html",
-   "utc": "2026-10-24T21:51:15Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan PM Takaichi to urge Germany for favorable EV treatment in EU",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ2FncjNFSFVtbnd1eVFES2d1TExETnBrbXJXT1hNSGttTnJtTTBZeGk0aEE4MWVVa29HeFV0dmNmUmQ0a2N2VDIxV0I3azhPZEFEQ0ZPNWUxUUFIRmxvWUZTWHBobnhlVjZFVWFwQWNpTnFlVi1RV3U3Rklrdm5TZDhtdjFUb1gxUWNJY0ZySjVYWDd2OUNCYmhxcGVyeGducXV4VFVOOHBlUW1YdzRHeUpZUmNPN2wyeFBPUWJ3c3Q?oc=5",
-   "utc": "2026-10-24T21:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump casts his midterm election ballot early in Florida",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/trump-midterm-election-early-vote-florida.html",
-   "utc": "2026-10-24T21:28:44Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-24/saudi-arabia-suggests-riyadh-airport-may-reopen-on-sunday",
-   "utc": "2026-10-24T21:27:28Z",
    "tag": "MARKETS",
    "breaking": false
   }

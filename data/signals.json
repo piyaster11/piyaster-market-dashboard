@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T23:57:44Z",
+ "updated": "2026-10-25T01:15:26Z",
  "level": 90,
  "band": "Critical",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   51,
+   52,
    35,
    35,
    "1.5 pts per headline"
@@ -93,7 +93,7 @@
    "title": "FPL Gameweek 8: Saturday’s goals, assists, bonus + DefCon points",
    "source": "Fantasy Football Scout",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3VCQWw2Qk9NTGVnM214TFJhd2YzZE9iaDRxdDA0amw5YVJMZmctZUhGWW5rZExnUU8xZUozUnVjclZmMXUwNVc1dGJvTm16M3ppY2FDMXFzdTdBaVVBNmtiTDBadnRoazZnSThYWElILUJTQlBxbnF0WWVFT0VLc1pQeGdwTGNRUEQ5V2l3OUtQU19XSmNQWDFRYXUtUlRwV2dZanM1by0wOEZuZEIyWg?oc=5",
-   "utc": "2026-10-24T21:56:15Z",
+   "utc": "2026-10-24T22:02:22Z",
    "tags": [
     "NUKE"
    ],
@@ -108,7 +108,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -130,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -152,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -163,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -174,7 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.4,
    "airspace": true
   }
  ],
  "mil": {
   "count": 2,
   "global": 75,
-  "baseline": 3.8,
-  "samples": 18,
+  "baseline": 3.7,
+  "samples": 19,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -280,6 +280,10 @@
    ],
    [
     "2026-10-24T23:57:44Z",
+    2
+   ],
+   [
+    "2026-10-25T01:15:26Z",
     2
    ]
   ],

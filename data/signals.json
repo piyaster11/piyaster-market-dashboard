@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T01:15:26Z",
- "level": 90,
+ "updated": "2026-10-25T06:17:05Z",
+ "level": 87,
  "band": "Critical",
  "components": [
   [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   52,
+   58,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   5,
-   15,
+   4,
+   12,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
+   3,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,14 +90,36 @@
  ],
  "headlines": [
   {
-   "title": "FPL Gameweek 8: Saturday’s goals, assists, bonus + DefCon points",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3VCQWw2Qk9NTGVnM214TFJhd2YzZE9iaDRxdDA0amw5YVJMZmctZUhGWW5rZExnUU8xZUozUnVjclZmMXUwNVc1dGJvTm16M3ppY2FDMXFzdTdBaVVBNmtiTDBadnRoazZnSThYWElILUJTQlBxbnF0WWVFT0VLc1pQeGdwTGNRUEQ5V2l3OUtQU19XSmNQWDFRYXUtUlRwV2dZanM1by0wOEZuZEIyWg?oc=5",
-   "utc": "2026-10-24T22:02:22Z",
+   "title": "US orders Urgent Embassy Staff Evacuation from Saudi Arabia amid Iran threats",
+   "source": "Daily Pakistan",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFJ1UUtDOWRhT0ZKRHpTWGtRYlozNWVOS3ZfdUdKV1pLRVhiNW1OWEkyUWZuSHFGUjZuS1JLbWptMTBQalVwOVB2RXlzZnJSY2RtdzFqQzJjOVVtajZGQVZSa29ndUI5N25GaGlJajVCUGN0aGpucXhJYldJVXhFWTdobXhDYXJoR2E1MmRhOWlwbVhQWkVJeS1BaUVmbVl2enRVT0dPeVN2Q3BwVEpLc2lfa1pTb2pUMzh6N2JB?oc=5",
+   "utc": "2026-10-25T05:28:36Z",
    "tags": [
-    "NUKE"
+    "EVAC"
    ],
-   "score": 4.9,
+   "score": 6.0,
+   "airspace": false
+  },
+  {
+   "title": "Americans evacuate Middle East after US intelligence chief warns Iranian death plot is in",
+   "source": "Daily Express US",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWplSGk3NnUzUTR5Z0VSQzViNmpncUJrUkJzdDlTRnRBNUZ4ZEpfNHlUUkp4Z2hqMThhU2Vzd0hvcGxCU2JJRVBlS1JaNy16S1lfc0RTOGsteXRMNXFRTThpWFR4V2hyaUt1NFAxVDZvZGlNTmR4bk5WSVZwVHoyVGZIaTNaU0pLalRXTFJ0YmFtTlFtT1RObENkZWVmZlMxREFvTTJtcHpSdlBTbWJN0gGvAUFVX3lxTE9xamVIaTc2dTNRNHlnRVJDNWI2amdxQmtSQnN0OVNGdEE1RnhkSl80eVRSSnhnaGoxOGFTZXN3SG9wbEJTYklFUGVLUlo3LXpLWV9zRFM4ay15dEw1cVFNOGlYVHhXaHJpS3U0UDFUNm9kaU1OZHhuTlZJVnBUejJUZkhpM1pTSktqVFdMUnRiYW1OUW1PVE5sQ2RlZWZmUzFEQW9NMm1welJ2UFNtYk0?oc=5",
+   "utc": "2026-10-25T02:15:34Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "Trump sends third carrier strike group toward Persian Gulf — The Japan Times",
+   "source": "UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ05wa2xyYkFFOTF5Nlo5dmQ0b1NjdGpTWFV5eTRkUzhzVjRXdGJuUl85MXRSME1pXy0wemR4QXQtRkpiSGRzdzAtVjhITDltbzh6VnFtX3VONWVqQUxaNTM3eTVtMnlfa3Z4dmNQOHBJSlBvRVA4RUtwcllmUHdMZ2RsUEJhMGxtVTJ4QlRKbGl0UGltMS1BeGhfSGZjWmN1cWZyYWRiUlFCTlFDLXYxR1FNNW0?oc=5",
+   "utc": "2026-10-24T23:58:27Z",
+   "tags": [
+    "MIL"
+   ],
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -108,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -119,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -130,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -141,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -152,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -163,29 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
-   "airspace": false
-  },
-  {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-10-23T23:33:28Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Ukrainian Embassy in Washington evacuated after suspicious package found nearby",
-   "source": "BNO News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1E3TTFSZXdvdXJGTGVaNE9vd3VvWlVFaUlVRldETGkzYVB0NXZjMHZVMTVtWV9ENm40dm9JX20tSjBmd25ubWppcHJZbkRZNGN5NUhfblM1dW5GVHYtN1dCRk1reTA4QUc0dEtYUWtYSUIxVFZEbi00WDdEd2RkRTY2Y0FMb0NLV2lBTzZTWXBZOVo3S0c1LWZJeWJqRlIzUHNRZEtuZjB5SmNXdTBqSVZlb3RoSnloVFE?oc=5",
-   "utc": "2026-10-23T22:22:02Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.9,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.2,
    "airspace": true
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 75,
-  "baseline": 3.7,
-  "samples": 19,
+  "count": 3,
+  "global": 71,
+  "baseline": 3.6,
+  "samples": 20,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -285,6 +285,10 @@
    [
     "2026-10-25T01:15:26Z",
     2
+   ],
+   [
+    "2026-10-25T06:17:05Z",
+    3
    ]
   ],
   "box": [

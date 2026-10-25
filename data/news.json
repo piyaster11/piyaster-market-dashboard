@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T01:15:04Z",
+ "updated": "2026-10-25T06:16:48Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -13,12 +13,140 @@
  },
  "items": [
   {
+   "title": "Singapore’s Wong Vows More Support for Workers, Energy Security",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/singapore-s-wong-vows-more-support-for-workers-energy-security",
+   "utc": "2026-10-25T05:40:56Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-10-25T05:09:39Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Eleven shot near Florida A&M university in Tallahassee",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWtZTlJpR0w5THFmMVVrNzNLeVpBOGF4UmJwOFdkWE9oTVNmWHBmbWFlQzY0ZUg4TThoaE5Vb3ZFX1NKQ1lsWEYyU1Z4V3ZKZXh5QWROS0ZsRnB3SGc4dnlQZFhScGE2OVdSRVkwNkZaM0xZdmZwWUFVeHVJZ0xFRU9uS3VHZThiakdtUEFCVDdsQWUz?oc=5",
+   "utc": "2026-10-25T04:36:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "BC’s Left-Wing Leader Loses to Conservatives in Vote He Called",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
+   "utc": "2026-10-25T04:08:12Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Portuguese police clear Lisbon housing protest camp, make arrests",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUl8tRDdjZWRsQkljV3FheHEtN2dyWUtJb2dhY1JmNmhGSU5ZaVZRYnF6SDhIaDN4eVZVd19JSFRlWW9MSm1jQ1NYTEtWOU5Eb2RrVE9Ua2lZLUJCSC1Ya1BEYVFkX0tNVkh1d2RFZzZfX19ZQTEyQ0pYSEs5eEJfcXF6ODk1Y293SUMwWW5TZVhRNWZTaTlxQXdHcGNuX2ZXbjU3ckNfMXNkTDNfWTQ0Zm5INA?oc=5",
+   "utc": "2026-10-25T03:31:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Pressed by Chinese EVs in Southeast Asia, Mitsubishi Motors makes risky pivot",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUE9jT0NyU1lubTdacUVyUkoxYk5rS2lYNF9uQ2NvWV9PQVczUjhDSmxBOVZST1oyLXplZTFZWXg0UGhEeTM2NWMxNUYycGsxMU1lTUJuVy1oVGdyaTNmUHBnN2FMaG1tMU1YR0Yzb0t5YndiTWQyX1VQdG9Od3hBRFZkc0xWbmVpMUJZeW5fVE9QUmVMQlFvUk9CRVVjODZfSlZjQ3I1R00tR0dzR2phQnRVZ2RWZzJBV1AzU2x3?oc=5",
+   "utc": "2026-10-25T02:48:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmFjNlIzWmpXOUo3WWp5enVJbThmQmhPRWlEaDJ2UVZaV0ZmYm5EUVRqeXpzSFpydWZPOFlObEh2MWk2aTJaMXBqN202dThhWms5NF9Jb3hOSjR3V19MczZUOThKTU9kM0FBOVd4Q3kzMTlkaDJfa3N0MmdoNW1uSmVwbUlrbFJ3bWRwc0UwVkdVTjNmVXdoWHVzS25CLUYydGNBOVNPMmt4UEl4anM4YUowS0s?oc=5",
+   "utc": "2026-10-25T02:46:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5",
+   "utc": "2026-10-25T02:40:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trump announces Audi will build $4 billion U.S. factory in Georgia",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html",
+   "utc": "2026-10-25T02:17:24Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback",
+   "utc": "2026-10-25T02:02:19Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Fobi AI Inc (FOBIF.PK) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55QVlncVRmZnpLak1ob3Juck51WXY0dVdiWTJVS1lnazVld3daaTI2T1VrQlVjbUJqNlp0eW1RZV9UXzY1QzdFMkJ2TUMtZTFwQlJ3SkQzYzJHSEM1a1kxTms2ODhyY2g1WHVBWXpR?oc=5",
+   "utc": "2026-10-25T01:53:11Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "South Korean golfers flock to small Japanese town for deals at resort",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWppMXVGQXF2SS13eUdJSEh2ZUt6a1NzSlpRZmpDU053anR3WDNpdUlYQlZqd1hvT215dU9JbUYwWkt1TnVmWC1Uc3RQTzlncTdUc3Q1SDBJVlhBWm54RFBHd0paYzBNcDZGT01qNU1NdWJobndsbUs1LXhGeEYwRzVKY0hLOWR3NUw2eXdydDhuVEFGWmZHMEFmeExqUVMtUWlKY0lqcE9Wel9BVjNfaExoYzdWYmVI?oc=5",
+   "utc": "2026-10-25T01:45:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Australia's red-tipped bananas are its first 'ecoganic' export",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFlDVXM5MVBzcVZWTE9wcGVjS215ZlNSSGxCMUNHUU1adWFKS0VucFU1ZlpZaWVKOEJENVZKMzhwYThLei12X1JiZVRITXl5dExsVl9meXFtcmp0ODJYY3llNEZRRmozWFYtRGh6V0tUajdUUWg5cmFWN2F3NlE0N0tpZnMzRXgzRmJac3lxLUJUSW9FMXRDX25YS0JYR0pRS3hON2ZzSDk?oc=5",
+   "utc": "2026-10-25T01:14:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
    "title": "Sydney's new international airport opens to passengers",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGVTQ1B1RGZ2UVI5REJPVVBEbDVLdV9JSUZIMXZ4MV9ZNVlwLXVtaGtqT3RGTTQ4aU1WLTNCMnBiWFR5RXhZRThGWkNJWndTN3JoWDFDVjFndHNiM1FLNUM2T0dEaTdrY3VCd19EcTE2SGJFVUVlTmhVRUx3NjF1aEdDZGxJekN3SklBV1U0RVVqZGJZYWZfQnM1VWtNWWZFSVFIZQ?oc=5",
    "utc": "2026-10-25T01:08:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Serbia votes as students seek to unseat Vucic in snap election",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5",
+   "utc": "2026-10-25T01:03:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "(AVGE.N) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zdWpqcFg1V3N0a2xoR3pITDBRcmZ0cFRMMXluYkxOOC1YUlNKaGd5anpQSnBCY2UxYTNERXZIV1ozUG5BYUpWd0QwQ3dtS2NXc0ljd2ZMY3Q?oc=5",
+   "utc": "2026-10-25T00:50:14Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Reuters Misinformation Monitor",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPQk1odEM3V2J6VXpBQ29QaXBLYzZGc3FKQUEteFM3ekVxR2lZQWhncVV3NlZXZTQyUnk1cTdkYjBjODFETDVoajJ5cGo2MzAtSHMzeG51OW1tZVZPRVo2aEFnTktNWXhBdHpQSlN1WXlaSms3a1ZQZ1g2czFuei1Jak9wTVJDMkZ3cFdZYmk4UzVkWEZxQndBVkVmMVdOdUtBc0kwUlZaVzlVUk1rRGI1aTBCWjE4T1VSd3F0RnpYS2hNdEpjS0ZnbnViLTR6ZDQyOTR2Y29LN0IwWmN3NHRzclRkaTNrcHV6QmFjcnRiRXRoVWE1MGpIaDBZWnd4VVR5NkpneGpJMGFPV2g4b3N0b3diTWhYTnFHMW5qMjh4ZWxNRERy?oc=5",
+   "utc": "2026-10-25T00:28:07Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "Bulgaria votes for president in wake of deadly Black Sea drone strikes",
@@ -29,11 +157,11 @@
    "breaking": false
   },
   {
-   "title": "Insight: Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
+   "title": "Yemen's Houthis renew warning against using Riyadh airport",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUk0ycEtUWHg2S2g0aWMwczhtYU5ac3hLS2k1TkhmOTFHUnVkaW5fMlZFT2lsaVc1dnBvdjAzNmREUW1veE9IOUp6R19CRE1NQU94SDVQOHJqaGMyaE9mR2VLUVZnT21BMTV4LTYwVGM1R2hrRmZpVXNGWEZkSXlodEVsdmh3YktZekxNUjdlUFRwYm1iMWtreGlnYVdENGdfU3VlRkt5NDBlbVdITzdDaURmbE1tdWhp?oc=5",
-   "utc": "2026-10-24T23:51:14Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
+   "utc": "2026-10-24T23:57:43Z",
+   "tag": "WAR",
    "breaking": false
   },
   {
@@ -42,134 +170,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTVWRFZORlBiakNwMEZORXdZX0JReXg2cklnLUpkX2lQbzNmSmlpRFNGY0lmZlBiSGxUanRqQlNKQnQ3d1FrcmtPOFQ1Qmpmd2s4MlE0QUlabWZsYUcxWDdRRV9KVEF0QkRyRDk4eWJOXzllWlAxbnk2bXl1RXlGU3czRTdyUkNqWXBhVExuMUFlblFlY1ZfYnI1NFRDT0U1RWY3WWsxcHFaN3Q1S2MwaERBZXU?oc=5",
    "utc": "2026-10-24T23:49:00Z",
    "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "North Korea's Kim Jong Un returns from China after war memorial visit, state media says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmFRMDdLSEpoaWR3LVZkWTlFQy1DYjJiU3JObElYXzRHWkFDaXQ0YXFZaGpyQ2pSeWN1UTV3UUFnZjA3bzRLbk1YQXJqa1E0OWk0eEttYzVrNlRRNzZvRnhVMXNUYTBSZTh2MXJROXNobTdxRThFaFRoc2hyaGMtZFlDUE1mUUZZMG13SEt3WHZYNGJ5WlpfWDloU2hkMnVCUFUtbEZxQWZYdnBhS25mbnZZUHlmS0JjOWtTWXNNbDFHRXlUOWUyLTdCOHhLYzFKZjdWRGxxTUdmZDQ?oc=5",
-   "utc": "2026-10-24T23:47:43Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Trump set to announce Audi plan to build US factory in Georgia, source says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
-   "utc": "2026-10-24T23:44:46Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China urges US to halt proposed expansion of outbound investment curbs",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2pHTEZOXzd1Y2VfelBNNnV4YnZKRU44elVIemFmZjVCYkMwQllTNHhGeFZ5dUlxcVFlOHc2bkZmTlhpbTJValk5cHVFTllYeGxNYUhCOE5iWjBXWC05aHZqa2hmekZjRVQ2NmNXVkpNaEpBcEtRQzNaeWUxOVpOT2J6UlhUeEw2Z3JxdnZKaXlkd0oxZ2NwU0Q5dXY3QnJ3LXIwQkRCSVQza0kzbm5zUEwxa19LcEhGUXU0N1lpY0t2cDZrd0tRMWJ2djV0emtfMlc5S3o1bUFXSnpzelE?oc=5",
-   "utc": "2026-10-24T23:16:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-10-24T23:08:33Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Bolsonaro, Lula about even in polls for Brazil runoff vote",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOW9aaS1WT2hUWE5VTjd3U19BR0VxZ0xtUXd5QjQ5V3EzMkxsYWs2X0lHYm11TzU5YTY3RDQ2dGlnblllZklkV1AySElHOVF6a0RKZmNZZHpJMlVCaE82QjBXN1lHeFNFSGE4VlBjUGVwWlBSWkRQOTE0dzNRZ2NMQm9tWWRzN1FBaHhfbWVqcDl5Qkw5OW5wNlNDMEJjZXVmUkQ3NE5CSmdfci1IMkVVQktUdElSSEd2ZEs2VjRBQktYM3dXc2pvMmFR?oc=5",
-   "utc": "2026-10-24T23:02:10Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
-   "utc": "2026-10-24T23:00:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "US Justice Dept demands California counties help identify suspected noncitizen voters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmlFSUIxOVVNeTdTRWJLSGVWYUQzS3FGNEk4SVU2dmM5aS1MZThUYUc5cG85WXFnd2V6bDBFOF9zd09EREduV2lGbWJTTUhURER2R3RISWxWT3pvSWhRTVNHcFRtTUFRX0E2OU1QQjdHS2hBZ1ZnZzRYLXFLdTZTX2w2dUFQRGRZVDh1aHJuSkxSQzliZ2pqaWQ2blpEdXp5b0sxUlQyTHpPZVFGOVpQdkRmMHhtS1BiUDhYei14V04zX2s2OHc?oc=5",
-   "utc": "2026-10-24T22:56:02Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump set to announce plan by Audi to build a U.S. factory in Georgia, source says",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html",
-   "utc": "2026-10-24T22:55:06Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5",
-   "utc": "2026-10-24T22:49:12Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "(ELOL.OQ) | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXcUpEV3ZDaGdqbjNxX3dBdEEtandreHo2REt0SjdjbjdQNGk4ajRGTzFNY29wbno5YkhCeW5iakd4bERjUVJydHl2VGFVUkpHUzZudXViX1VPUQ?oc=5",
-   "utc": "2026-10-24T22:38:17Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Lindt got chocolate price hikes wrong, chairman says after CEO's ouster",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXRJYXhTRHZJa181V2drYml1R21wTVF5YTdyZGVUSVJEUzN6QmhsLTFtdkpjRlAycnRyNFdtaGtEa3JrRS0xVzFtdDV2OF9UNWgwU2NwQTN0aXp3MURnS2FvcGJSVVhFcmhfd2lTZjhKQ1NIYjFtYkpVLXZCNWRfcXFRaS1ZUGNmQm0wV20tMXQ5MlczTF93UHNKNUxLc2xrdnJuSlBIcFlWRkhRdWloaTRCQjA5WWpuLW5JaXVCbm8yMU1DRGVXaTVR?oc=5",
-   "utc": "2026-10-24T22:22:11Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5",
-   "utc": "2026-10-24T22:15:27Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5",
-   "utc": "2026-10-24T22:07:30Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5",
-   "utc": "2026-10-24T22:06:52Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Free trade pact with European Union shaping up for end of year",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3343075/free-trade-pact-with-european-union-shaping-up-for-end-of-year",
-   "utc": "2026-10-24T22:03:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Succession: Stephen Schwarzman (24)",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHBLamdtVGJUNUd5clFsd1ZsQ0RmOG15YktyT3BUbUJLUWx3d2pGZExMeWpUWHF3VFlYdGNHN0RPd1pNXzZ5cnhmeU9haVpCMXQzWUxCZlpWek5IRmJNTGYtMFFfbXdQQmw4R1JUOEY0MnRlaGpHR0drVWN6ZUtvcFp2dTJUMmZvT24wbkMzbw?oc=5",
-   "utc": "2026-10-24T22:00:00Z",
-   "tag": "MARKETS",
    "breaking": false
   }
  ]

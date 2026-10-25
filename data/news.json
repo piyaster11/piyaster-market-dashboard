@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:42:38Z",
+ "updated": "2026-10-25T22:37:11Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (15)"
+  "Nikkei Asia": "ok (18)"
  },
  "items": [
   {
-   "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-   "utc": "2026-10-25T19:30:00Z",
-   "tag": "MARKETS",
+   "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+   "utc": "2026-10-25T22:34:03Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Nuremberg at 80: Japan's role in the unfinished fight against aggression",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVRiVE9Yb3JBSnZSTm4wTzJRa2R0eWs5V0ZEckZSVTNqS2xGNUNkRm9BRWkyRXZhNmVFRjRwWVJXblZwc1F1TjQ3TmdTd3lUZDQ4SEpjcEM5cWhTOWk4OFdhV1o0YmgzTjZ3T01hQjZZaUt1TjdyYlVxOWYzYXI3RUFCQkl5MU9pRGdVazRtZUFvT2hVV2pHM1MybUM0SWZYR0dsbWppTmlWQTByZ21POXlROA?oc=5",
-   "utc": "2026-10-25T19:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Britains-Renewable-Energy-Boom-Is-Hitting-a-Grid-Bottleneck.html",
-   "utc": "2026-10-25T19:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Serbia votes in historic election as students seek to end Vucic's long grip on power",
+   "title": "Serbia's Vucic concedes defeat in historic election win for student protest movement",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5",
-   "utc": "2026-10-25T18:58:01Z",
+   "utc": "2026-10-25T22:30:08Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Liverpool grab home win, Man United slump to another defeat as pressure mounts on Carrick",
+   "title": "US Equity Futures Climb as Crude Oil Price Dips: Markets Wrap",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
+   "utc": "2026-10-25T22:09:07Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Culture: Stephen Schwarzman (25)",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTUlwM0pvdk5fb19PVGJoMTNNOGF6eGM1bzFGcVd0SmRoczhyVHJJZnl5QW5uall0eWs0c0MwRkFoYTFRUG5oaWRoenFkRzVKWlBHSzRZaVZnVF9ValdJRFpHMkR5V05MY2ZPeWFWbE05dWJfMm5kSl9aWDhDTlVMdkp2aEJSY3ZvUUhF?oc=5",
+   "utc": "2026-10-25T22:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ3N4VFpLcUN0SlFQMzRxdVBiR0hkWjBmVW9iQXVuLTBNZnZFSUFaTDZaQ052R1NlOU1xYU5ybW5DQzV6RlQ3eFB6NFNCMGU2ZU1WR2JGNHlTUjRQU2Q3SkxnT0lRR1VnSGNzX0oyUWdNVUZLem94R2pMLTRwY1d4YTJ0Ym5Fdmp5WnNzSGVYM3lZTGRFWGk5ZW54aEJicFpaSEZWMHlGZkpHS2IyU29BZHdsclFBMHJQMHNGMFAtTVByclZWcTFLUg?oc=5",
-   "utc": "2026-10-25T18:48:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR?oc=5",
+   "utc": "2026-10-25T21:59:30Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Brazil votes in tight runoff between Lula and Bolsonaro",
+   "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/25/serbia-leader-vucic-concedes-defeat-to-student-led-movement.html",
+   "utc": "2026-10-25T21:42:33Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/25/brazil-lula-bolsonaro-presidential-election-runoff.html",
-   "utc": "2026-10-25T18:41:45Z",
+   "utc": "2026-10-25T21:29:59Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
-   "utc": "2026-10-25T18:26:50Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations",
+   "title": "French protest groups demand more rallies as Macron faces tough choices",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5",
-   "utc": "2026-10-25T18:25:28Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
+   "utc": "2026-10-25T21:27:09Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Bon Secours Nears $6B Takeover of Surgery Partners: FT",
+   "title": "Senegal Premier Raises Constitutional Option in Budget Standoff",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-25/bon-secours-nears-6b-takeover-of-surgery-partners-ft",
-   "utc": "2026-10-25T18:24:56Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/senegal-premier-raises-constitutional-option-in-budget-standoff",
+   "utc": "2026-10-25T21:26:30Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "DFOP.DE",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41OUdVS2RFNnF2dWRrNHlVQldaRTE4SXJUMTdfOGtKX3VYS2Q0Y1hpdlVaUEtpYndPTzJMWVR2VzdXVkpFUm1PRWs2ejRETEo1Tmd2bHVoMEZEQQ?oc=5",
-   "utc": "2026-10-25T18:21:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+   "title": "More pain may be coming for the AI trade. Why I’m not giving up on it",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-   "utc": "2026-10-25T18:18:49Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "AstraZeneca's stomach cancer drug extends overall survival, late-stage trial data finds",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWE1d0RDaXR0T1dzS004NG1pSU9IVjEtNGF5VEVlY3hoVDh2eVYyLUZMZl93ckdRbnpkOVgyXzFXYzlyRmdZbWtaWnJXS2tuUWtNN2R6LXI3STllOWtwX2RVUTc2RUVPTmZhYlRsYWIwcWppeDVHdkRtUlVpRjB1QlVYUTNXSks3SDh4bGJsUkhjN2c0ZkpyNWlOcW0xbWFWSzZmQmpOYXBEYW5SY01CdWVjSEZMVXBtNUpRZjFLb0Z4T1ZCWmRB?oc=5",
-   "utc": "2026-10-25T18:16:31Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-   "utc": "2026-10-25T18:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "De olho nas eleições",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-25/de-olho-nas-eleicoes-video-mvo4e3rz",
-   "utc": "2026-10-25T17:47:06Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "France's Le Pen launches presidential bid as protests rattle the nation",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHlyYlVtZ3dZV1ZlUmdLeFZGczB3NnU2R0R4QWxrZEw2SFBoU2l5ckpyblc2NGgxNmdXdFEwdGw3RExIaFFPNkdlVDF1XzRrNFI3Y0g5WFR0MkpZMUpOMW9nZ1ZYQ3VvR2dKRXF1QV9HSE5ZTGtPZkJEYlVNMTdkTWNzeDNqLVFMZXVNQW8wODNRUnBQVjdJNXgxT2p0OURoU0hreHZWako?oc=5",
-   "utc": "2026-10-25T17:45:44Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Thousands protest Czech government's public media overhaul after rushed vote",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3NtVE4za2c1ckhEX0F1Vm5FTExqYnIwRExMVkJvT2owY21CZFlLWFh5bGF1eWlaX0w2RUVua0hrVHcwQnRXTXh5NFlNbF9pektuU1Bzc2hrV1VuYWJpOEZLSlVId3Q4dmZicnlNX2t4M3RPdFA0NHNlQ2tRY2JibzZRaFAtQmF5LVNKbEhuYXdLcHZUcjIxRl9reWdpZlJUX2Vkd2M3aXlsMUwyQ1ljZnlWMFdycEpoTjJzLUoyUFJfWlkwZGZvX2hjOGVpRlE?oc=5",
-   "utc": "2026-10-25T17:45:43Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "SoftBank plans $50bn AI investment in Malaysia, PM says",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzBmUUw1d0Z4V21ZUnRtSlQ1SmdsN3FZVmgtTVRVVng5MEpzY090LVc2SVEzdE5IX2ZWbHNqbkFlR1FvUExoaWxsOGo0a2xjWHo4VUJGRFdjaEplZklXVjBqQ2FjOVMtQXhxa0szVzA2NE1XVjZEYloxUkxFbDRQN0pSMWV5MUFEWXM5Tk5RT3MzREYyYzlFYXdSOA?oc=5",
-   "utc": "2026-10-25T17:11:00Z",
+   "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
+   "utc": "2026-10-25T21:13:50Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Trump has no designs on taking over state elections, US attorney general says",
+   "title": "(FTSD.N) | Stock Price & Latest News",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR19Yc2l5X25vdWYzZlFqeGxlOU1sMElDSFBGVmcyNXhjY2VjR0tDWFEwdE5jZGx5LWladUd4Z2FVaENKaTl3bW5jdkppT1o0SWdCcUhWcGJoMHY5eWFvQmhrMng2TzY2Y0ViZW9UMHZDbG9Kems4bTFSLU9LSnkwNVItaWE5Qmp5b3BxUmxud1ptdTZmMHJFRlRBSThfRU9YdUZvdkdKWk1Edm9lTTM4eFFsT2otVzktaHZYcTM1Vjc3LUlz?oc=5",
-   "utc": "2026-10-25T17:07:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IZmdfVWxMNWh4WkFqSkRtc091d3RCZ1RxNS0wODZFR0k2ODJ1cF9NVDRmRDVrWUpJb3I4X0FFVF9ZRGxwU2RwbUhkbXRsRTM3S1Y4cXg2RWM?oc=5",
+   "utc": "2026-10-25T21:08:45Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "(SMTH.N) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByM2pOREFzejByazhOcVctX1pCT1RfTjk2WURSQ3ZvOHA2alpoeDVFMVhqbGJ0UmxHQ3k5b3BXWnlqdUVvODFUN1hCY0h1cDY1UjA1OEZKOXQ?oc=5",
+   "utc": "2026-10-25T21:06:15Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Trending: News & Insights",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQjF3ZWRBTUpfdHRETlhBZEhuWkpUR3JmLWdaYVZhNUpMUlBTdExmVnBZejVRbkVWcDR3LWxvRHRfbnMxVlV3?oc=5",
+   "utc": "2026-10-25T21:01:22Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Sri Lanka rescues 40 Iranian sailors, spokesman says",
+   "title": "AI stock falls are sore spot for China's self-reliance strategy",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMjQxZmE1VnozV0NDUF9HMlVjd3hFTFdzWWdJWGNwM012Ty1TdXhsSlBOTUlpU3drdDRmSGRsRVFMeUtZNDJkRFJNNnlpZDVxZDMtam9vLW82eWNCakNkdkNMLUdoN2xVOU1TR1FoU3FQTk1mR3lmdGtTaUktekwxN3lqVmFDS2V6YnVRaTZnM1RTMGxjLTFpUVB2cGxYXzZUWG1oUTA1N2tlMUhGT2hndG50NUVfSTlV?oc=5",
+   "utc": "2026-10-25T21:01:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "BYD’s Korea Expansion Challenges Hyundai Dominance on Home Turf",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/byd-s-korea-expansion-challenges-hyundai-dominance-on-home-turf",
+   "utc": "2026-10-25T21:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVlpiem5XSDBRRmZVd1BHdS1GaGppQVhLQkVhWkFaU3dvYTl6UkJ5MnZySmFpUkxfb2xZMy14V1pQTlRURmQ3eUNISklSZlVkMkVOZjBja1ZCNkxaaHo4c3IzYUk3VEczNWR0RzFSVEhfXzRUWEliODc2Y1hNSC0wbk5hdWFoUG9IYmxtMURiOHhtYVB1SHJRTWNEbDdBV3dvWXdKTF9lQ2s1Zw?oc=5",
-   "utc": "2026-10-25T17:06:58Z",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
+   "utc": "2026-10-25T20:56:52Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Serbia's Vucic concedes defeat to student led movement in parliamentary election",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUU3TDlMRjZDVkdXVmplZVo5NHhmeGM5NUd5bkx3R2dJVTVBNjVaMmtkYkpJNHZDT1VNMzJTdjVWRG1VUFVMMW83ZmtnU2pOd2RsNlBlcEw5RldCZWNvT3hya3cyVGdacXg3cWd0cUlKYmdrM0JPZzFwSmJISUh0TWhZbVRzMFdfdS1ZZ1R2a2hKdERiQnZXX2pqY2RmV2NnYnZ1UE91eGFQT1pkLUk5eHRHbFVMWDRpWVl3QXA1dw?oc=5",
+   "utc": "2026-10-25T20:52:12Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Zelenskiy says US warnings on ballistic strikes have fully resumed",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlJXU0EwamQyaDFJX05mT0UxSlNjMlBZTG9DN184ejRsOWMtSmJiVUtsVW1fV2NlVFBmUG1TVV9UVmRYZm5WcFhpOU9EV3hZWXF4R2ZFMVFkOUFPUmxOQTRMR2R6WGlFVVIyTDZJNTZqajFxaVphUjlhM3JqMkVRUUJKWTJqbm5aT0pkYmJqU3poanNDM0tkRkVvOUwySmx1UUdsZkR5MlVQVjRRU18ycnRDbDBscmpxTDdHYUFrUQ?oc=5",
+   "utc": "2026-10-25T20:40:31Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
+   "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+   "utc": "2026-10-25T20:28:55Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-   "utc": "2026-10-25T17:00:00Z",
+   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+   "utc": "2026-10-25T20:15:00Z",
    "tag": "MARKETS",
    "breaking": false
   }

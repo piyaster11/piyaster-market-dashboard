@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:42:54Z",
+ "updated": "2026-10-25T22:37:25Z",
  "level": 81,
  "band": "Critical",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   49,
+   46,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   3,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,6 +90,28 @@
  ],
  "headlines": [
   {
+   "title": "FPL notes: Tavernier goal, Silva DefCon + why Bruno wasn’t used",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2RkNHJnVDg1RFQxRUI0N3FrZGRkamhUbXJmOEpsMjZJNUtpWUVwTWZ3cE53NlFQUjJRVjhBeGJCeEZ4clcwUFBnTHRSNlZ1ZldOVmRpQjFVWUdEaWFqRm4yd1NnWXVQdm04QjBQRDdLYVpleFJRcGFfUlhfS3M1ekVPZ3JsdHR1WlB0T09PMndiOTJnMi03a1ZXMDlKazEyUDd1MFY2NlJaS2tvZVdxNkJ2aw?oc=5",
+   "utc": "2026-10-25T21:03:16Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Owaisi Demands Air Evacuation for 4000 Indian Pilgrims in Saudi Arabia",
+   "source": "Asianet Newsable",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0h0S3hPQlJxR1FRbHFSLWFLSDNUNFhkSTN2MzRlUUFFdkZ4UWxRVXpjelNOZEZydUJickNHQndpZlUteFFIcVV5TDFmS1V1RUVRTkItR24yaDJadzM1bDlaNEdXV1RETVlKWXpDV0RjQS01bGpGQlZUdUltNWZXNjdWalI0WThkX0RaZS1Wa2E2ZmU3Y1NrRGZVN1Bad1NEWmJKT3lZcHBxUjlhZ1hZRGpOVjF3OHdUdGt5YVNtQTVrQVlyWExSVNIBzgFBVV95cUxOdTVPakw0TlRDR2tnYWNxVlFLbjVwbXdya0k0bUlfYWltb3Q1YkJYTE1TaFdMX0dIanAwOGtwaFlIWUpPZUFYTnFjSDVMX3dsQks5OEJQdVNDVHRmS0lROWxxcVZSMGdwZ1NXaGYxcTI2NmZfWF9kWFpQRkxpSHJRT2RtVnBSUzhhYkx6VmxaWDlsLXp6Z2Q0ckhIZDRLQVZlX2d5TkcxU1B3b0ZNSXd6SEgwSlpDcnhJcXlLcU02ZUtHTllmUm43SklFM0lxUQ?oc=5",
+   "utc": "2026-10-25T20:40:12Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
    "title": "FPL Gameweek 8: Sunday’s goals, assists, bonus + DefCon points",
    "source": "Fantasy Football Scout",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYnpSd1VOaHdZd2UzS3IxdGxSZTZkTkNzQ19HMG9DSmlzeDgta01yU0xvMGdSTUlhZ005YmR0NjVOOXJtUkxHOGxBeFlpbmJpZ3dzSEZVVkFCMUp6MDU0WGJWZ0g0cGIzaTdaYktQRlNCTG9jMGFHVHBuVVR0MUlpYVRPZzVmOXl6dzAtektad0Z5ckYxM2JUNWlOZEhsNU44VnRKcDZUVEFsQQ?oc=5",
@@ -97,7 +119,18 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.0,
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Shafaq News..Hormuz shutdown could slash Iraq's oil revenues 80%",
+   "source": "شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTdRai01RDRPQUt5a2I1cU5mOS1xcmE4Tjk3bHdFcFlpNmRQdnNVX3VQNi1jWGNwNlRoZXVCa291d3JLZ29rN2NWVGxtYUNNMTZxVEtrdlJSVlBXbmFkUVRLZDU4Q1AtSUs1d3VPNEotcHlDUnZuMXVvanlWVE1GZDdjTWh2NUZnZVp3RA?oc=5",
+   "utc": "2026-10-25T19:04:08Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -108,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.0,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -119,30 +152,8 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
    "airspace": false
-  },
-  {
-   "title": "Indians In Saudi Arabia Told Not To Film Missile Interceptions As Attacks Escalate; Air India Flights Suspended",
-   "source": "Gujarat Samachar",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORS14VXJpa1BMa29rUWpnNzJrMXQ4M25UenFBdXpXVUJzdmVFZGtUUzVwb2hDX0ZYUzdMTlpKUE15YjJKMERfelk5QldfUC1BWEtVYkxTcXRDbHBVeEJGS3ljRThvVmFWV1pXQnVYT1M3Q1l3SlkwbUt6RjVQdnZoQWNUalZYTmphOGpYazZuNkk2S05Gbmc3eVYzQlAwZWFkcTVkeVZpMzk4OWEzdWgyRmxIc3VHTVc1UkRzWEdvR1hfZW0yLVA0ZVBNYVZ4ejhacllrZG9DZmJrRVRfQmpPeTJ0TnBzRGFjTVBLX1I0aUxFNGl0NWIwaFUyYUs4TUFyU0VmR3JHXzI?oc=5",
-   "utc": "2026-10-25T14:58:18Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.8,
-   "airspace": true
-  },
-  {
-   "title": "Flights Suspended on Dhaka-Dammam and Riyadh Routes Until November 4",
-   "source": "Bd24live",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRE1fd0FacTBrZkU0eDl2SXd0MTc3eTJXLVJrXzNUQXdoaXEtTlIzMTNEVGkxNVowekNra3h6aFdOSmRxMUh6bFJxS2tFNXlmUGxMRzdSNVFrbkVFcm9nbG5ja21Gamtzc3B4YngyUC1mcTZOMmFRYk5RMHlpV3RXbF9uRU91aUZVYllVRGVNTnJmQ0lmeS02UXpn0gGfAUFVX3lxTE96Z1l4V3JoV1hxSzFJSks5cnIxb3VQY09yWV9CT0YySmlDYkJUVld4azJhZ0pMeVF6OHdyNm15X0haU19aUWZic3RzRUZsVVpEdUsyNzlUblBxSXlmT0hsaTV0UWdpNzdHcEh6ZElSNm11TEU0M25aU1U0Y0U3c0M0a2VYR25HMHU2STlRUEpDUTVCRDV6VUpJRTc0bm1HVQ?oc=5",
-   "utc": "2026-10-25T13:40:14Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.7,
-   "airspace": true
   },
   {
    "title": "Sri Lanka facilitates humanitarian assistance & evacuation of 40 Iranian seafarers from stranded vessels",
@@ -152,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -174,37 +185,26 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.2,
    "airspace": false
   },
   {
-   "title": "Russian embassy denies evacuation of diplomats and specialists from Iran",
-   "source": "Apa.az",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXRMb3VSVm1iOE1NeHJIUVJrYm5OUlBGRzd1RnBNbUJ2SV91NTc0dlh1Mm1hTHRUOS15aGJxdFdDSnd1OHBXcTlldXhieVJtTEkwdE1DOXp5UkVrSEJ2VXZVeGNEc2loT0dhcE1JNG9zYXJHeHlHbjZMcWt4cHNGbDNIUjBZd3dfZ1lxLVlrOWZvWUhENWR4RkZyYk02cm5zTTlURk9zc09wUWx2YjFsdQ?oc=5",
-   "utc": "2026-10-24T15:32:00Z",
+   "title": "Report: American Evacuation in the Middle East Due to Fear of Iranian Attacks",
+   "source": "وكالة صدى نيوز",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrQlpBcHY1OVpPVFNCdkxNU2cyNjVPVUhDV3QxdnV0dWY1aFRWRktCejlNRTUzaG5ORm40UVFlbENzcDRuSFZPeWhUVGZKMURiNHRyZWxB?oc=5",
+   "utc": "2026-10-24T17:56:24Z",
    "tags": [
     "EVAC"
-   ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-10-24T14:03:56Z",
-   "tags": [
-    "HORMUZ"
    ],
    "score": 4.8,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 142,
-  "baseline": 3.7,
-  "samples": 23,
+  "count": 3,
+  "global": 103,
+  "baseline": 3.5,
+  "samples": 24,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -301,6 +301,10 @@
    [
     "2026-10-25T19:42:54Z",
     0
+   ],
+   [
+    "2026-10-25T22:37:25Z",
+    3
    ]
   ],
   "box": [

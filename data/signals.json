@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T11:47:55Z",
- "level": 79,
+ "updated": "2026-10-25T16:30:54Z",
+ "level": 82,
  "band": "Critical",
  "components": [
   [
@@ -12,15 +12,15 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   55,
+   52,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   1,
-   3,
+   2,
+   6,
    15,
    "3 pts each"
   ],
@@ -90,21 +90,32 @@
  ],
  "headlines": [
   {
-   "title": "Shafaq News..Iran claims US drone downing, warns of Hormuz changes",
-   "source": "شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSF9FNUdtWnBGSFA1ZzhUSWZMNUowU2phZHlNbFJoM0Z5VFowb1pNdVJMUVpaY2xjYlVkZ2hialVzdE9LNWdzRVRfWVdDR0pqc2RxYkM2N2RKM3dua1VQSUtFR1RLel8zNFdQQzZUMlZEY19HOTJYQVNiNFRTbjRjc21ldlF6dDA?oc=5",
-   "utc": "2026-10-25T09:02:20Z",
+   "title": "Flights Suspended on Dhaka-Dammam and Riyadh Routes Until November 4",
+   "source": "Bd24live",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemdZeFdyaFdYcUsxSUpLOXJyMW91UGNPcllfQk9GMkppQ2JCVFZXeGsyYWdKTHlRejh3cjZteV9IWlNfWlFmYnN0c0VGbFVaRHVLMjc5VG5QcUl5Zk9IbGk1dFFnaTc3R3BIemRJUjZtdUxFNDNuWlNVNGNFN3NDNGtlWEduRzB1Nkk5UVBKQ1E1QkQ1elVKSUU3NG5tR1XSAZ8BQVVfeXFMT3pnWXhXcmhXWHFLMUlKSzlycjFvdVBjT3JZX0JPRjJKaUNiQlRWV3hrMmFnSkx5UXo4d3I2bXlfSFpTX1pRZmJzdHNFRmxVWkR1SzI3OVRuUHFJeWZPSGxpNXRRZ2k3N0dwSHpkSVI2bXVMRTQzblpTVTRjRTdzQzRrZVhHbkcwdTZJOVFQSkNRNUJENXpVSklFNzRubUdV?oc=5",
+   "utc": "2026-10-25T13:42:54Z",
    "tags": [
-    "HORMUZ"
+    "AIRSPACE"
    ],
    "score": 4.9,
+   "airspace": true
+  },
+  {
+   "title": "Sri Lanka facilitates humanitarian assistance & evacuation of 40 Iranian seafarers from stranded vessels",
+   "source": "Ada Derana",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NUjhILTRBdENKUDNiakpZc1JIcEFVSDhPNF9UVUJiQWNaSGFBU2xtNUxiZ1E1UWNiUWdrNElycUFScy16clRB?oc=5",
+   "utc": "2026-10-25T13:17:19Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
    "airspace": false
   },
   {
-   "title": "QatarEnergy buys LNG from the U.S. / Contract follows Iranian attacks and the closure of the Strait of Hormuz",
-   "source": "Informat.ro",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYl9ZVHdYVUkxcEJuNDRHUk9FRVJZdm9fRXk3a2F2NlJUSm0yamNIUDl6TEt5a1hNRndxOEZqdjEycmJQUGtHeHYwZGNST1U4OXI0akFUSTlId1Vkei1KLTJtTEhzdXdJQXlOZkR0b3BUc2VGSmVIUVZ3VWZFUTRFS2NwTE5HSDVlWFAzMzRrWWFvMkVMUW1NYW04VUNhLTRpX2l2aWZOWQ?oc=5",
-   "utc": "2026-10-25T07:04:55Z",
+   "title": "Araghchi says Hormuz will not return to pre-war status",
+   "source": "Aaj English TV",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSXVKU010ZU44d3k2XzdDdDYtak5Zd1dzUHRhVmFHTmxyeW1jVlp4bUxzN1pKemdXMHZNYXdDajFSV0pyVUJmQjl2bjZtY3F5V19iUnRsZGNYeTIwT0RabDFBRkJ5YTFvSjU1WnhUakMzOElBeHptTzBjZmZmYmVBdjY1SHl2UGhGMUs2enZuY3l6T2RfQUlZ?oc=5",
+   "utc": "2026-10-25T10:53:13Z",
    "tags": [
     "HORMUZ"
    ],
@@ -119,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -130,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -141,7 +152,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
+   "utc": "2026-10-24T14:03:56Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -152,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -163,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.0,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -174,37 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.0,
-   "airspace": false
-  },
-  {
-   "title": "US Urgently Evacuates Embassy Staff Amidst Threat of New War in the Middle East",
-   "source": "Aurora News",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGdYZVRKOEF1UXN5TEFEZWZfTV9peUoteVFUSUlRU25Ocmt5Sl9CWnc3RDUwYnYzTkdSY3dySXJCT3FSTkNMbHFPQ3V5VzFnMVNTby1sUzNWZ0NrT1BmSmpzcU1qQjhuRTlkd3R1cTZxNTNMS2dGQzdUM3JiUmVJT0lNdVp0cHpvOE5QRGxxTVZ1UEo2VDcxOEJTVkZqMXNxT3B1UUs5WUcwQ1k2LUx0U21rcU1xbTdlUVVRTA?oc=5",
-   "utc": "2026-10-24T09:44:08Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "The US is urgently evacuating diplomats from the Middle East: the threat of further escalation is mounting",
-   "source": "UkrMedia News",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONlNQYVFESUxDTnA0dVQxNHZ6LW15RmJxVlRQWWl6emlwaVVlYmNjcWVEZXBDUjJ3VjZFTXdxbkctd3ZEVVkydlk4T04wbW5QVVg2Tzk5cXRIWlh2OTlPdnF4aFlxbkYzbl9URzRlTEIzN0JrOHJ6M2dJV2NKR2x1U3p6SDA?oc=5",
-   "utc": "2026-10-24T06:45:09Z",
-   "tags": [
-    "EVAC"
-   ],
    "score": 4.8,
    "airspace": false
   }
  ],
  "mil": {
   "count": 4,
-  "global": 78,
+  "global": 163,
   "baseline": 3.6,
-  "samples": 21,
+  "samples": 22,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -292,6 +292,10 @@
    ],
    [
     "2026-10-25T11:47:55Z",
+    4
+   ],
+   [
+    "2026-10-25T16:30:54Z",
     4
    ]
   ],

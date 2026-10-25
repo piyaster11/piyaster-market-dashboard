@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T06:17:05Z",
- "level": 87,
+ "updated": "2026-10-25T11:47:55Z",
+ "level": 79,
  "band": "Critical",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   58,
+   55,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   4,
-   12,
+   1,
+   3,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   0,
+   4,
+   1,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,28 @@
  ],
  "headlines": [
   {
+   "title": "Shafaq News..Iran claims US drone downing, warns of Hormuz changes",
+   "source": "شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSF9FNUdtWnBGSFA1ZzhUSWZMNUowU2phZHlNbFJoM0Z5VFowb1pNdVJMUVpaY2xjYlVkZ2hialVzdE9LNWdzRVRfWVdDR0pqc2RxYkM2N2RKM3dua1VQSUtFR1RLel8zNFdQQzZUMlZEY19HOTJYQVNiNFRTbjRjc21ldlF6dDA?oc=5",
+   "utc": "2026-10-25T09:02:20Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "QatarEnergy buys LNG from the U.S. / Contract follows Iranian attacks and the closure of the Strait of Hormuz",
+   "source": "Informat.ro",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYl9ZVHdYVUkxcEJuNDRHUk9FRVJZdm9fRXk3a2F2NlJUSm0yamNIUDl6TEt5a1hNRndxOEZqdjEycmJQUGtHeHYwZGNST1U4OXI0akFUSTlId1Vkei1KLTJtTEhzdXdJQXlOZkR0b3BUc2VGSmVIUVZ3VWZFUTRFS2NwTE5HSDVlWFAzMzRrWWFvMkVMUW1NYW04VUNhLTRpX2l2aWZOWQ?oc=5",
+   "utc": "2026-10-25T07:04:55Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
    "title": "US orders Urgent Embassy Staff Evacuation from Saudi Arabia amid Iran threats",
    "source": "Daily Pakistan",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFJ1UUtDOWRhT0ZKRHpTWGtRYlozNWVOS3ZfdUdKV1pLRVhiNW1OWEkyUWZuSHFGUjZuS1JLbWptMTBQalVwOVB2RXlzZnJSY2RtdzFqQzJjOVVtajZGQVZSa29ndUI5N25GaGlJajVCUGN0aGpucXhJYldJVXhFWTdobXhDYXJoR2E1MmRhOWlwbVhQWkVJeS1BaUVmbVl2enRVT0dPeVN2Q3BwVEpLc2lfa1pTb2pUMzh6N2JB?oc=5",
@@ -97,7 +119,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.0,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -108,29 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
-   "airspace": false
-  },
-  {
-   "title": "Trump sends third carrier strike group toward Persian Gulf — The Japan Times",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ05wa2xyYkFFOTF5Nlo5dmQ0b1NjdGpTWFV5eTRkUzhzVjRXdGJuUl85MXRSME1pXy0wemR4QXQtRkpiSGRzdzAtVjhITDltbzh6VnFtX3VONWVqQUxaNTM3eTVtMnlfa3Z4dmNQOHBJSlBvRVA4RUtwcllmUHdMZ2RsUEJhMGxtVTJ4QlRKbGl0UGltMS1BeGhfSGZjWmN1cWZyYWRiUlFCTlFDLXYxR1FNNW0?oc=5",
-   "utc": "2026-10-24T23:58:27Z",
-   "tags": [
-    "MIL"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "US evacuates Middle East embassies and bases over advanced Iranian plot targeting Americans.",
-   "source": "Kurdistan24",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVVlYVFVhNE1lLTNjWUh4SHZ3b2w1NlN5TloyV0huMll0SzY2Y19OZEhNUmhENW0tcUU1RE4tYUNSZmpxeThYaEFnQ0VvZ2ZBWFV2MU1BS0I5OXg3aGVlaTdqd2xJUHlPRms2WTM5X3E3UktGbjhBMWVzb2o4cWFEeEUzaG5IS0hkeEdmLVNKWXlSLXFHZjBKamRXWkMzYUdmYzM1blVNNW5KZm9wMUhvQnl6UFpNSWtKZ2k0Mlkxa0pDZG1ILUdKMTNnSU1PR29j?oc=5",
-   "utc": "2026-10-24T16:28:31Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.4,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -141,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -152,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -163,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -174,7 +174,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "US Urgently Evacuates Embassy Staff Amidst Threat of New War in the Middle East",
+   "source": "Aurora News",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGdYZVRKOEF1UXN5TEFEZWZfTV9peUoteVFUSUlRU25Ocmt5Sl9CWnc3RDUwYnYzTkdSY3dySXJCT3FSTkNMbHFPQ3V5VzFnMVNTby1sUzNWZ0NrT1BmSmpzcU1qQjhuRTlkd3R1cTZxNTNMS2dGQzdUM3JiUmVJT0lNdVp0cHpvOE5QRGxxTVZ1UEo2VDcxOEJTVkZqMXNxT3B1UUs5WUcwQ1k2LUx0U21rcU1xbTdlUVVRTA?oc=5",
+   "utc": "2026-10-24T09:44:08Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -185,26 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": false
-  },
-  {
-   "title": "Flight Cancellations Leave Kashmiri Umrah Pilgrims Stranded In Saudi Arabia, Seek Evacuation",
-   "source": "ETV Bharat",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEdaSmJZc0pxWUk4cFc1Q1lPTVFQcGd5TnlYdDZDck03bndkMV9HWEZta2NfcEs0dWk5WUt5bnR3WE1VVzMzUmUxSjV3Wmt1RW5BXy1qUzVVSEQtU2xBWjQ0eTk3bVM4c01oZnpIRmN4NjRSbzBpZmkyLXlFdk9rWnR3Y1JCaUdOSVlVMFk2RkF3RXJXYWJkSEFJNWx0NGU2WGZHT29FWG5aazFXbEVlRDFRSDVVVC1yQVdKc09rMU90T1XSAcgBQVVfeXFMTnNQc25KaDcxOGo3M3huVHpTbF95WUFva0gxSXhJZngtMVd0OTVEbndRbE5idmxvYTNSUE5KVUFGZ2p5Y2ZGaU51RW0xSzlWcDhoeUdramtSMWVkOWM0V1pOMmVTaFVzaVMybGZ3cHRwdmJWUHE5eERWMy1oMWx0TnBnU21YUUNKQTUxWjNhZlU1dmphYjNoMU1hN3NKZS1SOTh5NzZPdFY4aWxacW1oUFAzUkwwUm1xTlRtZmNpRjdaQUZwTnA5RHc?oc=5",
-   "utc": "2026-10-23T10:53:04Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.2,
-   "airspace": true
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 71,
+  "count": 4,
+  "global": 78,
   "baseline": 3.6,
-  "samples": 20,
+  "samples": 21,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -289,6 +289,10 @@
    [
     "2026-10-25T06:17:05Z",
     3
+   ],
+   [
+    "2026-10-25T11:47:55Z",
+    4
    ]
   ],
   "box": [

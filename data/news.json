@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:26:08Z",
+ "updated": "2026-10-26T14:21:23Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (20)"
+  "Nikkei Asia": "ok (22)"
  },
  "items": [
   {
-   "title": "Oil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount",
+   "title": "Anthropic IPO live updates: How the Amodei siblings, co-founders control voting shares",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+   "utc": "2026-10-26T14:21:06Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit suit before midterm",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+   "utc": "2026-10-26T14:19:30Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+   "utc": "2026-10-26T14:15:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+   "utc": "2026-10-26T14:09:38Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
+   "utc": "2026-10-26T14:08:19Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Meta announces $95 billion stock offering to fund AI expansion",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+   "utc": "2026-10-26T14:05:36Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Mortgage rates above 7% are the 'new normal'—here's why",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
+   "utc": "2026-10-26T14:00:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Super El Niño May Soften Winter Energy Squeeze",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Dip-but-Hold-Above-100-as-Middle-East-Supply-Threats-Mount.html",
-   "utc": "2026-10-26T06:03:45Z",
-   "tag": "OIL",
+   "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-May-Soften-Winter-Energy-Squeeze.html",
+   "utc": "2026-10-26T14:00:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
+   "title": "Belgian Deputy Prime Minister Open to BNP Paribas Stake Sale",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-26/belgian-deputy-prime-minister-open-to-bnp-paribas-stake-sale",
+   "utc": "2026-10-26T13:56:56Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "The excitement around Moderna’s cancer vaccine is cooling. Here’s why.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-excitement-around-modernas-cancer-vaccine-is-cooling-heres-why-994b205f?mod=mw_rss_topstories",
+   "utc": "2026-10-26T13:50:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "France's Macron promises 'strong measures' to assuage protests",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ29JWE91SUo5Q1BiMHhCZFdKRHhVWWV0YlV2STRCV3ZTNXZCcUVBTzMya0k1QmxyWkpVTWFWNzBscEZ2NXd3ZElSS3gzUEpNUER4ajlyX1d6cVpyMzJ3ZWpITEJJd0RSVU1hb181SkRfTnJWSWUtZEl6WVVxeXcxNnYteUdzanBEak5xOXA4aDkzdUV6bENXeEdSLUlOM3FPZklLdnV6TF9CR3c?oc=5",
+   "utc": "2026-10-26T13:49:44Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2dpbWdwQ2xUZGg1N0hoUDFuRGdEU0VHNDE0V3habEY0RExKSzduTXlQZkJ0RFR5UjU1eVdkX1FKZnlRMm50dzJUM0RvOEVfQ0JjeGJKZTZ5VjRmdXU4eG8tTGVIUkZCc0FWRVhOWEU2SWVOOUhOTHloWjJzekdWMnZZN2pQbGN5c3R0bzhyZEs2THdqUGJRYWhQTmpmdXlYZEVBdkQ0TVotSzJPSlFMUjlEV3lvbTBD?oc=5",
+   "utc": "2026-10-26T13:46:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Apple stock has become an anti-AI trade. Here’s why",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-   "utc": "2026-10-26T06:00:01Z",
+   "link": "https://www.cnbc.com/2026/10/26/apple-stock-has-become-an-anti-ai-trade-heres-why.html",
+   "utc": "2026-10-26T13:43:49Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+   "utc": "2026-10-26T13:43:14Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Gold gains on softer oil prices; Fed decision in focus",
+   "title": "Wall St opens higher as Anthropic's IPO filing sharpens AI focus",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
-   "utc": "2026-10-26T05:56:00Z",
-   "tag": "FED",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
+   "utc": "2026-10-26T13:38:09Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-   "utc": "2026-10-26T05:50:04Z",
+   "title": "Saudi Aramco Nears Signing of $10 Billion Loan With Global Banks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-26/saudi-aramco-nears-signing-of-10-billion-loan-with-global-banks",
+   "utc": "2026-10-26T13:37:03Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Retail investors are getting cold feet about stocks, just when the market needs them most",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/retail-investors-are-getting-cold-feet-about-stocks-just-when-the-market-needs-them-most-00a5c9c8?mod=mw_rss_topstories",
+   "utc": "2026-10-26T13:37:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Ken Griffin’s Citadel Securities to Expand India Office",
+   "title": "Mercuria Says Rival Fears Made Baltic Keep Disputed Tanker Rate",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-26/ken-griffin-s-citadel-securities-to-expand-india-office",
-   "utc": "2026-10-26T05:39:56Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-26/mercuria-says-rival-fears-made-baltic-keep-disputed-tanker-rate",
+   "utc": "2026-10-26T13:36:32Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
-   "utc": "2026-10-26T05:39:17Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "IGU's Ydreos on Energy Demand Driven by Data Centers",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-26/igu-s-ydreos-on-energy-demand-driven-by-data-centers-video",
-   "utc": "2026-10-26T05:38:48Z",
+   "title": "Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/verizon-lifts-annual-forecasts-signs-more-than-2-billion-ai-infrastructure-deal-with-aws.html",
+   "utc": "2026-10-26T13:35:19Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Moonshot's Latest AI Upgrade Takes on Top-Tier US Models",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-26/the-china-show-10-26-26-video",
-   "utc": "2026-10-26T05:37:40Z",
-   "tag": "AI",
+   "title": "The stock market’s biggest test in weeks is here",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
+   "utc": "2026-10-26T13:33:00Z",
+   "tag": "STOCKS",
    "breaking": true
-  },
-  {
-   "title": "JPMorgan's Travis Spence on China's Active ETF Market",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-26/jpmorgan-s-travis-spence-on-china-s-active-etf-market-video",
-   "utc": "2026-10-26T05:36:00Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-   "utc": "2026-10-26T05:22:30Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Markets Brace After Lula's Surprise Comeback Win In Brazil Elections",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-26/insight-with-haslinda-amin-10-6-2026-video",
-   "utc": "2026-10-26T05:20:15Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-   "utc": "2026-10-26T05:18:01Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Former Japan Prime Minister Yasuo Fukuda dies at 90",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEJoc19IRHFhTGt4d3kzQkZxR2cwMWJiLTVRc2N2UUJLUC1HcnhtejRlTXNkOTRmWlRUUnZJeFd2elZJaDhmS0NoaWRPOGN3NWxRR2wzczdTWWNGVmZWVlJrdXUwQWNjbEF1Mkg0ZFZXOVNMMXhicG1xVG9IT2FRcEVvY3pXQ1Y0X0R1LUhxRV8zN3lZa1lzODhnZ0k?oc=5",
-   "utc": "2026-10-26T05:16:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-   "utc": "2026-10-26T05:15:20Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "(USD:UGX) Shilling Freefall Has Uganda Tapping Meager Reserve War-Chest",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-26/-usd-ugx-shilling-freefall-has-uganda-tapping-meager-reserve-war-chest",
-   "utc": "2026-10-26T05:15:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Blackstone-Backed ASK Hires Ex-Motilal Executive as Mutual Fund Chief",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-26/blackstone-backed-ask-hires-ex-motilal-executive-as-mutual-fund-chief",
-   "utc": "2026-10-26T05:13:39Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Why is Japan tightening its immigration rules?",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFvMDAxNURVcmVscUUxS0haSGxsdXZvUHZwRDd3ODdkOXN5VGYwdnk2cnJrdmI5MWhEQkxuak05akNrUUZDYWZZNzFoTVNlRUMyS09RaS1PS0IxN3dyTWNoMDhSSHl2SFdoY1JvTWVjdUl5d1dKUmt5NXk0T3hjOQ?oc=5",
-   "utc": "2026-10-26T05:08:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan's traditional shogi game set for first female in main ranks",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3BEQ2k1NGhkcTI2WVptTm5YalNVMEdIeDhXRi1MaE80QllxMWFwQ29PZ0JDcWVLcnZrNEUyb0FHU0oza2FwbnE0N3hieFBRVjY2a1ZFa1pWVGpRanhXMzJFaW5pajlDY1R4OXRMWjc3M0I4LWctSXpOV0VoaEw4ZVpfRUNYSmNiOWlKZm5hVXhrLWVHclZfdktQS2V4cGczZkpxdXZ1aFZmeW8?oc=5",
-   "utc": "2026-10-26T05:02:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
-   "utc": "2026-10-26T04:56:16Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "India to evacuate thousands as Cyclone Arnab nears eastern coast",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVJXZlFWQnFMQ2dMTlpOeUtTcHUxZGR0UWRRR0Nuc0pHaHhrR05QYk01eUlCUUdwZzBWbEdmclA2RzI1RkZkQ1F2Qkc1N25Fd2YtLWNjMEVuaEN0cF9WNWRFaHE5SHpUZUROOWZNQTZCUkNiU3l5bTZpU1pxR285dVk0ZF9HTHZ4WjJVVlhvU0xCVlVqYS04WjhjdzNCU1FNMkhId0xRLV9GbUZFTHp3Mm1kdTBZUQ?oc=5",
-   "utc": "2026-10-26T04:55:00Z",
-   "tag": "MARKETS",
-   "breaking": false
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T06:26:24Z",
- "level": 45,
+ "updated": "2026-10-26T14:22:21Z",
+ "level": 44,
  "band": "Watch",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   45,
+   41,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   4,
-   1,
+   2,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,47 +90,69 @@
  ],
  "headlines": [
   {
-   "title": "FPL Gameweek 8: Sunday’s goals, assists, bonus + DefCon points",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDBGMVpjWEdBZDFEYnlDYjdLV1pGZzRBdWszRDBnVUVNbXJPemxzVEs2QjJXRExuNmdJM3VrczZpYmxoRkVfRVZXVDVxcjdVdGkzb2NEdFVGdGNqcTZYLWxwS1Q0MFJWczRHcFlzd3N3WVJTZ2dwbUpDbjV3QnZZb0FRSXdQbjNvemFNSkdtZ1NBS3c3eWdJNW10cnpNNDJ6d0Rad0NKZEozdnM?oc=5",
-   "utc": "2026-10-26T04:57:49Z",
+   "title": "Embassy evacuation ordered as US forces plan massive new attack",
+   "source": "Raw Story",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CMTg4RDA1aF9QamduNmIxdUR5NHE3NGRHQ1NzM1p2eWVCQWFiajBlbW9Cd0lTUDNybFhFbmZ3Qk04aUNndXNCU0ZLX1VKeTVEWDNIU1hUZHdpLWV3QlgzNdIBc0FVX3lxTE9ZejJZUXMxaTAxbXlrRlNvb01vTlFyX3J5RS1IdzhXV0JXeEVQc25FT1hBRVE4OHBXQXlBb3IzbENtc0ZUZmpEMmJreDNHUzJyUUxicE1aUEF1TjRGckRnbXR1cGhYUDZmdWF6S25paVkxQ28?oc=5",
+   "utc": "2026-10-26T13:44:08Z",
    "tags": [
-    "NUKE"
+    "EVAC"
    ],
-   "score": 4.9,
+   "score": 6.0,
    "airspace": false
   },
   {
-   "title": "AFP tracks Chinese carrier strike group’s transit near Zamboanga’s coast",
-   "source": "Manila Bulletin",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXNOeHFyY2IzdE0xdFhOSzFmYUVJNlowMjBjRmo4UTJkaVFzbncwWldGd0lxaGx2OGoxdlZYdzFfRDJ1U2g1cEZSWmxwWEVqbHkxODY3bnFpeTRSY21SQkhVNWoyZFJ2TkpJVnFSbDhMQnFwOUxZaXM4djhQeUpMdWtlaFdKT1NMczdfZ1MyQjFabU5FMENPSlM0S0VZSzdz?oc=5",
-   "utc": "2026-10-26T03:31:34Z",
+   "title": "Morocco updates lists of citizens stranded in Gaza as new evacuation becomes possible",
+   "source": "HESPRESS English - Morocco News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzVLTlRySmM0aTlLMnpPeWNUalNibEhXUUF6ZjFJWFdmcjh3ek1GREc3S1MzVzUxMDViVXBOZVhXd0U5UU1zWTBsSWdPVzdUSU4xQ0ptZUdLbHA0VEVFU1R3YnN0Y0pYcU5aLXdmazZHSS1MZ1lrNzRoN1JZVEo5WjFJd18xcjZYUUh6Z3A3Nzk0d1phMGJnTnd4bTVGR3QtMEt4UHpnc3ByUkl3LXlfV3pfUGlhNU5NalZmQ0pR?oc=5",
+   "utc": "2026-10-26T11:55:50Z",
    "tags": [
-    "MIL"
+    "EVAC"
    ],
-   "score": 4.9,
+   "score": 5.9,
    "airspace": false
   },
   {
-   "title": "Saudi flight disruption: Over 7,800 flights cancelled no-fly since October 8",
-   "source": "Gulf News",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOElDRU42eTltNnROb1hjb1RpQlZJWjlsenZVdGpZc3IxYXJuXzZfd2RVd3l1Z0dpMU1KbUZISVdybGgxcmUwWnZ0SGJ4SzlfUDV2QnpqVEEtQkJ4Y1o0dDhyVjk4cWM1cVpPdTlNZ0ZmQ1ZIanJudmpKVUxBLW5rQnZVQWluLVp3MVozNzg1ZlNkUWJwajdvM29ZaVFSMUdrem51OVJfTGxCSERyc3UzZ3lYZXJjSVNpcXRwTFNaTnFuWHPSAdYBQVVfeXFMUEljU0pQaDhDSjhub0dsOWduM1daWGxFVkd2aFVFOWVrcHd3NG5fcFpGQUItOEtscTIwMUpDb3VQUzlhODFCWVZBakxNdnBEbzlETWFaVWVwdDlzOVdSRGdJb21EV3B0dnFtQjE3d0pzWElTR3Z2a3NiNDFma3lBRXRxV1ZxaV9FOHpqNU9zOUx0TGd4U2NxRG85MEpEWHFiRm45aEQ1SWlKQkRaX0pod3ptSHgzdkt3Vi00amxoaGN5elBIS0p1YkQ2RTY2Wmltd25qeWNBUQ?oc=5",
-   "utc": "2026-10-26T02:00:00Z",
+   "title": "Ebola: Nigeria to evacuate Ugandan patient from Abuja",
+   "source": "The Guardian Nigeria News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPay1sU1JVRno4WWF4WDE4c243b2huMjFkclgtTThHd3lGZTA0Q1dKb2w4aUFVam9fYm5NTkFWRVlDYWlOMUVEd3Boa2gyOEVrWFI1SXlrb2x5RmtKNFZ0UE9OWXFjaDFXM3d2NmFpVk5jMWV0X09pRFY0Mmp4RFJHYjRSWVhDaTBFN2FDdU9icw?oc=5",
+   "utc": "2026-10-26T09:15:00Z",
    "tags": [
-    "AIRSPACE"
+    "EVAC"
    ],
-   "score": 4.8,
-   "airspace": true
+   "score": 5.8,
+   "airspace": false
   },
   {
-   "title": "FPL notes: McBurnie goal, Sangare DefCon + time to sell Schade?",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEJiQkNUNkFkTEQ4SDRub3RqY0RxWkdhRDlKSXc1MUVBOGZ2MlZZZWxFMUltLWJQM0ZlNEdnRG1ENl82aFd0ZVZNUG9NSGgtZWxQbnBPQ3pCS3dkNDZNZTc4MXlpa0xuTEtsOGRLb0Y2aTBacUtianlkLTM4M3ZyTGZYLXpxNmJiUVNkLWR3UDJkSi1qMjU2alVjOHNybVFISXRIY1RGZWxlRWdvanc?oc=5",
-   "utc": "2026-10-26T00:07:31Z",
+   "title": "Dutch foreign minister thanks Azerbaijan for evacuation support",
+   "source": "Operativ Məlumat Mərkəzi",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVJtcUNnM0hhTkZ6WmxocVF6bXc5LXl1N2VYaVJBakQ3QXB3V0l1cUU5UkVqZWRMVXlUQ3VPNFBJZ3B6dVJtbFlEMFZKMVcyVF9UbElQMGhhQWZLQmhCUE03RXpvSXY4ZDk0eG1nSHNOLS02QVJhU3dMd085NFo2emJsMFBBRkNqbWs4bWp5c2htc3BfRXNtZ1J4MEluOTIw?oc=5",
+   "utc": "2026-10-26T08:37:00Z",
    "tags": [
-    "NUKE"
+    "EVAC"
    ],
-   "score": 4.7,
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
+   "source": "Addis Standard",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
+   "utc": "2026-10-26T07:12:33Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "Sri Lanka facilitates humanitarian assistance & evacuation of 40 Iranian seafarers from stranded vessels",
+   "source": "Ada Derana",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NUjhILTRBdENKUDNiakpZc1JIcEFVSDhPNF9UVUJiQWNaSGFBU2xtNUxiZ1E1UWNiUWdrNElycUFScy16clRB?oc=5",
+   "utc": "2026-10-26T01:10:20Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -141,7 +163,29 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 6.7,
+   "score": 6.4,
+   "airspace": false
+  },
+  {
+   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2tKSXpRQ2RURVJRWkNUcVFBMU9sNGRYc3JqUWFLMWdOSnRBS0R6Nm1GYkFBaGpDVkg5RDg3NFI2NXRfZmlEaFBMODBDQkxwNmw3NG5iY0Q4NjFsR1pZMHJvLUlybnVodV85UmN1Nm1oV01qS1hkdXFxb3BZZGFWYTFLT25vYk9FeWZqUXVjQ2NjZFdQOVBTbXFFMzQ1QQ?oc=5",
+   "utc": "2026-10-25T22:32:11Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.3,
+   "airspace": false
+  },
+  {
+   "title": "Owaisi Demands Air Evacuation for 4000 Indian Pilgrims in Saudi Arabia",
+   "source": "Asianet Newsable",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTVPakw0TlRDR2tnYWNxVlFLbjVwbXdya0k0bUlfYWltb3Q1YkJYTE1TaFdMX0dIanAwOGtwaFlIWUpPZUFYTnFjSDVMX3dsQks5OEJQdVNDVHRmS0lROWxxcVZSMGdwZ1NXaGYxcTI2NmZfWF9kWFpQRkxpSHJRT2RtVnBSUzhhYkx6VmxaWDlsLXp6Z2Q0ckhIZDRLQVZlX2d5TkcxU1B3b0ZNSXd6SEgwSlpDcnhJcXlLcU02ZUtHTllmUm43SklFM0lxUdIBzgFBVV95cUxOdTVPakw0TlRDR2tnYWNxVlFLbjVwbXdya0k0bUlfYWltb3Q1YkJYTE1TaFdMX0dIanAwOGtwaFlIWUpPZUFYTnFjSDVMX3dsQks5OEJQdVNDVHRmS0lROWxxcVZSMGdwZ1NXaGYxcTI2NmZfWF9kWFpQRkxpSHJRT2RtVnBSUzhhYkx6VmxaWDlsLXp6Z2Q0ckhIZDRLQVZlX2d5TkcxU1B3b0ZNSXd6SEgwSlpDcnhJcXlLcU02ZUtHTllmUm43SklFM0lxUQ?oc=5",
+   "utc": "2026-10-25T20:40:12Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -152,59 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
-   "airspace": false
-  },
-  {
-   "title": "Sri Lanka facilitates humanitarian assistance & evacuation of 40 Iranian seafarers from stranded vessels",
-   "source": "Ada Derana",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NUjhILTRBdENKUDNiakpZc1JIcEFVSDhPNF9UVUJiQWNaSGFBU2xtNUxiZ1E1UWNiUWdrNElycUFScy16clRB?oc=5",
-   "utc": "2026-10-25T13:30:27Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.3,
-   "airspace": false
-  },
-  {
-   "title": "Medical emergency: Sri Lanka evacuates 40 Iranian sailors off Galle",
-   "source": "Newswire",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVBOUG55dXZGY294OFotbXQwSVNTUkJSMnFaN0RmY3ZLZmNYcjNERG1LcHpMcGRHVGxoX0stYmF1Y2pya2hXU1ppZHpGcXptcTE5dE1QQXdmVW5WcHE5V0M3SU0xLVhJQkNiVXFldlBwYVYtbG1qVnFyaVZrSm9oM0hnSEJKT0dBNVVoX2VXSTF1MVFOSDBIcmh4WEdSeHFlS2dTVg?oc=5",
-   "utc": "2026-10-25T12:25:59Z",
-   "tags": [
-    "EVAC"
-   ],
    "score": 5.2,
-   "airspace": false
-  },
-  {
-   "title": "US orders Urgent Embassy Staff Evacuation from Saudi Arabia amid Iran threats",
-   "source": "Daily Pakistan",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFJ1UUtDOWRhT0ZKRHpTWGtRYlozNWVOS3ZfdUdKV1pLRVhiNW1OWEkyUWZuSHFGUjZuS1JLbWptMTBQalVwOVB2RXlzZnJSY2RtdzFqQzJjOVVtajZGQVZSa29ndUI5N25GaGlJajVCUGN0aGpucXhJYldJVXhFWTdobXhDYXJoR2E1MmRhOWlwbVhQWkVJeS1BaUVmbVl2enRVT0dPeVN2Q3BwVEpLc2lfa1pTb2pUMzh6N2JB?oc=5",
-   "utc": "2026-10-25T05:28:36Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.0,
-   "airspace": false
-  },
-  {
-   "title": "Americans evacuate Middle East after US intelligence chief warns Iranian death plot is in",
-   "source": "Daily Express US",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWplSGk3NnUzUTR5Z0VSQzViNmpncUJrUkJzdDlTRnRBNUZ4ZEpfNHlUUkp4Z2hqMThhU2Vzd0hvcGxCU2JJRVBlS1JaNy16S1lfc0RTOGsteXRMNXFRTThpWFR4V2hyaUt1NFAxVDZvZGlNTmR4bk5WSVZwVHoyVGZIaTNaU0pLalRXTFJ0YmFtTlFtT1RObENkZWVmZlMxREFvTTJtcHpSdlBTbWJN0gGvAUFVX3lxTE9xamVIaTc2dTNRNHlnRVJDNWI2amdxQmtSQnN0OVNGdEE1RnhkSl80eVRSSnhnaGoxOGFTZXN3SG9wbEJTYklFUGVLUlo3LXpLWV9zRFM4ay15dEw1cVFNOGlYVHhXaHJpS3U0UDFUNm9kaU1OZHhuTlZJVnBUejJUZkhpM1pTSktqVFdMUnRiYW1OUW1PVE5sQ2RlZWZmUzFEQW9NMm1welJ2UFNtYk0?oc=5",
-   "utc": "2026-10-25T02:15:34Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.8,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 4,
-  "global": 130,
+  "count": 2,
+  "global": 500,
   "baseline": 3.6,
-  "samples": 27,
+  "samples": 28,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -317,6 +317,10 @@
    [
     "2026-10-26T06:26:24Z",
     4
+   ],
+   [
+    "2026-10-26T14:22:21Z",
+    2
    ]
   ],
   "box": [

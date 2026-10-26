@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T00:06:22Z",
- "level": 42,
- "band": "Watch",
+ "updated": "2026-10-26T01:16:35Z",
+ "level": 51,
+ "band": "Alert",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   42,
+   43,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   4,
-   1,
+   7,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "FPL notes: McBurnie goal, Sangare DefCon + time to sell Schade?",
+   "source": "www.fantasyfootballscout.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnBQNzBKMVhXSzB1RXQ5V1BPNTV1OFVhQnhmQ0l6VFppYnNIZHo4dXZacHFhX3RVQmZmQnBnREwxcEVKNVBURC1NLTg0VmtaSVN4ZVJ4VkhOYXdPRHhWZjJXaVF6WHJWZ05OM25LeVZpaU9yQmRUVXlMTHAzaVZ1OERLSklqNi1xZTUyVUlvaFk1MUFvMGc2T0MyVGNhdnRDSkRTdV9TRnkxM05R?oc=5",
+   "utc": "2026-10-26T00:07:55Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
    "title": "🇮🇷🇺🇸 Iran doesn't need to close the Strait of Hormuz to break global shipping. Brandon Weichert spoke with maritime analyst Sal Mercogliano, who estimates that 5% to 15% of ships passing through Hormuz are now being attacked. Yet tankers keep sailing.",
    "source": "X",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaWTEtdGxzbTRyNEpuWnAyQ1pQekUwLXljdzJWYjI0bk01THU0Y1NycGpvemZLQk50MFhuZkZmd1NwX2hVSDl3TGdCQTVKWTQ3M3FBazBJWGJWNWdzYUVXeTlhaVYxWUFFNGhpWg?oc=5",
@@ -97,7 +108,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 7.0,
+   "score": 6.9,
+   "airspace": false
+  },
+  {
+   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
+   "utc": "2026-10-25T22:52:52Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -108,27 +130,16 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
    "title": "FPL notes: Tavernier goal, Silva DefCon + why Bruno wasn’t used",
    "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2RkNHJnVDg1RFQxRUI0N3FrZGRkamhUbXJmOEpsMjZJNUtpWUVwTWZ3cE53NlFQUjJRVjhBeGJCeEZ4clcwUFBnTHRSNlZ1ZldOVmRpQjFVWUdEaWFqRm4yd1NnWXVQdm04QjBQRDdLYVpleFJRcGFfUlhfS3M1ekVPZ3JsdHR1WlB0T09PMndiOTJnMi03a1ZXMDlKazEyUDd1MFY2NlJaS2tvZVdxNkJ2aw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1J1QVdoVWdac2xEX2w0Qm1KQkszOUcwUUc2NGM4MkpRUWV4UktTWThQRnRLWnNUdXNIYU1Ud2QwanBtWVFaVlIydUtObW0wUTl0M2VkVjNUNkZXa2lhRGVPaWZORVlZNkFQUVQwdm5mNXctNGd5NlNOSXlHSHNrSXdJMWlpUjhVdl96SURzQTJKRjk3RnNiMVlwajN3aWNGaXN6U0wwdC12X082aV9LbHFkcTI?oc=5",
    "utc": "2026-10-25T21:03:16Z",
    "tags": [
     "NUKE"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Shafaq News..Hormuz shutdown could slash Iraq's oil revenues 80%",
-   "source": "شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTdRai01RDRPQUt5a2I1cU5mOS1xcmE4Tjk3bHdFcFlpNmRQdnNVX3VQNi1jWGNwNlRoZXVCa291d3JLZ29rN2NWVGxtYUNNMTZxVEtrdlJSVlBXbmFkUVRLZDU4Q1AtSUs1d3VPNEotcHlDUnZuMXVvanlWVE1GZDdjTWh2NUZnZVp3RA?oc=5",
-   "utc": "2026-10-25T19:04:08Z",
-   "tags": [
-    "HORMUZ"
    ],
    "score": 4.8,
    "airspace": false
@@ -141,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -152,18 +163,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
    "title": "Sri Lanka facilitates humanitarian assistance & evacuation of 40 Iranian seafarers from stranded vessels",
    "source": "Ada Derana",
    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NUjhILTRBdENKUDNiakpZc1JIcEFVSDhPNF9UVUJiQWNaSGFBU2xtNUxiZ1E1UWNiUWdrNElycUFScy16clRB?oc=5",
-   "utc": "2026-10-25T13:18:28Z",
+   "utc": "2026-10-25T13:30:27Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -185,26 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "U.S. Begins Evacuating Some Diplomats and Their Families From Middle Eastern Countries",
-   "source": "SFG Media",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3otVEdNWHhjdzJYVFZPdkJyeWNPc0JMd3E1a2RCZ2V3ZFZrbklxWExMc1QtRkNUYUkyby1Uem1NRW9LMDlmTVJtMjV3RTJ3VnJHSXBaYWJuMXlKcmlRWjJHRTVUS19PMURObklXVU04RlF5TGZkTGkzcndOemVfZU9nMmI?oc=5",
-   "utc": "2026-10-24T17:51:22Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.7,
+   "score": 5.0,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 4,
-  "global": 120,
+  "count": 7,
+  "global": 118,
   "baseline": 3.5,
-  "samples": 25,
+  "samples": 26,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -309,6 +309,10 @@
    [
     "2026-10-26T00:06:22Z",
     4
+   ],
+   [
+    "2026-10-26T01:16:35Z",
+    7
    ]
   ],
   "box": [

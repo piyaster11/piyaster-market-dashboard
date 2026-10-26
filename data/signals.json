@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-25T22:37:25Z",
- "level": 81,
- "band": "Critical",
+ "updated": "2026-10-26T00:06:22Z",
+ "level": 42,
+ "band": "Watch",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
-   5,
-   40,
+   0,
+   0,
    40,
    "20 per ordered/authorized departure, 12 per other Level 4"
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   46,
+   42,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   0,
+   4,
+   1,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,10 +90,21 @@
  ],
  "headlines": [
   {
-   "title": "FPL notes: Tavernier goal, Silva DefCon + why Bruno wasn’t used",
+   "title": "🇮🇷🇺🇸 Iran doesn't need to close the Strait of Hormuz to break global shipping. Brandon Weichert spoke with maritime analyst Sal Mercogliano, who estimates that 5% to 15% of ships passing through Hormuz are now being attacked. Yet tankers keep sailing.",
+   "source": "X",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaWTEtdGxzbTRyNEpuWnAyQ1pQekUwLXljdzJWYjI0bk01THU0Y1NycGpvemZLQk50MFhuZkZmd1NwX2hVSDl3TGdCQTVKWTQ3M3FBazBJWGJWNWdzYUVXeTlhaVYxWUFFNGhpWg?oc=5",
+   "utc": "2026-10-25T22:58:14Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 7.0,
+   "airspace": false
+  },
+  {
+   "title": "FPL Gameweek 8: Sunday’s goals, assists, bonus + DefCon points",
    "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2RkNHJnVDg1RFQxRUI0N3FrZGRkamhUbXJmOEpsMjZJNUtpWUVwTWZ3cE53NlFQUjJRVjhBeGJCeEZ4clcwUFBnTHRSNlZ1ZldOVmRpQjFVWUdEaWFqRm4yd1NnWXVQdm04QjBQRDdLYVpleFJRcGFfUlhfS3M1ekVPZ3JsdHR1WlB0T09PMndiOTJnMi03a1ZXMDlKazEyUDd1MFY2NlJaS2tvZVdxNkJ2aw?oc=5",
-   "utc": "2026-10-25T21:03:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDBGMVpjWEdBZDFEYnlDYjdLV1pGZzRBdWszRDBnVUVNbXJPemxzVEs2QjJXRExuNmdJM3VrczZpYmxoRkVfRVZXVDVxcjdVdGkzb2NEdFVGdGNqcTZYLWxwS1Q0MFJWczRHcFlzd3N3WVJTZ2dwbUpDbjV3QnZZb0FRSXdQbjNvemFNSkdtZ1NBS3c3eWdJNW10cnpNNDJ6d0Rad0NKZEozdnM?oc=5",
+   "utc": "2026-10-25T21:23:29Z",
    "tags": [
     "NUKE"
    ],
@@ -101,21 +112,10 @@
    "airspace": false
   },
   {
-   "title": "Owaisi Demands Air Evacuation for 4000 Indian Pilgrims in Saudi Arabia",
-   "source": "Asianet Newsable",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0h0S3hPQlJxR1FRbHFSLWFLSDNUNFhkSTN2MzRlUUFFdkZ4UWxRVXpjelNOZEZydUJickNHQndpZlUteFFIcVV5TDFmS1V1RUVRTkItR24yaDJadzM1bDlaNEdXV1RETVlKWXpDV0RjQS01bGpGQlZUdUltNWZXNjdWalI0WThkX0RaZS1Wa2E2ZmU3Y1NrRGZVN1Bad1NEWmJKT3lZcHBxUjlhZ1hZRGpOVjF3OHdUdGt5YVNtQTVrQVlyWExSVNIBzgFBVV95cUxOdTVPakw0TlRDR2tnYWNxVlFLbjVwbXdya0k0bUlfYWltb3Q1YkJYTE1TaFdMX0dIanAwOGtwaFlIWUpPZUFYTnFjSDVMX3dsQks5OEJQdVNDVHRmS0lROWxxcVZSMGdwZ1NXaGYxcTI2NmZfWF9kWFpQRkxpSHJRT2RtVnBSUzhhYkx6VmxaWDlsLXp6Z2Q0ckhIZDRLQVZlX2d5TkcxU1B3b0ZNSXd6SEgwSlpDcnhJcXlLcU02ZUtHTllmUm43SklFM0lxUQ?oc=5",
-   "utc": "2026-10-25T20:40:12Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.9,
-   "airspace": false
-  },
-  {
-   "title": "FPL Gameweek 8: Sunday’s goals, assists, bonus + DefCon points",
+   "title": "FPL notes: Tavernier goal, Silva DefCon + why Bruno wasn’t used",
    "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYnpSd1VOaHdZd2UzS3IxdGxSZTZkTkNzQ19HMG9DSmlzeDgta01yU0xvMGdSTUlhZ005YmR0NjVOOXJtUkxHOGxBeFlpbmJpZ3dzSEZVVkFCMUp6MDU0WGJWZ0g0cGIzaTdaYktQRlNCTG9jMGFHVHBuVVR0MUlpYVRPZzVmOXl6dzAtektad0Z5ckYxM2JUNWlOZEhsNU44VnRKcDZUVEFsQQ?oc=5",
-   "utc": "2026-10-25T19:18:42Z",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2RkNHJnVDg1RFQxRUI0N3FrZGRkamhUbXJmOEpsMjZJNUtpWUVwTWZ3cE53NlFQUjJRVjhBeGJCeEZ4clcwUFBnTHRSNlZ1ZldOVmRpQjFVWUdEaWFqRm4yd1NnWXVQdm04QjBQRDdLYVpleFJRcGFfUlhfS3M1ekVPZ3JsdHR1WlB0T09PMndiOTJnMi03a1ZXMDlKazEyUDd1MFY2NlJaS2tvZVdxNkJ2aw?oc=5",
+   "utc": "2026-10-25T21:03:16Z",
    "tags": [
     "NUKE"
    ],
@@ -130,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -174,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -185,26 +185,26 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 5.1,
    "airspace": false
   },
   {
-   "title": "Report: American Evacuation in the Middle East Due to Fear of Iranian Attacks",
-   "source": "وكالة صدى نيوز",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrQlpBcHY1OVpPVFNCdkxNU2cyNjVPVUhDV3QxdnV0dWY1aFRWRktCejlNRTUzaG5ORm40UVFlbENzcDRuSFZPeWhUVGZKMURiNHRyZWxB?oc=5",
-   "utc": "2026-10-24T17:56:24Z",
+   "title": "U.S. Begins Evacuating Some Diplomats and Their Families From Middle Eastern Countries",
+   "source": "SFG Media",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3otVEdNWHhjdzJYVFZPdkJyeWNPc0JMd3E1a2RCZ2V3ZFZrbklxWExMc1QtRkNUYUkyby1Uem1NRW9LMDlmTVJtMjV3RTJ3VnJHSXBaYWJuMXlKcmlRWjJHRTVUS19PMURObklXVU04RlF5TGZkTGkzcndOemVfZU9nMmI?oc=5",
+   "utc": "2026-10-24T17:51:22Z",
    "tags": [
     "EVAC"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 103,
+  "count": 4,
+  "global": 120,
   "baseline": 3.5,
-  "samples": 24,
+  "samples": 25,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -305,6 +305,10 @@
    [
     "2026-10-25T22:37:25Z",
     3
+   ],
+   [
+    "2026-10-26T00:06:22Z",
+    4
    ]
   ],
   "box": [

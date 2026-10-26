@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:16:17Z",
+ "updated": "2026-10-26T06:26:08Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (16)"
+  "Nikkei Asia": "ok (20)"
  },
  "items": [
   {
-   "title": "Brazil's Lula wins presidential election in runoff vote",
+   "title": "Oil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Dip-but-Hold-Above-100-as-Middle-East-Supply-Threats-Mount.html",
+   "utc": "2026-10-26T06:03:45Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-   "utc": "2026-10-26T01:10:46Z",
-   "tag": "MARKETS",
+   "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
+   "utc": "2026-10-26T06:00:01Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Transcript - Reuters",
+   "title": "Gold gains on softer oil prices; Fed decision in focus",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQThreThHUjh1NXBySlVTTlV1RXdkeDFVUkdPR2dYaE04a1I4RlVEVEhJOXFZWVNTc1VmbWhpeFZlb3pmYS1CXzFJQV9qX2w4MFh2ZEVoRFJtdHNRYWRLSjMzOHplZWp2b0xsaFVOODJuRW5XU2htc2ZZTnd2aDM3Z19GMm1Sc2FRcHpz?oc=5",
-   "utc": "2026-10-26T01:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "France Avoids Rerun of Looting With Tough Security",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-26/france-avoids-rerun-of-looting-with-tough-security-video",
-   "utc": "2026-10-26T00:55:28Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+   "utc": "2026-10-26T05:56:00Z",
+   "tag": "FED",
    "breaking": true
   },
   {
    "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-   "utc": "2026-10-26T00:49:23Z",
+   "utc": "2026-10-26T05:50:04Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-   "utc": "2026-10-26T00:37:51Z",
+   "title": "Ken Griffin’s Citadel Securities to Expand India Office",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-26/ken-griffin-s-citadel-securities-to-expand-india-office",
+   "utc": "2026-10-26T05:39:56Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+   "utc": "2026-10-26T05:39:17Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "IGU's Ydreos on Energy Demand Driven by Data Centers",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-26/igu-s-ydreos-on-energy-demand-driven-by-data-centers-video",
+   "utc": "2026-10-26T05:38:48Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Western Sydney Airport Opens With Uncertain Prospects",
+   "title": "Moonshot's Latest AI Upgrade Takes on Top-Tier US Models",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-26/western-sydney-airport-opens-with-uncertain-prospects-video",
-   "utc": "2026-10-26T00:33:38Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
-   "utc": "2026-10-26T00:28:36Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Brazil's Lula reelected president, beats former president's son",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXBIYVVnTUU4U0lEcU11blZFdmlsMHRQQXQyamF6R2RnSl9Mcl9Ua3VBUnZkY0JuOHlJcTRkVndZdmxobFdrV29ac01pai1GQmxXMTY4NDJvVUY0UDBqbTRYWmxvc21WZEljM2ZHMzR0UUpiY2cyM0lScDAzc29xTEFtWUVpYnRERW1YQkNVT2VkTGNBSjFUdTMwVQ?oc=5",
-   "utc": "2026-10-26T00:24:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Slow AI Buildout Could Be Inflationary: Natixis' Herrero",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-26/slow-ai-buildout-could-be-inflationary-natixis-herrero-video",
-   "utc": "2026-10-26T00:17:35Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-26/the-china-show-10-26-26-video",
+   "utc": "2026-10-26T05:37:40Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Ingenia Soars on Fresh $1.6 Billion Takeover Bid From AVID",
+   "title": "JPMorgan's Travis Spence on China's Active ETF Market",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-26/ingenia-soars-on-fresh-1-6-billion-takeover-bid-from-avid",
-   "utc": "2026-10-26T00:14:27Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Brazil's Lula reelected president in runoff vote",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejBZNU9pVW5mLWs3YVoyWE1CZm9YdVhFUld3WHZSaWJrWlJ1SVFJNDFnRG5FRVNnVEVkOGZVMmY2RHdlcU45bGluZFpTZ3FlcXdqZGtmYW5oajNpTnhpVWZlN2tIWnRBdWFBcW9CbjdEREFnLVQ3YnV5WDgxdE0xNlR2SExJWWkyZzIxSWtCa1ZwRmdFMHhlYUp5Yw?oc=5",
-   "utc": "2026-10-26T00:13:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/videos/2026-10-26/jpmorgan-s-travis-spence-on-china-s-active-etf-market-video",
+   "utc": "2026-10-26T05:36:00Z",
+   "tag": "CHINA",
+   "breaking": true
   },
   {
    "title": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-   "utc": "2026-10-26T00:03:20Z",
+   "utc": "2026-10-26T05:22:30Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Mexico’s Electoral Chief Is Resigning After Graft Probe Opened",
+   "title": "Markets Brace After Lula's Surprise Comeback Win In Brazil Elections",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-26/mexico-s-electoral-chief-is-resigning-after-graft-probe-opened",
-   "utc": "2026-10-26T00:03:14Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-26/insight-with-haslinda-amin-10-6-2026-video",
+   "utc": "2026-10-26T05:20:15Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Goldman Sachs slashes Kospi target to 9,000 but still sees over 60% upside",
+   "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/goldman-slashes-kospi-target-korea-stocks.html",
-   "utc": "2026-10-26T00:00:03Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready?",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/The-Pentagons-Rare-Earth-Deadline-Is-Almost-Here-Is-Anyone-Ready.html",
-   "utc": "2026-10-26T00:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "In pictures: Protests over inequality, rising living costs turn violent across France",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-   "utc": "2026-10-25T23:55:22Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Reactions to election victory of Serbia's Student List",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFFtSkZDaktTdnFfWEY2d3JHRlVJbU1GT2cyN054TmtlWXd0VmNha1B6NHp4M2l4Wjd5T2hTaVFuNGxJZllacHFKbkR1THpqYktzYUZkQ3VENDNCdjRjSHVoUUZrOHBkbUM3dVc1NGZaR2ZJTWtlU0ZjREV0QkJ3cENMc2ZONXp5Qng1NzRsdzEwMlk?oc=5",
-   "utc": "2026-10-25T23:51:58Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japanese builder Takenaka to offer 'meister' credential for foreign staff",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTh6WWU0b2lkSWdIbFdXYUozaDFJeUhzMXB5VFlFR2FiSzVvY3FMaDJ5cU5WbDN6U1cyYTZiZ2RfNms4TkE5eW1LZWlpYkdnem15Snl1Q1BDd0g4UTJDSlhDZHJvZWF3cHlmcmx0YTJNRnh5dFNUR2F6cEpPRWtXaFVOZ0xkTFFhakVZNVlFQmdLYjFUc2t6M3U4Y0Z5WFlVRXJWLWhiRm8zQldFYnhSNW1jZGxJU3llaFdjdFIwTTg?oc=5",
-   "utc": "2026-10-25T23:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Oil slips from near six-months highs despite supply concerns",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
-   "utc": "2026-10-25T23:24:00Z",
+   "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+   "utc": "2026-10-26T05:18:01Z",
    "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "Gold Steadies After Weekly Drop as Focus Shifts to Fed Meeting",
+   "title": "Former Japan Prime Minister Yasuo Fukuda dies at 90",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEJoc19IRHFhTGt4d3kzQkZxR2cwMWJiLTVRc2N2UUJLUC1HcnhtejRlTXNkOTRmWlRUUnZJeFd2elZJaDhmS0NoaWRPOGN3NWxRR2wzczdTWWNGVmZWVlJrdXUwQWNjbEF1Mkg0ZFZXOVNMMXhicG1xVG9IT2FRcEVvY3pXQ1Y0X0R1LUhxRV8zN3lZa1lzODhnZ0k?oc=5",
+   "utc": "2026-10-26T05:16:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+   "utc": "2026-10-26T05:15:20Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "(USD:UGX) Shilling Freefall Has Uganda Tapping Meager Reserve War-Chest",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-25/gold-steadies-after-weekly-drop-as-focus-shifts-to-fed-meeting",
-   "utc": "2026-10-25T23:23:38Z",
-   "tag": "FED",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-26/-usd-ugx-shilling-freefall-has-uganda-tapping-meager-reserve-war-chest",
+   "utc": "2026-10-26T05:15:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Blackstone-Backed ASK Hires Ex-Motilal Executive as Mutual Fund Chief",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-26/blackstone-backed-ask-hires-ex-motilal-executive-as-mutual-fund-chief",
+   "utc": "2026-10-26T05:13:39Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Why is Japan tightening its immigration rules?",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFvMDAxNURVcmVscUUxS0haSGxsdXZvUHZwRDd3ODdkOXN5VGYwdnk2cnJrdmI5MWhEQkxuak05akNrUUZDYWZZNzFoTVNlRUMyS09RaS1PS0IxN3dyTWNoMDhSSHl2SFdoY1JvTWVjdUl5d1dKUmt5NXk0T3hjOQ?oc=5",
+   "utc": "2026-10-26T05:08:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Japan's traditional shogi game set for first female in main ranks",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3BEQ2k1NGhkcTI2WVptTm5YalNVMEdIeDhXRi1MaE80QllxMWFwQ29PZ0JDcWVLcnZrNEUyb0FHU0oza2FwbnE0N3hieFBRVjY2a1ZFa1pWVGpRanhXMzJFaW5pajlDY1R4OXRMWjc3M0I4LWctSXpOV0VoaEw4ZVpfRUNYSmNiOWlKZm5hVXhrLWVHclZfdktQS2V4cGczZkpxdXZ1aFZmeW8?oc=5",
+   "utc": "2026-10-26T05:02:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+   "utc": "2026-10-26T04:56:16Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "India to evacuate thousands as Cyclone Arnab nears eastern coast",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVJXZlFWQnFMQ2dMTlpOeUtTcHUxZGR0UWRRR0Nuc0pHaHhrR05QYk01eUlCUUdwZzBWbEdmclA2RzI1RkZkQ1F2Qkc1N25Fd2YtLWNjMEVuaEN0cF9WNWRFaHE5SHpUZUROOWZNQTZCUkNiU3l5bTZpU1pxR285dVk0ZF9HTHZ4WjJVVlhvU0xCVlVqYS04WjhjdzNCU1FNMkhId0xRLV9GbUZFTHp3Mm1kdTBZUQ?oc=5",
+   "utc": "2026-10-26T04:55:00Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T01:16:35Z",
- "level": 51,
- "band": "Alert",
+ "updated": "2026-10-26T06:26:24Z",
+ "level": 45,
+ "band": "Watch",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   43,
+   45,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   2,
-   6,
+   3,
+   9,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   7,
-   10,
+   4,
+   1,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,14 +90,47 @@
  ],
  "headlines": [
   {
-   "title": "FPL notes: McBurnie goal, Sangare DefCon + time to sell Schade?",
-   "source": "www.fantasyfootballscout.co.uk",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnBQNzBKMVhXSzB1RXQ5V1BPNTV1OFVhQnhmQ0l6VFppYnNIZHo4dXZacHFhX3RVQmZmQnBnREwxcEVKNVBURC1NLTg0VmtaSVN4ZVJ4VkhOYXdPRHhWZjJXaVF6WHJWZ05OM25LeVZpaU9yQmRUVXlMTHAzaVZ1OERLSklqNi1xZTUyVUlvaFk1MUFvMGc2T0MyVGNhdnRDSkRTdV9TRnkxM05R?oc=5",
-   "utc": "2026-10-26T00:07:55Z",
+   "title": "FPL Gameweek 8: Sunday’s goals, assists, bonus + DefCon points",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDBGMVpjWEdBZDFEYnlDYjdLV1pGZzRBdWszRDBnVUVNbXJPemxzVEs2QjJXRExuNmdJM3VrczZpYmxoRkVfRVZXVDVxcjdVdGkzb2NEdFVGdGNqcTZYLWxwS1Q0MFJWczRHcFlzd3N3WVJTZ2dwbUpDbjV3QnZZb0FRSXdQbjNvemFNSkdtZ1NBS3c3eWdJNW10cnpNNDJ6d0Rad0NKZEozdnM?oc=5",
+   "utc": "2026-10-26T04:57:49Z",
    "tags": [
     "NUKE"
    ],
-   "score": 5.0,
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "AFP tracks Chinese carrier strike group’s transit near Zamboanga’s coast",
+   "source": "Manila Bulletin",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXNOeHFyY2IzdE0xdFhOSzFmYUVJNlowMjBjRmo4UTJkaVFzbncwWldGd0lxaGx2OGoxdlZYdzFfRDJ1U2g1cEZSWmxwWEVqbHkxODY3bnFpeTRSY21SQkhVNWoyZFJ2TkpJVnFSbDhMQnFwOUxZaXM4djhQeUpMdWtlaFdKT1NMczdfZ1MyQjFabU5FMENPSlM0S0VZSzdz?oc=5",
+   "utc": "2026-10-26T03:31:34Z",
+   "tags": [
+    "MIL"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Saudi flight disruption: Over 7,800 flights cancelled no-fly since October 8",
+   "source": "Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOElDRU42eTltNnROb1hjb1RpQlZJWjlsenZVdGpZc3IxYXJuXzZfd2RVd3l1Z0dpMU1KbUZISVdybGgxcmUwWnZ0SGJ4SzlfUDV2QnpqVEEtQkJ4Y1o0dDhyVjk4cWM1cVpPdTlNZ0ZmQ1ZIanJudmpKVUxBLW5rQnZVQWluLVp3MVozNzg1ZlNkUWJwajdvM29ZaVFSMUdrem51OVJfTGxCSERyc3UzZ3lYZXJjSVNpcXRwTFNaTnFuWHPSAdYBQVVfeXFMUEljU0pQaDhDSjhub0dsOWduM1daWGxFVkd2aFVFOWVrcHd3NG5fcFpGQUItOEtscTIwMUpDb3VQUzlhODFCWVZBakxNdnBEbzlETWFaVWVwdDlzOVdSRGdJb21EV3B0dnFtQjE3d0pzWElTR3Z2a3NiNDFma3lBRXRxV1ZxaV9FOHpqNU9zOUx0TGd4U2NxRG85MEpEWHFiRm45aEQ1SWlKQkRaX0pod3ptSHgzdkt3Vi00amxoaGN5elBIS0p1YkQ2RTY2Wmltd25qeWNBUQ?oc=5",
+   "utc": "2026-10-26T02:00:00Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.8,
+   "airspace": true
+  },
+  {
+   "title": "FPL notes: McBurnie goal, Sangare DefCon + time to sell Schade?",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEJiQkNUNkFkTEQ4SDRub3RqY0RxWkdhRDlKSXc1MUVBOGZ2MlZZZWxFMUltLWJQM0ZlNEdnRG1ENl82aFd0ZVZNUG9NSGgtZWxQbnBPQ3pCS3dkNDZNZTc4MXlpa0xuTEtsOGRLb0Y2aTBacUtianlkLTM4M3ZyTGZYLXpxNmJiUVNkLWR3UDJkSi1qMjU2alVjOHNybVFISXRIY1RGZWxlRWdvanc?oc=5",
+   "utc": "2026-10-26T00:07:31Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -108,40 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 6.9,
-   "airspace": false
-  },
-  {
-   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
-   "utc": "2026-10-25T22:52:52Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "FPL Gameweek 8: Sunday’s goals, assists, bonus + DefCon points",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDBGMVpjWEdBZDFEYnlDYjdLV1pGZzRBdWszRDBnVUVNbXJPemxzVEs2QjJXRExuNmdJM3VrczZpYmxoRkVfRVZXVDVxcjdVdGkzb2NEdFVGdGNqcTZYLWxwS1Q0MFJWczRHcFlzd3N3WVJTZ2dwbUpDbjV3QnZZb0FRSXdQbjNvemFNSkdtZ1NBS3c3eWdJNW10cnpNNDJ6d0Rad0NKZEozdnM?oc=5",
-   "utc": "2026-10-25T21:23:29Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "FPL notes: Tavernier goal, Silva DefCon + why Bruno wasn’t used",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1J1QVdoVWdac2xEX2w0Qm1KQkszOUcwUUc2NGM4MkpRUWV4UktTWThQRnRLWnNUdXNIYU1Ud2QwanBtWVFaVlIydUtObW0wUTl0M2VkVjNUNkZXa2lhRGVPaWZORVlZNkFQUVQwdm5mNXctNGd5NlNOSXlHSHNrSXdJMWlpUjhVdl96SURzQTJKRjk3RnNiMVlwajN3aWNGaXN6U0wwdC12X082aV9LbHFkcTI?oc=5",
-   "utc": "2026-10-25T21:03:16Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.8,
+   "score": 6.7,
    "airspace": false
   },
   {
@@ -152,18 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
-   "airspace": false
-  },
-  {
-   "title": "Beyond reactive evacuations: Real-time data as the missing link in OFW safety",
-   "source": "The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd1lNSmhGZDVlYmtJUWxUeThNblFJeFhMdVduTlF3d1BzbTRRSVZtaEliTGlySDBuSnd3Qk1DdGxzQk1RWDREVkVaOFhyZ2JZMGNCeWN1Z2c0Tk1TMC1rWDh1bmxocy10YnhyM3ZLM2ZLRnBJWmM3U3RpTnRJMExfMk5DUThYZTJQc080THlhaEMzTlhpX3RMWl9OdElnNmxEZ0FncENwV2tFa0IyYVc4UFd6OVlXVTlLemV4NHY0RmRuTzJ1MFRFdnZiX3hIcXB1RVJYSHpB0gHbAUFVX3lxTE5Tb0p0SFo5ajE1T2hSZlc4QkU3VUxSeVVuYzAtajRUWVZFVXpXVnN5X2JBbEtmeDhnM0NsZmlqdml3SHFLRnNPOVdOWm9yZzZFMGpWdmtRUG82R0Q4XzY1aWhLU2FPb3UxMUlnTk40bHotOVd6NmRHRm5CVmVCYU5fR2RCUGpndTAyMnRyaWo5bTVBNHZtZC1hNVZJczRUYWF5NjliTGg3UzZQQkUxR2xRdUdrM0dZZktMeEw1cVR4c1ctLU1hWnhlMDh3MmZqNnh1djNBc0dsNFJQRQ?oc=5",
-   "utc": "2026-10-25T18:30:02Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -174,7 +163,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.3,
+   "airspace": false
+  },
+  {
+   "title": "Medical emergency: Sri Lanka evacuates 40 Iranian sailors off Galle",
+   "source": "Newswire",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVBOUG55dXZGY294OFotbXQwSVNTUkJSMnFaN0RmY3ZLZmNYcjNERG1LcHpMcGRHVGxoX0stYmF1Y2pya2hXU1ppZHpGcXptcTE5dE1QQXdmVW5WcHE5V0M3SU0xLVhJQkNiVXFldlBwYVYtbG1qVnFyaVZrSm9oM0hnSEJKT0dBNVVoX2VXSTF1MVFOSDBIcmh4WEdSeHFlS2dTVg?oc=5",
+   "utc": "2026-10-25T12:25:59Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -185,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 7,
-  "global": 118,
-  "baseline": 3.5,
-  "samples": 26,
+  "count": 4,
+  "global": 130,
+  "baseline": 3.6,
+  "samples": 27,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -313,6 +313,10 @@
    [
     "2026-10-26T01:16:35Z",
     7
+   ],
+   [
+    "2026-10-26T06:26:24Z",
+    4
    ]
   ],
   "box": [

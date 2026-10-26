@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T14:21:23Z",
+ "updated": "2026-10-26T20:33:48Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (22)"
+  "Nikkei Asia": "ok (29)"
  },
  "items": [
   {
-   "title": "Anthropic IPO live updates: How the Amodei siblings, co-founders control voting shares",
+   "title": "Anthropic IPO recap: How Wall Street is responding to the AI lab's filing",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-   "utc": "2026-10-26T14:21:06Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit suit before midterm",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-   "utc": "2026-10-26T14:19:30Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-   "utc": "2026-10-26T14:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-   "utc": "2026-10-26T14:09:38Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
-   "utc": "2026-10-26T14:08:19Z",
+   "utc": "2026-10-26T20:29:21Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Meta announces $95 billion stock offering to fund AI expansion",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-   "utc": "2026-10-26T14:05:36Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Mortgage rates above 7% are the 'new normal'—here's why",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
-   "utc": "2026-10-26T14:00:01Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Super El Niño May Soften Winter Energy Squeeze",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-May-Soften-Winter-Energy-Squeeze.html",
-   "utc": "2026-10-26T14:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Belgian Deputy Prime Minister Open to BNP Paribas Stake Sale",
+   "title": "Test Your ETF Knowledge In Our IQ Test",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-26/belgian-deputy-prime-minister-open-to-bnp-paribas-stake-sale",
-   "utc": "2026-10-26T13:56:56Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-26/test-your-etf-knowledge-in-our-iq-test-video",
+   "utc": "2026-10-26T20:27:33Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "The excitement around Moderna’s cancer vaccine is cooling. Here’s why.",
+   "title": "'CLAU' ETF Offers Access To Anthropic",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-26/-clau-etf-offers-access-to-anthropic-video",
+   "utc": "2026-10-26T20:23:38Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Not Everybody Should Be In ETF Space: Christensen",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-26/not-everybody-should-be-in-etf-space-christensen-video",
+   "utc": "2026-10-26T20:21:18Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-excitement-around-modernas-cancer-vaccine-is-cooling-heres-why-994b205f?mod=mw_rss_topstories",
-   "utc": "2026-10-26T13:50:00Z",
+   "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+   "utc": "2026-10-26T20:15:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "France's Macron promises 'strong measures' to assuage protests",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ29JWE91SUo5Q1BiMHhCZFdKRHhVWWV0YlV2STRCV3ZTNXZCcUVBTzMya0k1QmxyWkpVTWFWNzBscEZ2NXd3ZElSS3gzUEpNUER4ajlyX1d6cVpyMzJ3ZWpITEJJd0RSVU1hb181SkRfTnJWSWUtZEl6WVVxeXcxNnYteUdzanBEak5xOXA4aDkzdUV6bENXeEdSLUlOM3FPZklLdnV6TF9CR3c?oc=5",
-   "utc": "2026-10-26T13:49:44Z",
+   "title": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+   "utc": "2026-10-26T20:12:02Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Sorry investors, but there’s no such thing as an early ‘Santa Claus rally.’ Here’s when the real gains typically happen.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
+   "utc": "2026-10-26T20:09:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
+   "title": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
+   "utc": "2026-10-26T20:08:57Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Why investors are bullish on Anthropic — despite some big risks",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-filing-investor-reaction.html",
+   "utc": "2026-10-26T20:07:58Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Beijing must explicitly prioritize corporate health",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2dpbWdwQ2xUZGg1N0hoUDFuRGdEU0VHNDE0V3habEY0RExKSzduTXlQZkJ0RFR5UjU1eVdkX1FKZnlRMm50dzJUM0RvOEVfQ0JjeGJKZTZ5VjRmdXU4eG8tTGVIUkZCc0FWRVhOWEU2SWVOOUhOTHloWjJzekdWMnZZN2pQbGN5c3R0bzhyZEs2THdqUGJRYWhQTmpmdXlYZEVBdkQ0TVotSzJPSlFMUjlEV3lvbTBD?oc=5",
-   "utc": "2026-10-26T13:46:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFQ0clJsLUZ1dWo0YXVZNzZhZVFOQkVMX1NCQm01MjNVU2JlbVpvenNBSnk3MjBQdER6azNrMDZiU2xjbzBjVEZSRjRUYzV2S0NBb3dMY1VPY2ZlbnlEX09TVXRhMmZUVFhNZ3Z3U2s3N1kwMlh6ZnNGckoxNmNDZUlROEV2Z2puTHFV?oc=5",
+   "utc": "2026-10-26T20:05:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+   "utc": "2026-10-26T20:03:58Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Apple stock has become an anti-AI trade. Here’s why",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/apple-stock-has-become-an-anti-ai-trade-heres-why.html",
-   "utc": "2026-10-26T13:43:49Z",
-   "tag": "AI",
+   "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+   "utc": "2026-10-26T20:00:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-   "utc": "2026-10-26T13:43:14Z",
-   "tag": "STOCKS",
+   "title": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html",
+   "utc": "2026-10-26T20:00:00Z",
+   "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Wall St opens higher as Anthropic's IPO filing sharpens AI focus",
+   "title": "Moderna CEO Sees Cancer Vaccines Working Beyond Melanoma",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-26/moderna-ceo-sees-cancer-vaccines-working-beyond-melanoma-video",
+   "utc": "2026-10-26T19:59:33Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "AI and oil worries rattle Asian currencies from Taiwan to Philippines",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXA1dllVUE80bm5TWjZVOVFaVXJTRlBnMk0xVFRHRlBtTVRGT1pNV29MeVhkcVFQRFEzZTJwbi1QbUxVWEFxNkxBeHIxWDNjeTViOGRRSjRvQW9TN2VIWmdKTGJhWG5ZcG4wZGNEa1gxX1FKNzlTWDV2U1lGRGRJQXVlTUYxNUpJYmpyTUU5RHVPRWZjLTB2NjlhczBBWXlvMG5Ea1hVVEJIOVdYYllMdXNaVml3UUh0d0Zablh3?oc=5",
+   "utc": "2026-10-26T19:51:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "DoorDash in talks to buy Instacart, WSJ reports",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
-   "utc": "2026-10-26T13:38:09Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Saudi Aramco Nears Signing of $10 Billion Loan With Global Banks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-26/saudi-aramco-nears-signing-of-10-billion-loan-with-global-banks",
-   "utc": "2026-10-26T13:37:03Z",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkI1dVc1WGVsRGwyMkZtNFFfR3NpaFR2M2JTQ05POTBkZ29lSVpuelFJVWFCTC1tNEJ3Y0F6YUxHWUJkWjJqcm1KWnhNajVxNk5iUFZuck9ZV0tOVEdxYjlxcG0ycUk5UUlyU3l6bnpJY0NFMDJqcXJ4cWJGeUJRbTV5YTVtQy1CSXlTUmZn?oc=5",
+   "utc": "2026-10-26T19:43:43Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Retail investors are getting cold feet about stocks, just when the market needs them most",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/retail-investors-are-getting-cold-feet-about-stocks-just-when-the-market-needs-them-most-00a5c9c8?mod=mw_rss_topstories",
-   "utc": "2026-10-26T13:37:00Z",
-   "tag": "STOCKS",
+   "title": "Markets Have 'Misunderstanding' of Warsh Fed, Says Axel Merk",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-26/markets-have-misunderstanding-of-warsh-fed-says-merk-video",
+   "utc": "2026-10-26T19:43:23Z",
+   "tag": "FED",
    "breaking": true
   },
   {
-   "title": "Mercuria Says Rival Fears Made Baltic Keep Disputed Tanker Rate",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-26/mercuria-says-rival-fears-made-baltic-keep-disputed-tanker-rate",
-   "utc": "2026-10-26T13:36:32Z",
+   "title": "The house, the kids’ college and the raise: Where people in their 30s and 40s go wrong",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+   "utc": "2026-10-26T19:42:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/verizon-lifts-annual-forecasts-signs-more-than-2-billion-ai-infrastructure-deal-with-aws.html",
-   "utc": "2026-10-26T13:35:19Z",
-   "tag": "AI",
+   "title": "Lula’s Win Isn’t as Bad as Markets Think",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-26/opinion-lula-s-win-isn-t-as-bad-as-markets-think-video",
+   "utc": "2026-10-26T19:38:30Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "The stock market’s biggest test in weeks is here",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
-   "utc": "2026-10-26T13:33:00Z",
-   "tag": "STOCKS",
+   "title": "Surgery Partners to be taken private by Bon Secours affiliate in $5.7 billion deal",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjFmVWM4cEV5RmFxYjFyM2M3RHhsX1J5bllpQlFTbGM1SjZ0NDdNaHdwaVdGZTUzd05lQy01dFN2MDd5YnpJQ1RxT185WURobHRiVEhva0NlSl9HRWRWNXlYOWlnTXgtVF9UTHc5WFpyYUZ2SFZweDhFb29pcWhHLXYwRmRuWW42TW5PR3JJc1l4dTNIX09nZktDd1pPaWtueTRRVmFhY1g3czM4dnB2dTZn?oc=5",
+   "utc": "2026-10-26T19:35:43Z",
+   "tag": "MARKETS",
    "breaking": true
   }
  ]

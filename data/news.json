@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:07:18Z",
+ "updated": "2026-10-27T00:31:34Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,9 +9,25 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (30)"
+  "Nikkei Asia": "ok (29)"
  },
  "items": [
+  {
+   "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+   "utc": "2026-10-27T00:17:44Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures are little changed after Wall Street starts the week on a winning note: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "utc": "2026-10-27T00:12:04Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
   {
    "title": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
    "source": "OilPrice",
@@ -21,28 +37,12 @@
    "breaking": true
   },
   {
-   "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
-   "utc": "2026-10-26T23:51:07Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stock futures are little changed after Wall Street starts the week on a winning note: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-   "utc": "2026-10-26T23:36:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
    "title": "COMMENTARY: AI gloom revives the specter of stagflation: McGeever​",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm13Sm5yUE5uMDZnT2s5a2NmWEhIeUllOVdUVkpzTWZTX0pOZGxmQnNCVGNnZElxeEhncmNWT3VleWVTdVhaSGJiVElUbDhOWWdWZTNtbFJnQTdoaFdoNVFwVW5KWURmMDEtNWRKZWFSLUROUFdDcWRHTHRocm5UdmxReVd5Q2FoRHlMZ1AzdTdhYncwV2dFZk5FVHBXMUFlQnliT0hkaldQLWczQ0pXbWJER3pOVmR4VHRZNDZn?oc=5",
    "utc": "2026-10-26T23:30:47Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Indonesia’s Rupiah Defense Seen Needing a Rate-Hike Turbocharge",
@@ -50,7 +50,7 @@
    "link": "https://www.bloomberg.com/news/articles/2026-10-26/indonesia-s-rupiah-defense-seen-needing-a-rate-hike-turbocharge",
    "utc": "2026-10-26T23:30:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks",
@@ -58,7 +58,7 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
    "utc": "2026-10-26T23:28:41Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Gold Steadies Near $4,000 as Traders Prepare for Fed Rate Call",
@@ -66,7 +66,15 @@
    "link": "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus",
    "utc": "2026-10-26T23:20:28Z",
    "tag": "FED",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Putellas wins 2026 Ballon d'Or Feminin award",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdi16Ny01RmxvOUZLWVB4UDFDak5LWFhweml3ZGFxaV9HYzkyS1hZMldjUUdZSng3YklkeVdCb1dYYXhpMG5KX3VmTWo5ZWtuQkJKMVNkMHZDMnQ1ZzZFeTdESHBSVmkxUWl3bWhVZTN4ZlNIbGJjTmNkbllqZGRVNUFoZmM0LTBvVTJJRllpTHJHeWtjWVdZNg?oc=5",
+   "utc": "2026-10-26T23:13:00Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
@@ -74,7 +82,7 @@
    "link": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
    "utc": "2026-10-26T23:10:16Z",
    "tag": "CHINA",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
@@ -122,14 +130,6 @@
    "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
    "utc": "2026-10-26T22:30:00Z",
    "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Russian attack on Kyiv kills one, injures 10, hits educational institution, metro station",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1lvb3NtSFNTVXN2bERVdG5oajNaWW1RQUktQVhWS0NKQzNqS2RrR19kdmlmRE9qSHh0RzlSRnU0Q3FSLXp3THV0ZkN1b1VQNjkycEtSWW5wbnhhSkZwZ2FzZXA3TVd2WkNUWmhWcWNmeng0REhYRkFOeTB5S0tDYmVYYmNiNVpaNUtqRTJ1eFAydUduYUtfdTEzZ1JGSkJFTlI0eg?oc=5",
-   "utc": "2026-10-26T22:28:21Z",
-   "tag": "WAR",
    "breaking": false
   },
   {

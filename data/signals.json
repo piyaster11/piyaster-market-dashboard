@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:07:42Z",
+ "updated": "2026-10-27T00:31:50Z",
  "level": 47,
  "band": "Watch",
  "components": [
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   2,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -141,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -174,14 +174,14 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.3,
    "airspace": false
   },
   {
-   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
-   "source": "Addis Standard",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
-   "utc": "2026-10-26T07:12:33Z",
+   "title": "Dutch FM thanks Azerbaijan for evacuation of citizens from Iran",
+   "source": "Operativ Media",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTVsemhXWXZhVmVnR013LTdCVXRiT3RMTXpjNHNpY1dnQWxCTU5GWnlQNS1SanZieWM2YURoRVY1d0xpaTMyZkVQSHVWUGJrM0VjU2RkMHJvTUlRSDBtWDhWbFZsN0w3T3FTVjhQek1FTzZUdGljNGwxTFQ5RW8wVU1XOU1Qa3hTckRDUWlUV0RUZHRxVmhIUXdoVjJMUjByeldFMjR3?oc=5",
+   "utc": "2026-10-26T08:15:00Z",
    "tags": [
     "EVAC"
    ],
@@ -196,15 +196,15 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 6.0,
+   "score": 5.9,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 226,
+  "count": 2,
+  "global": 246,
   "baseline": 3.5,
-  "samples": 30,
+  "samples": 31,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -329,6 +329,10 @@
    [
     "2026-10-27T00:07:42Z",
     1
+   ],
+   [
+    "2026-10-27T00:31:50Z",
+    2
    ]
   ],
   "box": [

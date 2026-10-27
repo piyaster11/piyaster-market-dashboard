@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:18:39Z",
+ "updated": "2026-10-27T19:27:35Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (39)"
+  "Nikkei Asia": "ok (38)"
  },
  "items": [
   {
-   "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+   "title": "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-   "utc": "2026-10-27T13:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-   "utc": "2026-10-27T13:06:12Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "UPS beats quarterly expectations, raises full-year guidance again",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
-   "utc": "2026-10-27T13:04:02Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic IPO Filing Calms Nerves With Signs of Healthy Growth",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-filing-calms-nerves-with-signs-of-healthy-growth",
-   "utc": "2026-10-27T13:00:02Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
-   "utc": "2026-10-27T12:58:58Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Stock futures rise as chip stocks gain for a second day, oil prices ease: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-   "utc": "2026-10-27T12:57:45Z",
+   "link": "https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories",
+   "utc": "2026-10-27T19:24:00Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Turkish Insurer Sinks as Top Executives Arrested in Fund Probe",
+   "title": "Built Environment Not Keeping Up: Hines-Pierce",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-27/turkish-insurer-sinks-as-top-executives-arrested-in-fund-probe",
-   "utc": "2026-10-27T12:55:47Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/built-environment-not-keeping-up-hines-pierce-video",
+   "utc": "2026-10-27T19:23:21Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Wall St on pace for higher open as oil pulls back ahead of Fed decision",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
-   "utc": "2026-10-27T12:54:36Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+   "title": "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-   "utc": "2026-10-27T12:51:16Z",
+   "link": "https://www.cnbc.com/investingclub/2026/10/27/boeing-shares-slide-on-a-disappointing-cash-flow-update-why-this-dip-is-buyable-.html",
+   "utc": "2026-10-27T19:21:20Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
-   "utc": "2026-10-27T12:50:13Z",
-   "tag": "AI",
+   "title": "Mid-market M&A Is A 'Dam' That's Going To Break: Khalil",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/mid-market-m-a-is-a-dam-that-s-going-to-break-khalil-video",
+   "utc": "2026-10-27T19:16:50Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Russia's Oil Exports Hit a One-Month High Amid Baltic Rebound",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-27/russia-s-oil-exports-hit-a-one-month-high-amid-baltic-rebound",
-   "utc": "2026-10-27T12:38:20Z",
+   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "utc": "2026-10-27T19:12:44Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
+   "title": "Cinco claves para entender los próximos pasos de la salida a bolsa de Anthropic",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-27/cinco-claves-para-entender-los-proximos-pasos-de-la-salida-a-bolsa-de-anthropic",
+   "utc": "2026-10-27T19:10:34Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html",
-   "utc": "2026-10-27T12:33:52Z",
+   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+   "utc": "2026-10-27T19:10:24Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Important That GOP Appeals to Black Voters in GA, Says McCormick",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/important-gop-appeals-to-black-voters-in-ga-mccormick-video",
+   "utc": "2026-10-27T19:08:09Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "BI's Larry Tabb on Changes in Global Market Structure",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/bi-s-larry-tabb-on-changes-in-global-market-structure-video",
+   "utc": "2026-10-27T19:08:04Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+   "utc": "2026-10-27T19:07:59Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Texas CIOs Discuss AI & Portfolio Allocations",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/texas-cios-discuss-ai-portfolio-allocations-video",
+   "utc": "2026-10-27T19:01:38Z",
    "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "DoorDash Is Said to Near $17B Takeover of Instacart",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/doordash-is-said-to-near-17b-takeover-of-instacart-video",
+   "utc": "2026-10-27T19:00:03Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-   "utc": "2026-10-27T12:30:00Z",
+   "utc": "2026-10-27T19:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Ras Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field",
+   "title": "The Diesel Crisis Is Here To Stay",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Ras-Tanura-Fire-Follows-Attacks-on-Aramco-Offices-and-Near-Shaybah-Field.html",
-   "utc": "2026-10-27T12:30:00Z",
-   "tag": "WAR",
+   "link": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crisis-Is-Here-To-Stay.html",
+   "utc": "2026-10-27T19:00:00Z",
+   "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
-   "utc": "2026-10-27T12:28:52Z",
-   "tag": "WAR",
+   "title": "HP and Asus shift some PC making back to China due to AI-driven cost hikes",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc1NqYzVESkVHNEZQTXoxX2d4WmNNdlNkaUFxM1htOXFDdk5mWEE3MFhRcFRYWml1b0RhcEhxT1BSTnFxUFJEVjJrZjlveUZua2hMRFJRaUxaalJCZzNSOEdtOXRzSW9hc2pSTFRzdml0RVlfcmJJRnA4YkY1aXRoVW9pc1AxTG1MUklBVkNkQ1Z5R2VpVXVsUE5SWlJULUZaaDlCc0tOM1Jpd1M4WlFGMk9SUnNseWpTTDFkc3Nfc0ZIREV4dTl3?oc=5",
+   "utc": "2026-10-27T19:00:00Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Here are Tuesday's biggest analyst calls: SpaceX, Apple, Broadcom, CoreWeave, Palantir, Intel & more",
+   "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/biggest-calls-tuesday-on-wall-street-include-spacex-coreweave.html",
-   "utc": "2026-10-27T12:26:35Z",
+   "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+   "utc": "2026-10-27T18:57:45Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Bloomberg Professional Services Spotlight on ASKB",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/bloomberg-professional-services-spotlight-on-askb-video",
+   "utc": "2026-10-27T18:57:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Why SoFi’s stock is soaring after earnings",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
-   "utc": "2026-10-27T12:21:00Z",
+   "title": "CNBC Workforce Executive Summit live updates: AI and the future of work",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/cnbc-workforce-summit-live-updates.html",
+   "utc": "2026-10-27T18:56:07Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "EXCLUSIVE: GM to offer hybrid SUVs in strategic pivot from electric",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEJFVWVjR3Y2ekp3X2hVSGVuOHplSWZiT296X3c0QnlWV2NQd1BfTjRqOFJNbGhLWk00cEJ2MERfUlJfQndsU2FFcGh6dTZTcFh0bUpWdlpaeUJUZ0VJMWRreFZ1YURfQndSc3Y2SkxsTklkNXNlNE9tanpjSVRZZWtWN290aTFIcXh5STh6RGs?oc=5",
+   "utc": "2026-10-27T18:53:32Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Margin debt growth slows sharply as stock market warning signs build",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
+   "utc": "2026-10-27T18:53:18Z",
    "tag": "STOCKS",
    "breaking": true
-  },
-  {
-   "title": "Frozen housing market sends remodelers mixed messages",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
-   "utc": "2026-10-27T12:20:59Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-   "utc": "2026-10-27T12:20:36Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/inherited-ira-taxes-10-year-rule-roth-conversions.html",
-   "utc": "2026-10-27T12:15:01Z",
-   "tag": "MARKETS",
-   "breaking": false
   }
  ]
 }

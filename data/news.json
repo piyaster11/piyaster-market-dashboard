@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:31:34Z",
+ "updated": "2026-10-27T06:22:30Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (29)"
+  "Nikkei Asia": "ok (33)"
  },
  "items": [
   {
-   "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
-   "utc": "2026-10-27T00:17:44Z",
+   "title": "Oil Prices Drop Despite Threat of New U.S. Strikes on Iran",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Threat-of-New-US-Strikes-on-Iran.html",
+   "utc": "2026-10-27T06:15:57Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+   "utc": "2026-10-27T06:14:41Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "How China Is Setting the Pace on Nuclear Power",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/how-china-is-setting-the-pace-on-nuclear-power-video",
+   "utc": "2026-10-27T06:08:02Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Chinese brands drop soccer star Kylian Mbappe for 'offending' nation",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVIycFhJd2JnQ091NDY4QXFhdUlYZlQ0UGN5WnR3eVltb21vaXY3S0Z5UFpsZEhEb09rNFJjNWg3WW1nRnlnT3Z0R0Zib3hKNEVIQjVhY3hsekJkWEg5bkpwbHdQVzI4OXVncmVGY1c5UVBleGx2eXhNZE1peW9HOWxWOFFWcmJKaURKMHcwN296SnFwTDlET1MzLXBxY1ZCSGQ0YS1DU2Vnc3M?oc=5",
+   "utc": "2026-10-27T06:05:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "JSW Steel's Jayant Acharya on India Steel Demand",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/jsw-steel-s-jayant-acharya-on-india-steel-demand-video",
+   "utc": "2026-10-27T06:03:26Z",
    "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "Indonesia-Singapore spats escalate over haze, MSCI",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUFzcGFja3pSV21yVzVzendBanZtWnZ0a281WkZOUjdRcFBzMEtkU2Zpd3BHYzdpWFJDR1pEczY4OTF3VTNHOUI3anFIYmRXVHM0dzRRZWlmemk3bFBkUF9NMXJrYW1NaHFZbnNvNWJPelozdFYwVVd1QmJaVnhBZGhKR3owQTNibnh6QXBKcFZYcUlNUFZnMzN5N1B3Vk5TVlRTNERJd1pCZw?oc=5",
+   "utc": "2026-10-27T05:42:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+   "utc": "2026-10-27T05:30:10Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic IPO: Who Can Subscribe and What Are the Risks?",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/anthropic-ipo-who-can-subscribe-and-what-are-the-risks-video",
+   "utc": "2026-10-27T05:12:42Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+   "utc": "2026-10-27T05:09:59Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-10-27T05:08:27Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Pandora Bets on Vietnam With New $150 Million Factory",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/pandora-bets-on-vietnam-with-new-150-million-factory",
+   "utc": "2026-10-27T05:04:48Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Japan struggles to attract foreign nurses amid staffing crunch",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTFg1QUlxeURmN19JbG5VZ2xtZEs1WFpwSUhIejdGM3o3Nlg0QnBxZlNnbVJvSnB1OFlIMFM1cXMtNHRwVF9FcEVjcWlWdEVGcVVaSWFlMEgzOWRWU3dNVklCQk9KdU0xbTRQVENVWEw0eXdtb3VSal95MnB0eGZtNnhsZ3kyTFNhQUhHRlZvN2hWTFdfcUtFWXFiQXFuWm1TWHpSOHZPcTR2ekk?oc=5",
+   "utc": "2026-10-27T05:03:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "UK budget: Markets on watch for new finance minister's plans",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEp6MlpsSWVwcGlKWklQMml1c09YQURUdzNmallBSE9uemVQLXZyeDZRTjFIRHJJbldoV1RjRTB2dkE2N091eHVVdXdGeWpxdm82czMtVEZ5eXdGTWR0MHlsNjgzeWd0c3NlNDZISGxnX2MtTHZkLWFFTkxzemlhS21tcUZFaWhaNkFmaGliZ3lGbUNpTk9GOThqWW1BMFlESmVBWmF5QmJoVGhJLTdrVnhSVnpQZw?oc=5",
+   "utc": "2026-10-27T05:02:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Johannesburg’s Infrastructure Decay Risks Driving Multinationals Out, Busi Mavuso Warns",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-27/mavuso-joburg-infrastructure-risks-driving-business-out-video",
+   "utc": "2026-10-27T05:00:37Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Morningstar CEO Kunal Kapoor on making career choices that help you grow",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/video/2026/10/27/morningstar-ceo-kunal-kapoor-on-personal-growth-and-career-choices.html",
+   "utc": "2026-10-27T05:00:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Investcorp Joins Consortium for Saudi Firm Even as Houthi Attacks Intensify",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-27/investcorp-joins-consortium-for-saudi-firm-even-as-houthi-attacks-intensify",
+   "utc": "2026-10-27T05:00:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Artificial intelligence",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNE9ubm5qWmlLTnZzSkVmNTNJWjUtcWVUUnpSOFE5dlFXNEYyc2NLUUE1YVFDdjVtcjJQV0FPaVFmZEROdE1ZZlFpZjhiRk1BWHU3T05UYktIeDZzTDZOa2I5bkJ6eGpEOHNBQVhoUVd4UWRoUmc?oc=5",
+   "utc": "2026-10-27T04:52:27Z",
+   "tag": "AI",
+   "breaking": false
   },
   {
    "title": "Stock futures are little changed after Wall Street starts the week on a winning note: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-   "utc": "2026-10-27T00:12:04Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/UK-Weighs-Scrapping-Its-Largest-Untapped-Oilfield-With-Oil-Over-100.html",
-   "utc": "2026-10-27T00:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "COMMENTARY: AI gloom revives the specter of stagflation: McGeever​",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm13Sm5yUE5uMDZnT2s5a2NmWEhIeUllOVdUVkpzTWZTX0pOZGxmQnNCVGNnZElxeEhncmNWT3VleWVTdVhaSGJiVElUbDhOWWdWZTNtbFJnQTdoaFdoNVFwVW5KWURmMDEtNWRKZWFSLUROUFdDcWRHTHRocm5UdmxReVd5Q2FoRHlMZ1AzdTdhYncwV2dFZk5FVHBXMUFlQnliT0hkaldQLWczQ0pXbWJER3pOVmR4VHRZNDZn?oc=5",
-   "utc": "2026-10-26T23:30:47Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Indonesia’s Rupiah Defense Seen Needing a Rate-Hike Turbocharge",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-26/indonesia-s-rupiah-defense-seen-needing-a-rate-hike-turbocharge",
-   "utc": "2026-10-26T23:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
-   "utc": "2026-10-26T23:28:41Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Gold Steadies Near $4,000 as Traders Prepare for Fed Rate Call",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus",
-   "utc": "2026-10-26T23:20:28Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Putellas wins 2026 Ballon d'Or Feminin award",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdi16Ny01RmxvOUZLWVB4UDFDak5LWFhweml3ZGFxaV9HYzkyS1hZMldjUUdZSng3YklkeVdCb1dYYXhpMG5KX3VmTWo5ZWtuQkJKMVNkMHZDMnQ1ZzZFeTdESHBSVmkxUWl3bWhVZTN4ZlNIbGJjTmNkbllqZGRVNUFoZmM0LTBvVTJJRllpTHJHeWtjWVdZNg?oc=5",
-   "utc": "2026-10-26T23:13:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
-   "utc": "2026-10-26T23:10:16Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSENiSmlBdVVpM0VRbmZrb2RlM0JGYmE2MTlrNW5kTEVlTnNZUWlmSzU1bWdwYnJLTnNJQ3VzY1R6UTFQc0xfcEhNaThpSHk0RDRDN2k4aW9ZZE9HQ05CZWp5NFFVb3B5Q0VxajZYS2wyNDVxRWtDXzdwSUFXZ1F2Zm1nNFpPbWtwOE54eHZtbmJVMVFvclE?oc=5",
-   "utc": "2026-10-26T23:01:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Beijing-Pushes-Domestic-Oil-Production-as-Iranian-Supply-Dries-Up.html",
-   "utc": "2026-10-26T23:00:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
-   "utc": "2026-10-26T22:50:07Z",
+   "utc": "2026-10-27T04:45:39Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Israeli election draws tens of thousands of citizens flying back to vote",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
-   "utc": "2026-10-26T22:46:35Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "NBTC legal woes threaten conference, flood relief",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3344179/nbtc-legal-woes-threaten-conference-flood-relief",
-   "utc": "2026-10-26T22:43:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-   "utc": "2026-10-26T22:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "US judge refuses to block Eli Lilly weight-loss drug ads, rules against Novo Nordisk",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmpNcDhCbWpETXNLU0hDNDVmbGh6Y1l3d0NJWXAyUHJKdTNCam1RSmxmU3N5M2ExemdvTlJfYUtfaDhlQlp1RGg2Q2Y1OGpxSWF6WEV5TTdyWmlxXzBsNjVHbmhBQ0M1SUEzYWRsV28xZ05GWVE1QmFvUTVtcGw0QzhsZlViWlN3WjJhZzdvQWdldGdncWVvZTFvV3U3UDRVRTZRR0piQjZHWHNfUUhIZ3lSTFJXdw?oc=5",
-   "utc": "2026-10-26T22:27:02Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjhLRWY2TklCLUNVM1FrTnE3emllZURtQlRkb1VRQmtESF9PNk4tbmlyU1ppYjZaZVo2d3Y4MjhjTFcwOFFnZi14TUljaEhKUmk3alpJcXNlSUN1RFVLQnl6ajdja2tvcUk4cXczVzdDSXRkbms4bHlTLXNfQzRIN29zdklUUjZwODhWd002SW5Ub0s3NTdKQ2JhVTBrbXhfWTBZc29RenpXVlBlUFhpQTJPaVFmQ0k1b0pZ?oc=5",
-   "utc": "2026-10-26T22:26:58Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Dave Lee: Anthropic Brings ‘Anti-Sell’ Strategy to Its IPO",
+   "title": "Jio Shares Indicated 22% Higher in India Gray-Market Trading",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-26/dave-lee-anthropic-brings-anti-sell-strategy-to-ipo-video",
-   "utc": "2026-10-26T22:26:18Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "DOJ charges ex-FBI Director James Comey in new case",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-   "utc": "2026-10-26T22:24:36Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Dividend stocks are having an excellent October as tech sector struggles",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
-   "utc": "2026-10-26T22:10:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-27/jio-shares-mukesh-ambani-india-gray-market-trading",
+   "utc": "2026-10-27T04:43:45Z",
    "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+   "utc": "2026-10-27T04:40:30Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

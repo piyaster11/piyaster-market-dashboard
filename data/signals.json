@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T00:31:50Z",
- "level": 47,
+ "updated": "2026-10-27T06:22:54Z",
+ "level": 49,
  "band": "Watch",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   38,
+   48,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
+   4,
    2,
-   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,14 +90,58 @@
  ],
  "headlines": [
   {
-   "title": "Ebola: Why Nigeria evacuated patient to Switzerland",
-   "source": "Head Topics",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzFybkhDZG0xZVlxdU1WTTdia1VPVlQ3SFptRzk4akZqOW9TZjlYNDR6akJWU3NHZHNYVmxiTmtiVzJPcFBWc0NoSllGWTJPTWxNMzRncExvVHdwemZ6MHp1S1Z2V1lvb3QzVVZjTUxXWEhScmRreG1RSzU1QUNuNjVxVmYzQ1N2Y19yUDZuclBseTJU?oc=5",
-   "utc": "2026-10-26T22:27:00Z",
+   "title": "Ebola index case evacuated from Abuja to Switzerland",
+   "source": "The Nation Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSzI0aGJMYU5OX0JaWkxGVUcwc0JEUTJuQXJHR2ZVZlI2NXB4bkpmTnBQczJ1c0ZNekpEN0tMTXJsLTVaZkxNNTdLd0dZOENFU0JJSlBZZWZNUkpIMDlRUEJIQnBDbVpjajJUU2RSQ1ZQT0QyLVR3d3ozZFpXWk92cjFfMFVaLVRHQ0lxN201em3SAZABQVVfeXFMTksyNGhiTGFOTl9CWlpMRlVHMHNCRFEybkFyR0dmVWZSNjVweG5KZk5wUHMydXNGTXpKRDdLTE1ybC01WmZMTTU3S3dHWThDRVNCSUpQWWVmTVJKSDA5UVBCSEJwQ21aY2oyVFNkUkNWUE9EMi1Ud3d6M2RaV1pPdnIxXzBVWi1UR0NJcTdtNXpt?oc=5",
+   "utc": "2026-10-27T04:43:47Z",
    "tags": [
     "EVAC"
    ],
    "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Iran Expands Tanker Blockade Beyond Hormuz",
+   "source": "https://houseofsaud.com/",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWNxOWtxVTZ3d3VxOE5SNVpRUWpXZmd1aTZqRzVlTEZfUVlBazhwTmZuVm5pM012YTR2V0pUdXNaQUg1NnV3amo4VGhjQko3WlBsb1hIM1ZhSFJzamtfajdsZFdiUEpPdXRWR1VneThNbkxiOXg3WEZtTVNYZlloRjI5ZGk?oc=5",
+   "utc": "2026-10-27T01:29:53Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "US-Brokered Truce Begins in Russian-Occupied Oleshky Amid Uncertainty Over Evacuations",
+   "source": "Kyiv Post",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FRUxnQVZPLW53NVNYZDZYbUFFYVNHaEY2dmRTM292WE1VTWhLNnNYdzZBM2gyTFJNX09NSjVlN2JrVXJ5UzRORkN1OA?oc=5",
+   "utc": "2026-10-27T01:06:57Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "Ebola: Why Nigeria evacuated patient to Switzerland – NCDC",
+   "source": "Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0Z4MzRVVDhmWGJpMWtJbWRrUTdqR3d3blRTVUtmYks1ei1OSzczOTBkUG54Mnc2M3BaZDBQZmRHSTBIa3ZlalZ3cUhxQ3NaOHFPQld2d0NNYkJkLTBvRnNyeEUyTlZBT1JoT2swa3p1RWJvUS01SUlTdF9vbERhbHlQWG0yOGdjOGlHbW9QaGpuMVM2UFcxRUlYQUxxUjdGWXZ1aloxeFBncjBlaHVxWHJ3Uy1KTzZS?oc=5",
+   "utc": "2026-10-26T22:16:13Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
+   "utc": "2026-10-26T20:48:45Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -108,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -119,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -130,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -141,7 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -152,59 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
-   "airspace": false
-  },
-  {
-   "title": "Morocco updates lists of citizens stranded in Gaza as new evacuation becomes possible",
-   "source": "HESPRESS English - Morocco News",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzVLTlRySmM0aTlLMnpPeWNUalNibEhXUUF6ZjFJWFdmcjh3ek1GREc3S1MzVzUxMDViVXBOZVhXd0U5UU1zWTBsSWdPVzdUSU4xQ0ptZUdLbHA0VEVFU1R3YnN0Y0pYcU5aLXdmazZHSS1MZ1lrNzRoN1JZVEo5WjFJd18xcjZYUUh6Z3A3Nzk0d1phMGJnTnd4bTVGR3QtMEt4UHpnc3ByUkl3LXlfV3pfUGlhNU5NalZmQ0pR?oc=5",
-   "utc": "2026-10-26T11:59:06Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.5,
-   "airspace": false
-  },
-  {
-   "title": "Dutch foreign minister thanks Azerbaijan for evacuation support",
-   "source": "Operativ Məlumat Mərkəzi",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVJtcUNnM0hhTkZ6WmxocVF6bXc5LXl1N2VYaVJBakQ3QXB3V0l1cUU5UkVqZWRMVXlUQ3VPNFBJZ3B6dVJtbFlEMFZKMVcyVF9UbElQMGhhQWZLQmhCUE03RXpvSXY4ZDk0eG1nSHNOLS02QVJhU3dMd085NFo2emJsMFBBRkNqbWs4bWp5c2htc3BfRXNtZ1J4MEluOTIw?oc=5",
-   "utc": "2026-10-26T08:37:00Z",
-   "tags": [
-    "EVAC"
-   ],
    "score": 5.3,
-   "airspace": false
-  },
-  {
-   "title": "Dutch FM thanks Azerbaijan for evacuation of citizens from Iran",
-   "source": "Operativ Media",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTVsemhXWXZhVmVnR013LTdCVXRiT3RMTXpjNHNpY1dnQWxCTU5GWnlQNS1SanZieWM2YURoRVY1d0xpaTMyZkVQSHVWUGJrM0VjU2RkMHJvTUlRSDBtWDhWbFZsN0w3T3FTVjhQek1FTzZUdGljNGwxTFQ5RW8wVU1XOU1Qa3hTckRDUWlUV0RUZHRxVmhIUXdoVjJMUjByeldFMjR3?oc=5",
-   "utc": "2026-10-26T08:15:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.3,
-   "airspace": false
-  },
-  {
-   "title": "🇮🇷🇺🇸 Iran doesn't need to close the Strait of Hormuz to break global shipping. Brandon Weichert spoke with maritime analyst Sal Mercogliano, who estimates that 5% to 15% of ships passing through Hormuz are now being attacked. Yet tankers keep sailing.",
-   "source": "X",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaWTEtdGxzbTRyNEpuWnAyQ1pQekUwLXljdzJWYjI0bk01THU0Y1NycGpvemZLQk50MFhuZkZmd1NwX2hVSDl3TGdCQTVKWTQ3M3FBazBJWGJWNWdzYUVXeTlhaVYxWUFFNGhpWg?oc=5",
-   "utc": "2026-10-25T22:58:14Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.9,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 246,
-  "baseline": 3.5,
-  "samples": 31,
+  "count": 4,
+  "global": 128,
+  "baseline": 3.4,
+  "samples": 32,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -333,6 +333,10 @@
    [
     "2026-10-27T00:31:50Z",
     2
+   ],
+   [
+    "2026-10-27T06:22:54Z",
+    4
    ]
   ],
   "box": [

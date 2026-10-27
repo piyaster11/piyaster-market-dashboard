@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T20:34:13Z",
+ "updated": "2026-10-27T00:07:42Z",
  "level": 47,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   46,
+   38,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,14 +90,25 @@
  ],
  "headlines": [
   {
-   "title": "Ebola: Why Nigeria approved patient’s evacuation to Switzerland — NCDC boss",
-   "source": "The Nation Newspaper",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGoweU54bjBramt2dVRNeGdHZjhpd3dPVW91aFlnVkZSNVFjUHpPUnlhbUd0SW5saUJhci1sYWNYY0p0UDBzUHAwZWNzRk9ScjRTWHNJZXFWbXFPdnB3UWxhOEU0YkYzWWF3dU94UUxidzhXN0lSTUI0dFgyX3lrc0c5OV9ha0lPZXlXX0dMaGVlVmdwR3ZXNGY2eHphamxhQW9XTNIBqgFBVV95cUxQSmxQbGVQMlFWM3NjU1h2anhYLVFNTjgwOHE0REFJb09jOHZ3ZUxCYnNLQnBfdkVUcUR4TVROTmMwNEF3WTdVelNBS08xYW5UQ1dMZkI3ejB6V1VDY0x5X0psWklRXzdEZVJKVUF2a2Z1eUQ0YTZ4RGNHVWtPNUJOX0Jlb0E5ZTRYVWNmdzBnekptY3llNUsxMkdHTF9NWUhxanR2N2I0TnJrUQ?oc=5",
-   "utc": "2026-10-26T20:08:02Z",
+   "title": "Ebola: Why Nigeria evacuated patient to Switzerland",
+   "source": "Head Topics",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzFybkhDZG0xZVlxdU1WTTdia1VPVlQ3SFptRzk4akZqOW9TZjlYNDR6akJWU3NHZHNYVmxiTmtiVzJPcFBWc0NoSllGWTJPTWxNMzRncExvVHdwemZ6MHp1S1Z2V1lvb3QzVVZjTUxXWEhScmRreG1RSzU1QUNuNjVxVmYzQ1N2Y19yUDZuclBseTJU?oc=5",
+   "utc": "2026-10-26T22:27:00Z",
    "tags": [
     "EVAC"
    ],
-   "score": 6.0,
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Ebola: Why Nigeria approved patient’s evacuation to Switzerland — NCDC boss",
+   "source": "The Nation Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGoweU54bjBramt2dVRNeGdHZjhpd3dPVW91aFlnVkZSNVFjUHpPUnlhbUd0SW5saUJhci1sYWNYY0p0UDBzUHAwZWNzRk9ScjRTWHNJZXFWbXFPdnB3UWxhOEU0YkYzWWF3dU94UUxidzhXN0lSTUI0dFgyX3lrc0c5OV9ha0lPZXlXX0dMaGVlVmdwR3ZXNGY2eHphamxhQW9XTNIBqgFBVV95cUxQSmxQbGVQMlFWM3NjU1h2anhYLVFNTjgwOHE0REFJb09jOHZ3ZUxCYnNLQnBfdkVUcUR4TVROTmMwNEF3WTdVelNBS08xYW5UQ1dMZkI3ejB6V1VDY0x5X0psWklRXzdEZVJKVUF2a2Z1eUQ0YTZ4RGNHVWtPNUJOX0Jlb0E5ZTRYVWNmdzBnekptY3llNUsxMkdHTF9NWUhxanR2N2I0TnJrUQ?oc=5",
+   "utc": "2026-10-26T20:09:54Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -108,7 +119,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -119,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -130,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -141,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -149,17 +160,6 @@
    "source": "HESPRESS English - Morocco News",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzVLTlRySmM0aTlLMnpPeWNUalNibEhXUUF6ZjFJWFdmcjh3ek1GREc3S1MzVzUxMDViVXBOZVhXd0U5UU1zWTBsSWdPVzdUSU4xQ0ptZUdLbHA0VEVFU1R3YnN0Y0pYcU5aLXdmazZHSS1MZ1lrNzRoN1JZVEo5WjFJd18xcjZYUUh6Z3A3Nzk0d1phMGJnTnd4bTVGR3QtMEt4UHpnc3ByUkl3LXlfV3pfUGlhNU5NalZmQ0pR?oc=5",
    "utc": "2026-10-26T11:59:06Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.6,
-   "airspace": false
-  },
-  {
-   "title": "Ebola: Nigeria to evacuate Ugandan patient from Abuja",
-   "source": "The Guardian Nigeria News",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPay1sU1JVRno4WWF4WDE4c243b2huMjFkclgtTThHd3lGZTA0Q1dKb2w4aUFVam9fYm5NTkFWRVlDYWlOMUVEd3Boa2gyOEVrWFI1SXlrb2x5RmtKNFZ0UE9OWXFjaDFXM3d2NmFpVk5jMWV0X09pRFY0Mmp4RFJHYjRSWVhDaTBFN2FDdU9icw?oc=5",
-   "utc": "2026-10-26T09:15:00Z",
    "tags": [
     "EVAC"
    ],
@@ -174,18 +174,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.4,
    "airspace": false
   },
   {
-   "title": "Dutch FM thanks Azerbaijan for evacuation of citizens from Iran",
-   "source": "Operativ Media",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTVsemhXWXZhVmVnR013LTdCVXRiT3RMTXpjNHNpY1dnQWxCTU5GWnlQNS1SanZieWM2YURoRVY1d0xpaTMyZkVQSHVWUGJrM0VjU2RkMHJvTUlRSDBtWDhWbFZsN0w3T3FTVjhQek1FTzZUdGljNGwxTFQ5RW8wVU1XOU1Qa3hTckRDUWlUV0RUZHRxVmhIUXdoVjJMUjByeldFMjR3?oc=5",
-   "utc": "2026-10-26T08:15:00Z",
+   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
+   "source": "Addis Standard",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
+   "utc": "2026-10-26T07:12:33Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 6.1,
+   "score": 6.0,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 344,
-  "baseline": 3.6,
-  "samples": 29,
+  "count": 1,
+  "global": 226,
+  "baseline": 3.5,
+  "samples": 30,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -325,6 +325,10 @@
    [
     "2026-10-26T20:34:13Z",
     2
+   ],
+   [
+    "2026-10-27T00:07:42Z",
+    1
    ]
   ],
   "box": [

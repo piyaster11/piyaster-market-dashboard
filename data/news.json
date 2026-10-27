@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T06:22:30Z",
+ "updated": "2026-10-27T13:18:39Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (33)"
+  "Nikkei Asia": "ok (39)"
  },
  "items": [
   {
-   "title": "Oil Prices Drop Despite Threat of New U.S. Strikes on Iran",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Threat-of-New-US-Strikes-on-Iran.html",
-   "utc": "2026-10-27T06:15:57Z",
+   "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+   "utc": "2026-10-27T13:15:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+   "utc": "2026-10-27T13:06:12Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "UPS beats quarterly expectations, raises full-year guidance again",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+   "utc": "2026-10-27T13:04:02Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic IPO Filing Calms Nerves With Signs of Healthy Growth",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-filing-calms-nerves-with-signs-of-healthy-growth",
+   "utc": "2026-10-27T13:00:02Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
+   "utc": "2026-10-27T12:58:58Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures rise as chip stocks gain for a second day, oil prices ease: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "utc": "2026-10-27T12:57:45Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
-   "utc": "2026-10-27T06:14:41Z",
+   "title": "Turkish Insurer Sinks as Top Executives Arrested in Fund Probe",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-27/turkish-insurer-sinks-as-top-executives-arrested-in-fund-probe",
+   "utc": "2026-10-27T12:55:47Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Wall St on pace for higher open as oil pulls back ahead of Fed decision",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
+   "utc": "2026-10-27T12:54:36Z",
    "tag": "FED",
    "breaking": true
   },
   {
-   "title": "How China Is Setting the Pace on Nuclear Power",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-27/how-china-is-setting-the-pace-on-nuclear-power-video",
-   "utc": "2026-10-27T06:08:02Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Chinese brands drop soccer star Kylian Mbappe for 'offending' nation",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVIycFhJd2JnQ091NDY4QXFhdUlYZlQ0UGN5WnR3eVltb21vaXY3S0Z5UFpsZEhEb09rNFJjNWg3WW1nRnlnT3Z0R0Zib3hKNEVIQjVhY3hsekJkWEg5bkpwbHdQVzI4OXVncmVGY1c5UVBleGx2eXhNZE1peW9HOWxWOFFWcmJKaURKMHcwN296SnFwTDlET1MzLXBxY1ZCSGQ0YS1DU2Vnc3M?oc=5",
-   "utc": "2026-10-27T06:05:00Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "JSW Steel's Jayant Acharya on India Steel Demand",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-27/jsw-steel-s-jayant-acharya-on-india-steel-demand-video",
-   "utc": "2026-10-27T06:03:26Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Indonesia-Singapore spats escalate over haze, MSCI",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSUFzcGFja3pSV21yVzVzendBanZtWnZ0a281WkZOUjdRcFBzMEtkU2Zpd3BHYzdpWFJDR1pEczY4OTF3VTNHOUI3anFIYmRXVHM0dzRRZWlmemk3bFBkUF9NMXJrYW1NaHFZbnNvNWJPelozdFYwVVd1QmJaVnhBZGhKR3owQTNibnh6QXBKcFZYcUlNUFZnMzN5N1B3Vk5TVlRTNERJd1pCZw?oc=5",
-   "utc": "2026-10-27T05:42:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+   "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-   "utc": "2026-10-27T05:30:10Z",
-   "tag": "MARKETS",
+   "link": "https://www.cnbc.com/investingclub/2026/10/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "utc": "2026-10-27T12:51:16Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Anthropic IPO: Who Can Subscribe and What Are the Risks?",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-27/anthropic-ipo-who-can-subscribe-and-what-are-the-risks-video",
-   "utc": "2026-10-27T05:12:42Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+   "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-   "utc": "2026-10-27T05:09:59Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-10-27T05:08:27Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Pandora Bets on Vietnam With New $150 Million Factory",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-27/pandora-bets-on-vietnam-with-new-150-million-factory",
-   "utc": "2026-10-27T05:04:48Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan struggles to attract foreign nurses amid staffing crunch",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTFg1QUlxeURmN19JbG5VZ2xtZEs1WFpwSUhIejdGM3o3Nlg0QnBxZlNnbVJvSnB1OFlIMFM1cXMtNHRwVF9FcEVjcWlWdEVGcVVaSWFlMEgzOWRWU3dNVklCQk9KdU0xbTRQVENVWEw0eXdtb3VSal95MnB0eGZtNnhsZ3kyTFNhQUhHRlZvN2hWTFdfcUtFWXFiQXFuWm1TWHpSOHZPcTR2ekk?oc=5",
-   "utc": "2026-10-27T05:03:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "UK budget: Markets on watch for new finance minister's plans",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEp6MlpsSWVwcGlKWklQMml1c09YQURUdzNmallBSE9uemVQLXZyeDZRTjFIRHJJbldoV1RjRTB2dkE2N091eHVVdXdGeWpxdm82czMtVEZ5eXdGTWR0MHlsNjgzeWd0c3NlNDZISGxnX2MtTHZkLWFFTkxzemlhS21tcUZFaWhaNkFmaGliZ3lGbUNpTk9GOThqWW1BMFlESmVBWmF5QmJoVGhJLTdrVnhSVnpQZw?oc=5",
-   "utc": "2026-10-27T05:02:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Johannesburg’s Infrastructure Decay Risks Driving Multinationals Out, Busi Mavuso Warns",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-27/mavuso-joburg-infrastructure-risks-driving-business-out-video",
-   "utc": "2026-10-27T05:00:37Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Morningstar CEO Kunal Kapoor on making career choices that help you grow",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/video/2026/10/27/morningstar-ceo-kunal-kapoor-on-personal-growth-and-career-choices.html",
-   "utc": "2026-10-27T05:00:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Investcorp Joins Consortium for Saudi Firm Even as Houthi Attacks Intensify",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-27/investcorp-joins-consortium-for-saudi-firm-even-as-houthi-attacks-intensify",
-   "utc": "2026-10-27T05:00:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Artificial intelligence",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNE9ubm5qWmlLTnZzSkVmNTNJWjUtcWVUUnpSOFE5dlFXNEYyc2NLUUE1YVFDdjVtcjJQV0FPaVFmZEROdE1ZZlFpZjhiRk1BWHU3T05UYktIeDZzTDZOa2I5bkJ6eGpEOHNBQVhoUVd4UWRoUmc?oc=5",
-   "utc": "2026-10-27T04:52:27Z",
+   "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+   "utc": "2026-10-27T12:50:13Z",
    "tag": "AI",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Stock futures are little changed after Wall Street starts the week on a winning note: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-   "utc": "2026-10-27T04:45:39Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Jio Shares Indicated 22% Higher in India Gray-Market Trading",
+   "title": "Russia's Oil Exports Hit a One-Month High Amid Baltic Rebound",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-27/jio-shares-mukesh-ambani-india-gray-market-trading",
-   "utc": "2026-10-27T04:43:45Z",
-   "tag": "STOCKS",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/articles/2026-10-27/russia-s-oil-exports-hit-a-one-month-high-amid-baltic-rebound",
+   "utc": "2026-10-27T12:38:20Z",
+   "tag": "OIL",
+   "breaking": true
   },
   {
-   "title": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
+   "title": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-   "utc": "2026-10-27T04:40:30Z",
+   "link": "https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html",
+   "utc": "2026-10-27T12:33:52Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+   "utc": "2026-10-27T12:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Ras Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Ras-Tanura-Fire-Follows-Attacks-on-Aramco-Offices-and-Near-Shaybah-Field.html",
+   "utc": "2026-10-27T12:30:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
+   "utc": "2026-10-27T12:28:52Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Here are Tuesday's biggest analyst calls: SpaceX, Apple, Broadcom, CoreWeave, Palantir, Intel & more",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/biggest-calls-tuesday-on-wall-street-include-spacex-coreweave.html",
+   "utc": "2026-10-27T12:26:35Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Why SoFi’s stock is soaring after earnings",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
+   "utc": "2026-10-27T12:21:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Frozen housing market sends remodelers mixed messages",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
+   "utc": "2026-10-27T12:20:59Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+   "utc": "2026-10-27T12:20:36Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/27/inherited-ira-taxes-10-year-rule-roth-conversions.html",
+   "utc": "2026-10-27T12:15:01Z",
    "tag": "MARKETS",
    "breaking": false
   }

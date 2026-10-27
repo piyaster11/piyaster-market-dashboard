@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T06:22:54Z",
- "level": 49,
+ "updated": "2026-10-27T13:18:54Z",
+ "level": 47,
  "band": "Watch",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   48,
+   50,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   4,
-   2,
+   0,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,14 +90,25 @@
  ],
  "headlines": [
   {
-   "title": "Ebola index case evacuated from Abuja to Switzerland",
-   "source": "The Nation Newspaper",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSzI0aGJMYU5OX0JaWkxGVUcwc0JEUTJuQXJHR2ZVZlI2NXB4bkpmTnBQczJ1c0ZNekpEN0tMTXJsLTVaZkxNNTdLd0dZOENFU0JJSlBZZWZNUkpIMDlRUEJIQnBDbVpjajJUU2RSQ1ZQT0QyLVR3d3ozZFpXWk92cjFfMFVaLVRHQ0lxN201em3SAZABQVVfeXFMTksyNGhiTGFOTl9CWlpMRlVHMHNCRFEybkFyR0dmVWZSNjVweG5KZk5wUHMydXNGTXpKRDdLTE1ybC01WmZMTTU3S3dHWThDRVNCSUpQWWVmTVJKSDA5UVBCSEJwQ21aY2oyVFNkUkNWUE9EMi1Ud3d6M2RaV1pPdnIxXzBVWi1UR0NJcTdtNXpt?oc=5",
-   "utc": "2026-10-27T04:43:47Z",
+   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
+   "utc": "2026-10-27T05:59:49Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 8.7,
+   "airspace": false
+  },
+  {
+   "title": "Ebola index case evacuated from Abuja to Switzerland",
+   "source": "The Nation Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLTdyVjVYcWZkXzJXWDdxY1BZekd6dTQ1dGVhNjE5YXhFaEtENlhBZUREeXNLb1AyY1U3RjVhdE5PbFFpOEtVZGswelQyUWNLelMyZHQ2TFhqaWRyZ0pyZUtoRkhTN2ZXd3ZITmVMU0tUOUlIbW9aM015a2JDWTVzU21QR0wxdFhoZ2JF0gGQAUFVX3lxTE5LMjRoYkxhTk5fQlpaTEZVRzBzQkRRMm5BckdHZlVmUjY1cHhuSmZOcFBzMnVzRk16SkQ3S0xNcmwtNVpmTE01N0t3R1k4Q0VTQklKUFllZk1SSkgwOVFQQkhCcENtWmNqMlRTZFJDVlBPRDItVHd3ejNkWldaT3ZyMV8wVVotVEdDSXE3bTV6bQ?oc=5",
+   "utc": "2026-10-27T04:22:42Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -108,18 +119,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.8,
-   "airspace": false
-  },
-  {
-   "title": "US-Brokered Truce Begins in Russian-Occupied Oleshky Amid Uncertainty Over Evacuations",
-   "source": "Kyiv Post",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FRUxnQVZPLW53NVNYZDZYbUFFYVNHaEY2dmRTM292WE1VTWhLNnNYdzZBM2gyTFJNX09NSjVlN2JrVXJ5UzRORkN1OA?oc=5",
-   "utc": "2026-10-27T01:06:57Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.8,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -130,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -141,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -152,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -163,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -174,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -185,7 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.0,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 4,
-  "global": 128,
+  "count": 0,
+  "global": 411,
   "baseline": 3.4,
-  "samples": 32,
+  "samples": 33,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -337,6 +337,10 @@
    [
     "2026-10-27T06:22:54Z",
     4
+   ],
+   [
+    "2026-10-27T13:18:54Z",
+    0
    ]
   ],
   "box": [

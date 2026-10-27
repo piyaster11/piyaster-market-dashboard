@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T19:28:01Z",
+ "updated": "2026-10-27T23:49:34Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   58,
+   42,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   6,
+   7,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   0,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,23 +90,23 @@
  ],
  "headlines": [
   {
+   "title": "China sends Liaoning carrier strike group through Basilan Strait on route to the Pacific",
+   "source": "Howl.Link",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE81S2xDZ0RHMG1ZQ0R3ZlgxenJDUEJCV0JGcUpDV1RUQmMxLU9wd0JGNTE5QlRWOU0yWl80?oc=5",
+   "utc": "2026-10-27T23:05:00Z",
+   "tags": [
+    "MIL"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
    "title": "Canelo Maintains Saudi Fight Despite Embassy Evacuation",
    "source": "boxingnews.com",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tX1I3dTBJT21GbnkzZkNBLXBkR2luVHl6cWcwN1hPNXBWd3BlVHJjcUVacXFXeWpVYXlJZ1NFWVEzMEFIU2Y1X1h4YVp3YW1hSW9kNjlScWFuUmhsR0tEOVBzUTVwNUZ0d0pOSUQ4cl9XSFU?oc=5",
    "utc": "2026-10-27T18:01:00Z",
    "tags": [
     "EVAC"
-   ],
-   "score": 5.9,
-   "airspace": false
-  },
-  {
-   "title": "Environmental disaster in Hormuz: after tanker attacks, oil spill impacts the coasts of the United Arab Emirates",
-   "source": "Noticias Ambientales",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOHBCVlJJZ3lsT1BqTTluRXNkVENZZ3E5Tmk5ZHRmUVotTGctcWE3MktKZFk1Qm9TdXNGbXBqTlAtb2xlT0RNbFFRZXhQUmg2SzhwTUgzamN5bF9nRU5xUHNDNmtVeklGNk1ZVmFDblRNVE1kajdtcmhtVExwRUxQUEVDMGY4MWQ5cEU4cl9CTXAtZ2lGUVpkTUtkOXVBZEY1RUVHMlUxUS1VZ0I5VWJRUXBuRlVjYnJYcnNobEswa0QxX3FpSC1VN2dBOFFXanJ4d0JXZ1Bra2xrZXZEd2drNkRnWV85R0hsYnA2VXhxa9IB9AFBVV95cUxNdGkxLWlFQ3NNdVhkbjhlY0hZQ0NFeVhwTjVFQ2kwN3U2c0FCdmZoRVlpNXp2VVVxU1RLRnM5Wjc4SVpIZGwtMXVxaXp1QVNTWUtfUjZ4WXFmOGgzam5ac25TdE5za2FVbkRHZi1pRU91UEJnbF95NTNQMXFTUkl3S0xsMEM5cmw1ekJsbUVfck5VTEt5NDFzWXJDVTVnSktGUjBKWEkwVTZJS2hMa1BDTWNqNVVwQXZBSS1JNEI3VWZNWHNLTEhoemFnam9QTWljdmE4UWh6SUdKazVPV0V5V1BCaDJzSVZuQzV6aFpKMllPYk5u?oc=5",
-   "utc": "2026-10-27T14:40:31Z",
-   "tags": [
-    "HORMUZ"
    ],
    "score": 5.8,
    "airspace": false
@@ -119,18 +119,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
-   "airspace": false
-  },
-  {
-   "title": "Iraq's tanker purchases could cut oil discounts, but Hormuz risks persist: Analysts",
-   "source": "Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tUjVFZkFfOVdhalBoS0lzRFQyejFoUm5zaGM3OXUyYnZTWmdZSHdpVEx2N0I5bndWcXYwSW1EdFJjTzlfRlBnU05ZVER0Z2xfMzQzQkw4YjBCR3ZFX292dkUtbi10VmFt?oc=5",
-   "utc": "2026-10-27T12:07:03Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -141,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.4,
+   "score": 8.3,
    "airspace": false
   },
   {
@@ -152,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -163,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.3,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -174,7 +163,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.2,
+   "score": 5.0,
    "airspace": true
   },
   {
@@ -185,26 +174,37 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 4.9,
    "airspace": false
   },
   {
-   "title": "🇮🇷🇺🇸 Iran doesn't need to close the Strait of Hormuz to break global shipping. Brandon Weichert spoke with maritime analyst Sal Mercogliano, who estimates that 5% to 15% of ships passing through Hormuz are now being attacked. Yet tankers keep sailing.",
-   "source": "X",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaWTEtdGxzbTRyNEpuWnAyQ1pQekUwLXljdzJWYjI0bk01THU0Y1NycGpvemZLQk50MFhuZkZmd1NwX2hVSDl3TGdCQTVKWTQ3M3FBazBJWGJWNWdzYUVXeTlhaVYxWUFFNGhpWg?oc=5",
-   "utc": "2026-10-25T22:58:14Z",
+   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
+   "utc": "2026-10-26T20:48:45Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.1,
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Ebola: Why Nigeria approved patient’s evacuation to Switzerland — NCDC boss",
+   "source": "The Nation Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGoweU54bjBramt2dVRNeGdHZjhpd3dPVW91aFlnVkZSNVFjUHpPUnlhbUd0SW5saUJhci1sYWNYY0p0UDBzUHAwZWNzRk9ScjRTWHNJZXFWbXFPdnB3UWxhOEU0YkYzWWF3dU94UUxidzhXN0lSTUI0dFgyX3lrc0c5OV9ha0lPZXlXX0dMaGVlVmdwR3ZXNGY2eHphamxhQW9XTNIBqgFBVV95cUxQSmxQbGVQMlFWM3NjU1h2anhYLVFNTjgwOHE0REFJb09jOHZ3ZUxCYnNLQnBfdkVUcUR4TVROTmMwNEF3WTdVelNBS08xYW5UQ1dMZkI3ejB6V1VDY0x5X0psWklRXzdEZVJKVUF2a2Z1eUQ0YTZ4RGNHVWtPNUJOX0Jlb0E5ZTRYVWNmdzBnekptY3llNUsxMkdHTF9NWUhxanR2N2I0TnJrUQ?oc=5",
+   "utc": "2026-10-26T20:09:54Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 4.8,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 391,
+  "count": 0,
+  "global": 282,
   "baseline": 3.3,
-  "samples": 34,
+  "samples": 35,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -345,6 +345,10 @@
    [
     "2026-10-27T19:28:01Z",
     1
+   ],
+   [
+    "2026-10-27T23:49:34Z",
+    0
    ]
   ],
   "box": [

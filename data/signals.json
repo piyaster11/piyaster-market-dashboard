@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T05:51:51Z",
- "level": 50,
+ "updated": "2026-10-28T13:06:41Z",
+ "level": 53,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   54,
+   37,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   6,
+   8,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
-   0,
+   4,
+   3,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,21 +90,65 @@
  ],
  "headlines": [
   {
-   "title": "Cyclone Arnab: 100+ Trains Cancelled, Flights Suspended As Storm Hits Andhra Coast",
-   "source": "Times Now",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2pIZU9HRXk5V09RZERrNl94Z3hHUGluLVhVUjRNQXQ0ZkppSi1OZVZ0NkJ6clIyeUoxLWsyMDVKbzNLeW56ODJadFVoVDlBM1NGUTc5ck5FLU9CVEVFOUhTWUpmOGN6dnFFWmYwVDJRbkZlMHNpa3dOOWRtR2R2THhFaS1jTFd2X2Y2Q3cwQm44eHRXYzBiTFJBVnBtQmtSZXBZcVFVX2tZTlFBVjBqRkNLV1BIRzdEazRrRS02a0pnS2VnM2VzUkpGVdIB0AFBVV95cUxNZ1JCcUtpdUFYbnlRLTVQZmRlM05QVHFEV0Q0OXVmX3ZXU2t1X0pUUFpYYXQ2emxZWmt6OHJzU3Yta1lVTkM2a1Q5cjVWYnBXU2tIeGVaZEhTbkc5eHc5bzcyR0NQdGdBN3hfR1FTX2QwTEp5ZXNiVlM4Q0xjb05NcmFLODdoYndZcUpnaTQxdlJvYktkTFhfNkxLSGxmQkVfQ0xxalNQWWtsOU1zUnJJODh0eUhOcHk5WExjYnI2ZW01ZWhSVGRmaHpwUEUzMDNR?oc=5",
-   "utc": "2026-10-28T03:21:23Z",
+   "title": "Hormuz oil spill forces closure of UAE beaches",
+   "source": "Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazhNdmVtWjJXOVNEN2UzWEV1TnhGd051RzRLVHBkdTV4T2RrMk9kdURUaUFfWDdOUTB3cEdjZzhSN09LdThZVVpsWmMtSFhNa2VtZTczOG8zendjQzhqSWFrUE5YMHNXaXkyckROZXBVYjJzdTZ4QzUyWENQOFVwSW5rak53WkFFcHhFYW14WEZmc3g1bEw1QzkxRUZKUVnSAaQBQVVfeXFMT1FZYlViaTM4aFJfVkN5bHdjTm95MGxfcGtaVTM2WmZiUXNxTWFRY0hlbnJMcklZZ0R1T0lRTG5wYXk1SEZxbERBWXFhOEt1RTQ1ZTU1S1Y3eFJSRHNzU3JIM3U0cmJRaGw0dkFHdUcyZ2ViejhTekpMQ2lSX0M2ZlYyVzY4RHRjQ0NQVWs3VmsxYmhQWDBfWERCc1VoVHlXWTJMcHE?oc=5",
+   "utc": "2026-10-28T11:15:00Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Houthis Call for Evacuation of Aden Airport Claiming Saudi Arms Shipment",
+   "source": "Daily Beirut",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkMwUEpwSUZiSzRybkdBUTN2cXdpdlFWNnhDV3VON2dJVzBobnV3bHNUdFlWR3dIY0NZb1JfR2xMWktGY0VpN2tJdzA4SDdFNm9oTmlWWmxBc3g3elJLYk9ZTVRfZGtmc2E5QnJFUEQzT2NrTFZScmdlRmN4dUxxSXNSTVFpNTdqRUExS2hVdEprUmE5T3JtN3RhRHZzOEs3?oc=5",
+   "utc": "2026-10-28T11:13:32Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "WHO says Nigeria has no active Ebola cases after patient is evacuated to Switzerland",
+   "source": "2 Minute Medicine",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNmhjcU9zeW52OXZFVFFTQWFSeGREUFlyUzdvMFp6d0haTVR3U0JWSlhpa0lhWFdibmFSVzRsSzB3aFo2akJLWUpoSFh6QWpVNllHNEg2TEVOQVhuT0Z3YzItTWtRSGtacENUQXJ3aE1La1VGa3ZGc29ST0VEVDFvUFd5dEhhSzQ4WUZ0T1RkNFR4QXc2cnB3V3MxTk5oZ0YwVUNmM3JTVGFEWVBuUmlFSlkteFRMSU96?oc=5",
+   "utc": "2026-10-28T11:03:45Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Hormuz oil spill forces closure of UAE beaches | AJ #shorts",
+   "source": "Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ES0ROWm9HWmtKR0N1X05oNG03YmpwVlRhQTA0S0R4QktScFBBWVpyVjB2ZnYwUUJSWE44WUE4RW16YU1ObFB0UGVGdXlndUplb1QtWmgxOGthdDBka0pIcW9fbUNrMVXSAVxBVV95cUxPVkprMlV0WmxVRXFWZjhiOUxWb1BfbzdaT0oxNExzbVAyU1pFclJscVZWUXBFbDVtVzNHdnZ4b09VdkprSmlSaFhlUzhBNHZiaVRJckYzRmRHX1lqOQ?oc=5",
+   "utc": "2026-10-28T10:20:00Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Pakistan Closes Airspace to Taiwanese Airlines in Support of China",
+   "source": "ProPakistani",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0JzTmM2LXhfODZDMDRqUzd5TTNRY3VGU2VyblZ5SjhfQ0twQ3ZFZWloVlZNWTk3TksyNlVnSTJ6UUlqUDNNNnotZWZLaFN4Rm1BLU50NXlRbXlOTy1hYnVDUVpKbW91V01qZzNLMEZFTTNzVHVUNEhLMFBVQVVyRENEbEUzOUdXY3RIakhqbXEySGdoWUx5S1Y3THN2WDl2Yi1DcdIBqgFBVV95cUxQMnZ3bmRkSFZzcUhMYzV2TDlsZWF3dnJMYXdTcmF4VkhIZ3FlMV9DdFBGZ0pYeFZUV3B1YllOMFBRWGpZYjRfUWIwR3dhZUYzR0Fkd0dMMm1iZXh3RWdSdUh2Q1N5X0tkaE1vcndYa0IyWm5yeHJBXzdJWllJMUNpS1JCSjcySDhwclR3TFlBa3gtdTlwVElsMUUtSnZaSGlybDMydU9YbWVRZw?oc=5",
+   "utc": "2026-10-28T09:47:42Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 5.9,
    "airspace": true
   },
   {
-   "title": "The Niger: DIEM-Risk analysis of the impact of the Strait of Hormuz crisis and the El Niño phenomenon on agricultural households, August 2026",
-   "source": "ReliefWeb",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUGJQRHF1cnhZdHA4ODlIXzF5Mm1WSVBNbkdJeG92X3hoYjc0ZlF0WWNpRDBuM2J5TWo5NVpKbVA5UExyeU5lVl8zSjZ2aUE3cTdFZGpYaGNsWWxLcXFCLXRJcF95anNQUDlCSjYtWUdGQzR3bzE5MEloSUNRcTZKcG1COWhqTFFISF9RdGhvMmgyNFlVLXp1UEpfeGNBQmZsTk9fbFZESGJsd2NNVFJPcUlnYWpPbG1Iek1pN1lqR29CQXhxOVZEWnMxQjIyVG10bGxIZHRfZFlBY2N0VldZ?oc=5",
-   "utc": "2026-10-28T02:47:07Z",
+   "title": "Iran Adds $24 Billion Precondition to Hormuz Reopening Plan",
+   "source": "https://houseofsaud.com/",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GOWVsQjhJdmJUR0t2WHgxLTdjekRQRS1hamVSS005TUJ2RGp5T0c0b3VOTDRYMVhHeE9Qcmp1bzFGYnNuVkN5a1ZpTk5ham4wQmxSeGdGU0xUanM4REpJTG1yc0Z0T244XzVGcVd0U1RuZ1B2?oc=5",
+   "utc": "2026-10-28T09:43:30Z",
    "tags": [
     "HORMUZ"
    ],
@@ -119,18 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
-   "airspace": false
-  },
-  {
-   "title": "Environmental disaster in Hormuz: after tanker attacks, oil spill impacts the coasts of the United Arab Emirates",
-   "source": "Noticias Ambientales",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOHBCVlJJZ3lsT1BqTTluRXNkVENZZ3E5Tmk5ZHRmUVotTGctcWE3MktKZFk1Qm9TdXNGbXBqTlAtb2xlT0RNbFFRZXhQUmg2SzhwTUgzamN5bF9nRU5xUHNDNmtVeklGNk1ZVmFDblRNVE1kajdtcmhtVExwRUxQUEVDMGY4MWQ5cEU4cl9CTXAtZ2lGUVpkTUtkOXVBZEY1RUVHMlUxUS1VZ0I5VWJRUXBuRlVjYnJYcnNobEswa0QxX3FpSC1VN2dBOFFXanJ4d0JXZ1Bra2xrZXZEd2drNkRnWV85R0hsYnA2VXhxa9IB9AFBVV95cUxNdGkxLWlFQ3NNdVhkbjhlY0hZQ0NFeVhwTjVFQ2kwN3U2c0FCdmZoRVlpNXp2VVVxU1RLRnM5Wjc4SVpIZGwtMXVxaXp1QVNTWUtfUjZ4WXFmOGgzam5ac25TdE5za2FVbkRHZi1pRU91UEJnbF95NTNQMXFTUkl3S0xsMEM5cmw1ekJsbUVfck5VTEt5NDFzWXJDVTVnSktGUjBKWEkwVTZJS2hMa1BDTWNqNVVwQXZBSS1JNEI3VWZNWHNLTEhoemFnam9QTWljdmE4UWh6SUdKazVPV0V5V1BCaDJzSVZuQzV6aFpKMllPYk5u?oc=5",
-   "utc": "2026-10-27T14:40:31Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.4,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -141,18 +174,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.0,
    "airspace": false
   },
   {
-   "title": "Iraq's tanker purchases could cut oil discounts, but Hormuz risks persist: Analysts",
-   "source": "Rudaw",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tUjVFZkFfOVdhalBoS0lzRFQyejFoUm5zaGM3OXUyYnZTWmdZSHdpVEx2N0I5bndWcXYwSW1EdFJjTzlfRlBnU05ZVER0Z2xfMzQzQkw4YjBCR3ZFX292dkUtbi10VmFt?oc=5",
-   "utc": "2026-10-27T12:07:03Z",
+   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
+   "source": "Addis Standard",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
+   "utc": "2026-10-27T11:52:53Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 5.3,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -163,48 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.0,
-   "airspace": false
-  },
-  {
-   "title": "IRGC Declares Strait Of Hormuz Closed After Strikes On Four Tankers: how 5 outlets framed it",
-   "source": "NewsCord",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ2RxY3A2VVg1bU5BaE03azBkaThKWGdqUGRaQ1lhdEF2ajFZX1VhSU82MVJlR1VKc2NHQS1hSW1ET3JlQUlVWEVRendFSFVJYkMtajRrTVR5RklNZ0NrVnRuNGFNZ3RXdFZWT1B0R01USnBBWkpaM1o3V3BScmU0R3NTSm1SNjRvSEw2d2FubXYzTGdIazBCU0tZdEIxTWtUWXRBZmhCNGpoaHI3STNaU1FoMlVnUUJWZGJYZHh2eXdGT3FKNGFTdFBaQkxIREVoeVZSV0tpR2g?oc=5",
-   "utc": "2026-10-27T05:24:49Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.0,
-   "airspace": false
-  },
-  {
-   "title": "Ebola index case evacuated from Abuja to Switzerland",
-   "source": "The Nation Newspaper",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLTdyVjVYcWZkXzJXWDdxY1BZekd6dTQ1dGVhNjE5YXhFaEtENlhBZUREeXNLb1AyY1U3RjVhdE5PbFFpOEtVZGswelQyUWNLelMyZHQ2TFhqaWRyZ0pyZUtoRkhTN2ZXd3ZITmVMU0tUOUlIbW9aM015a2JDWTVzU21QR0wxdFhoZ2JF0gGQAUFVX3lxTE5LMjRoYkxhTk5fQlpaTEZVRzBzQkRRMm5BckdHZlVmUjY1cHhuSmZOcFBzMnVzRk16SkQ3S0xNcmwtNVpmTE01N0t3R1k4Q0VTQklKUFllZk1SSkgwOVFQQkhCcENtWmNqMlRTZFJDVlBPRDItVHd3ejNkWldaT3ZyMV8wVVotVEdDSXE3bTV6bQ?oc=5",
-   "utc": "2026-10-27T04:22:42Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Iran Expands Tanker Blockade Beyond Hormuz",
-   "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWNxOWtxVTZ3d3VxOE5SNVpRUWpXZmd1aTZqRzVlTEZfUVlBazhwTmZuVm5pM012YTR2V0pUdXNaQUg1NnV3amo4VGhjQko3WlBsb1hIM1ZhSFJzamtfajdsZFdiUEpPdXRWR1VneThNbkxiOXg3WEZtTVNYZlloRjI5ZGk?oc=5",
-   "utc": "2026-10-27T01:29:53Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.8,
+   "score": 7.7,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 156,
+  "count": 4,
+  "global": 396,
   "baseline": 3.1,
-  "samples": 37,
+  "samples": 38,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -357,6 +357,10 @@
    [
     "2026-10-28T05:51:51Z",
     2
+   ],
+   [
+    "2026-10-28T13:06:41Z",
+    4
    ]
   ],
   "box": [

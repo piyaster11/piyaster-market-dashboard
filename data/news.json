@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T05:51:31Z",
+ "updated": "2026-10-28T13:06:12Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (38)"
+  "Nikkei Asia": "ok (32)"
  },
  "items": [
   {
-   "title": "Weaker Euro Boosts European Exporters as Earnings Season Peaks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/weaker-euro-boosts-european-exporters-as-earnings-season-peaks",
-   "utc": "2026-10-28T05:49:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Ambani Sheds Tears as India’s Richest Family Hails Jio Debut Pop",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/ambani-sheds-tears-as-india-s-richest-family-hails-jio-debut-pop",
-   "utc": "2026-10-28T05:42:25Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-   "utc": "2026-10-28T05:28:13Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/copper-wavers-near-two-week-high-as-traders-look-to-fed-meeting",
-   "utc": "2026-10-28T05:26:09Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Japan's Nidec misses deadline to obtain unqualified audit opinion",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTRuZlhhYVl3c3JBV0lyb1FPejVEeWNuck9LR0JrTVN0UW9LcjExYUpyMV9QSU5DMTI4bV9RcXBIUmxEdjlsXzN3SjdrMXp6TXJlcU9oVXB0QzhTSC00NEk5eVNGdDkyMHloV2hiRThYeHZNazlWampRbDY3NmxmcTVoV2t6MG5SblVyU0Y5Z2VJR0hyUHE3TmRqZU8yeFNIN3Uzc1pZRFpUSVdjdXJF?oc=5",
-   "utc": "2026-10-28T05:22:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japan Retail Traders Shrug Off GMO Hack, Says Central Tanshi FX",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/japan-retail-traders-shrug-off-gmo-hack-says-central-tanshi-fx",
-   "utc": "2026-10-28T05:19:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+   "title": "At least 64 people dead in high-speed Spain train crash",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
-   "utc": "2026-10-28T05:16:41Z",
+   "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+   "utc": "2026-10-28T13:01:49Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/US-Lawmakers-Warn-Banks-Against-Trumps-Russian-Diesel-Deal.html",
+   "utc": "2026-10-28T13:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+   "utc": "2026-10-28T12:59:36Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's next",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+   "utc": "2026-10-28T12:54:30Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
+   "utc": "2026-10-28T12:54:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-   "utc": "2026-10-28T05:10:36Z",
+   "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
+   "utc": "2026-10-28T12:53:08Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
+   "utc": "2026-10-28T12:52:41Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as affordability looms over midterm",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+   "utc": "2026-10-28T12:49:09Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+   "utc": "2026-10-28T12:48:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+   "utc": "2026-10-28T12:45:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Former Fed President Harker Says Policy Is Not Restrictive",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-28/former-fed-president-harker-policy-is-not-restrictive-video",
+   "utc": "2026-10-28T12:39:27Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+   "utc": "2026-10-28T12:37:51Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Kalshi CEO Eyes Guardrails After Studies Detail Customer Losses",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/kalshi-ceo-eyes-guardrails-after-studies-detail-customer-losses",
+   "utc": "2026-10-28T12:35:22Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
+   "utc": "2026-10-28T12:34:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Why China is desperate to ship cars outside of the country",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
+   "utc": "2026-10-28T12:30:02Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+   "utc": "2026-10-28T12:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+   "utc": "2026-10-28T12:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bahri Profit Hits $1.36 Billion as the World Scrambles for Tankers",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Bahri-Profit-Hits-136-Billion-as-the-World-Scrambles-for-Tankers.html",
+   "utc": "2026-10-28T12:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+   "utc": "2026-10-28T12:27:07Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "UAE bank Mashreq injects $125m into Hong Kong business as China ties deepen",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb3loM01RNUowZEszdjBJMWFQQmdsX21ELUNwZXN2NEhXY2JJTk1LSVpNLUE5NU9Xd044NEk3NndCbkFmM3drMFFoY21lUkIyd3ZsUzdIc09Hc3ZfM2daQnhuSGx1dmpzakxwSGJKNTl5c1J5WUt3MjJGOTlVdmVrQ3BiVlBHMFkzdTVrTU1qeGdjYlh0QlAyVDNaX3dFdGo3a3RFTjdrN3hmYXlXMHZvU1VqTDRyRjFsRkpiT2tSblU?oc=5",
-   "utc": "2026-10-28T05:02:00Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Your Portfolio Reset: How Investors Should Think About The Next Decade",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/your-portfolio-reset-how-investors-should-think-about-the-next-decade",
-   "utc": "2026-10-28T05:00:20Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Rome’s Mayor Rules Out ‘Venice-Like’ Entrance Fee for Tourists",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/rome-s-mayor-rules-out-venice-like-entrance-fee-for-tourists",
-   "utc": "2026-10-28T05:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-record-ipo-video",
-   "utc": "2026-10-28T04:59:56Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "EXCLUSIVE: China's CXMT to start advanced AI memory production despite poor yields, sources say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDFWeWo1UVJwSDh4OXB5RnJyVVhXaG1zNHZIMlMyZmpaV0FEU3llN21sZG05OGpyUEZtR3FuTTJ6Y2pBZzEwWVU0dFRPSkExVFRfUGg0SFpzb2tLWDlObGFIQ3Axa2lodWgySngtb2ZEMUFxcXlwZUJnbmdNcTZCalJtSDV5TUpTM282XzFldlZTM012WFRhc0hQamIwOGMxUlpYOEsxUDh1UVkyWjE0aWh2OVdFOTN1cEVKVER0RmE4eEhudGc?oc=5",
-   "utc": "2026-10-28T04:50:00Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "China Robot Stocks Extend Rally With Unitree Earnings in Focus",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/china-robot-stocks-extend-rally-with-unitree-earnings-in-focus",
-   "utc": "2026-10-28T04:41:33Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Korea Financial Firms Hit By More Hacks as Asia Breaches Grow",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/korea-financial-firms-hit-by-more-hacks-as-asia-breaches-grow",
-   "utc": "2026-10-28T04:40:23Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Reliance's telecom giant Jio rises in debut after India's largest IPO",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzhQWjZKMjNuSW4tYWFPVWxTaHJyNDc1X1JhSDAyZTFQektQZ1pQMTJCWkZzV3V1ZXRxMWVaWWZqWVg2a29IMDYtUTFvamY2T05FT090b2FvODQ4RHNvaDRjNGdYMzVUV251cHVEU29jeWkweV9MRFhKQk15SDZjd2ZTdFUyLURoZWdrNjlFaEpDbFJiUWFBSmZZZ0NDc0lydEszNVZHUTVCdk53eHcyWEh6VVE?oc=5",
-   "utc": "2026-10-28T04:38:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+   "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-   "utc": "2026-10-28T04:29:20Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "PHP/USD: Marcos Pledges to “Do All We Can” to Defend Philippine Peso",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/php-usd-marcos-pledges-to-do-all-we-can-to-defend-philippine-peso",
-   "utc": "2026-10-28T04:28:44Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Fortescue Says Iron Ore Deal With China Must Protect Australia",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/fortescue-says-iron-ore-deal-with-china-must-protect-australia",
-   "utc": "2026-10-28T04:17:09Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-   "utc": "2026-10-28T04:15:20Z",
-   "tag": "FED",
-   "breaking": false
+   "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+   "utc": "2026-10-28T12:25:49Z",
+   "tag": "WAR",
+   "breaking": true
   }
  ]
 }

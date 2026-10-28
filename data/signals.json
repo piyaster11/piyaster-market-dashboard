@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T18:54:15Z",
+ "updated": "2026-10-28T23:17:23Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,14 +12,14 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   52,
+   46,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   7,
+   6,
    15,
    15,
    "3 pts each"
@@ -90,21 +90,32 @@
  ],
  "headlines": [
   {
-   "title": "Brace for a Flood of Oil as Soon as Hormuz Reopens",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOelUyU2ZzNVlHdGNFTDQwMHJSTDVTN2w0eFJGY08wSUhOS0pvYi1EM3lFQWIzNDBHdHBkbGlLTEJvWHFVbjJ1ZVQ1ZnVCQjF1ck9aUXdJR2sxTXVoUGdkdno3cEZoSTBZRWNmWlBlbDlyQmZCYzN5SXNQY09qUFd1S2hTVms1NDA?oc=5",
-   "utc": "2026-10-28T15:35:45Z",
+   "title": "Nigeria Evacuates Ebola Patient as Authorities Tighten Travel Screening",
+   "source": "SuaraGarut.ID",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3bFRVOEFsSGtZYVZJWFhUa3h3QXFxUVNacWFEWHZDN1hsVVZRYm42ZGZVZjluMnBZOGZFZlMwcFNVczBzd2c3a3BnallES01MalRNMVpDWW5tM3dmeDFaUVZDemVnUQ?oc=5",
+   "utc": "2026-10-28T20:53:00Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 4.9,
+   "score": 5.9,
    "airspace": false
   },
   {
-   "title": "Disruption in Hormuz strait diverts steel shipment bound for Abu Dhabi to India",
-   "source": "Khaleej Times",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmZRYzVUZXJRYXlpVDYwWWZ3UFNydzdqellLRllWdElXUXg4Q05HaWRKd0FVaEZsRlJoSGxUcElWaklUOWpIVHhqTHBEaXp3VTJsUExsMXhmMTNtSXVJR2hvamp0LXk2VnppbDBNTzRnYTVrZWg5cE9pbkE4ck1qUXdFVTFBdUJSTGVPWE1UVjZfcTdYMTZxZ3JKNkVqLTU3NkhwaWRn0gGuAUFVX3lxTFBrWENhaE82R1ZCa3dHOWJsMkhtZmhhSF9MRHdWMzBNRWJXd2lVQm1WWXY4SW1BNm50TGU2Tl9MUEVrRkhmdV94dkFOYmFKQmtacWoxN0FCLTMxRGZQbndwdkVnZzNadkpmWjJRdTE0VVFmVHhKMkR5YnNrcFE3R1d4V1BCQzg5dk5vY2wwend4bzRoeGEzRUR4UTFuRWNGa2hUSkEycnhxcnZacXhRZw?oc=5",
-   "utc": "2026-10-28T13:53:04Z",
+   "title": "Saudi Arabia Under Fire: Houthis Target Oil Refinery, Defence Ministry as US Orders Diplomatic Evacuation",
+   "source": "Newsmakers",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOV83RkRrQ1BaVndMQUIzWFZIdkt6TFJtajBvVmhYZjJqQjVvaEc4THdNZFRJNl9CRmY3SmRBakV3b0x6a0tMa25iRXFVQ0xyQjJCMlM3VjdWQ3h2U2V2VU9Obk9zeTdQTU1SYWozMlNuREp1N3IzMzBGcFpBT2lYR0tGM2hUdUR4RVZSLVVsTmZTM2hWSEs0Y3ZnY3VyUUs3QlpKZF90aHZXZGpzd0pDN2RiWGJRdUVwLXozWnAtSDlwVU5lNkh6ZHJZQQ?oc=5",
+   "utc": "2026-10-28T19:52:50Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Hormuz Closure Extends Well Beyond Oil to Threaten Chinese EVs: Russell",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenFGeVI4UjJkYnYycUJZdEFQZW9jZTRPcmU5alR3dkt1N0hzS0JYZkFJNmo2NUxBRVpaUm52akNYb1RkelhuLVJNMDFKVVc3d1B3X1F3OHlwX0Q0eGE3VS1BSk1taERDQkpPblRhSzlTbXRQRm0tbWlGazBxdlVFXzhSbW10ZENVWWRfcEtqQURzY2xrYnFpOUhqUmdjSzdWTnc?oc=5",
+   "utc": "2026-10-28T19:32:26Z",
    "tags": [
     "HORMUZ"
    ],
@@ -112,25 +123,14 @@
    "airspace": false
   },
   {
-   "title": "WHO says Nigeria has no active Ebola cases after patient is evacuated to Switzerland",
-   "source": "2 Minute Medicine",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNmhjcU9zeW52OXZFVFFTQWFSeGREUFlyUzdvMFp6d0haTVR3U0JWSlhpa0lhWFdibmFSVzRsSzB3aFo2akJLWUpoSFh6QWpVNllHNEg2TEVOQVhuT0Z3YzItTWtRSGtacENUQXJ3aE1La1VGa3ZGc29ST0VEVDFvUFd5dEhhSzQ4WUZ0T1RkNFR4QXc2cnB3V3MxTk5oZ0YwVUNmM3JTVGFEWVBuUmlFSlkteFRMSU96?oc=5",
-   "utc": "2026-10-28T12:29:46Z",
+   "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
+   "utc": "2026-10-28T19:32:03Z",
    "tags": [
-    "EVAC"
+    "HORMUZ"
    ],
-   "score": 5.7,
-   "airspace": false
-  },
-  {
-   "title": "Iran-backed Houthis call for immediate evacuation of Yemen’s Aden airport",
-   "source": "The Times of Israel",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2dlajVMcElVZ1pkMFUwR09XaG9yMnFCdWtxUDFWQU9jbnBTNEZTendOYndRc2dVY2ZwbnRCWm54UjlTdndWbGlBTmRsT1hPclpyYUw2V2xRb01qbk8xWEQ4WnJEUlNjRE10SzNNYWFYRnRQeWZ5eTBOUkRFSVNnRU9PVHlqRzBYU0ZJZFlWSE5ndDJIbG5Qdm1jbGFFaXJ6VEI5Z0Z3SEpUS2M2QkVjcTZ6UWRudnl5RHc?oc=5",
-   "utc": "2026-10-28T11:20:10Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.7,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -141,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -152,7 +152,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": true
   },
   {
@@ -163,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -174,18 +174,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": false
   },
   {
-   "title": "Environmental disaster in Hormuz: after tanker attacks, oil spill impacts the coasts of the United Arab Emirates",
-   "source": "Noticias Ambientales",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOHBCVlJJZ3lsT1BqTTluRXNkVENZZ3E5Tmk5ZHRmUVotTGctcWE3MktKZFk1Qm9TdXNGbXBqTlAtb2xlT0RNbFFRZXhQUmg2SzhwTUgzamN5bF9nRU5xUHNDNmtVeklGNk1ZVmFDblRNVE1kajdtcmhtVExwRUxQUEVDMGY4MWQ5cEU4cl9CTXAtZ2lGUVpkTUtkOXVBZEY1RUVHMlUxUS1VZ0I5VWJRUXBuRlVjYnJYcnNobEswa0QxX3FpSC1VN2dBOFFXanJ4d0JXZ1Bra2xrZXZEd2drNkRnWV85R0hsYnA2VXhxa9IB9AFBVV95cUxNdGkxLWlFQ3NNdVhkbjhlY0hZQ0NFeVhwTjVFQ2kwN3U2c0FCdmZoRVlpNXp2VVVxU1RLRnM5Wjc4SVpIZGwtMXVxaXp1QVNTWUtfUjZ4WXFmOGgzam5ac25TdE5za2FVbkRHZi1pRU91UEJnbF95NTNQMXFTUkl3S0xsMEM5cmw1ekJsbUVfck5VTEt5NDFzWXJDVTVnSktGUjBKWEkwVTZJS2hMa1BDTWNqNVVwQXZBSS1JNEI3VWZNWHNLTEhoemFnam9QTWljdmE4UWh6SUdKazVPV0V5V1BCaDJzSVZuQzV6aFpKMllPYk5u?oc=5",
-   "utc": "2026-10-27T14:40:31Z",
+   "title": "India ramped up LPG output, diversified imports to weather Hormuz crisis: Union Minister Puri",
+   "source": "ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOelRuZTF1NUQydldIZGJMcmpITjBVbHNSeFg3b3FFUVRGNTZVMlNhdnhtNlZWVXk1VlJzWTVOcVpiSGJ0NHZwanVzMlFvTWNjRU5tY185bmZzc2sxMzU2cWJPVF93M0VtWVNlYlJGRld1YnRDNTV1VWlHVHNPeWk2YVR1dmgyN19qc1ppazRRd05aemNEemEzMGFtLVhhdnFkRElJMFdIMXl3QVV2SkM1bUhoUUVRLUh2MjhoWFl5bGZpRjNPOW9TdXpR0gHKAUFVX3lxTE56VG5lMXU1RDJ2V0hkYkxyakhOMFVsc1J4WDdvcUVRVEY1NlUyU2F2eG02VlZVeTVWUnNZNU5xWmJIYnQ0dnBqdXMyUW9NY2NFTm1jXzluZnNzazEzNTZxYk9UX3czRW1ZU2ViUkZGV3VidEM1NXVVaUdUc095aTZhVHV2aDI3X2pzWmlrNFF3Tlp6Y0R6YTMwYW0tWGF2cWRESUkwV0gxeXdBVXZKQzVtSGhRRVEtSHYyOGhYWXlsZmlGM085b1N1elE?oc=5",
+   "utc": "2026-10-27T08:45:25Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.5,
+   "score": 7.3,
    "airspace": false
   }
  ],
  "mil": {
   "count": 0,
-  "global": 488,
-  "baseline": 3.1,
-  "samples": 39,
+  "global": 256,
+  "baseline": 3.0,
+  "samples": 40,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -364,6 +364,10 @@
    ],
    [
     "2026-10-28T18:54:15Z",
+    0
+   ],
+   [
+    "2026-10-28T23:17:23Z",
     0
    ]
   ],

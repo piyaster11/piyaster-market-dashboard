@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T00:07:09Z",
+ "updated": "2026-10-28T05:51:51Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   56,
+   54,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   2,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,14 +90,25 @@
  ],
  "headlines": [
   {
-   "title": "China sends Liaoning carrier strike group through Basilan Strait on route to the Pacific",
-   "source": "Howl.Link",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE81S2xDZ0RHMG1ZQ0R3ZlgxenJDUEJCV0JGcUpDV1RUQmMxLU9wd0JGNTE5QlRWOU0yWl80?oc=5",
-   "utc": "2026-10-27T23:05:00Z",
+   "title": "Cyclone Arnab: 100+ Trains Cancelled, Flights Suspended As Storm Hits Andhra Coast",
+   "source": "Times Now",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2pIZU9HRXk5V09RZERrNl94Z3hHUGluLVhVUjRNQXQ0ZkppSi1OZVZ0NkJ6clIyeUoxLWsyMDVKbzNLeW56ODJadFVoVDlBM1NGUTc5ck5FLU9CVEVFOUhTWUpmOGN6dnFFWmYwVDJRbkZlMHNpa3dOOWRtR2R2THhFaS1jTFd2X2Y2Q3cwQm44eHRXYzBiTFJBVnBtQmtSZXBZcVFVX2tZTlFBVjBqRkNLV1BIRzdEazRrRS02a0pnS2VnM2VzUkpGVdIB0AFBVV95cUxNZ1JCcUtpdUFYbnlRLTVQZmRlM05QVHFEV0Q0OXVmX3ZXU2t1X0pUUFpYYXQ2emxZWmt6OHJzU3Yta1lVTkM2a1Q5cjVWYnBXU2tIeGVaZEhTbkc5eHc5bzcyR0NQdGdBN3hfR1FTX2QwTEp5ZXNiVlM4Q0xjb05NcmFLODdoYndZcUpnaTQxdlJvYktkTFhfNkxLSGxmQkVfQ0xxalNQWWtsOU1zUnJJODh0eUhOcHk5WExjYnI2ZW01ZWhSVGRmaHpwUEUzMDNR?oc=5",
+   "utc": "2026-10-28T03:21:23Z",
    "tags": [
-    "MIL"
+    "AIRSPACE"
    ],
-   "score": 5.0,
+   "score": 4.9,
+   "airspace": true
+  },
+  {
+   "title": "The Niger: DIEM-Risk analysis of the impact of the Strait of Hormuz crisis and the El Niño phenomenon on agricultural households, August 2026",
+   "source": "ReliefWeb",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUGJQRHF1cnhZdHA4ODlIXzF5Mm1WSVBNbkdJeG92X3hoYjc0ZlF0WWNpRDBuM2J5TWo5NVpKbVA5UExyeU5lVl8zSjZ2aUE3cTdFZGpYaGNsWWxLcXFCLXRJcF95anNQUDlCSjYtWUdGQzR3bzE5MEloSUNRcTZKcG1COWhqTFFISF9RdGhvMmgyNFlVLXp1UEpfeGNBQmZsTk9fbFZESGJsd2NNVFJPcUlnYWpPbG1Iek1pN1lqR29CQXhxOVZEWnMxQjIyVG10bGxIZHRfZFlBY2N0VldZ?oc=5",
+   "utc": "2026-10-28T02:47:07Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -108,7 +119,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -119,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -130,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -141,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.2,
+   "score": 8.0,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.2,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -185,26 +196,15 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "Ebola: Why Nigeria evacuated patient to Switzerland – NCDC",
-   "source": "Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0Z4MzRVVDhmWGJpMWtJbWRrUTdqR3d3blRTVUtmYks1ei1OSzczOTBkUG54Mnc2M3BaZDBQZmRHSTBIa3ZlalZ3cUhxQ3NaOHFPQld2d0NNYkJkLTBvRnNyeEUyTlZBT1JoT2swa3p1RWJvUS01SUlTdF9vbERhbHlQWG0yOGdjOGlHbW9QaGpuMVM2UFcxRUlYQUxxUjdGWXZ1aloxeFBncjBlaHVxWHJ3Uy1KTzZS?oc=5",
-   "utc": "2026-10-26T22:16:13Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 311,
-  "baseline": 3.2,
-  "samples": 36,
+  "count": 2,
+  "global": 156,
+  "baseline": 3.1,
+  "samples": 37,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -353,6 +353,10 @@
    [
     "2026-10-28T00:07:09Z",
     0
+   ],
+   [
+    "2026-10-28T05:51:51Z",
+    2
    ]
   ],
   "box": [

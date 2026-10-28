@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T00:06:42Z",
+ "updated": "2026-10-28T05:51:31Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (41)"
+  "Nikkei Asia": "ok (38)"
  },
  "items": [
   {
-   "title": "America Produces Less Than 1% of the Rare Earth Magnets It Needs",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/America-Produces-Less-Than-1-of-the-Rare-Earth-Magnets-It-Needs.html",
-   "utc": "2026-10-28T00:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-   "utc": "2026-10-27T23:50:03Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-   "utc": "2026-10-27T23:45:49Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Gold Holds Above $4,000 as Traders Look to Fed Rate Decision",
+   "title": "Weaker Euro Boosts European Exporters as Earnings Season Peaks",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
-   "utc": "2026-10-27T23:36:58Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/weaker-euro-boosts-european-exporters-as-earnings-season-peaks",
+   "utc": "2026-10-28T05:49:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Ambani Sheds Tears as India’s Richest Family Hails Jio Debut Pop",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/ambani-sheds-tears-as-india-s-richest-family-hails-jio-debut-pop",
+   "utc": "2026-10-28T05:42:25Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+   "utc": "2026-10-28T05:28:13Z",
    "tag": "FED",
    "breaking": true
   },
   {
-   "title": "Car production recovers from September flooding",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/motoring/3344723/car-production-recovers-from-september-flooding",
-   "utc": "2026-10-27T23:19:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "EXCLUSIVE: Hackers target US FEC system, disrupting campaign finance disclosures days before midterms",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDV3WWJ5Ulh3Q05tT203WGNGVE1UNmFvZ2ZoclFXemtrWXFhNlRhUmtabmlPZXRaYU1sQ251VWhSSWJMODNJQkRrMk9MNFdfb1RVT2VJQTR4akpfM0JQNk9wMkpMV2tFY2tHc2ZpTGMwcHlLNFU3UDBrZk5MbGFrb2ZqX25XRVZCQmI5Z29LbDI5cjF2S0JodjVNcVVmV3RyUFR1SW5RZUwwY2JlSWJrRUMyNEgta3dl?oc=5",
-   "utc": "2026-10-27T23:18:55Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-   "utc": "2026-10-27T23:03:09Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Wall Street ends higher on revived AI momentum",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
-   "utc": "2026-10-27T23:01:33Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Dongshan Precision Set to Debut After $1.3 Billion HK Listing",
+   "title": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-27/dongshan-precision-set-to-debut-after-1-3-billion-hk-listing",
-   "utc": "2026-10-27T23:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/copper-wavers-near-two-week-high-as-traders-look-to-fed-meeting",
+   "utc": "2026-10-28T05:26:09Z",
+   "tag": "FED",
+   "breaking": true
   },
   {
-   "title": "Americans Hit Hardest by War-Driven Oil Price Surge",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Americans-Hit-Hardest-by-War-Driven-Oil-Price-Surge.html",
-   "utc": "2026-10-27T23:00:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5",
-   "utc": "2026-10-27T22:59:03Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Exit polls show a rebuke of Netanyahu but no clear winner in Israel's election",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html",
-   "utc": "2026-10-27T22:54:48Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Japan",
+   "title": "Japan's Nidec misses deadline to obtain unqualified audit opinion",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KdVVTVnJFVV9iYjJDMlA5aVg3UE9wMW9JZjhjMk1jS3RiQW1kaEl3YkNpelRmdENjWVM2SVB3R2xqT0FkZzlCZXBPZXFuYTJuU3g4c19IVHk0UmJV?oc=5",
-   "utc": "2026-10-27T22:52:44Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTRuZlhhYVl3c3JBV0lyb1FPejVEeWNuck9LR0JrTVN0UW9LcjExYUpyMV9QSU5DMTI4bV9RcXBIUmxEdjlsXzN3SjdrMXp6TXJlcU9oVXB0QzhTSC00NEk5eVNGdDkyMHloV2hiRThYeHZNazlWampRbDY3NmxmcTVoV2t6MG5SblVyU0Y5Z2VJR0hyUHE3TmRqZU8yeFNIN3Uzc1pZRFpUSVdjdXJF?oc=5",
+   "utc": "2026-10-28T05:22:00Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Push for Thai storage of CCTV footage",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3344848/push-for-thai-storage-of-cctv-footage",
-   "utc": "2026-10-27T22:52:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
-   "utc": "2026-10-27T22:51:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "New savings scheme headed to cabinet soon",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3344998/new-savings-scheme-headed-to-cabinet-soon",
-   "utc": "2026-10-27T22:44:00Z",
+   "title": "Japan Retail Traders Shrug Off GMO Hack, Says Central Tanshi FX",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/japan-retail-traders-shrug-off-gmo-hack-says-central-tanshi-fx",
+   "utc": "2026-10-28T05:19:00Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Ethanol producers welcome slashing of biofuel taxes",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3344858/ethanol-producers-welcome-slashing-of-biofuel-taxes",
-   "utc": "2026-10-27T22:43:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "CNBC 2026 Workforce Executive Summit takeaways: How AI is transforming jobs, hiring, and employee benefits",
+   "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/cnbc-workforce-summit-live-updates.html",
-   "utc": "2026-10-27T22:42:36Z",
-   "tag": "AI",
+   "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+   "utc": "2026-10-28T05:16:41Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+   "utc": "2026-10-28T05:10:36Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "UAE bank Mashreq injects $125m into Hong Kong business as China ties deepen",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb3loM01RNUowZEszdjBJMWFQQmdsX21ELUNwZXN2NEhXY2JJTk1LSVpNLUE5NU9Xd044NEk3NndCbkFmM3drMFFoY21lUkIyd3ZsUzdIc09Hc3ZfM2daQnhuSGx1dmpzakxwSGJKNTl5c1J5WUt3MjJGOTlVdmVrQ3BiVlBHMFkzdTVrTU1qeGdjYlh0QlAyVDNaX3dFdGo3a3RFTjdrN3hmYXlXMHZvU1VqTDRyRjFsRkpiT2tSblU?oc=5",
+   "utc": "2026-10-28T05:02:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Your Portfolio Reset: How Investors Should Think About The Next Decade",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/your-portfolio-reset-how-investors-should-think-about-the-next-decade",
+   "utc": "2026-10-28T05:00:20Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Rome’s Mayor Rules Out ‘Venice-Like’ Entrance Fee for Tourists",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/rome-s-mayor-rules-out-venice-like-entrance-fee-for-tourists",
+   "utc": "2026-10-28T05:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Ambani’s Jio Surges in Debut After India-Record IPO",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-record-ipo-video",
+   "utc": "2026-10-28T04:59:56Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "EXCLUSIVE: China's CXMT to start advanced AI memory production despite poor yields, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDFWeWo1UVJwSDh4OXB5RnJyVVhXaG1zNHZIMlMyZmpaV0FEU3llN21sZG05OGpyUEZtR3FuTTJ6Y2pBZzEwWVU0dFRPSkExVFRfUGg0SFpzb2tLWDlObGFIQ3Axa2lodWgySngtb2ZEMUFxcXlwZUJnbmdNcTZCalJtSDV5TUpTM282XzFldlZTM012WFRhc0hQamIwOGMxUlpYOEsxUDh1UVkyWjE0aWh2OVdFOTN1cEVKVER0RmE4eEhudGc?oc=5",
+   "utc": "2026-10-28T04:50:00Z",
+   "tag": "FED",
    "breaking": false
   },
   {
-   "title": "Government, China embassy to clarify travel warning",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3344708/government-china-embassy-to-clarify-travel-warning",
-   "utc": "2026-10-27T22:38:00Z",
+   "title": "China Robot Stocks Extend Rally With Unitree Earnings in Focus",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/china-robot-stocks-extend-rally-with-unitree-earnings-in-focus",
+   "utc": "2026-10-28T04:41:33Z",
    "tag": "CHINA",
    "breaking": false
   },
   {
-   "title": "Panel voices concerns on digital trade gap",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3344738/panel-voices-concerns-on-digital-trade-gap",
-   "utc": "2026-10-27T22:37:00Z",
+   "title": "Korea Financial Firms Hit By More Hacks as Asia Breaches Grow",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/korea-financial-firms-hit-by-more-hacks-as-asia-breaches-grow",
+   "utc": "2026-10-28T04:40:23Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Reliance's telecom giant Jio rises in debut after India's largest IPO",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzhQWjZKMjNuSW4tYWFPVWxTaHJyNDc1X1JhSDAyZTFQektQZ1pQMTJCWkZzV3V1ZXRxMWVaWWZqWVg2a29IMDYtUTFvamY2T05FT090b2FvODQ4RHNvaDRjNGdYMzVUV251cHVEU29jeWkweV9MRFhKQk15SDZjd2ZTdFUyLURoZWdrNjlFaEpDbFJiUWFBSmZZZ0NDc0lydEszNVZHUTVCdk53eHcyWEh6VVE?oc=5",
+   "utc": "2026-10-28T04:38:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+   "utc": "2026-10-28T04:29:20Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "PHP/USD: Marcos Pledges to “Do All We Can” to Defend Philippine Peso",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/php-usd-marcos-pledges-to-do-all-we-can-to-defend-philippine-peso",
+   "utc": "2026-10-28T04:28:44Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Fortescue Says Iron Ore Deal With China Must Protect Australia",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/fortescue-says-iron-ore-deal-with-china-must-protect-australia",
+   "utc": "2026-10-28T04:17:09Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+   "utc": "2026-10-28T04:15:20Z",
+   "tag": "FED",
    "breaking": false
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:16:50Z",
+ "updated": "2026-10-28T23:58:18Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -13,11 +13,91 @@
  },
  "items": [
   {
+   "title": "Gold Edges Lower After Fed Holds Rates With Limited Guidance",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
+   "utc": "2026-10-28T23:44:02Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+   "utc": "2026-10-28T23:44:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+   "utc": "2026-10-28T23:38:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Fed's policy committee to weigh balance sheet issues early next year, Warsh says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaDZHdmRFaXBHQzZvWXZjZU8xOFRrT0Q1WGx2ekJuQ1hCTV9EbHdTOElZTERXemZwY1o0ZzRZUXR6aDNkM0tOejh1N201SmxqR29NSFE2Q0c5TlJMQ29pZGhvM0E5TVc0UjkyTFVNY1VONjl3WG5WOXJaRElkNEktODF4LXhkaF9YTW5kN01DYUFtcy1hclBQbXFSdk5aSGFJMG8yTWtLd2ZlTnY5Ylp4MmJmWldCNXVZekg5T3FwMEpmSVBCWDFV?oc=5",
+   "utc": "2026-10-28T23:33:51Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Fed's Warsh announces changes in how future FOMC meetings will go",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
+   "utc": "2026-10-28T23:32:40Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "BYD Short Sellers Retreat Ahead of Expected Profit Rebound",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/byd-short-sellers-retreat-ahead-of-expected-profit-rebound",
+   "utc": "2026-10-28T23:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
+   "utc": "2026-10-28T23:24:37Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+   "utc": "2026-10-28T23:18:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "utc": "2026-10-28T23:17:17Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
    "title": "Petrobras Pumps at Record as Iran War Upends Oil Markets",
    "source": "Bloomberg",
    "link": "https://www.bloomberg.com/news/articles/2026-10-28/petrobras-pumps-at-record-as-iran-war-upends-oil-markets",
    "utc": "2026-10-28T23:06:04Z",
    "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Association opposes new solar panel rules",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3345550/association-opposes-new-solar-panel-rules",
+   "utc": "2026-10-28T23:04:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
@@ -29,6 +109,14 @@
    "breaking": true
   },
   {
+   "title": "Bankers in Failed Firmus IPO Probed by Australian Regulator ASIC",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/bankers-in-failed-firmus-ipo-probed-by-australian-regulator-asic",
+   "utc": "2026-10-28T23:01:21Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
    "title": "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
    "source": "OilPrice",
    "link": "https://oilprice.com/Energy/Energy-General/Oil-Refineries-Become-Prime-Targets-as-Global-Fuel-Shortage-Worsens.html",
@@ -37,12 +125,20 @@
    "breaking": true
   },
   {
+   "title": "U.S.",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iWXdaamdrVy0tZ3QtcHlpU2JGSU1fLU11LWJhcHVaZllPRjA4UDNOdXFpaG5pVVp5eUstaXMyc0J6eHNSZGpOUGxqYTNFUkdjY2x3VkpjUGVGeHA5V25Ma1pTOUxTcHBNUEV4M1NQWUJvZlJ2R1hB?oc=5",
+   "utc": "2026-10-28T22:45:15Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
    "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
    "utc": "2026-10-28T22:44:54Z",
    "tag": "FED",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
@@ -50,7 +146,7 @@
    "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
    "utc": "2026-10-28T22:41:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
@@ -58,15 +154,7 @@
    "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
    "utc": "2026-10-28T22:38:41Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "U.S.",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iWXdaamdrVy0tZ3QtcHlpU2JGSU1fLU11LWJhcHVaZllPRjA4UDNOdXFpaG5pVVp5eUstaXMyc0J6eHNSZGpOUGxqYTNFUkdjY2x3VkpjUGVGeHA5V25Ma1pTOUxTcHBNUEV4M1NQWUJvZlJ2R1hB?oc=5",
-   "utc": "2026-10-28T22:36:51Z",
-   "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
@@ -74,7 +162,7 @@
    "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
    "utc": "2026-10-28T22:34:56Z",
    "tag": "STOCKS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "How Trump’s Russian Diesel Could End Up in Cuba Instead",
@@ -82,94 +170,6 @@
    "link": "https://oilprice.com/Latest-Energy-News/World-News/How-Trumps-Russian-Diesel-Could-End-Up-in-Cuba-Instead.html",
    "utc": "2026-10-28T22:28:57Z",
    "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-   "utc": "2026-10-28T22:27:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-   "utc": "2026-10-28T22:25:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Suzuki faces headwinds as India toughens emission standards",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2tGeXA0a3BNZlZWMHBkcVFQUG13bVMzUkphVmc1UWRuSmlTOElmTEFualBrZ2w0dE1ZblRINDF4bXJtWVNBTGFSYmZWVUhUN2U5Z09nSEhDLXd3aklxWEdoN2tQd1Znc2NnWUtmNUxPYkNNTUxVdm5JR1A3QUJkQlcwb1hVck5wZGxYdFFSOXhuTUlJamE0RzhFS2ZDeTdqWjBTaFF4aw?oc=5",
-   "utc": "2026-10-28T22:17:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-   "utc": "2026-10-28T22:12:28Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
-   "utc": "2026-10-28T22:11:47Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-   "utc": "2026-10-28T22:08:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-   "utc": "2026-10-28T22:07:17Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
-   "utc": "2026-10-28T22:05:01Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-   "utc": "2026-10-28T22:04:19Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-   "utc": "2026-10-28T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "U.S. Natural Gas Production Hits New Records as Demand Surges",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Natural-Gas/US-Natural-Gas-Production-Hits-New-Records-as-Demand-Surges.html",
-   "utc": "2026-10-28T22:00:00Z",
-   "tag": "MARKETS",
    "breaking": false
   }
  ]

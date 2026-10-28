@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:17:23Z",
+ "updated": "2026-10-28T23:58:43Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   46,
+   49,
    35,
    35,
    "1.5 pts per headline"
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "US Preparing to Issue Ordered Departure of Some Personnel From Gulf Embassies – US Officials",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUVvU045M0loMEo2dEdHVzZ5VW5KUTdnNGEwdXpEN05fX19Nbnc3ek4wQTE2MnJaQUpSd0czVlNIU3NGQ3VyMmxNRWo4ZnBKTkRGUzYzQ01YakV6dXAtQzdCaWFNTm9ObFZpWFV3STNIaHQ5WmRxajJ6bF9Ld25mNU45TGhadnJzUDRON1pGUy1JWWVyanFJSHJfNmZTS0tqbWh5d2Vmdnh4Qll1bG9abDZlTGhpMTMwWE5teW1n?oc=5",
+   "utc": "2026-10-28T22:41:18Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
    "title": "Nigeria Evacuates Ebola Patient as Authorities Tighten Travel Screening",
    "source": "SuaraGarut.ID",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3bFRVOEFsSGtZYVZJWFhUa3h3QXFxUVNacWFEWHZDN1hsVVZRYm42ZGZVZjluMnBZOGZFZlMwcFNVczBzd2c3a3BnallES01MalRNMVpDWW5tM3dmeDFaUVZDemVnUQ?oc=5",
@@ -108,7 +119,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -116,17 +127,6 @@
    "source": "EnergyNow",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenFGeVI4UjJkYnYycUJZdEFQZW9jZTRPcmU5alR3dkt1N0hzS0JYZkFJNmo2NUxBRVpaUm52akNYb1RkelhuLVJNMDFKVVc3d1B3X1F3OHlwX0Q0eGE3VS1BSk1taERDQkpPblRhSzlTbXRQRm0tbWlGazBxdlVFXzhSbW10ZENVWWRfcEtqQURzY2xrYnFpOUhqUmdjSzdWTnc?oc=5",
    "utc": "2026-10-28T19:32:26Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
-   "utc": "2026-10-28T19:32:03Z",
    "tags": [
     "HORMUZ"
    ],
@@ -142,6 +142,17 @@
     "EVAC"
    ],
    "score": 5.5,
+   "airspace": false
+  },
+  {
+   "title": "Iraq's tanker purchases could cut oil discounts, but Hormuz risks persist: Analysts",
+   "source": "Rudaw",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlMnAybVBLZDl6YU1qYnNrR2tKMk5IMC1KZmpxOTZ6aU0tM2dSWVlSZFJEMVZMSTBzMldoVWhodXh3MDl1T216OVRsUnBucU50MXUzdDJNMjdnVzU3RUgtN0dQWQ?oc=5",
+   "utc": "2026-10-28T09:53:47Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -178,17 +189,6 @@
    "airspace": false
   },
   {
-   "title": "India ramped up LPG output, diversified imports to weather Hormuz crisis: Union Minister Puri",
-   "source": "ThePrint",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOelRuZTF1NUQydldIZGJMcmpITjBVbHNSeFg3b3FFUVRGNTZVMlNhdnhtNlZWVXk1VlJzWTVOcVpiSGJ0NHZwanVzMlFvTWNjRU5tY185bmZzc2sxMzU2cWJPVF93M0VtWVNlYlJGRld1YnRDNTV1VWlHVHNPeWk2YVR1dmgyN19qc1ppazRRd05aemNEemEzMGFtLVhhdnFkRElJMFdIMXl3QVV2SkM1bUhoUUVRLUh2MjhoWFl5bGZpRjNPOW9TdXpR0gHKAUFVX3lxTE56VG5lMXU1RDJ2V0hkYkxyakhOMFVsc1J4WDdvcUVRVEY1NlUyU2F2eG02VlZVeTVWUnNZNU5xWmJIYnQ0dnBqdXMyUW9NY2NFTm1jXzluZnNzazEzNTZxYk9UX3czRW1ZU2ViUkZGV3VidEM1NXVVaUdUc095aTZhVHV2aDI3X2pzWmlrNFF3Tlp6Y0R6YTMwYW0tWGF2cWRESUkwV0gxeXdBVXZKQzVtSGhRRVEtSHYyOGhYWXlsZmlGM085b1N1elE?oc=5",
-   "utc": "2026-10-27T08:45:25Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.4,
-   "airspace": false
-  },
-  {
    "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
@@ -202,9 +202,9 @@
  ],
  "mil": {
   "count": 0,
-  "global": 256,
-  "baseline": 3.0,
-  "samples": 40,
+  "global": 285,
+  "baseline": 2.9,
+  "samples": 41,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -368,6 +368,10 @@
    ],
    [
     "2026-10-28T23:17:23Z",
+    0
+   ],
+   [
+    "2026-10-28T23:58:43Z",
     0
    ]
   ],

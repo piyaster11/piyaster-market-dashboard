@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T16:57:40Z",
+ "updated": "2026-10-29T21:51:23Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (48)"
+  "Nikkei Asia": "ok (44)"
  },
  "items": [
   {
-   "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
-   "utc": "2026-10-29T16:51:18Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
-   "utc": "2026-10-29T16:49:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Get ready for the ‘Year of Starlink’ as airlines battle over superfast WiFi",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/get-ready-for-the-year-of-starlink-as-airlines-battle-over-superfast-wifi-6bce32c1?mod=mw_rss_topstories",
-   "utc": "2026-10-29T16:49:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
+   "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-   "utc": "2026-10-29T16:46:07Z",
+   "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+   "utc": "2026-10-29T21:48:40Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "The Fearsome Rise of the Haunted Attraction",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-29/the-fearsome-rise-of-the-haunted-attraction",
-   "utc": "2026-10-29T16:42:20Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
-   "utc": "2026-10-29T16:35:43Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
+   "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-   "utc": "2026-10-29T16:35:25Z",
+   "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+   "utc": "2026-10-29T21:43:49Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Citadel Can Subpoena Top Marshall Wace Executives, Judge Rules",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-29/citadel-can-subpoena-top-marshall-wace-executives-judge-rules",
-   "utc": "2026-10-29T16:30:54Z",
+   "title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+   "utc": "2026-10-29T21:43:08Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+   "utc": "2026-10-29T21:42:06Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Sinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb",
+   "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+   "utc": "2026-10-29T21:36:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+   "utc": "2026-10-29T21:35:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+   "utc": "2026-10-29T21:31:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+   "utc": "2026-10-29T21:29:59Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+   "utc": "2026-10-29T21:22:50Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
+   "utc": "2026-10-29T21:22:38Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Stocks making the biggest moves after hours: Amazon, Intel, Twilio, Reddit, Roblox & more",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-after-hours-amzn-intc-twlo-rddt.html",
+   "utc": "2026-10-29T21:19:21Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Intel shares sink more than 15% as PC slowdown stretches into 2027",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlhCWTV6V0FIUTRkTkdvSm1EcmZTMTVGSjZZZmV5MThRb3JLaTc3YkxMa2FURzRlVXNQUzY2MnFIMGJ2ZlQwaEZINVo1VmQyNTgxRnhlNWJzbzljcmRJclp3Tlp4V3BOS1dDOUVtRlc4Rmc0UVdWOWRTSThzSmQ5TTZzekowTFhDalZ4ZGdkQ3FfWk9LNG5aZm9ENmpHaHpsWVlKXzBLc0tyVW9zWFo5QXBNLW9lLUhMWkE?oc=5",
+   "utc": "2026-10-29T21:18:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Operator of South Korea's Toss app to buy online Japanese brokerage Cheer",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVFqWE9GT2NzcGE5MThEeWlyTGVkZS1xYUtNLVN5ZFlvVmJNN2tmVEdERnRwbnZWX242OTNqbkdfN1VyU0ZyWWZZZzh3Tk5YR0pKNmctdzJQb290ek8zTFJBX1A1eVZDcUs0UlFETXJPZ2NRRGNQa2pUb3ZFNE43WGktcFFCRzJ1eE1maFVnUXZHdmNnN01ZRk9RdWpFV3pIbnY2ci1jN2JFWEJudEtJRm9lZzJkYV9vMVRKUDRn?oc=5",
+   "utc": "2026-10-29T21:15:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Binance loses $5.7 billion in largest crypto hack to date",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+   "utc": "2026-10-29T21:12:45Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Intel shares drop 14% on Israel factory blast, PC weakness",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEgxampOc0U5RENJWVd0a09uQjlFSkxueGxGVzVPX2NwdElzNDN3WXdjVFpvelNULXVObnMzTTJzb0ZfeFBtN1ZOQ0FVNXRuN0ZINkF0dWZkZlR6ZlkzUE5wQWpPTWg3dGtDLURwRl9OU0ZEb1UtejNBbC1KMnVWbmJ5OHQxWTBoU1I3cFduaXAyOHFBVkFIYjhCNXR1c0EyM2xlZFZNWFM?oc=5",
+   "utc": "2026-10-29T21:10:40Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Air Canada Reduces Profit Outlook Again on Jet Fuel Costs",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
+   "utc": "2026-10-29T21:03:30Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Big Take: From ‘Vibecession’ to ‘Shrugflation’",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-29/big-take-from-vibecession-to-shrugflation-video",
+   "utc": "2026-10-29T21:01:48Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Starbucks Foot Traffic Outpaces the Competition, Says Hottovy",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-29/starbucks-foot-traffic-outpaces-others-says-hottovy-video",
+   "utc": "2026-10-29T21:00:10Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Sinopec-Third-Quarter-Profit-Jumps-64-as-Oil-Prices-Climb.html",
-   "utc": "2026-10-29T16:30:00Z",
+   "link": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
+   "utc": "2026-10-29T21:00:00Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Eli Lilly lifts revenue outlook as weight-loss shots offset Foundayo sales miss, shares jump",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOFBMR0czdDM3ak5TQVJZYmZ5cENsNkZQaGRSRlFocDQ4dThYVmUyTFV6Z0x5VXVyX3BRTmF3R1lta0lRVGdSN0NDWmJMZzUwRUIwTnN4RFlpLVNhQi1oZVl0WER0M3NOcnFQR0FQa3hBck0yY1Y0T0dkOS1wZm1iaUQ4YjNsZzY0NzFoU0w2cGh3bmQzekRUanFTa29GdDF6RFdYQ3lqV200Y1NiaENLQWdFUEVValozTzMwYjFWS1UyTExLV01NZkxjQm9EcWFDNUNEYWk4XzhDekxCU0R4M0pjYw?oc=5",
-   "utc": "2026-10-29T16:29:56Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Chipotle Sales Beat as New Chicken, Chips Bring Diners Back",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-29/chipotle-sales-beat-as-new-chicken-bring-diners-back-video",
-   "utc": "2026-10-29T16:28:48Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Venezuelan Leader Commits to Elections Ahead of Machado Speech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-29/venezuelan-leader-commits-to-elections-ahead-of-machado-speech",
-   "utc": "2026-10-29T16:27:08Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "You can’t rely on the S&P 500 as much as you may think",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-   "utc": "2026-10-29T16:26:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-   "utc": "2026-10-29T16:25:40Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "S&P 500 heads for first loss in four days as Alphabet, Caterpillar crack after earnings: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
-   "utc": "2026-10-29T16:24:33Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
-   "utc": "2026-10-29T16:23:37Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Vietnam to overtake Indonesia in per capita GDP in 2026: IMF",
+   "title": "Australia's One Nation basks in attention of 'left behind' voters",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTF9adVlsVDVndVV6T1ZsTW0wc2gzLVk1NG01LW5xQjhLV3R1cnFPUURkcFluczVMMkRXcThqQ211dkh5a0hWUW0xWnFDY1pBQUdQSWwyN0RkazR0dUZPX1lHbmx1ZW5pNHZLclFBRk56WXNuMnB0eGEwWXlqaUkyZ0RqQ0ZNOUNNSlRuU0RrdU5Sb1hfZUE?oc=5",
-   "utc": "2026-10-29T16:23:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
-   "utc": "2026-10-29T16:22:19Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
-   "utc": "2026-10-29T16:20:51Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Trending",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQjF3ZWRBTUpfdHRETlhBZEhuWkpUR3JmLWdaYVZhNUpMUlBTdExmVnBZejVRbkVWcDR3LWxvRHRfbnMxVlV3?oc=5",
-   "utc": "2026-10-29T16:17:54Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUx3clZfR0VuYUVCSTNVVmFMbkh0TjczSFpSOC1IdFE1VUZpSnlNUEZCbThfZGZqVUxjbENjQUpHXzZ1VlBxSm0xR3MyR3ZlUzFGcWdMa3g5VWhLRTFhZ0IydmV4YUFNUlc1cDEtVVNfRC1RdTJnN1RibU1WZGJpd2h2UUJqQXdvYkc0cDdwVURnNDB4LUplZ0pSX0EwRG5pWHlhSE81MWJqckVDZWc?oc=5",
+   "utc": "2026-10-29T21:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   }

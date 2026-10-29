@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T16:57:54Z",
- "level": 51,
+ "updated": "2026-10-29T21:51:49Z",
+ "level": 50,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   42,
+   33,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   6,
+   5,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   1,
+   0,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,14 +90,58 @@
  ],
  "headlines": [
   {
-   "title": "Iran declares Strait of Hormuz closed as army reports tanker fire following naval mine strike",
-   "source": "The Tribune",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUk5UR3l3VEI0UTZFZEtVOWlWZmxTLWx1azMxbEV6RmVIYjVrdG9MblcwNk1mbkJrMnMxOXp4RVRJZXROLTFLWmtHWVhBTVdfdTJDTlZBNUcwekpGVm1uSGRNLWpTWUZvb3Q3ZWZNLVBZcHRkNjdNTXhwcXF1NVluODFWQlBiWXlwb3Vmak84OF9WSTRLWXYyMGFHQ2pzT2lEbDZJRXowdFFqaWF5TUgyZjhrRktUYVhHUVUzdDBWdmdvZkkzN3dwYjkxa1hRNVUyQ1JlY2x0YTZZREVrMm9oNHZScXVnemI1WVNxbkMwRdIB7wFBVV95cUxOUk5UR3l3VEI0UTZFZEtVOWlWZmxTLWx1azMxbEV6RmVIYjVrdG9MblcwNk1mbkJrMnMxOXp4RVRJZXROLTFLWmtHWVhBTVdfdTJDTlZBNUcwekpGVm1uSGRNLWpTWUZvb3Q3ZWZNLVBZcHRkNjdNTXhwcXF1NVluODFWQlBiWXlwb3Vmak84OF9WSTRLWXYyMGFHQ2pzT2lEbDZJRXowdFFqaWF5TUgyZjhrRktUYVhHUVUzdDBWdmdvZkkzN3dwYjkxa1hRNVUyQ1JlY2x0YTZZREVrMm9oNHZScXVnemI1WVNxbkMwRQ?oc=5",
-   "utc": "2026-10-29T16:38:03Z",
+   "title": "All flights suspended as major European airport to close for a month",
+   "source": "Extra.ie",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jNDNSSzVTQXRMSEJ5bkozdWhOS081S0pxTDZCZXhXV2REdVk4UnlRTDI2R0pOZWpwX2ZTa0RvYXR2V1ZhYWMwUHJlaW9JZmlJRnY0ZC1fcnctT1pNM2FjZTVQZVRHUVZtZVVYOGlDcw?oc=5",
+   "utc": "2026-10-29T19:18:45Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.9,
+   "airspace": true
+  },
+  {
+   "title": "US Preparing to Issue Ordered Departure of Some Personnel From Gulf Embassies – US Officials",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUVvU045M0loMEo2dEdHVzZ5VW5KUTdnNGEwdXpEN05fX19Nbnc3ek4wQTE2MnJaQUpSd0czVlNIU3NGQ3VyMmxNRWo4ZnBKTkRGUzYzQ01YakV6dXAtQzdCaWFNTm9ObFZpWFV3STNIaHQ5WmRxajJ6bF9Ld25mNU45TGhadnJzUDRON1pGUy1JWWVyanFJSHJfNmZTS0tqbWh5d2Vmdnh4Qll1bG9abDZlTGhpMTMwWE5teW1n?oc=5",
+   "utc": "2026-10-29T18:57:12Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 8.9,
+   "airspace": false
+  },
+  {
+   "title": "Shafaq News..Hormuz tensions mount following dhow sinking",
+   "source": "شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGdFZVRhSmlfSFBadFVXM3MwdVFtOXB0Mjl6RVhpUlU1SUx4QVpQaXVIMDM5MWlwU3N1Z0xXRGJPRGs0YUZickJZZ1M4V1VRLUt1MkhKOXBFTXdkV3V0MGlMby11aTMtMmJfZkFmLVpTYWlIQzJfMFhPZjNicFo0dnJUd1k?oc=5",
+   "utc": "2026-10-29T17:07:23Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 6.0,
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
+   "utc": "2026-10-29T16:30:30Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "Russia’s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE42Y0FZdEtIYTdNNDM2NlFtbjZmdUllZHUta1dOZ21HYTFnY2FTZzdKUlM4V214Ui1GTk9QX1R1ZC02MXBERW9BUFA3UUZzanZpaVFtUTN4YXpvcjB3dWxmUWZHX19ZUUswS3FaendKdjhBb3ZwNVRYT252VEp6ZldyUzNTQ1gycEp6ZGZQSHJqOXQwck9EZlA3OWZSZTV2TDFhUEducHZsRXhCcUdFR0tHTQ?oc=5",
+   "utc": "2026-10-29T16:14:45Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -108,7 +152,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -119,41 +163,8 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": true
-  },
-  {
-   "title": "Exclusive-QatarEnergy buys US, other LNG to hedge future Hormuz disruptions",
-   "source": "Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGY3UWtUMUFnaVN6bWlTZzZNNFNLaDNFMVdTeVhnWXRsbFBqQU5DNnA5MzNzajdkMmVfa1k1bW94ckZVUnFkeFZEZ2xLQzNIcGFhWXBJTTBTRGV4NnJzMXJSQU4xN05wVTVqcTV3WkM3QmthWmtUbkpVOWdxaVJaekE1Q2ttOXNYeU8xVg?oc=5",
-   "utc": "2026-10-29T14:47:42Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
-   "utc": "2026-10-29T09:55:45Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 8.7,
-   "airspace": false
-  },
-  {
-   "title": "US Preparing to Issue Ordered Departure of Some Personnel From Gulf Embassies – US Officials",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUVvU045M0loMEo2dEdHVzZ5VW5KUTdnNGEwdXpEN05fX19Nbnc3ek4wQTE2MnJaQUpSd0czVlNIU3NGQ3VyMmxNRWo4ZnBKTkRGUzYzQ01YakV6dXAtQzdCaWFNTm9ObFZpWFV3STNIaHQ5WmRxajJ6bF9Ld25mNU45TGhadnJzUDRON1pGUy1JWWVyanFJSHJfNmZTS0tqbWh5d2Vmdnh4Qll1bG9abDZlTGhpMTMwWE5teW1n?oc=5",
-   "utc": "2026-10-29T07:25:26Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 8.6,
-   "airspace": false
   },
   {
    "title": "Ukraine: Preparations underway for Oleshky evacuation",
@@ -163,18 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
-   "airspace": false
-  },
-  {
-   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkxGcHpab2N2cFVMemtPQVM4QllIeVVfY25XdHA4Q0lBSlFoWGREQnVxc1dWbERMYWNZeTJLaFgxX3dpNzJBRjNSWUFHbTJvYllvY0x0Z2V6R3BqWTdBNDFUZFdXME9FTFFOWlhFUUVGRGRVNVhhZHgtOFNOY01tZ29ncTJYSWFvLU9ocFp6T09Fbjdfa194aHM5dDI?oc=5",
-   "utc": "2026-10-29T02:17:11Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.4,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -185,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -196,13 +196,13 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 4.9,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 429,
+  "count": 0,
+  "global": 330,
   "baseline": 2.7,
   "samples": 41,
   "hist": [
@@ -385,6 +385,10 @@
    [
     "2026-10-29T16:57:54Z",
     3
+   ],
+   [
+    "2026-10-29T21:51:49Z",
+    0
    ]
   ],
   "box": [

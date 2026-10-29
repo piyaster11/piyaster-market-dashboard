@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T10:07:28Z",
- "level": 47,
- "band": "Watch",
+ "updated": "2026-10-29T16:57:54Z",
+ "level": 51,
+ "band": "Alert",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   33,
+   42,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   4,
-   12,
+   6,
+   15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
-   0,
+   3,
+   1,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -41,15 +41,6 @@
    "authorized": false,
    "date": "2025-12-29T00:00:00Z",
    "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.blr.html"
-  },
-  {
-   "src": "US State",
-   "country": "Iraq",
-   "level": 4,
-   "ordered": false,
-   "authorized": false,
-   "date": "2026-10-23T00:00:00Z",
-   "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html"
   },
   {
    "src": "US State",
@@ -86,18 +77,71 @@
    "authorized": false,
    "date": "2026-10-23T00:00:00Z",
    "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html"
+  },
+  {
+   "src": "US State",
+   "country": "Iraq",
+   "level": 4,
+   "ordered": false,
+   "authorized": false,
+   "date": "2026-10-23T00:00:00Z",
+   "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html"
   }
  ],
  "headlines": [
   {
-   "title": "US-Israel-Iran War Latest News: Ship Catches Fire Near Oman After Apparent Attack in Strait of Hormuz; UKMTO Says Crew Status Unknown as Iran Keeps Waterway Closure Threat",
-   "source": "The Sunday Guardian",
-   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOckJDU2VJbFkwdU5fd3dIVWZBSHd0NnppaTZ2T3BHLUcyMlBSX0M5YUpVVzBONHo0T1hoX09SaWhQbkNWQ0NCMFI5WF95Vm1QRTRpT3lHUzRFN0FnakljYWdfMjlJVVp6b1dhYjZaaFlnanNqRWp5bEpnZGd0QU83VGQtbllONWxwaS1SMzM3ZDczUHlFLUc3cXN0czk4bEZZSWNkRU16djJRMWlsSGg2eXhINlZ4QW1Ua19wQjh1ZXF2c3dBMFRteGhmMGN1MmpiVjNrLUstTDNOLWpKNzkzdEM5Z1BoV3lpXzlyOG5za3cxWkRkdzh0dGxHd2JHenppb0prUm90MDJuUHFpejVLd2ktTlcxdm0xYWktMmRIRy0yZ2RZMERXVjRPWXBGNzFjVTJkOUp5QXRmZ9IBvwJBVV95cUxPZUlISzh5Y19USkhnVXBpZXZiTC11QW0xME1pSENOd0o4WDJaY2lHWUJnWGxiaDBOb0kyVk9YR2VZNXZqRlVXb3RrRlo1dENWVGFGOFktdmtpM1g5ZjNWSGJOa3hWNkRMdEs1bEVYTVVOWHV3R0FjcW81T0FzdGlaekxheDhzbktmN2JzUzVFVTFrVnJBRHVmVWhVeHNCT2Nmc0Znb2MyS1lsbjFoYlJjVlBnZ3JxVldmcUVoR0F4NmFWeDR6d01kQWprZGM5R1c3SWhfdjVJVUJ3MUN3TWJ5am92LUR2SzdCUkpURHdtMUF3ejFHVG43YXVHWWlnTHJ2M3FyRE9fZVhHNUZxQm5pZFdwb1FqY00tdFVHM1hXQU50TUdXRzk1d2NwZ0lMcXc0WmRTZ19ubDVIYll1QnZF?oc=5",
-   "utc": "2026-10-29T07:46:15Z",
+   "title": "Iran declares Strait of Hormuz closed as army reports tanker fire following naval mine strike",
+   "source": "The Tribune",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUk5UR3l3VEI0UTZFZEtVOWlWZmxTLWx1azMxbEV6RmVIYjVrdG9MblcwNk1mbkJrMnMxOXp4RVRJZXROLTFLWmtHWVhBTVdfdTJDTlZBNUcwekpGVm1uSGRNLWpTWUZvb3Q3ZWZNLVBZcHRkNjdNTXhwcXF1NVluODFWQlBiWXlwb3Vmak84OF9WSTRLWXYyMGFHQ2pzT2lEbDZJRXowdFFqaWF5TUgyZjhrRktUYVhHUVUzdDBWdmdvZkkzN3dwYjkxa1hRNVUyQ1JlY2x0YTZZREVrMm9oNHZScXVnemI1WVNxbkMwRdIB7wFBVV95cUxOUk5UR3l3VEI0UTZFZEtVOWlWZmxTLWx1azMxbEV6RmVIYjVrdG9MblcwNk1mbkJrMnMxOXp4RVRJZXROLTFLWmtHWVhBTVdfdTJDTlZBNUcwekpGVm1uSGRNLWpTWUZvb3Q3ZWZNLVBZcHRkNjdNTXhwcXF1NVluODFWQlBiWXlwb3Vmak84OF9WSTRLWXYyMGFHQ2pzT2lEbDZJRXowdFFqaWF5TUgyZjhrRktUYVhHUVUzdDBWdmdvZkkzN3dwYjkxa1hRNVUyQ1JlY2x0YTZZREVrMm9oNHZScXVnemI1WVNxbkMwRQ?oc=5",
+   "utc": "2026-10-29T16:38:03Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 6.0,
+   "airspace": false
+  },
+  {
+   "title": "FPL Gameweek 9: Top 10 projections for DefCon points",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2FSWmVmRU1JN3IwX3dfTGpFUzYzMnVablZqNXpSYUZhMGxLaHpKcS0yNWNoMXZtUTZsYmV1SkhVZjNNS2hRY05sSUVGZXQ0RDhtRV9DMnVHUmhWTndoakFYWGU3QUZHQ3haRENXcC1oazdJcWNkQnpQUElHWlU5M09GOWF4VXEzV1gtemdYWFVrRURZZmJiVnE0bW1WampNaUJIWA?oc=5",
+   "utc": "2026-10-29T15:17:00Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Major European airport to shut down for entire month - all flights suspended",
+   "source": "Daily Express",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYXpBX3VMNUd2ckNJM0c5a0NQdDM5d3k1ekt0VS1DNUtQdFVNa1hYaGNIaXkwYU53dzFFWFM1N2tJMlFSS2hkUW53aDFKWFVoazBxTW05WklFSUc3MUl3U2pSOEVYVWhVbEgyQlFjQ0VQa1phenk1ZkwzTldRSWNRdDZKVFR5U0JCTlNVMUlQd0XSAZYBQVVfeXFMUGJyNU1aUWNtQkZGMHlnTXpwaTJJU1ZuNEM5N2x0Q3BmMnJlQXNuQjhROEdXREZaLWd5Rm9kdFB6cEJTcmVTVGxfcjdBdGhwek5IUXNtUnNlY2xhWDYyRzFHVS1fYkp5Y3BzOGtVdWhfRFJ2RkxIcDlxd0JCSHM1ckg0V1hhZWtITXhqSG85UHBWckFZc1pR?oc=5",
+   "utc": "2026-10-29T15:09:00Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.9,
+   "airspace": true
+  },
+  {
+   "title": "Exclusive-QatarEnergy buys US, other LNG to hedge future Hormuz disruptions",
+   "source": "Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGY3UWtUMUFnaVN6bWlTZzZNNFNLaDNFMVdTeVhnWXRsbFBqQU5DNnA5MzNzajdkMmVfa1k1bW94ckZVUnFkeFZEZ2xLQzNIcGFhWXBJTTBTRGV4NnJzMXJSQU4xN05wVTVqcTV3WkM3QmthWmtUbkpVOWdxaVJaekE1Q2ttOXNYeU8xVg?oc=5",
+   "utc": "2026-10-29T14:47:42Z",
    "tags": [
     "HORMUZ"
    ],
    "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
+   "utc": "2026-10-29T09:55:45Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 8.7,
    "airspace": false
   },
   {
@@ -108,18 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.9,
-   "airspace": false
-  },
-  {
-   "title": "China's Liaoning Aircraft Carrier Strike Group Enters Western Pacific Again Amid 'Shows of Force'",
-   "source": "news.sbs.co.kr",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IZUZQY3o3bTVHWWFNVUJyWmRMLW1sVlRNWXBPdGhzNUhNWU9CQ2V4WHQzUzVsS2loQ2wycXZ6TTFMNTlhc3B3NnNaSXJKN0JUNzNuVzh0YTNDMkpNZUdDaktKWDNJQQ?oc=5",
-   "utc": "2026-10-29T06:00:00Z",
-   "tags": [
-    "MIL"
-   ],
-   "score": 4.8,
+   "score": 8.6,
    "airspace": false
   },
   {
@@ -130,18 +163,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.5,
    "airspace": false
   },
   {
-   "title": "Iraq risks 80% oil revenue loss in renewed Hormuz closure",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGQyT2tDQTVjSlVGN3ZRbXVkdWJ1RE1zWW16V2w1b2pkMWZ2NUhWektJZW10OFp6cHN3RnBoS0F3UllDdHJFRmhId1pqYUZqQ0lDdERweV9VT2JIYlVKZmxmYkhzODU3dHhjSDlFSUQyM0szSi1fMDM1UUROVFdQeEVCVFZZckFrR1QyYU1JdnpiazV6V2hveXBQZHBHSEVlM3l3Y05CeHd3UnBGS0NYS3c2WUk0UnJNSy1ES0FFYXVUTGJGUjlldzJwSXA?oc=5",
-   "utc": "2026-10-29T04:55:00Z",
+   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkxGcHpab2N2cFVMemtPQVM4QllIeVVfY25XdHA4Q0lBSlFoWGREQnVxc1dWbERMYWNZeTJLaFgxX3dpNzJBRjNSWUFHbTJvYllvY0x0Z2V6R3BqWTdBNDFUZFdXME9FTFFOWlhFUUVGRGRVNVhhZHgtOFNOY01tZ29ncTJYSWFvLU9ocFp6T09Fbjdfa194aHM5dDI?oc=5",
+   "utc": "2026-10-29T02:17:11Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -152,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -163,48 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
-   "airspace": false
-  },
-  {
-   "title": "Houthis Call for Evacuation of Aden Airport Claiming Saudi Arms Shipment",
-   "source": "Daily Beirut",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVkMwUEpwSUZiSzRybkdBUTN2cXdpdlFWNnhDV3VON2dJVzBobnV3bHNUdFlWR3dIY0NZb1JfR2xMWktGY0VpN2tJdzA4SDdFNm9oTmlWWmxBc3g3elJLYk9ZTVRfZGtmc2E5QnJFUEQzT2NrTFZScmdlRmN4dUxxSXNSTVFpNTdqRUExS2hVdEprUmE5T3JtN3RhRHZzOEs3?oc=5",
-   "utc": "2026-10-28T11:13:32Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.0,
-   "airspace": false
-  },
-  {
-   "title": "Pakistan Closes Airspace to Taiwanese Airlines in Support of China",
-   "source": "ProPakistani",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0JzTmM2LXhfODZDMDRqUzd5TTNRY3VGU2VyblZ5SjhfQ0twQ3ZFZWloVlZNWTk3TksyNlVnSTJ6UUlqUDNNNnotZWZLaFN4Rm1BLU50NXlRbXlOTy1hYnVDUVpKbW91V01qZzNLMEZFTTNzVHVUNEhLMFBVQVVyRENEbEUzOUdXY3RIakhqbXEySGdoWUx5S1Y3THN2WDl2Yi1DcdIBqgFBVV95cUxQMnZ3bmRkSFZzcUhMYzV2TDlsZWF3dnJMYXdTcmF4VkhIZ3FlMV9DdFBGZ0pYeFZUV3B1YllOMFBRWGpZYjRfUWIwR3dhZUYzR0Fkd0dMMm1iZXh3RWdSdUh2Q1N5X0tkaE1vcndYa0IyWm5yeHJBXzdJWllJMUNpS1JCSjcySDhwclR3TFlBa3gtdTlwVElsMUUtSnZaSGlybDMydU9YbWVRZw?oc=5",
-   "utc": "2026-10-28T09:47:42Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 5.0,
-   "airspace": true
-  },
-  {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-10-28T08:35:30Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
+   "score": 5.1,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 249,
-  "baseline": 2.8,
-  "samples": 43,
+  "count": 3,
+  "global": 429,
+  "baseline": 2.7,
+  "samples": 41,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -381,6 +381,10 @@
    [
     "2026-10-29T10:07:28Z",
     2
+   ],
+   [
+    "2026-10-29T16:57:54Z",
+    3
    ]
   ],
   "box": [

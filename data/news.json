@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:58:18Z",
+ "updated": "2026-10-29T02:32:17Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (37)"
+  "Nikkei Asia": "ok (36)"
  },
  "items": [
   {
-   "title": "Gold Edges Lower After Fed Holds Rates With Limited Guidance",
+   "title": "Jio Breaks the Mega-IPO Jinx With Record Delivery Volumes to Boot",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
-   "utc": "2026-10-28T23:44:02Z",
-   "tag": "FED",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-29/jio-breaks-the-mega-ipo-jinx-with-record-delivery-volumes-to-boot",
+   "utc": "2026-10-29T02:30:38Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Google-backed fusion start-up taps Japan to revive German industrial base",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVdtZnctZEIycmxJS0VWbjdieFhxLVVYSDVwRUNsaE5uQ2VBUjFBZnRfWUZsd3h3TFlWNDdnTl96OERWZ2diRWMyempLWTFJbFR0VzZWX1U3UmtnTDh2QVlOQnFjeC1NX2ZxZlo0TlRmVjJQRFBqRXdxVWRrOVdaUnZkaFNndkd5dkl3WFQ0RmprSG16emU0Y1RfQmx0d0k1bGlpQzU5U2gySGhEbzFReXFleUo5ZFBi?oc=5",
+   "utc": "2026-10-29T02:23:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "HK Dollar Peg Architect Says Narrower Band May Ease Speculation",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/hk-dollar-peg-architect-says-narrower-band-may-ease-speculation",
+   "utc": "2026-10-29T02:15:44Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+   "utc": "2026-10-29T02:14:14Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+   "utc": "2026-10-29T02:06:04Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Nasdaq-100 futures dip as Alphabet shares sell off after earnings report: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+   "utc": "2026-10-29T02:01:56Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Thailand's Kasikornbank taps AI to expand wealth management customer base",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY240cjNEY3pFSGVzZm05bU01NDVLeTJqNXBjSlduU1AyLUhMZERaQ1FVUEF2UnppSXAtQlZpNTNlWkZ5LTMzZzlBZFFkSXY5OF85TDBTMGIwX0hud1pyVjQxaHRNUlFaZ3RjVE9WTGd5MWRlMzNUZmtGSnNEaTlzYXpQSHgxc2hmR0pDSHp1X0NXNUUwOV9LNkZ5aUVxR0FLMjl3YlhjcGhJTGRzbTJEVHBIRGZCTUNyN19RZ19mckVVVm9XU08tNzdOZWo?oc=5",
+   "utc": "2026-10-29T02:00:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Lynas Expects One-Month Shutdown at Malaysian Rare-Earths Plant",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/lynas-expects-one-month-shutdown-at-malaysian-rare-earths-plant",
+   "utc": "2026-10-29T01:58:46Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
    "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-   "utc": "2026-10-28T23:44:00Z",
+   "utc": "2026-10-29T01:58:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
-   "utc": "2026-10-28T23:38:00Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Fed's policy committee to weigh balance sheet issues early next year, Warsh says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaDZHdmRFaXBHQzZvWXZjZU8xOFRrT0Q1WGx2ekJuQ1hCTV9EbHdTOElZTERXemZwY1o0ZzRZUXR6aDNkM0tOejh1N201SmxqR29NSFE2Q0c5TlJMQ29pZGhvM0E5TVc0UjkyTFVNY1VONjl3WG5WOXJaRElkNEktODF4LXhkaF9YTW5kN01DYUFtcy1hclBQbXFSdk5aSGFJMG8yTWtLd2ZlTnY5Ylp4MmJmWldCNXVZekg5T3FwMEpmSVBCWDFV?oc=5",
-   "utc": "2026-10-28T23:33:51Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Fed's Warsh announces changes in how future FOMC meetings will go",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
-   "utc": "2026-10-28T23:32:40Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "BYD Short Sellers Retreat Ahead of Expected Profit Rebound",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/byd-short-sellers-retreat-ahead-of-expected-profit-rebound",
-   "utc": "2026-10-28T23:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
-   "utc": "2026-10-28T23:24:37Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
-   "utc": "2026-10-28T23:18:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-   "utc": "2026-10-28T23:17:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Petrobras Pumps at Record as Iran War Upends Oil Markets",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/petrobras-pumps-at-record-as-iran-war-upends-oil-markets",
-   "utc": "2026-10-28T23:06:04Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Association opposes new solar panel rules",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3345550/association-opposes-new-solar-panel-rules",
-   "utc": "2026-10-28T23:04:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-   "utc": "2026-10-28T23:02:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Bankers in Failed Firmus IPO Probed by Australian Regulator ASIC",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-28/bankers-in-failed-firmus-ipo-probed-by-australian-regulator-asic",
-   "utc": "2026-10-28T23:01:21Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Oil-Refineries-Become-Prime-Targets-as-Global-Fuel-Shortage-Worsens.html",
-   "utc": "2026-10-28T23:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "U.S.",
+   "title": "Iran separatists step up attacks, anticipating full-scale US assault",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iWXdaamdrVy0tZ3QtcHlpU2JGSU1fLU11LWJhcHVaZllPRjA4UDNOdXFpaG5pVVp5eUstaXMyc0J6eHNSZGpOUGxqYTNFUkdjY2x3VkpjUGVGeHA5V25Ma1pTOUxTcHBNUEV4M1NQWUJvZlJ2R1hB?oc=5",
-   "utc": "2026-10-28T22:45:15Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMl9GeFk5TXhOMVRqRlE0VWEtU29aT3ZEbTVxbm43Y1NDb21abDAwTmI1Tjk2Mmo4eVdVZTZmSnhXZkc4U1pxeUoyMHFteHMwWTJLT3ZTeFJfMmt6QW51dk5pblZuaFdfdmdzTmxmLXh6MUQ4aUJIZDNweUlvZ1U3dDBGWngtRVRCYkR2UFJ4Wkxac2U1T1ZNTHRkVWNTa2o4N0E?oc=5",
+   "utc": "2026-10-29T01:48:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Philippines May Use More Tools to Stem Peso Slide, Analysts Say",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/philippines-may-use-more-tools-to-stem-peso-slide-analysts-say",
+   "utc": "2026-10-29T01:15:02Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
-   "utc": "2026-10-28T22:44:54Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-   "utc": "2026-10-28T22:41:00Z",
+   "title": "Shapoorji Seeks to Raise Up to $200 Million to Repay Debt",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/shapoorji-seeks-to-raise-up-to-200-million-to-repay-debt",
+   "utc": "2026-10-29T00:56:44Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+   "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
-   "utc": "2026-10-28T22:38:41Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "utc": "2026-10-28T22:34:56Z",
+   "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+   "utc": "2026-10-29T00:32:02Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "How Trump’s Russian Diesel Could End Up in Cuba Instead",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/How-Trumps-Russian-Diesel-Could-End-Up-in-Cuba-Instead.html",
-   "utc": "2026-10-28T22:28:57Z",
+   "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
+   "utc": "2026-10-29T00:28:00Z",
    "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9qWW1wa0JpT2tGTDBZNDBRZUtkRU1NaU1pd1gtZzBCNGtqZXZmRm5wZDAzRmJ0TEloNGZmX1RvaXRBckVfdjJqTEVxLVdZZ1ZLWXFyNGh0Tm8wYWx5ZnNpVGl4YmF1NnZnd2EzY3MteVk3N0RmMS0tV21ESi1jOVdrRlp5OG12ZFBZRDBBSmhXV3NNeHIzaWI4b2xJR2dTREQ0UDBfdExQejcwUF8walFGUnNRdm9aaFpCQ0ZTRndoZw?oc=5",
+   "utc": "2026-10-29T00:21:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+   "utc": "2026-10-29T00:20:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Russia imports North Korean workers disguised as students, report shows",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV29VY3M4RnJTeFhncER5Nkl0VFJIaEUzeDNfRmpINTh5aXMyNHJEZ3p3azBVZzNLRUpqRENGVHkwdkZSRV9ZN09mNld3S0xwMTJzeG1SNUpPaUJLY2dsUmNUSzVvMWk2b3NwUksyZl96a3JZMUVTU29oeEh3dWMtb0ZmWTI5WHhkWUYtSGI3UGtsbUFnZU9aajc4N3VyMC1aNEhSdWk1WHl1OFFjaTVOZnJzOEhWREhoUFViYTR5aC1BYms?oc=5",
+   "utc": "2026-10-29T00:20:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+   "utc": "2026-10-29T00:16:39Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+   "utc": "2026-10-29T00:15:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+   "utc": "2026-10-29T00:11:14Z",
+   "tag": "WAR",
    "breaking": false
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:58:43Z",
+ "updated": "2026-10-29T02:32:31Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   49,
+   43,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   6,
+   5,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -97,18 +97,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
-   "airspace": false
-  },
-  {
-   "title": "Nigeria Evacuates Ebola Patient as Authorities Tighten Travel Screening",
-   "source": "SuaraGarut.ID",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3bFRVOEFsSGtZYVZJWFhUa3h3QXFxUVNacWFEWHZDN1hsVVZRYm42ZGZVZjluMnBZOGZFZlMwcFNVczBzd2c3a3BnallES01MalRNMVpDWW5tM3dmeDFaUVZDemVnUQ?oc=5",
-   "utc": "2026-10-28T20:53:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.9,
+   "score": 8.8,
    "airspace": false
   },
   {
@@ -119,7 +108,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -130,7 +119,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
+   "utc": "2026-10-28T19:32:03Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -141,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -152,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.4,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -163,7 +163,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.4,
+   "score": 5.3,
    "airspace": true
   },
   {
@@ -174,7 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.4,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -185,26 +185,26 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": false
   },
   {
-   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
-   "utc": "2026-10-27T05:59:49Z",
+   "title": "India ramped up LPG output, diversified imports to weather Hormuz crisis: Union Minister Puri",
+   "source": "ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOelRuZTF1NUQydldIZGJMcmpITjBVbHNSeFg3b3FFUVRGNTZVMlNhdnhtNlZWVXk1VlJzWTVOcVpiSGJ0NHZwanVzMlFvTWNjRU5tY185bmZzc2sxMzU2cWJPVF93M0VtWVNlYlJGRld1YnRDNTV1VWlHVHNPeWk2YVR1dmgyN19qc1ppazRRd05aemNEemEzMGFtLVhhdnFkRElJMFdIMXl3QVV2SkM1bUhoUUVRLUh2MjhoWFl5bGZpRjNPOW9TdXpR0gHKAUFVX3lxTE56VG5lMXU1RDJ2V0hkYkxyakhOMFVsc1J4WDdvcUVRVEY1NlUyU2F2eG02VlZVeTVWUnNZNU5xWmJIYnQ0dnBqdXMyUW9NY2NFTm1jXzluZnNzazEzNTZxYk9UX3czRW1ZU2ViUkZGV3VidEM1NXVVaUdUc095aTZhVHV2aDI3X2pzWmlrNFF3Tlp6Y0R6YTMwYW0tWGF2cWRESUkwV0gxeXdBVXZKQzVtSGhRRVEtSHYyOGhYWXlsZmlGM085b1N1elE?oc=5",
+   "utc": "2026-10-27T08:45:25Z",
    "tags": [
-    "EVAC"
+    "HORMUZ"
    ],
-   "score": 7.3,
+   "score": 5.3,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 285,
+  "count": 1,
+  "global": 227,
   "baseline": 2.9,
-  "samples": 41,
+  "samples": 42,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -373,6 +373,10 @@
    [
     "2026-10-28T23:58:43Z",
     0
+   ],
+   [
+    "2026-10-29T02:32:31Z",
+    1
    ]
   ],
   "box": [

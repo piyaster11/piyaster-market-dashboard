@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:59:31Z",
+ "updated": "2026-10-30T20:52:17Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   38,
+   34,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   7,
+   5,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,6 +90,39 @@
  ],
  "headlines": [
   {
+   "title": "US begins evacuating diplomats from Saudi Arabia",
+   "source": "Report.az",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEdDWEtVWnY0ZnVMcnRzX1BFUGVfTGxRNlAtZ1gwa3VFZWJ3QkFnTEtneVlDSUZjc3JLaDBYTUxJWEVuQmx2ZGEzTDJrT2VQcGVMQWxCOHZ1UmdBWVBfdmNmTmJwWFNHWmhDcjN6TWl6SFJwY0lONEwxaTd5WkEwcGExa0J5TGF0Z0htYy1R?oc=5",
+   "utc": "2026-10-30T19:42:11Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 6.0,
+   "airspace": false
+  },
+  {
+   "title": "What we’ve learned so far this season in FPL: Premium letdowns, DEFCON magnets and the joy of Hull",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1NYVk1ZSXJJNWlPbjN0TkRQNFRQakgxTEZoMzdlVUNONS1rLTNJYkJrSWdkN3Zxd3E4Uk95LWJaZ2hfa09RdHdKRmRrZ01ZckJfaTVUQ2JnRVdZLTEtRTBuT2Y1TU44bm1kazYxOEh6ZEUza0dzV3lqVVVYa19oZERTRDAwOEJsbVdENHJITE4yQQ?oc=5",
+   "utc": "2026-10-30T17:43:00Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Targus Defcon CL Laptop Security Combo Combination Cable Lock PA410U New‎ in Pkg alphavilleearredores.com.br",
+   "source": "alphavilleearredores.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZWkxbV8xUUY4Q0x0ajBWZ1BvLU15V1BpTnJ2QlIwWHhxOGRjYWZKR3M0SnZpQUpwWmlHenRfU0hUYXgzR2oxYnhaN3hfVGFqdEI1OHFMT2pXTWRBMGZfTnVoUnJhc0dzcTQ5TmZLRG1mUjNESWF2UkpBbGs5bE5mNTNoVHpvVjN2enloc3hQb2RTN1ZxYlpBTGlRbURLM3dJZzRVVjVmb1dtcUFIM09XNmZfT0dueVlNTXl1RTYxLXRIOU5OZTNtTTBJRVM0N2Rwa0JUUFZLVm94T0JodVUydEN0a0VHdXVGTDQ4X09jbw?oc=5",
+   "utc": "2026-10-30T13:47:49Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
    "title": "Shafaq News..Two oil tankers stopped south of Strait of Hormuz",
    "source": "شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVd5LUN6NkFVdUdxZUFqb3M4SVlSSGxRd2VranYxWkhoYVpaNHg5TjBKRk5EcXBwWm4zb2ZNXzdsamZnWk9wdW5Qb3UwMnBfT0dpanRwXzBqU1RScXNWekdRTUFLUks2Vzc5X2F3U19IYmN1UVBfMmRKc091Y1hNMDBiejBHVFVuYnJQbk5Sazk?oc=5",
@@ -97,7 +130,29 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.9,
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
+   "utc": "2026-10-30T12:59:07Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "Asia Exports of Refined Fuels Plunge Amid Hormuz Closure: Russell",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzZzWUpMcGRDUXcxVU14QVlSRXdrblBUZVhfNkRvcWdWenZhS21IZWxEQUxmUTB2VjJqaTZ1bWZ4cHVWU012Y2dVN18yWndLdmZIV0t0dmoxNVh6cXREUXZjUEZlQnRiWHlzcjdKc1RIQXd5dndrdVlSekd6al9tQTBaY1RUaGhJcXZsWnktVUpnei0tcWFTSnN6VQ?oc=5",
+   "utc": "2026-10-30T12:55:56Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -108,19 +163,19 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
-   "title": "Ryanair and easyJet Bristol flights suspended to huge European airport as it closes for a month",
-   "source": "Bristol Live",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaGpUOGs5alQyYWtVTGZkRFVkODg5YXdiaVNNR2dkQ0pIeUliSWtCXzVRQVNOWXVHZG9fcmJzNWZNeFFfQkM4LUlCQWpmMUMxNV9qZjM1N1pDRWNHMHpFNXlmZ01POG1MU2pTdkQzWk9BNTNQY1BMaE9HOXBlSEp0VUF1VXNHZXFqVXFz?oc=5",
-   "utc": "2026-10-30T10:15:16Z",
+   "title": "More Oil Escapes Hormuz, Keeping Traders Guessing: Bousso",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVGR6cnBlUmsyYS0zVEsteDlhZGdJeThKc1ZHdVBXdVpIOUQ5SWRtbmg2TGpaLU9FbjdCLUd1cmlyWW0xdWZGeDJlbnQzcW5PMHJYNC1pVlN1bFEzWGQyOU1QRmtXNUIyelpYSkVWRFBYWmRHYWpTVHMtbm1KMGU5dldfWWZ3RFkzQkNwX3lNNA?oc=5",
+   "utc": "2026-10-30T12:20:33Z",
    "tags": [
-    "AIRSPACE"
+    "HORMUZ"
    ],
-   "score": 4.8,
-   "airspace": true
+   "score": 4.6,
+   "airspace": false
   },
   {
    "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
@@ -130,29 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
-   "airspace": false
-  },
-  {
-   "title": "NEWS UPDATE: The Civil Aviation Authority of the Philippines (CAAP) has issued a Notice to Airmen (NOTAM) covering flights near Mayon Volcano, with vertical limits extending from the surface up to 19,000 feet. The NOTAM will be in effect from Oct. 30, 202",
-   "source": "Facebook",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOamRDQVFzYmVCeE55UDM0NnVrbG9pblNUUkotdkIyWGhSR0ptQWhETTJnZlJ6QnlQZ19KcDBCZWdVNnZvX0ZuSFdxeXVMMmRDVjNEUUk1WFN4NXl5NmJHajNLNGVkNXhSTTVWMUpWLXQ1Qkw3NnA4VzlvaWcxUF9scWpyV0djVk1FM2QtWGZkQ2FtNUExQ29oQ1pVWkY3bGxhdm1UUjhUM01MaE43VlIxNF9USTBxQm9mZmJKX0M1VFUzT0x4anZpTmxzemppT3RXbXJn?oc=5",
-   "utc": "2026-10-30T08:52:26Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 6.7,
-   "airspace": true
-  },
-  {
-   "title": "KC-10 Extender: Why Was It More Than Just a Tanker?",
-   "source": "Defense Feeds",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVEdsX1RxRl9nSUkzb0UyMXZDVjhzNG9uS3kweThRd3VPZjVQRXpvc1FVNmotbHV4NmNfYlFkNDM3dlF5MmJfY3ZnZ0tWc2VNSkRISFBJUDdkakc4ZVg4RUJZT0JyVXFteXNjbXdtUzQwNlNqbnJZWTd6VjdDUW53bldZZmlwT0k?oc=5",
-   "utc": "2026-10-30T08:26:11Z",
-   "tags": [
-    "MIL"
-   ],
-   "score": 4.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -163,47 +196,14 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 6.7,
+   "score": 6.5,
    "airspace": true
-  },
-  {
-   "title": "US Preparing to Issue Ordered Departure of Some Personnel From Gulf Embassies – US Officials",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUVvU045M0loMEo2dEdHVzZ5VW5KUTdnNGEwdXpEN05fX19Nbnc3ek4wQTE2MnJaQUpSd0czVlNIU3NGQ3VyMmxNRWo4ZnBKTkRGUzYzQ01YakV6dXAtQzdCaWFNTm9ObFZpWFV3STNIaHQ5WmRxajJ6bF9Ld25mNU45TGhadnJzUDRON1pGUy1JWWVyanFJSHJfNmZTS0tqbWh5d2Vmdnh4Qll1bG9abDZlTGhpMTMwWE5teW1n?oc=5",
-   "utc": "2026-10-30T07:14:10Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 8.6,
-   "airspace": false
-  },
-  {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-10-29T16:30:30Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.0,
-   "airspace": false
-  },
-  {
-   "title": "Ahead of Oleshky evacuation, Russian and Ukrainian delegations meet in Belarus",
-   "source": "1Lurer",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE16M01rUC05NktiNU9QZ29OdXdVZHhIUm93Q1B6OUoxZHBwUzNjTDhpRXN5YlZYbVd2bFIzTXBkMjByRUpYeFlrWQ?oc=5",
-   "utc": "2026-10-29T10:27:34Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.8,
-   "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 344,
-  "baseline": 2.4,
+  "count": 1,
+  "global": 228,
+  "baseline": 2.3,
   "samples": 40,
   "hist": [
    [
@@ -405,6 +405,10 @@
    [
     "2026-10-30T15:59:31Z",
     0
+   ],
+   [
+    "2026-10-30T20:52:17Z",
+    1
    ]
   ],
   "box": [

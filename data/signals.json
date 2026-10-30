@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T08:44:15Z",
- "level": 52,
+ "updated": "2026-10-30T15:59:31Z",
+ "level": 50,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   40,
+   38,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   6,
+   7,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   2,
+   0,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,14 +90,69 @@
  ],
  "headlines": [
   {
-   "title": "KC-10 Extender: The Powerful Technology Behind America’s Flying Tanker",
+   "title": "Shafaq News..Two oil tankers stopped south of Strait of Hormuz",
+   "source": "شفق نيوز",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVd5LUN6NkFVdUdxZUFqb3M4SVlSSGxRd2VranYxWkhoYVpaNHg5TjBKRk5EcXBwWm4zb2ZNXzdsamZnWk9wdW5Qb3UwMnBfT0dpanRwXzBqU1RScXNWekdRTUFLUks2Vzc5X2F3U19IYmN1UVBfMmRKc091Y1hNMDBiejBHVFVuYnJQbk5Sazk?oc=5",
+   "utc": "2026-10-30T13:36:11Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "US commander reveals what he saw — and did not see — in Hormuz",
+   "source": "Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkFtQV9Qa1JxU1FlNUQyRWJ3TXoxcE9WN3FKZlRsQnlvaG9UakY3V1dPY3FFYmY3WkpEay1UWW1KQmQwUmFjNnFoTXRKbXZjOGZaaW5lbEJ6V3Zld29pU3BXOGgxRmRrMEowV3RmVkdCNk1aekFkV1ZlWFJKMWpRQ2V1T0U3Rm9QQkltYmhLdXkteDdSQ2o5dm1GZGdZb2hWMW9vZEM2VDNVODMxbTkxZw?oc=5",
+   "utc": "2026-10-30T12:37:45Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Ryanair and easyJet Bristol flights suspended to huge European airport as it closes for a month",
+   "source": "Bristol Live",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaGpUOGs5alQyYWtVTGZkRFVkODg5YXdiaVNNR2dkQ0pIeUliSWtCXzVRQVNOWXVHZG9fcmJzNWZNeFFfQkM4LUlCQWpmMUMxNV9qZjM1N1pDRWNHMHpFNXlmZ01POG1MU2pTdkQzWk9BNTNQY1BMaE9HOXBlSEp0VUF1VXNHZXFqVXFz?oc=5",
+   "utc": "2026-10-30T10:15:16Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.8,
+   "airspace": true
+  },
+  {
+   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
+   "source": "Addis Standard",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
+   "utc": "2026-10-30T09:32:36Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "NEWS UPDATE: The Civil Aviation Authority of the Philippines (CAAP) has issued a Notice to Airmen (NOTAM) covering flights near Mayon Volcano, with vertical limits extending from the surface up to 19,000 feet. The NOTAM will be in effect from Oct. 30, 202",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOamRDQVFzYmVCeE55UDM0NnVrbG9pblNUUkotdkIyWGhSR0ptQWhETTJnZlJ6QnlQZ19KcDBCZWdVNnZvX0ZuSFdxeXVMMmRDVjNEUUk1WFN4NXl5NmJHajNLNGVkNXhSTTVWMUpWLXQ1Qkw3NnA4VzlvaWcxUF9scWpyV0djVk1FM2QtWGZkQ2FtNUExQ29oQ1pVWkY3bGxhdm1UUjhUM01MaE43VlIxNF9USTBxQm9mZmJKX0M1VFUzT0x4anZpTmxzemppT3RXbXJn?oc=5",
+   "utc": "2026-10-30T08:52:26Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 6.7,
+   "airspace": true
+  },
+  {
+   "title": "KC-10 Extender: Why Was It More Than Just a Tanker?",
    "source": "Defense Feeds",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVEdsX1RxRl9nSUkzb0UyMXZDVjhzNG9uS3kweThRd3VPZjVQRXpvc1FVNmotbHV4NmNfYlFkNDM3dlF5MmJfY3ZnZ0tWc2VNSkRISFBJUDdkakc4ZVg4RUJZT0JyVXFteXNjbXdtUzQwNlNqbnJZWTd6VjdDUW53bldZZmlwT0k?oc=5",
    "utc": "2026-10-30T08:26:11Z",
    "tags": [
     "MIL"
    ],
-   "score": 5.0,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -108,51 +163,18 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 7.0,
+   "score": 6.7,
    "airspace": true
-  },
-  {
-   "title": "Iran War and Strait of Hormuz Threats Dominate G20 Energy Security Talks",
-   "source": "https://streamlinefeed.co.ke/",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk9SazZfSlRUZ3JEaWtGUTVPd2hGWWJjc0I0NC1idFF0ZmFmNkNnMnZNeERQcTVJdGFCSUt3aktsZkpXaVQ3MVd1ODNnaV9LTmpqeDRwY0dvLVJVenBmU0FacTE2dS1JQWpvczhtRTZtelQ2Y3YzUU55QUtPRGFieVNhVktaV3Fsd0djUGItUVRVdDNOYVE4MUg4UjhYLWZUaElZZzBkLUlLUQ?oc=5",
-   "utc": "2026-10-30T05:47:49Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "What we’ve learned so far this season in FPL: Premium letdowns, DEFCON magnets and the joy of Hull",
-   "source": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1NYVk1ZSXJJNWlPbjN0TkRQNFRQakgxTEZoMzdlVUNONS1rLTNJYkJrSWdkN3Zxd3E4Uk95LWJaZ2hfa09RdHdKRmRrZ01ZckJfaTVUQ2JnRVdZLTEtRTBuT2Y1TU44bm1kazYxOEh6ZEUza0dzV3lqVVVYa19oZERTRDAwOEJsbVdENHJITE4yQQ?oc=5",
-   "utc": "2026-10-30T05:30:58Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2tKSXpRQ2RURVJRWkNUcVFBMU9sNGRYc3JqUWFLMWdOSnRBS0R6Nm1GYkFBaGpDVkg5RDg3NFI2NXRfZmlEaFBMODBDQkxwNmw3NG5iY0Q4NjFsR1pZMHJvLUlybnVodV85UmN1Nm1oV01qS1hkdXFxb3BZZGFWYTFLT25vYk9FeWZqUXVjQ2NjZFdQOVBTbXFFMzQ1QQ?oc=5",
-   "utc": "2026-10-29T21:48:29Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.5,
-   "airspace": false
   },
   {
    "title": "US Preparing to Issue Ordered Departure of Some Personnel From Gulf Embassies – US Officials",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUVvU045M0loMEo2dEdHVzZ5VW5KUTdnNGEwdXpEN05fX19Nbnc3ek4wQTE2MnJaQUpSd0czVlNIU3NGQ3VyMmxNRWo4ZnBKTkRGUzYzQ01YakV6dXAtQzdCaWFNTm9ObFZpWFV3STNIaHQ5WmRxajJ6bF9Ld25mNU45TGhadnJzUDRON1pGUy1JWWVyanFJSHJfNmZTS0tqbWh5d2Vmdnh4Qll1bG9abDZlTGhpMTMwWE5teW1n?oc=5",
-   "utc": "2026-10-29T18:57:12Z",
+   "utc": "2026-10-30T07:14:10Z",
    "tags": [
     "EVAC"
    ],
-   "score": 8.4,
+   "score": 8.6,
    "airspace": false
   },
   {
@@ -163,7 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.3,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -174,36 +196,14 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "Ukraine: Preparations underway for Oleshky evacuation",
-   "source": "Inquirer.net",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0M5TTNIV2dIdVJqOENBcG0xamZqcF9sRXNGbVpLSzZWOGlCTVZxZUpFMjMxY1JnUndGZU1nQ1k4UktzREJhQkN2LW84cUJDT0lMOTdOcHJrMXctZGpjdDQ1R0JVcnRGTm5FSC1uN1pnMDJRamZLMTRNWlA5VUZQSmFkOU1TUHdXTjd3SEJ5Q2kyWmZkblNrX9IBngFBVV95cUxNVlVBWVNRbHlESEpaNE9mMnZXY3RhRXM5aUM4VGNUclltN3d2SGJpN1hHT0ZYVEV5cF91em9XWGR3aU9aUE1WLVZmZE9ZdjNsdGtIcjVYNmJPSDkwclV0SDVPSXJVRE43NXNpc3FhOU45UnNETDNONE5uRXFjakJvQ3ItZ294dmVITlpsNjNHR1BBWFZHaFlfOU84TUVrUQ?oc=5",
-   "utc": "2026-10-29T05:20:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Turkmenistan has opened four additional checkpoints on the border with Iran to evacuate foreign citizens",
-   "source": "Turkmenportal.com",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPS01XNWE3bERiRGo5NXRrVW5FYms4SElXUzczS0ppZXVHTHZoRDJYMjN1d0ZIbzdWVF95R29ybEU1MXJlenYzMWQwWW5odC1iRkVMRE9FZ2ZTWHo5SlZ5SVNTVFZpNDdMUllpakxWRUJTWXNHUmRrS01LRl9ycmw1U3hNTnJnbFo1Q3ZOREtIS210VmYtZ0hSYjBOSUpTZTc0X05mR1gtdVg5ZUtOVGNoVXdrZVFDVGJTdjJVWEdsaGVYczJfTTBiQjh4dGlWclhwalhOcm9zQ1hBQlhqY2kzbDBITk0zVDJwd2ZOcnRRcUpvS0lrdURPdDNfaUo1NlZPMEZuMmllLTUxaXhHTjE2amlR?oc=5",
-   "utc": "2026-10-29T01:24:18Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.7,
+   "score": 4.8,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 188,
-  "baseline": 2.5,
+  "count": 0,
+  "global": 344,
+  "baseline": 2.4,
   "samples": 40,
   "hist": [
    [
@@ -401,6 +401,10 @@
    [
     "2026-10-30T08:44:15Z",
     3
+   ],
+   [
+    "2026-10-30T15:59:31Z",
+    0
    ]
   ],
   "box": [

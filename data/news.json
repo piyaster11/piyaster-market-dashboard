@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T08:43:55Z",
+ "updated": "2026-10-30T15:59:15Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -8,168 +8,168 @@
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
-  "Bangkok Post": "fail: HTTP Error 503: Service Temporarily Unavailable",
-  "Nikkei Asia": "ok (51)"
+  "Bangkok Post": "ok (10)",
+  "Nikkei Asia": "ok (44)"
  },
  "items": [
   {
-   "title": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-   "utc": "2026-10-30T08:36:52Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
+   "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-   "utc": "2026-10-30T08:32:39Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Bleak Friday Looms for Stocks: Market Analysis",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/bleak-friday-looms-for-stocks-3-minutes-mliv-video",
-   "utc": "2026-10-30T08:29:07Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Moody’s Warns of Deeper Losses for Bondholders in Senegal Revamp",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/moody-s-warns-of-deeper-losses-for-bondholders-in-senegal-revamp",
-   "utc": "2026-10-30T08:20:13Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Kia Shares Plunge as Cost Surge Linked to Iran War Hits Profit",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/kia-shares-plunge-as-cost-surge-linked-to-iran-war-hits-profit",
-   "utc": "2026-10-30T08:19:58Z",
+   "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+   "utc": "2026-10-30T15:55:50Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "BlackRock Says Bonds Offer Compelling Income Opportunity",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/blackrock-says-bonds-offer-compelling-income-opportunity-video",
-   "utc": "2026-10-30T08:12:22Z",
+   "title": "Private equity in your 401(k)? Heed Warren Buffett’s warning.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
+   "utc": "2026-10-30T15:53:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+   "utc": "2026-10-30T15:52:35Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+   "title": "Fondos de Brasil sufren fuertes pérdidas tras victoria de Lula",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-30/fondos-de-brasil-sufren-fuertes-perdidas-tras-victoria-de-lula",
+   "utc": "2026-10-30T15:50:18Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "$6.3 billion Binance hack is largest crypto theft on record",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-   "utc": "2026-10-30T08:09:28Z",
+   "utc": "2026-10-30T15:47:07Z",
    "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "Horizons Middle East & Africa 10/30/2026 (Video)",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/horizons-middle-east-africa-10-30-2026-video",
-   "utc": "2026-10-30T08:07:15Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Thailand is a democracy in form but an autocracy in substance",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1NlRDhrRzF0c25jY0d1Wlg2ZkNHY1hlQV9EMHVSWHJaRnhqc1puOVAtelhWQmZiMUVidVZhckh1Rm5jdzNGQzVWek9xalVPVTBaTWl4RndkdlVUU0FfV3NTSE5iYldweGdwR1Zyem1mUFZtaGpKU05MVEczczhLdV9mdm5zbnVlWjhwMzBFN0lybzcydWkydg?oc=5",
-   "utc": "2026-10-30T08:05:00Z",
-   "tag": "THAI",
-   "breaking": true
-  },
-  {
-   "title": "Binance's $6.3 billion hack: What we know and what comes next",
+   "title": "Intel heads for worst day on Wall Street in more than 50 years on weak guidance",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-   "utc": "2026-10-30T08:04:50Z",
+   "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+   "utc": "2026-10-30T15:43:48Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+   "utc": "2026-10-30T15:37:21Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Trump holds off overcapacity tariffs as US midterms near",
+   "title": "Toyota and Waymo to roll out driverless robotaxis in Japan in 2027",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcXlPSWcxZFJfekRjUWJIQ2k2M2JsV2NSRFlXODRERDFMdV9reThVNk9aUEFWRmxwbWVQSTNsTWRlTHlTN1pqeGxGT2NEdzJBaUh5eUJHYnUwWFQ2VGdVMkt5R0E3V01LR2p2cVY0QjJabkdrV1QweUFldmQtSFg3N19VQVR0MVhpTE11ZU9PaTRlSEVSZVNfTkN6dlAzZFlZZTlKZnFIS3MyRThkUm1PV3JB?oc=5",
-   "utc": "2026-10-30T08:02:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVdWX1N4YjR0aWJLbkI5aHQwc3NTb1B4Y1U2cFd4UHRfS2YxRlFDeEljekVtM0RySkR0d2hjLVVCVWNvUTZmUEppb2NkZ29jZWR2RWlMOVlwUzJiNkxlUDdSc3ViTWI0N0FqOTdKNDctRkRTdUZoLUpzWWRabjJOWWF0WFpwUEpmTFlLbnRpRTFPRGRfQUNPcVRTTGFjUjRaQ2ZSZkdpMUQyNlpvbjJfb0VfZTc?oc=5",
+   "utc": "2026-10-30T15:36:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Credit Agricole Reports Higher Profit, Warns of France Risk",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/credit-agricole-reports-higher-profit-sees-france-risk-video",
-   "utc": "2026-10-30T08:00:27Z",
+   "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+   "utc": "2026-10-30T15:33:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "PHP2Shell Won’t Be the Last Big AI Cybersecurity Risk",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/php2shell-won-t-be-the-last-big-ai-cybersecurity-risk",
-   "utc": "2026-10-30T08:00:10Z",
-   "tag": "AI",
+   "title": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+   "utc": "2026-10-30T15:30:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Audi Dials Back Outlook on China Slump, Competition in Europe",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/audi-dials-back-outlook-on-china-slump-competition-in-europe",
-   "utc": "2026-10-30T08:00:00Z",
+   "title": "Japan to Overtake China As World’s Top LNG Importer This Year",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Overtake-China-As-Worlds-Top-LNG-Importer-This-Year.html",
+   "utc": "2026-10-30T15:30:00Z",
    "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Odd Lots: What Cybersecurity Means in the Age of AI (Podcast)",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/audio/2026-10-30/odd-lots-what-cybersecurity-means-in-the-age-of-ai-podcast",
-   "utc": "2026-10-30T08:00:00Z",
+   "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5",
+   "utc": "2026-10-30T15:29:33Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "French centrists' feuding increases odds of Le Pen-Melenchon runoff",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWphYWlpaktfNXNkUmRqTzg2Ml95cjdWWVBaVFdFZWgxLTI5SUttWjdNM2JPR1VmMHdsbFh0enpOc2lNazdOaVo3cjJfZi1ITXd2UEpKaGxxU2tLXzJ0WjJ1VVV6MDRkdnNQN3hfNkduMzFlSloyemdXcWFKdWtXUXc2UDM0enFfR245SDNZdFo2RHpuVDNVWlVWTFlzckZhTE9ycC01MTY3SEc2anNkbGxR?oc=5",
-   "utc": "2026-10-30T07:55:49Z",
+   "title": "Starbucks Could Become a Multi-Brand Company, CEO Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/starbucks-could-become-a-multi-brand-company-ceo-says-video",
+   "utc": "2026-10-30T15:29:15Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
-   "utc": "2026-10-30T07:54:07Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
+   "title": "Nasdaq falls more than 2% as investors rotate out of tech after Amazon, Intel earnings: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
-   "utc": "2026-10-30T07:51:30Z",
+   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+   "utc": "2026-10-30T15:26:04Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+   "utc": "2026-10-30T15:26:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "One Fed Policy Can’t Fix a Two-Speed Economy, Says Janasiewicz",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/why-one-fed-policy-can-t-fix-a-two-speed-economy-video",
+   "utc": "2026-10-30T15:24:06Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+   "utc": "2026-10-30T15:15:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Tesco Strikes €1.7 Billion Deal to Sell Czech, Slovakia Unit",
+   "title": "Iceland’s Top Tourist Attraction Blue Lagoon Spa Plans IPO",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/tesco-strikes-deal-to-sell-czech-slovakia-unit-for-1-7-billion",
-   "utc": "2026-10-30T07:46:43Z",
-   "tag": "WAR",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-30/iceland-s-top-tourist-attraction-blue-lagoon-spa-plans-ipo",
+   "utc": "2026-10-30T15:14:52Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "BP's Refining Business Had a 'Banner Quarter,' CEO Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/bp-s-refining-business-had-a-banner-quarter-ceo-says-video",
-   "utc": "2026-10-30T07:44:12Z",
-   "tag": "MARKETS",
+   "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+   "utc": "2026-10-30T15:14:27Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Data centers are a political third rail. West Virginia is grabbing it anyway.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/data-centers-are-a-political-third-rail-west-virginia-is-grabbing-it-anyway-80d129b5?mod=mw_rss_topstories",
+   "utc": "2026-10-30T15:14:00Z",
+   "tag": "AI",
    "breaking": true
   }
  ]

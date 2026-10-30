@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:51:23Z",
+ "updated": "2026-10-30T00:00:50Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,70 +9,86 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (44)"
+  "Nikkei Asia": "ok (43)"
  },
  "items": [
   {
-   "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-   "utc": "2026-10-29T21:48:40Z",
+   "title": "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Off-Grid-Solar-Is-Now-the-Cheapest-Power-for-Nearly-400-Million-People.html",
+   "utc": "2026-10-30T00:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+   "title": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-   "utc": "2026-10-29T21:43:49Z",
-   "tag": "STOCKS",
+   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+   "utc": "2026-10-29T23:56:02Z",
+   "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-   "utc": "2026-10-29T21:43:08Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
+   "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-   "utc": "2026-10-29T21:42:06Z",
+   "utc": "2026-10-29T23:55:09Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
+   "title": "Amazon’s bold cloud forecast isn’t enough to stave off a stock drop",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-   "utc": "2026-10-29T21:36:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-   "utc": "2026-10-29T21:35:00Z",
+   "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+   "utc": "2026-10-29T23:55:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-   "utc": "2026-10-29T21:31:00Z",
-   "tag": "MARKETS",
+   "title": "PAG Agrees to Buy China Evergrande Unit for $514 Million",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/pag-agrees-to-buy-china-evergrande-unit-for-514-million",
+   "utc": "2026-10-29T23:53:01Z",
+   "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+   "title": "Gold Steadies Near $4,000 as Inflation Keeps Rate-Hike Bets Firm",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
+   "utc": "2026-10-29T23:32:06Z",
+   "tag": "GOLD",
+   "breaking": true
+  },
+  {
+   "title": "JPMorgan Asset Sees Yuan Gaining 10% as Global Push Deepens",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens",
+   "utc": "2026-10-29T23:30:06Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-   "utc": "2026-10-29T21:29:59Z",
+   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+   "utc": "2026-10-29T23:24:54Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Why Intel’s stock is sinking toward its worst drop in two years",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+   "utc": "2026-10-29T23:21:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+   "utc": "2026-10-29T23:16:11Z",
    "tag": "MARKETS",
    "breaking": true
   },
@@ -80,97 +96,81 @@
    "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-   "utc": "2026-10-29T21:22:50Z",
+   "utc": "2026-10-29T23:01:02Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
-   "utc": "2026-10-29T21:22:38Z",
+   "title": "What’s Next for Global Natural Gas Demand?",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Natural-Gas/Whats-Next-for-Global-Natural-Gas-Demand.html",
+   "utc": "2026-10-29T23:00:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Stocks making the biggest moves after hours: Amazon, Intel, Twilio, Reddit, Roblox & more",
+   "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+   "utc": "2026-10-29T22:45:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-after-hours-amzn-intc-twlo-rddt.html",
-   "utc": "2026-10-29T21:19:21Z",
-   "tag": "STOCKS",
-   "breaking": true
+   "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+   "utc": "2026-10-29T22:37:54Z",
+   "tag": "AI",
+   "breaking": false
   },
   {
-   "title": "Intel shares sink more than 15% as PC slowdown stretches into 2027",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlhCWTV6V0FIUTRkTkdvSm1EcmZTMTVGSjZZZmV5MThRb3JLaTc3YkxMa2FURzRlVXNQUzY2MnFIMGJ2ZlQwaEZINVo1VmQyNTgxRnhlNWJzbzljcmRJclp3Tlp4V3BOS1dDOUVtRlc4Rmc0UVdWOWRTSThzSmQ5TTZzekowTFhDalZ4ZGdkQ3FfWk9LNG5aZm9ENmpHaHpsWVlKXzBLc0tyVW9zWFo5QXBNLW9lLUhMWkE?oc=5",
-   "utc": "2026-10-29T21:18:00Z",
+   "title": "Kioxia Faces Test to Impress With Earnings After 60% Stock Slump",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/kioxia-faces-test-to-impress-with-earnings-after-60-stock-slump",
+   "utc": "2026-10-29T22:30:00Z",
    "tag": "STOCKS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Operator of South Korea's Toss app to buy online Japanese brokerage Cheer",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVFqWE9GT2NzcGE5MThEeWlyTGVkZS1xYUtNLVN5ZFlvVmJNN2tmVEdERnRwbnZWX242OTNqbkdfN1VyU0ZyWWZZZzh3Tk5YR0pKNmctdzJQb290ek8zTFJBX1A1eVZDcUs0UlFETXJPZ2NRRGNQa2pUb3ZFNE43WGktcFFCRzJ1eE1maFVnUXZHdmNnN01ZRk9RdWpFV3pIbnY2ci1jN2JFWEJudEtJRm9lZzJkYV9vMVRKUDRn?oc=5",
-   "utc": "2026-10-29T21:15:00Z",
+   "title": "Vale Iron Ore Output Trails Forecast on Serra Norte Curbs",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-29/vale-iron-ore-output-trails-forecasts-despite-mine-ramp-ups",
+   "utc": "2026-10-29T22:29:25Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Binance loses $5.7 billion in largest crypto hack to date",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-   "utc": "2026-10-29T21:12:45Z",
+   "title": "Tether, Circle freeze $2.38 billion after Binance reports security incident",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3g4aktSMUNOUXJpZ0NMa2hicVFaR28zZjd6NWF5Qkp5U1RfbURlMWRoc2oxa2wzb24yNUowQWNSSmhsanVLWUFfdUJYalF6b2l5eHFTSzctV0VPQlE0UEpBZm9BdkpJSFo5OTdXWDJINE1JWXVILUhvYk1JVlpKVzFvTGJTYzJGSlQ4VXB2ZnRnNHFORmRDTmdtOG1kam9wNTh3TWYyX1VFVmp4bzMxQ096eUdCTzNIRkVHNDZZelNjWkhpVWlV?oc=5",
+   "utc": "2026-10-29T22:27:43Z",
    "tag": "BTC",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Intel shares drop 14% on Israel factory blast, PC weakness",
+   "title": "Polymarket resumes trading after third-party security breach, to reimburse users",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGFDU255RTFLTGhHMmlndVlJb1gyUVdsYmJxcUpaalJoRVp0OEpROVcyQ0xQRlRiN1haY0UyTUlLb1JlUF92NF8tWVlfVmxmVWJmN2p4Q2ZfNHhCSy1ta2EwMi1KZUJ0eE1zVExPck44OVFJRnFuSmV2VjUtdGUzQVVGR1VPVDFTbUF4UzlwTHFIN0xYbXh5dUpqcjZuNlNMdGNV?oc=5",
+   "utc": "2026-10-29T22:26:32Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+   "utc": "2026-10-29T22:24:49Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Intel shares drop 21% on Israel factory blast, PC weakness",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEgxampOc0U5RENJWVd0a09uQjlFSkxueGxGVzVPX2NwdElzNDN3WXdjVFpvelNULXVObnMzTTJzb0ZfeFBtN1ZOQ0FVNXRuN0ZINkF0dWZkZlR6ZlkzUE5wQWpPTWg3dGtDLURwRl9OU0ZEb1UtejNBbC1KMnVWbmJ5OHQxWTBoU1I3cFduaXAyOHFBVkFIYjhCNXR1c0EyM2xlZFZNWFM?oc=5",
-   "utc": "2026-10-29T21:10:40Z",
+   "utc": "2026-10-29T22:24:05Z",
    "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Air Canada Reduces Profit Outlook Again on Jet Fuel Costs",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
-   "utc": "2026-10-29T21:03:30Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Big Take: From ‘Vibecession’ to ‘Shrugflation’",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-29/big-take-from-vibecession-to-shrugflation-video",
-   "utc": "2026-10-29T21:01:48Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Starbucks Foot Traffic Outpaces the Competition, Says Hottovy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-29/starbucks-foot-traffic-outpaces-others-says-hottovy-video",
-   "utc": "2026-10-29T21:00:10Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
-   "utc": "2026-10-29T21:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Australia's One Nation basks in attention of 'left behind' voters",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUx3clZfR0VuYUVCSTNVVmFMbkh0TjczSFpSOC1IdFE1VUZpSnlNUEZCbThfZGZqVUxjbENjQUpHXzZ1VlBxSm0xR3MyR3ZlUzFGcWdMa3g5VWhLRTFhZ0IydmV4YUFNUlc1cDEtVVNfRC1RdTJnN1RibU1WZGJpd2h2UUJqQXdvYkc0cDdwVURnNDB4LUplZ0pSX0EwRG5pWHlhSE81MWJqckVDZWc?oc=5",
-   "utc": "2026-10-29T21:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   }
  ]
 }

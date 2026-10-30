@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T02:00:26Z",
- "level": 50,
+ "updated": "2026-10-30T08:44:15Z",
+ "level": 52,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   32,
+   40,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   5,
+   6,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
-   0,
+   3,
+   2,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,15 +90,59 @@
  ],
  "headlines": [
   {
-   "title": "All flights suspended as major European airport to close for a month",
-   "source": "Extra.ie",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jNDNSSzVTQXRMSEJ5bkozdWhOS081S0pxTDZCZXhXV2REdVk4UnlRTDI2R0pOZWpwX2ZTa0RvYXR2V1ZhYWMwUHJlaW9JZmlJRnY0ZC1fcnctT1pNM2FjZTVQZVRHUVZtZVVYOGlDcw?oc=5",
-   "utc": "2026-10-29T19:18:53Z",
+   "title": "KC-10 Extender: The Powerful Technology Behind America’s Flying Tanker",
+   "source": "Defense Feeds",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVEdsX1RxRl9nSUkzb0UyMXZDVjhzNG9uS3kweThRd3VPZjVQRXpvc1FVNmotbHV4NmNfYlFkNDM3dlF5MmJfY3ZnZ0tWc2VNSkRISFBJUDdkakc4ZVg4RUJZT0JyVXFteXNjbXdtUzQwNlNqbnJZWTd6VjdDUW53bldZZmlwT0k?oc=5",
+   "utc": "2026-10-30T08:26:11Z",
+   "tags": [
+    "MIL"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "The Civil Aviation Authority of the Philippines (CAAP) has issued a Notice to Airmen (NOTAM) covering flights near Mayon Volcano, with vertical limits extending from the surface up to 19,000 feet. The NOTAM will be in effect from Friday at 1:27 PM until Saturd",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFRRMjNhZnhxemdqTGZDeTlHME5VczRTQW1PNERXZHZtV2Y2MXFMNTVLSkRjOXFhbksxZHhQalk1Zzhnbm5PRlU1Z2JrVWVIdGkzaVJ5QlJfLUZURnpCVDgtQ2otbGo2SFNVQk5tYWhzbldWaFdyZndmNHh2WnpZODV2bjVpdFV0dUpHSWE5dmxIUy1HbmtwZ0R6Uy1hb0tsS05JZUFxU3ZtaHZhQnVwQmtuT3BmbDFQU3E4VTEzb2NvU0UwU1liUmFlblltbTFOUkFUNU5aSXZPNGRn?oc=5",
+   "utc": "2026-10-30T08:04:59Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.7,
+   "score": 7.0,
    "airspace": true
+  },
+  {
+   "title": "Iran War and Strait of Hormuz Threats Dominate G20 Energy Security Talks",
+   "source": "https://streamlinefeed.co.ke/",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk9SazZfSlRUZ3JEaWtGUTVPd2hGWWJjc0I0NC1idFF0ZmFmNkNnMnZNeERQcTVJdGFCSUt3aktsZkpXaVQ3MVd1ODNnaV9LTmpqeDRwY0dvLVJVenBmU0FacTE2dS1JQWpvczhtRTZtelQ2Y3YzUU55QUtPRGFieVNhVktaV3Fsd0djUGItUVRVdDNOYVE4MUg4UjhYLWZUaElZZzBkLUlLUQ?oc=5",
+   "utc": "2026-10-30T05:47:49Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "What we’ve learned so far this season in FPL: Premium letdowns, DEFCON magnets and the joy of Hull",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1NYVk1ZSXJJNWlPbjN0TkRQNFRQakgxTEZoMzdlVUNONS1rLTNJYkJrSWdkN3Zxd3E4Uk95LWJaZ2hfa09RdHdKRmRrZ01ZckJfaTVUQ2JnRVdZLTEtRTBuT2Y1TU44bm1kazYxOEh6ZEUza0dzV3lqVVVYa19oZERTRDAwOEJsbVdENHJITE4yQQ?oc=5",
+   "utc": "2026-10-30T05:30:58Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2tKSXpRQ2RURVJRWkNUcVFBMU9sNGRYc3JqUWFLMWdOSnRBS0R6Nm1GYkFBaGpDVkg5RDg3NFI2NXRfZmlEaFBMODBDQkxwNmw3NG5iY0Q4NjFsR1pZMHJvLUlybnVodV85UmN1Nm1oV01qS1hkdXFxb3BZZGFWYTFLT25vYk9FeWZqUXVjQ2NjZFdQOVBTbXFFMzQ1QQ?oc=5",
+   "utc": "2026-10-29T21:48:29Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.5,
+   "airspace": false
   },
   {
    "title": "US Preparing to Issue Ordered Departure of Some Personnel From Gulf Embassies – US Officials",
@@ -108,18 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.7,
-   "airspace": false
-  },
-  {
-   "title": "Shafaq News..Hormuz tensions mount following dhow sinking",
-   "source": "شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGdFZVRhSmlfSFBadFVXM3MwdVFtOXB0Mjl6RVhpUlU1SUx4QVpQaXVIMDM5MWlwU3N1Z0xXRGJPRGs0YUZickJZZ1M4V1VRLUt1MkhKOXBFTXdkV3V0MGlMby11aTMtMmJfZkFmLVpTYWlIQzJfMFhPZjNicFo0dnJUd1k?oc=5",
-   "utc": "2026-10-29T17:07:23Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.6,
+   "score": 8.4,
    "airspace": false
   },
   {
@@ -130,29 +163,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": false
   },
   {
-   "title": "Russia’s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTE42Y0FZdEtIYTdNNDM2NlFtbjZmdUllZHUta1dOZ21HYTFnY2FTZzdKUlM4V214Ui1GTk9QX1R1ZC02MXBERW9BUFA3UUZzanZpaVFtUTN4YXpvcjB3dWxmUWZHX19ZUUswS3FaendKdjhBb3ZwNVRYT252VEp6ZldyUzNTQ1gycEp6ZGZQSHJqOXQwck9EZlA3OWZSZTV2TDFhUEducHZsRXhCcUdFR0tHTQ?oc=5",
-   "utc": "2026-10-29T16:14:45Z",
+   "title": "Ahead of Oleshky evacuation, Russian and Ukrainian delegations meet in Belarus",
+   "source": "1Lurer",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE16M01rUC05NktiNU9QZ29OdXdVZHhIUm93Q1B6OUoxZHBwUzNjTDhpRXN5YlZYbVd2bFIzTXBkMjByRUpYeFlrWQ?oc=5",
+   "utc": "2026-10-29T10:27:34Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "FPL Gameweek 9: Top 10 projections for DefCon points",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2FSWmVmRU1JN3IwX3dfTGpFUzYzMnVablZqNXpSYUZhMGxLaHpKcS0yNWNoMXZtUTZsYmV1SkhVZjNNS2hRY05sSUVGZXQ0RDhtRV9DMnVHUmhWTndoakFYWGU3QUZHQ3haRENXcC1oazdJcWNkQnpQUElHWlU5M09GOWF4VXEzV1gtemdYWFVrRURZZmJiVnE0bW1WampNaUJIWA?oc=5",
-   "utc": "2026-10-29T15:17:00Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.6,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -163,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -174,36 +196,14 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.0,
-   "airspace": false
-  },
-  {
-   "title": "Nigeria Evacuates Ebola Patient as Authorities Tighten Travel Screening",
-   "source": "SuaraGarut.ID",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3bFRVOEFsSGtZYVZJWFhUa3h3QXFxUVNacWFEWHZDN1hsVVZRYm42ZGZVZjluMnBZOGZFZlMwcFNVczBzd2c3a3BnallES01MalRNMVpDWW5tM3dmeDFaUVZDemVnUQ?oc=5",
-   "utc": "2026-10-28T20:53:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "Saudi Arabia Under Fire: Houthis Target Oil Refinery, Defence Ministry as US Orders Diplomatic Evacuation",
-   "source": "Newsmakers",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOV83RkRrQ1BaVndMQUIzWFZIdkt6TFJtajBvVmhYZjJqQjVvaEc4THdNZFRJNl9CRmY3SmRBakV3b0x6a0tMa25iRXFVQ0xyQjJCMlM3VjdWQ3h2U2V2VU9Obk9zeTdQTU1SYWozMlNuREp1N3IzMzBGcFpBT2lYR0tGM2hUdUR4RVZSLVVsTmZTM2hWSEs0Y3ZnY3VyUUs3QlpKZF90aHZXZGpzd0pDN2RiWGJRdUVwLXozWnAtSDlwVU5lNkh6ZHJZQQ?oc=5",
-   "utc": "2026-10-28T19:52:50Z",
-   "tags": [
-    "EVAC"
-   ],
    "score": 4.7,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 237,
-  "baseline": 2.6,
+  "count": 3,
+  "global": 188,
+  "baseline": 2.5,
   "samples": 40,
   "hist": [
    [
@@ -397,6 +397,10 @@
    [
     "2026-10-30T02:00:26Z",
     0
+   ],
+   [
+    "2026-10-30T08:44:15Z",
+    3
    ]
   ],
   "box": [

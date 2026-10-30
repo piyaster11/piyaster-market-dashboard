@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:00:02Z",
+ "updated": "2026-10-30T08:43:55Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -8,169 +8,169 @@
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
-  "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (43)"
+  "Bangkok Post": "fail: HTTP Error 503: Service Temporarily Unavailable",
+  "Nikkei Asia": "ok (51)"
  },
  "items": [
   {
-   "title": "Binance Suspends Withdrawals After Suspected Hack",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suspends-withdrawals-after-suspected-hack-video",
-   "utc": "2026-10-30T01:49:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
-   "utc": "2026-10-30T01:47:07Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-   "utc": "2026-10-30T01:46:36Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Vietnam drone intrusions prompt airport safety response nationwide",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZl9tZEJYRnhTOGtiMkc5YTh6UnhpczRLNkozRDkxR0pvcnBvWjQ1cVNUSTNCODlCazRhZlpTblJveTJnVzZiRXl1Qi1UUVRLSHRYUC1yLU12YXJ3U2pyeWdtOG4wamdDTHZKZEtNZGIxSUZ1dXlwRUtDazQ2NlVnYmlxTVItdWdKTkN4YjJuWF96dHN1N2lIbktXOFVQZDVVNFBlWWt2dVJjYklHQ2xn?oc=5",
-   "utc": "2026-10-30T01:45:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-   "utc": "2026-10-30T01:34:32Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Treasuries Extend Rally With Global Peers on Tech Stock Selloff",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/treasuries-extend-rally-with-global-peers-on-tech-stock-selloff",
-   "utc": "2026-10-30T01:13:42Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
-   "utc": "2026-10-30T01:06:07Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Takaichi's G7 no-show risks undermining Japan's interests",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVEdsUmR5ZWZCX0VfVlpkZUozX0RzNXJiZHdaSldJWXpMdkdjRjVsWlVmQkZQU3BZaTRvOFV6QUNSTFRlZVMyU2NEa3ZDbmdERVZMdGtZSC1JLS1RLW9xbENnQTVza2w5VTd5MkFUa3kwWTAzRXMwT1Z0MUttVENfeTVDb1JjeWpDSHl1X0c0STd6TlVnc2JRNm54dWhoMGJC?oc=5",
-   "utc": "2026-10-30T01:02:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Bayer Wins St. Louis Roundup Trial, Bolstering Settlement Push",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/bayer-wins-st-louis-roundup-trial-bolstering-settlement-push",
-   "utc": "2026-10-30T00:46:10Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-   "utc": "2026-10-30T00:39:52Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
-   "utc": "2026-10-30T00:38:13Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Dollar’s Rate-Fueled Rally Set to Ride Out US Midterm Gridlock",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock",
-   "utc": "2026-10-30T00:35:03Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5",
-   "utc": "2026-10-30T00:35:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-   "utc": "2026-10-30T00:28:45Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Big Tech Earnings Stoke Fresh Unease Across Asian Chip Stocks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks",
-   "utc": "2026-10-30T00:20:56Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Malaysia's IHH Healthcare to double hospital beds near Singapore",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnlBbnJPOUNfa180QlZjUkhlNkhFTW94dV9Ha21GeUZZMDlvdkZ6aTZ0anZ6UjFKbGt2QXJISFZCMy1DNDAzakxhN0ZkQndwc2dabkc5dmpSRUdtNE5UQlFqRG5aU1ZtQTdUMHVNaFJoYzZwWlNXbkpqeFlvQWEwN1UxdEJKRjNJWVFJc3FDYUM2eWJHWGxFc2pIVWVqMFh3Z0FjMWxsZXJrempHZHc?oc=5",
-   "utc": "2026-10-30T00:20:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China Elevates Key Actor With Rare Politburo Pick",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/china-elevates-key-actor-with-rare-politburo-pick-video",
-   "utc": "2026-10-30T00:19:49Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Foxconn CEO: AI to Drive Consumer Update Cycle",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/foxconn-ceo-ai-to-drive-consumer-update-cycle-video",
-   "utc": "2026-10-30T00:17:35Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+   "title": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-   "utc": "2026-10-30T00:17:10Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
+   "utc": "2026-10-30T08:36:52Z",
+   "tag": "BTC",
+   "breaking": true
   },
   {
-   "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
-   "utc": "2026-10-30T00:15:00Z",
+   "title": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+   "utc": "2026-10-30T08:32:39Z",
    "tag": "STOCKS",
-   "breaking": false
+   "breaking": true
+  },
+  {
+   "title": "Bleak Friday Looms for Stocks: Market Analysis",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/bleak-friday-looms-for-stocks-3-minutes-mliv-video",
+   "utc": "2026-10-30T08:29:07Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Moody’s Warns of Deeper Losses for Bondholders in Senegal Revamp",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-30/moody-s-warns-of-deeper-losses-for-bondholders-in-senegal-revamp",
+   "utc": "2026-10-30T08:20:13Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Kia Shares Plunge as Cost Surge Linked to Iran War Hits Profit",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-30/kia-shares-plunge-as-cost-surge-linked-to-iran-war-hits-profit",
+   "utc": "2026-10-30T08:19:58Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "BlackRock Says Bonds Offer Compelling Income Opportunity",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/blackrock-says-bonds-offer-compelling-income-opportunity-video",
+   "utc": "2026-10-30T08:12:22Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+   "utc": "2026-10-30T08:09:28Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Horizons Middle East & Africa 10/30/2026 (Video)",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/horizons-middle-east-africa-10-30-2026-video",
+   "utc": "2026-10-30T08:07:15Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Thailand is a democracy in form but an autocracy in substance",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1NlRDhrRzF0c25jY0d1Wlg2ZkNHY1hlQV9EMHVSWHJaRnhqc1puOVAtelhWQmZiMUVidVZhckh1Rm5jdzNGQzVWek9xalVPVTBaTWl4RndkdlVUU0FfV3NTSE5iYldweGdwR1Zyem1mUFZtaGpKU05MVEczczhLdV9mdm5zbnVlWjhwMzBFN0lybzcydWkydg?oc=5",
+   "utc": "2026-10-30T08:05:00Z",
+   "tag": "THAI",
+   "breaking": true
+  },
+  {
+   "title": "Binance's $6.3 billion hack: What we know and what comes next",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+   "utc": "2026-10-30T08:04:50Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trump holds off overcapacity tariffs as US midterms near",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcXlPSWcxZFJfekRjUWJIQ2k2M2JsV2NSRFlXODRERDFMdV9reThVNk9aUEFWRmxwbWVQSTNsTWRlTHlTN1pqeGxGT2NEdzJBaUh5eUJHYnUwWFQ2VGdVMkt5R0E3V01LR2p2cVY0QjJabkdrV1QweUFldmQtSFg3N19VQVR0MVhpTE11ZU9PaTRlSEVSZVNfTkN6dlAzZFlZZTlKZnFIS3MyRThkUm1PV3JB?oc=5",
+   "utc": "2026-10-30T08:02:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Credit Agricole Reports Higher Profit, Warns of France Risk",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/credit-agricole-reports-higher-profit-sees-france-risk-video",
+   "utc": "2026-10-30T08:00:27Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "PHP2Shell Won’t Be the Last Big AI Cybersecurity Risk",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-30/php2shell-won-t-be-the-last-big-ai-cybersecurity-risk",
+   "utc": "2026-10-30T08:00:10Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Audi Dials Back Outlook on China Slump, Competition in Europe",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-30/audi-dials-back-outlook-on-china-slump-competition-in-europe",
+   "utc": "2026-10-30T08:00:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Odd Lots: What Cybersecurity Means in the Age of AI (Podcast)",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/audio/2026-10-30/odd-lots-what-cybersecurity-means-in-the-age-of-ai-podcast",
+   "utc": "2026-10-30T08:00:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "French centrists' feuding increases odds of Le Pen-Melenchon runoff",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWphYWlpaktfNXNkUmRqTzg2Ml95cjdWWVBaVFdFZWgxLTI5SUttWjdNM2JPR1VmMHdsbFh0enpOc2lNazdOaVo3cjJfZi1ITXd2UEpKaGxxU2tLXzJ0WjJ1VVV6MDRkdnNQN3hfNkduMzFlSloyemdXcWFKdWtXUXc2UDM0enFfR245SDNZdFo2RHpuVDNVWlVWTFlzckZhTE9ycC01MTY3SEc2anNkbGxR?oc=5",
+   "utc": "2026-10-30T07:55:49Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
+   "utc": "2026-10-30T07:54:07Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
+   "utc": "2026-10-30T07:51:30Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Tesco Strikes €1.7 Billion Deal to Sell Czech, Slovakia Unit",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-30/tesco-strikes-deal-to-sell-czech-slovakia-unit-for-1-7-billion",
+   "utc": "2026-10-30T07:46:43Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "BP's Refining Business Had a 'Banner Quarter,' CEO Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/bp-s-refining-business-had-a-banner-quarter-ceo-says-video",
+   "utc": "2026-10-30T07:44:12Z",
+   "tag": "MARKETS",
+   "breaking": true
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:42:12Z",
+ "updated": "2026-10-31T18:37:19Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (24)"
+  "Nikkei Asia": "ok (17)"
  },
  "items": [
   {
-   "title": "Haunted Attractions Help Revive Neighborhoods",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-31/haunted-attractions-help-revive-neighborhoods-video",
-   "utc": "2026-10-31T13:34:43Z",
+   "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+   "utc": "2026-10-31T18:33:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Automatic 401(k) rollovers reduce cash-outs, research finds — but few accounts reach new employer plans",
+   "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/401k-cash-outs-automatic-rollovers.html",
-   "utc": "2026-10-31T13:30:01Z",
+   "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+   "utc": "2026-10-31T18:12:09Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "EU Foreign Policy Chief Warns Against Normalizing Russia",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-31/eu-foreign-policy-chief-warns-against-normalizing-russia-video",
-   "utc": "2026-10-31T13:15:03Z",
+   "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+   "utc": "2026-10-31T18:10:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+   "utc": "2026-10-31T18:00:00Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5",
+   "utc": "2026-10-31T17:51:51Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
-   "utc": "2026-10-31T13:15:00Z",
+   "title": "After Louvre heist and string of thefts, Europe's smaller museums are on guard",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2hEQ0g1Rk9ZSjJMakpuX2lCY3hFc1I4VjhMbnE3aGFMWXh3TU9NSE1sWEFCM2dRUVBTRXE5cWxUMXdwdXZwZ29vNFdBbjVKYW1yTDN1b2tlZ1RjQW13NkdqVEI5RV9ybFRad3kyY0VTOTZaUEhFaDYyUmdTYnlMenBDNGM0VVEyanFtRFJUTjFnc0MyemdmRVlLNlBGbGdxMjFmZXRUem43WTRz?oc=5",
+   "utc": "2026-10-31T17:45:45Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "In the wake of Weil, a legal recruiter's advice for surviving a company wind-down",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/make-it/2026/10/31/weil-wind-down-career-advice.html",
-   "utc": "2026-10-31T13:07:01Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Bank of America says buy these stocks ahead of earnings before it's too late",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/bank-of-america-stocks-to-buy-into-earnings.html",
-   "utc": "2026-10-31T13:05:03Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "35-year-old took on $20K in debt to launch a business from her dining room—now it brings in 8 figures a year",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/make-it/2026/10/31/set-active-lindsey-carter-entrepreneurship.html",
-   "utc": "2026-10-31T13:05:01Z",
+   "title": "Jordan stops armed group from attempting to enter from Syria, armed forces say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnZYN3pDajdLZXp1ZVlXeF8xTDNIc04xR2tMRXFsUzZsZTh4ckszeDM0V3daV1haWE15THZRUU43QlhxUFZfLWp5Z05SQmVENzBEbGJEcHhRdDR2elJBM2ExRVN2NlNqRldidDJQdXBMLVBUc1BHY0JaZ25Yblpwd2hlRnF6ZEljb3p5d3VxVG9Ya0poeXJWZnEzUmZfclVwSTVROGdkZjJFdDIzczd3TzBja1UxUQ?oc=5",
+   "utc": "2026-10-31T17:35:50Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
-   "utc": "2026-10-31T13:04:29Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Intel stock plunges 29%. Analysts urge caution on buying the dip",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/intel-not-a-buy-after-drop.html",
-   "utc": "2026-10-31T13:02:22Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "The stock market’s front-runners stumbled in October. Here’s where the smart money is moving now.",
+   "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
-   "utc": "2026-10-31T13:01:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
-   "utc": "2026-10-31T13:00:00Z",
+   "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+   "utc": "2026-10-31T17:26:00Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "If you really want to help your adult kids and grandkids, give them money while you’re still alive",
+   "title": "US campaign enters final weekend as Alaska, California ballot fights heat up",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDRaNDJmRmxia1RPY2l4Z1ZIRTFHVU1pNHUydFRRUUhZVlZpUGVnZUVqUm82NFVfZXpsNVdWam5UNTVMc1RNWXZPbjJsTzlucDNWcmJxbjJLSWNwclRrWmFuVVBzb2lYcUFkbDRRc1JjbV94SFh3aG5majlaODVxTFNTUXhNUWZQWmR6bU4wS3hNQjNSUk9mN2hFQURQR1hMUmU5Rw?oc=5",
+   "utc": "2026-10-31T17:25:30Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "ICE raids in a California toss-up district spark accusations of voter intimidation",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkk2Tk5vZ2RHMENmbGFkZjJrWjJIS2xkbDZrQW5hUS1abHlzOVNWendQdHNfZTdZcHFnWkFKUURwMDVmYnhlN3ZPeEctbHBmeE9KcVp0T1JCVGVNN3NrbXZMd1ZmcVZOcHQ5X3JIWHJuOHpJcThkbTdmQTItSlE1MXJ4ektHQ3Ytd3I1dGVhSTFSVHlQQ05iaHdzd2drWXhoTEphUVRTUUh3cWU3cDJ2ak1GQkNMb0NTV3VZeG5GdEFZNThORFE?oc=5",
+   "utc": "2026-10-31T17:22:19Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Binance says it has covered 90% of losses from $6.3 billion hack so far",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
+   "utc": "2026-10-31T17:16:57Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/DARPA-Backs-Project-to-Measure-AI-Energy-Use-at-Every-Stage-of-the-Workflow.html",
+   "utc": "2026-10-31T17:00:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Indo-Pacific Quad ministers work on supply chains, denounce arbitrary export restrictions",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcjhmcnV5dnZWRFFnSkw0WUF5b3hld3Q2RmhYWjAzYVM4STJWUno1b1ZMMmpzMUZseDltNkgxZWdlbWdJQTVjZ2FoMVptRkZfdUlxcnZZMlpORXRoQTFCM1pBRjhrdU05Q1dQbU54WE5wejBhQnpmdjh4SF85RkVQMnViNTE4eWpyeU9FVF9feGpNTEpvQmpjbXhGSHZwMFlycmdTT1ZTQ0hWQQ?oc=5",
+   "utc": "2026-10-31T16:58:14Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "80% of workers make this 401(k) mistake when they retire",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-   "utc": "2026-10-31T13:00:00Z",
+   "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
+   "utc": "2026-10-31T16:46:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "18 years in, what has Bitcoin truly done?",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-   "utc": "2026-10-31T13:00:00Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "How to start an art collection on any budget",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/how-to-invest-in-art-collecting.html",
-   "utc": "2026-10-31T12:58:43Z",
+   "title": "Pope Leo tries to stay neutral as basketball rivals descend on Vatican",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWjFNYmZZY2VGb0VSYmVPcjBFVHRydlE2UnJQVWRNWXI2T2NFUUd0aC1nNXk2MHpnUmRWMVhOMEpsUHpCV3lsRWtrWi1IbzBTakc1SjRVNnZPU3lEekpQcUFZTE9xYUtvQnZCNWI4RlRNQ1lfN1dWc3VJUWRZS294Q29oVXRvalZUUkliLVJTdTMxTWRwNTJrUmNpU2NkSXBubUdvNFhiUQ?oc=5",
+   "utc": "2026-10-31T16:45:47Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "title": "FSB says US warned Russia of possible Moscow attack",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN01mVmZKa0N0UWNiYkxZaDY4a0J5ekhBX2NKVi1xUDh5cmpEeHhzX3U3VE9GU21KUjlvQ0FuWGVlalZMVjJTY1FnVlJxR0YxNHpLMl9YTG5hNW9yQUVzbzB2RkFHV3JRTTVUVVdwRUkyeE9KRVBVdTQ5R3NYM1p6dF9lZFU0TkNCTVJWb2UyZ2h3eXAx?oc=5",
+   "utc": "2026-10-31T16:37:08Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5",
+   "utc": "2026-10-31T16:26:58Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Rubio hosts Indo-Pacific Quad meeting, wraps up G20 gathering",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-10-31T12:58:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUE54MzVPNFlCbDlRZXRtMGhBWjBaZFpncDVaMUFSRU9EcEZPUWpYVkFRNy0xb3NZZHltMENiOFNCT09JMXREd3RnQW00OUhINF9jRURDVVZ5NE9OOWhWQWM3WmtZNXdKNXlCcElzdU1DNVRUSlU2OXVkYkUxMGdtLTdscmhONTVkTEJtc0ZRQU42NnpXMDRKYVdZR0c3bi1LM1drajM5ZzVFZXpRNXZIZVUyTXZ6U1o3VVJ1dDZKcERybW9QOXZQRkFR?oc=5",
+   "utc": "2026-10-31T16:16:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "By The Way: Headlines You May Have Missed",
+   "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5",
+   "utc": "2026-10-31T16:14:09Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Final Countdown to Midterm Elections, Tech Stocks Tank",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-31/by-the-way-headlines-you-may-have-missed-video",
-   "utc": "2026-10-31T12:50:53Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-   "utc": "2026-10-31T12:49:58Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-   "utc": "2026-10-31T12:49:47Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-   "utc": "2026-10-31T12:47:08Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "This Halloween, are full-size candy bars a better deal than fun-sized ones?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
-   "utc": "2026-10-31T12:37:00Z",
-   "tag": "MARKETS",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video",
+   "utc": "2026-10-31T16:13:35Z",
+   "tag": "STOCKS",
    "breaking": false
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:42:31Z",
+ "updated": "2026-10-31T18:37:37Z",
  "level": 62,
  "band": "Alert",
  "components": [
@@ -12,14 +12,14 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   39,
+   45,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   6,
+   7,
    15,
    15,
    "3 pts each"
@@ -100,14 +100,47 @@
  ],
  "headlines": [
   {
-   "title": "UN warns of higher prices due to Hormuz Strait crisis — The National",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcndvekUwczF1cmg5aG9aVFowdmxzTzRjbzdpUnRnWU1UX3ZkRTdtNEE4eFlTSWpfWUp2VmhPTnNDTml0dTlfdDY5OC0tTE01cEJuSUZYSk9UUi1GdjFxVXl2VTBBVzRlcFVQQTAxanlvcFNtTjFubUxzRy1tRHI0ekdvTmljWU0xQmVHZGltS0tDQjBVMUZZcTd1c3IyVC1vUWo3ZTJWdG1WMzBUQnc0ZGpLRQ?oc=5",
-   "utc": "2026-10-31T08:39:54Z",
+   "title": "Booger McFarland declares 'DEFCON 3' for Notre Dame amid first-half struggles vs. Navy",
+   "source": "On3",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDdHd3RYdkxWeGtZVm9ucXF1YXNwa0x1dHg1bFBfT3VrU1hLRjQtSEpNWUJqSFJ0OTZBc0N1Q2ZLaFdqNnl3RzRUYldKbUVJWWstQXlBZDJ2bmZHUGpwMDFpZGZyelo2WHdqZGJwOUNFNlNjaHZ4dldHTWZDcy1LMEY2RFZoX3FoN2N1c3VDR1B1SXNBUWFMd2gtTnFua3BPUEE?oc=5",
+   "utc": "2026-10-31T17:27:42Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "New proposal shortens implementation of Iran’s plan to open Hormuz to 2 days: Araghchi",
+   "source": "Apa.az",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUo1OXNvb2RqYnV3T3NXdnc5MGhUdHdnTHlEWXJSTmY4UEowcXZhNEJJU3VIMEVUcVAyQXR6TmtkaTBmbWFsS1h5S0VTZXVfaWxZRW5KVVdCRjBJbG5iYVRKUzE2U3ZoaE1Wd25SdHhnTzhRTW5mUmdmdkc0QWVnS3dJb2dtNzlaVHUxM1FZN0NJS210SHY1b1BpMDdGZEZWRmRhbDQwdGdfTjNENTF1R2NHMFE?oc=5",
+   "utc": "2026-10-31T14:17:00Z",
    "tags": [
     "HORMUZ"
    ],
    "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "European airport to close TOMORROW with all flights cancelled until next month",
+   "source": "The Sun",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZDN5dDZ5dExnLXp6d2tVSVBwZWVpQ3Q5ai1LYmU3YjRHOFJ0V2NBY0lmcVQ3Y0ZpbFR1cUhpckQ4YWVYS2tfLUdGZGxybUlub3MtZkVRemdmcTJzNzdnU0V5am0zeVVmdWFiYjY0bFA0MlgxZXVrTEdfR0gxMmNubktJalVSaC1OOV9V?oc=5",
+   "utc": "2026-10-31T14:01:00Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.8,
+   "airspace": true
+  },
+  {
+   "title": "War, latest news. Terror alert in Moscow; museum evacuated",
+   "source": "Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWtKUnc2cWJwUDZyZm9ZMWRnZkxFa0tuVWxZaGc1MU5Eck5fS1dpWGgzUzZ3YVNUZ0ZTQkdKSEtkZENWVk9RcXFUWldreUllRkxUTUxHclN0bEdlSkNiNUEzX0podHJpRFJEZzdiUXhfX3hWak9jbS1jN1dUOXd1a0J3akhJX0x6MGRYLXdvemtWUldDV1ZIRENHMVhORGE2eHk4VG1qQURCQ3Q3ZmJtZXJyaUpNTFBYVjJjRHZrR0c5bnc?oc=5",
+   "utc": "2026-10-31T07:34:05Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -118,7 +151,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -129,7 +162,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -140,29 +173,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": false
   },
   {
    "title": "IRGC says two tankers stopped south of Strait of Hormuz after ignoring radio warnings from Iran",
    "source": "The Jerusalem Post",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FN19qNVpkSWVjY2pVNDNYMUhjWWd2b1V2UFhETlBUOWI4aUJ0UGNMVi1WQjZMQWxUM2F5b2tlNHpWYVdIcGxDM1lhckhzVGFxME5HMU5xMFlIYThUaFh6V2NzSzFVdUI3UEE?oc=5",
-   "utc": "2026-10-30T11:09:00Z",
+   "utc": "2026-10-30T12:04:11Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
-   "source": "Addis Standard",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
-   "utc": "2026-10-30T09:32:36Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -173,7 +195,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.8,
+   "score": 5.6,
    "airspace": true
   },
   {
@@ -184,36 +206,14 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.8,
+   "score": 5.6,
    "airspace": true
-  },
-  {
-   "title": "Iran Says 4 Oil Tankers Hit Mines in Hormuz as US Calls Claims False",
-   "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QcmFRTEJTVmRfTmxnOGI3VXV2ZTRsbU1PWW0zZm5venp5dDFzTXI5YTZKZlJIN3ZBdi0teWlKaVJPRnNLNEtQaHNXb2laam5IZGxfRXNGTDhyTFlCQ2NHSEpaN3VEc1JZZlNmamlB?oc=5",
-   "utc": "2026-10-30T07:51:52Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "Exclusive-QatarEnergy buys US, other LNG to hedge future Hormuz disruptions",
-   "source": "Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGY3UWtUMUFnaVN6bWlTZzZNNFNLaDNFMVdTeVhnWXRsbFBqQU5DNnA5MzNzajdkMmVfa1k1bW94ckZVUnFkeFZEZ2xLQzNIcGFhWXBJTTBTRGV4NnJzMXJSQU4xN05wVTVqcTV3WkM3QmthWmtUbkpVOWdxaVJaekE1Q2ttOXNYeU8xVg?oc=5",
-   "utc": "2026-10-29T14:47:42Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.0,
-   "airspace": false
   }
  ],
  "mil": {
   "count": 0,
-  "global": 131,
-  "baseline": 2.0,
+  "global": 99,
+  "baseline": 1.9,
   "samples": 39,
   "hist": [
    [
@@ -434,6 +434,10 @@
    ],
    [
     "2026-10-31T13:42:31Z",
+    0
+   ],
+   [
+    "2026-10-31T18:37:37Z",
     0
    ]
   ],

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:03:52Z",
+ "updated": "2026-10-31T13:42:12Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (36)"
+  "Nikkei Asia": "ok (24)"
  },
  "items": [
   {
-   "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
-   "utc": "2026-10-31T06:00:02Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "AI is coming to construction sites. But does it make workers safer?",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
-   "utc": "2026-10-31T06:00:02Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-   "utc": "2026-10-31T05:01:32Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
+   "title": "Haunted Attractions Help Revive Neighborhoods",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
-   "utc": "2026-10-31T04:50:00Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-31/haunted-attractions-help-revive-neighborhoods-video",
+   "utc": "2026-10-31T13:34:43Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
+  },
+  {
+   "title": "Automatic 401(k) rollovers reduce cash-outs, research finds — but few accounts reach new employer plans",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/401k-cash-outs-automatic-rollovers.html",
+   "utc": "2026-10-31T13:30:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "EU Foreign Policy Chief Warns Against Normalizing Russia",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-31/eu-foreign-policy-chief-warns-against-normalizing-russia-video",
+   "utc": "2026-10-31T13:15:03Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
+   "utc": "2026-10-31T13:15:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "In the wake of Weil, a legal recruiter's advice for surviving a company wind-down",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/make-it/2026/10/31/weil-wind-down-career-advice.html",
+   "utc": "2026-10-31T13:07:01Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Bank of America says buy these stocks ahead of earnings before it's too late",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/bank-of-america-stocks-to-buy-into-earnings.html",
+   "utc": "2026-10-31T13:05:03Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "35-year-old took on $20K in debt to launch a business from her dining room—now it brings in 8 figures a year",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/make-it/2026/10/31/set-active-lindsey-carter-entrepreneurship.html",
+   "utc": "2026-10-31T13:05:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
+   "utc": "2026-10-31T13:04:29Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Intel stock plunges 29%. Analysts urge caution on buying the dip",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/intel-not-a-buy-after-drop.html",
+   "utc": "2026-10-31T13:02:22Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "The stock market’s front-runners stumbled in October. Here’s where the smart money is moving now.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
+   "utc": "2026-10-31T13:01:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
+   "utc": "2026-10-31T13:00:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "If you really want to help your adult kids and grandkids, give them money while you’re still alive",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+   "utc": "2026-10-31T13:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "18 years in, what has Bitcoin truly done?",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+   "utc": "2026-10-31T13:00:00Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "How to start an art collection on any budget",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/how-to-invest-in-art-collecting.html",
+   "utc": "2026-10-31T12:58:43Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
    "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-10-31T04:44:32Z",
+   "utc": "2026-10-31T12:58:43Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-   "utc": "2026-10-31T04:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China's factory activity marks third contraction in four months",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNODZIaDlzRjBOcXFXZ0IxTU85SDN4cFlDUng4S2YxM1pXTUpTNG01U2RuY3FEVlRmUThNSS16MXNDdHZmNVBqR1J2OUlTay1GTEstb3Y3d0ktd2dCdnEzZF9aRXdDRXZBX21PZG11R2w3ZGg1Y3Q5UGVORG1TUnhDVzVMLURzREVUeEotdU9wTElQM0JaM3I3dHA1NA?oc=5",
-   "utc": "2026-10-31T04:27:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Thai highland tribe coffee brews following at home and in Tokyo",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzBkdUdSSUZHS1Nkd2ZzS2l2TUtNVFFMeXBiWWRTV01xcjI1N3pma1ZZWnR2MnNRQTZScV9LY1NvWHZwZW41eG5aeVB0ZmU3QUJkWUFPalhVLTFzSzBzT29WYnhzdnotTUVUWGVQSFpVNGd2QmE2MUY3QzR2WUZXSkJ6aS1zalNsZklXWFBvTFhvek1oZUNFbEhJVzJsUnJQU1BpbXNKTVl2SEU0d2Vz?oc=5",
-   "utc": "2026-10-31T04:06:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "Tech sell-off and Binance hack rattle investors",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3345786/tech-selloff-and-binance-hack-rattle-investors",
-   "utc": "2026-10-31T03:25:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan",
+   "title": "By The Way: Headlines You May Have Missed",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue",
-   "utc": "2026-10-31T02:32:32Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-31/by-the-way-headlines-you-may-have-missed-video",
+   "utc": "2026-10-31T12:50:53Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "China willing to import more German goods, Premier Li says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2ZDVGVDQUhtbjF4cTk2bE4tRTloNnBzNW9yaXRFdnE3SklzNVBTSWpWc21vZTBTdGVhd0dQMml6LUxWTE8tYUV4TFYzMWJWTzc3Q2pqMkk2eUtuX2RScl9kMGlhUTNiVk5HcmQ1N2I0b3lhMDFEYUR5eVd1UGtYRFF2blZoNjduTXJVQUNhZllIWm0wRGpVc2FMUFh0Qkkyb3NHcw?oc=5",
-   "utc": "2026-10-31T02:21:00Z",
-   "tag": "CHINA",
-   "breaking": false
+   "title": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
+   "utc": "2026-10-31T12:49:58Z",
+   "tag": "OIL",
+   "breaking": true
   },
   {
-   "title": "Rubio and Brazil Foreign Minister to Meet After Election Tension",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump",
-   "utc": "2026-10-31T02:13:04Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Fatal dog attacks test Hong Kong's ambitions for a pet-friendly economy",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmd1eHhRcTQ0VG1QUDRIV0tNRUUxUU1xWlZpUTlnOC1nMHJVRGNaQmJOOVJmM1FQODRoX2Izb3UwaUxhcmczMXlZTElrcWJERHJETnRzR1gzM3NJTlE3Z21wWHA0Qm9YdDVkWWJFWXZoNVdXd0tTOFlUNjkybVA4YzhiYmpWY0M5WGhlaG1lcUUwSlUwTFNjNkZVYl9fWnBObVRZemdpU2VoUEhRUG5LZlE2RQ?oc=5",
-   "utc": "2026-10-31T02:08:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "China's factory activity shrinks in October, third contraction in four months",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekp5UHR1VTVUUkhHc28wR0hhYlFhbUNaR0VUZW5QZWxOczNGakNYeTZwYlZ3d0pjRDBLa0dTWkZUd3BQQy1ndnk2aFVGSlBCSDNob1ktd3U5ZXgyMVplNEJQRFlzMDRkVWFONldzSEJvSUE3dHlhQUVBN0VTNFFYY3RhUGpHLWdxRzJPOFEwMnJOYXUwWE51TXFpRlFCM2pWc2JPRTdKS3RjdnZPX09NZW5aS0VHUGV2V2E2SjF6dElWZllrc3F2andkY2Z3QUUz?oc=5",
-   "utc": "2026-10-31T01:48:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Gaming event puts Thailand on global map",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3345856/gaming-event-puts-thailand-on-global-map",
-   "utc": "2026-10-31T01:32:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "Australian PM Set to Visit Beijing After APEC Meeting, SCMP Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-31/australia-pm-anthony-albanese-xi-jinping-visit-beijing-apec-meeting",
-   "utc": "2026-10-31T01:27:39Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+   "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
-   "utc": "2026-10-31T00:48:56Z",
-   "tag": "AI",
-   "breaking": false
+   "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+   "utc": "2026-10-31T12:49:47Z",
+   "tag": "BTC",
+   "breaking": true
   },
   {
-   "title": "Thailand looks west after 30 years of struggles over Dawei",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbnFVWDRLMV93OXNWNXVMaFgzbXQwaWtVRTQ5SzhFNlI5djVyanB5VWdKT3o2RFg3Y0V6UUhpbHZScENFMHI2RWMxTTlKTVhuTW9MaUVyVHpBSWJ4Sl80MGthTlJkTTBpamZuRFdkWGJWV0NMaEYyRnlpbThpdW5lVm9lcS1mRjNWN3Vsa0xGMS0zd1RGV0p5bEZ3b1RoSW10U1E?oc=5",
-   "utc": "2026-10-31T00:40:00Z",
-   "tag": "THAI",
-   "breaking": false
+   "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
+   "utc": "2026-10-31T12:47:08Z",
+   "tag": "BTC",
+   "breaking": true
   },
   {
-   "title": "Poland's Sikorski calls for rapid ceasefire in Black Sea to allow food shipments",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjZfQ1RGNVhiRHQ3SzZQVTV6WjVPdTNJRzF4R2cxYkVPMHFWTk1MS3pnX3FZRy00WFJXR3Y4THdob2ZGR3Z3LTRxWWNnLTVSQWE4eHIxR09wMWZnU1FDdFdpNW1PbzU2NjRUY3VaMndmNUI5cGRsZW9kS1A4Yndab2p3UU02NVNiWXdRcFNXNWgybV9MbTJ5Sm5VbmIzQW1xSlI4cGN0YzlQaEItLTBRVmVwN0NxOWJLbFE?oc=5",
-   "utc": "2026-10-31T00:08:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVU2eHhKcXB0TU1teDBNamJNdjczWUVuNFpYVDBQUTNCMEJwYmYweGE1MXFsXzAxcGdYVlVObG1VQjg3dm94dXUyc2F5UHd6TkE0cUdQb2xpTk8tczhWNWdMR3pubExzLVkwZzdTWUY4bjhocmFMeWhzUE01WE1qTkZzNHBZZm1RUDlUQkJxSG5HT2tyS1ZDQm9GeWtXdjJOTXBrY29EZmJVVkxKOHNDLUc0RXY2VG8?oc=5",
-   "utc": "2026-10-31T00:03:00Z",
+   "title": "This Halloween, are full-size candy bars a better deal than fun-sized ones?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
+   "utc": "2026-10-31T12:37:00Z",
    "tag": "MARKETS",
    "breaking": false
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:51:31Z",
+ "updated": "2026-10-31T07:03:52Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,16 +9,144 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (50)"
+  "Nikkei Asia": "ok (36)"
  },
  "items": [
+  {
+   "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+   "utc": "2026-10-31T06:00:02Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "AI is coming to construction sites. But does it make workers safer?",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+   "utc": "2026-10-31T06:00:02Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+   "utc": "2026-10-31T05:01:32Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "HK’s Chan Says 2026 Growth May Be Strongest in Five Years: RTHK",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-31/hk-s-chan-says-2026-growth-may-be-strongest-in-five-years-rthk",
+   "utc": "2026-10-31T04:50:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-10-31T04:44:32Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+   "utc": "2026-10-31T04:30:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "China's factory activity marks third contraction in four months",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNODZIaDlzRjBOcXFXZ0IxTU85SDN4cFlDUng4S2YxM1pXTUpTNG01U2RuY3FEVlRmUThNSS16MXNDdHZmNVBqR1J2OUlTay1GTEstb3Y3d0ktd2dCdnEzZF9aRXdDRXZBX21PZG11R2w3ZGg1Y3Q5UGVORG1TUnhDVzVMLURzREVUeEotdU9wTElQM0JaM3I3dHA1NA?oc=5",
+   "utc": "2026-10-31T04:27:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Thai highland tribe coffee brews following at home and in Tokyo",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRzBkdUdSSUZHS1Nkd2ZzS2l2TUtNVFFMeXBiWWRTV01xcjI1N3pma1ZZWnR2MnNRQTZScV9LY1NvWHZwZW41eG5aeVB0ZmU3QUJkWUFPalhVLTFzSzBzT29WYnhzdnotTUVUWGVQSFpVNGd2QmE2MUY3QzR2WUZXSkJ6aS1zalNsZklXWFBvTFhvek1oZUNFbEhJVzJsUnJQU1BpbXNKTVl2SEU0d2Vz?oc=5",
+   "utc": "2026-10-31T04:06:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "Tech sell-off and Binance hack rattle investors",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3345786/tech-selloff-and-binance-hack-rattle-investors",
+   "utc": "2026-10-31T03:25:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue",
+   "utc": "2026-10-31T02:32:32Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "China willing to import more German goods, Premier Li says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2ZDVGVDQUhtbjF4cTk2bE4tRTloNnBzNW9yaXRFdnE3SklzNVBTSWpWc21vZTBTdGVhd0dQMml6LUxWTE8tYUV4TFYzMWJWTzc3Q2pqMkk2eUtuX2RScl9kMGlhUTNiVk5HcmQ1N2I0b3lhMDFEYUR5eVd1UGtYRFF2blZoNjduTXJVQUNhZllIWm0wRGpVc2FMUFh0Qkkyb3NHcw?oc=5",
+   "utc": "2026-10-31T02:21:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Rubio and Brazil Foreign Minister to Meet After Election Tension",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump",
+   "utc": "2026-10-31T02:13:04Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Fatal dog attacks test Hong Kong's ambitions for a pet-friendly economy",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmd1eHhRcTQ0VG1QUDRIV0tNRUUxUU1xWlZpUTlnOC1nMHJVRGNaQmJOOVJmM1FQODRoX2Izb3UwaUxhcmczMXlZTElrcWJERHJETnRzR1gzM3NJTlE3Z21wWHA0Qm9YdDVkWWJFWXZoNVdXd0tTOFlUNjkybVA4YzhiYmpWY0M5WGhlaG1lcUUwSlUwTFNjNkZVYl9fWnBObVRZemdpU2VoUEhRUG5LZlE2RQ?oc=5",
+   "utc": "2026-10-31T02:08:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "China's factory activity shrinks in October, third contraction in four months",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekp5UHR1VTVUUkhHc28wR0hhYlFhbUNaR0VUZW5QZWxOczNGakNYeTZwYlZ3d0pjRDBLa0dTWkZUd3BQQy1ndnk2aFVGSlBCSDNob1ktd3U5ZXgyMVplNEJQRFlzMDRkVWFONldzSEJvSUE3dHlhQUVBN0VTNFFYY3RhUGpHLWdxRzJPOFEwMnJOYXUwWE51TXFpRlFCM2pWc2JPRTdKS3RjdnZPX09NZW5aS0VHUGV2V2E2SjF6dElWZllrc3F2andkY2Z3QUUz?oc=5",
+   "utc": "2026-10-31T01:48:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Gaming event puts Thailand on global map",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3345856/gaming-event-puts-thailand-on-global-map",
+   "utc": "2026-10-31T01:32:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "Australian PM Set to Visit Beijing After APEC Meeting, SCMP Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-31/australia-pm-anthony-albanese-xi-jinping-visit-beijing-apec-meeting",
+   "utc": "2026-10-31T01:27:39Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
   {
    "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
    "source": "CoinDesk",
    "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
    "utc": "2026-10-31T00:48:56Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Thailand looks west after 30 years of struggles over Dawei",
@@ -26,149 +154,21 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbnFVWDRLMV93OXNWNXVMaFgzbXQwaWtVRTQ5SzhFNlI5djVyanB5VWdKT3o2RFg3Y0V6UUhpbHZScENFMHI2RWMxTTlKTVhuTW9MaUVyVHpBSWJ4Sl80MGthTlJkTTBpamZuRFdkWGJWV0NMaEYyRnlpbThpdW5lVm9lcS1mRjNWN3Vsa0xGMS0zd1RGV0p5bEZ3b1RoSW10U1E?oc=5",
    "utc": "2026-10-31T00:40:00Z",
    "tag": "THAI",
-   "breaking": true
-  },
-  {
-   "title": "- Nikkei Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43U1otemwzVjRPMk5PS1FyMU9QTGdIS25iNVhrV1k1R3NreUUxcjRyWnhDajJrNkE5WUxqeUpCSURzXzRY?oc=5",
-   "utc": "2026-10-31T00:03:21Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japan demands release of national in meeting with Russian minister",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWVVeFVLcEVpTUVwTXY5MzljVGJrQlRLVGUyN1phaURIMFFja0pzLXdNem1HOXZfMVRxd0VseUllWlJIdnI2dTNRLUwwVWRWRkh0Umc5NlVPVXV6UE1aM1dWOXFoVlF5NTd6cjhKMU1vLTh6eXBLOWNxZlY3R3VBWTVRM2JzeUJXUkRacEh4ZkpJbUVkOTZSTm5NYlh0RWZpQkNGeDRaU1VNWjhXa05HU2gxVFNtRVhZT1BKQmhxT0M?oc=5",
-   "utc": "2026-10-30T23:33:00Z",
-   "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Net-zero drive causes reliability concerns",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3345926/netzero-drive-causes-reliability-concerns",
-   "utc": "2026-10-30T23:21:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
-   "utc": "2026-10-30T23:14:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Europe-Is-Now-Seriously-Rethinking-Its-Oil-Refinery-Phase-Down.html",
-   "utc": "2026-10-30T23:00:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-   "utc": "2026-10-30T22:57:55Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
-   "utc": "2026-10-30T22:52:04Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Indonesian costume makers bring Japanese superheroes to life",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbnFacU1yaElORlZiX1ZvYUxwR0w3ZnE1emhIcGZiOHozaEl4enBaeDVjZDNPNWxzVnNCQk1iTFBWTDN5M28wMzNIWE1uQmtiNFQ0amJMSkt3UmVYcXhMUHgwWGFwcGF0dEFEOGN3TkFSbnJhbmRucFRDYTA1SnB3OFFXWnpadnQzdFNhZWRxM2FkY1pUOVRmcGdjTWNUWmlE?oc=5",
-   "utc": "2026-10-30T22:46:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Extra B6.7bn fuel subsidy to come from energy fund",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3345841/extra-b67bn-fuel-subsidy-to-come-from-energy-fund",
-   "utc": "2026-10-30T22:44:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
-   "utc": "2026-10-30T22:42:26Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Bhutan's female 'farmfluencers' want to make agriculture cool",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFNGbEtVeEZaQ2x0MWRESWM1TTV2WllOWF9zSzJmSVBNbFFJOS0wWVJnNC15OXctZUJ1dS13WWNuX0c3M1VENDJzb085SlNhYi15SjJwZVZBM3RwWkYtam0td2dTelJ2TGo4MVMxTVRwOWFOMHA2V1dUdHJXZFJ4TkdqQkxTanh5ZGd6ZDdwOWVNSUV5ck5Zd016VnBtek0?oc=5",
-   "utc": "2026-10-30T22:42:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan demands release of national in meeting with Russia's Lavrov",
+   "title": "Poland's Sikorski calls for rapid ceasefire in Black Sea to allow food shipments",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnhKMkhWT0h3NTV5U0NTTkc5dzg5andfTkplUXJoQVJvN2VMOWV6THRMT25aZ0Nrekp3YkVXQ2NlaldaVU9XT1JQbzBpUjZhMk9Ecm93WkxMZWZfcmJ0dzVWTnhObW9DVG5tdXBOdDY3aTBBazVlYzNuaDJIbm40YXYzYmNudnVGVVNfekM1VUdEMGRFcTU4MUNlTkNvWmFETE00RU5CTTdjM3RFTEJTUXdocw?oc=5",
-   "utc": "2026-10-30T22:26:28Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Chocolate Price Spook Families for Halloween",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
-   "utc": "2026-10-30T22:21:45Z",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjZfQ1RGNVhiRHQ3SzZQVTV6WjVPdTNJRzF4R2cxYkVPMHFWTk1MS3pnX3FZRy00WFJXR3Y4THdob2ZGR3Z3LTRxWWNnLTVSQWE4eHIxR09wMWZnU1FDdFdpNW1PbzU2NjRUY3VaMndmNUI5cGRsZW9kS1A4Yndab2p3UU02NVNiWXdRcFNXNWgybV9MbTJ5Sm5VbmIzQW1xSlI4cGN0YzlQaEItLTBRVmVwN0NxOWJLbFE?oc=5",
+   "utc": "2026-10-31T00:08:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "This cybersecurity stock will be the next to join the S&P 500",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
-   "utc": "2026-10-30T22:20:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
-   "utc": "2026-10-30T22:17:13Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Clarifying plans to strike an energy balance",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3345876/clarifying-plans-to-strike-an-energy-balance",
-   "utc": "2026-10-30T22:12:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Crypto Hack Reignites Regulatory Debate",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
-   "utc": "2026-10-30T22:08:41Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/lonnie-ali-marc-rosen-on-new-muhammad-ali-amazon-show-video",
-   "utc": "2026-10-30T22:05:55Z",
+   "title": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVU2eHhKcXB0TU1teDBNamJNdjczWUVuNFpYVDBQUTNCMEJwYmYweGE1MXFsXzAxcGdYVlVObG1VQjg3dm94dXUyc2F5UHd6TkE0cUdQb2xpTk8tczhWNWdMR3pubExzLVkwZzdTWUY4bjhocmFMeWhzUE01WE1qTkZzNHBZZm1RUDlUQkJxSG5HT2tyS1ZDQm9GeWtXdjJOTXBrY29EZmJVVkxKOHNDLUc0RXY2VG8?oc=5",
+   "utc": "2026-10-31T00:03:00Z",
    "tag": "MARKETS",
    "breaking": false
   }

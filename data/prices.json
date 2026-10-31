@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:01:12Z",
+ "updated": "2026-10-31T07:04:11Z",
  "ok": 9,
  "q": {
   "spx": {
@@ -35,24 +35,24 @@
    "stale": false
   },
   "wti": {
-   "v": 102.95,
-   "chg": 0.93,
+   "v": 104.12,
+   "chg": 2.08,
    "t": "2026-10-30T20:59:59Z",
    "prev": 102.0,
    "src": "Yahoo Finance CL=F",
    "stale": false
   },
   "brent": {
-   "v": 112.33,
-   "chg": -2.22,
+   "v": 113.43,
+   "chg": -1.26,
    "t": "2026-10-30T20:59:57Z",
    "prev": 114.88,
    "src": "Yahoo Finance BZ=F",
    "stale": false
   },
   "gold": {
-   "v": 3884.9,
-   "chg": -3.63,
+   "v": 3898.9,
+   "chg": -3.29,
    "t": "2026-10-30T20:59:59Z",
    "prev": 4031.3999,
    "src": "Yahoo Finance GC=F",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:52:00Z",
+ "updated": "2026-10-31T07:04:11Z",
  "level": 62,
  "band": "Alert",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   44,
+   31,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -107,18 +107,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.5,
    "airspace": false
   },
   {
-   "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
-   "utc": "2026-10-30T18:03:02Z",
+   "title": "What we’ve learned so far this season in FPL: Premium letdowns, DEFCON magnets and the joy of Hull",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1NYVk1ZSXJJNWlPbjN0TkRQNFRQakgxTEZoMzdlVUNONS1rLTNJYkJrSWdkN3Zxd3E4Uk95LWJaZ2hfa09RdHdKRmRrZ01ZckJfaTVUQ2JnRVdZLTEtRTBuT2Y1TU44bm1kazYxOEh6ZEUza0dzV3lqVVVYa19oZERTRDAwOEJsbVdENHJITE4yQQ?oc=5",
+   "utc": "2026-10-30T17:43:00Z",
    "tags": [
-    "HORMUZ"
+    "NUKE"
    ],
-   "score": 4.7,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -129,7 +129,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -140,18 +140,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.2,
    "airspace": false
   },
   {
-   "title": "IRGC says two tankers stopped south of Strait of Hormuz after ignoring radio warnings from Iran",
-   "source": "The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FN19qNVpkSWVjY2pVNDNYMUhjWWd2b1V2UFhETlBUOWI4aUJ0UGNMVi1WQjZMQWxUM2F5b2tlNHpWYVdIcGxDM1lhckhzVGFxME5HMU5xMFlIYThUaFh6V2NzSzFVdUI3UEE?oc=5",
-   "utc": "2026-10-30T12:04:11Z",
+   "title": "Asia Exports of Refined Fuels Plunge Amid Hormuz Closure: Russell",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYzZzWUpMcGRDUXcxVU14QVlSRXdrblBUZVhfNkRvcWdWenZhS21IZWxEQUxmUTB2VjJqaTZ1bWZ4cHVWU012Y2dVN18yWndLdmZIV0t0dmoxNVh6cXREUXZjUEZlQnRiWHlzcjdKc1RIQXd5dndrdVlSekd6al9tQTBaY1RUaGhJcXZsWnktVUpnei0tcWFTSnN6VQ?oc=5",
+   "utc": "2026-10-30T12:55:56Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 4.2,
    "airspace": false
   },
   {
@@ -162,7 +162,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -173,7 +173,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 6.3,
+   "score": 6.1,
    "airspace": true
   },
   {
@@ -184,18 +184,18 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 6.3,
+   "score": 6.0,
    "airspace": true
   },
   {
-   "title": "Iran Says 4 Oil Tankers Hit Mines in Hormuz as US Calls Claims False",
-   "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QcmFRTEJTVmRfTmxnOGI3VXV2ZTRsbU1PWW0zZm5venp5dDFzTXI5YTZKZlJIN3ZBdi0teWlKaVJPRnNLNEtQaHNXb2laam5IZGxfRXNGTDhyTFlCQ2NHSEpaN3VEc1JZZlNmamlB?oc=5",
-   "utc": "2026-10-30T07:51:52Z",
+   "title": "The US has begun evacuating its diplomats from Saudi Arabia",
+   "source": "Baku.ws",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN3pQc2pXSVY5bVhlWWlBeFdUX256U0R6NVVRM2NYcm40dG9SWTIzZnh2MFN5ZFpFbzNUSFNoWW5HaVdaRTdTdXZGUDZwXzRERk5WWnBYLUtCR2xWNDIydDBmbkpiWXdfMUZad29QSkJyNURfOGlsSy1JUTJCYjN0VXlFOWNnSXNpM1phSQ?oc=5",
+   "utc": "2026-10-30T05:14:00Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 5.3,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -206,13 +206,13 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.6,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 127,
+  "count": 1,
+  "global": 86,
   "baseline": 2.1,
   "samples": 40,
   "hist": [
@@ -427,6 +427,10 @@
    [
     "2026-10-31T00:52:00Z",
     2
+   ],
+   [
+    "2026-10-31T07:04:11Z",
+    1
    ]
   ],
   "box": [

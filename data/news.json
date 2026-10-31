@@ -1,24 +1,88 @@
 {
- "updated": "2026-10-31T22:33:20Z",
+ "updated": "2026-10-31T23:58:08Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
   "Reuters": "ok (100)",
-  "Bloomberg": "ok (16)",
+  "Bloomberg": "ok (17)",
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (13)"
+  "Nikkei Asia": "ok (11)"
  },
  "items": [
+  {
+   "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+   "utc": "2026-10-31T23:56:40Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Chevron Raises Exploration Spending By 50%",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html",
+   "utc": "2026-10-31T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "US midterm campaign enters final weekend as Alaska, California ballot fights heat up",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDRaNDJmRmxia1RPY2l4Z1ZIRTFHVU1pNHUydFRRUUhZVlZpUGVnZUVqUm82NFVfZXpsNVdWam5UNTVMc1RNWXZPbjJsTzlucDNWcmJxbjJLSWNwclRrWmFuVVBzb2lYcUFkbDRRc1JjbV94SFh3aG5majlaODVxTFNTUXhNUWZQWmR6bU4wS3hNQjNSUk9mN2hFQURQR1hMUmU5Rw?oc=5",
+   "utc": "2026-10-31T22:59:51Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
+   "utc": "2026-10-31T22:58:33Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Dark day for Manchester United and City after Halloween defeats",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXlwOE02NmwtaFl0UUsxQ0RKOG9MTG1YaWJUbzdpcWN3WGUxRlFPaVRLd1M3Nk5wWEJvX2t1dWI5U0FUdnFtMWJNWDhrano3VWV6bDJubDVuSzcteUoxZFJPcFlHTjVvaDNjbHNOVHJaVlFrQkk1OXh5ZllUSktZZVJ4TWlmc2ZhelR1N1JXVllaVzE5V1V5YVNseE1CS0k?oc=5",
+   "utc": "2026-10-31T22:48:27Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-10-31T22:48:21Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
+   "utc": "2026-10-31T22:44:11Z",
+   "tag": "OIL",
+   "breaking": false
+  },
   {
    "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
    "utc": "2026-10-31T22:27:56Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Binance says it has covered 90% of losses from $6.3 billion hack",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
+   "utc": "2026-10-31T22:13:26Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations",
@@ -26,21 +90,53 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVA3cGlMTWRrZGNBV3NsQkdPb1ZJQnBfbG5EMjZrcUFWMmVldTlySld2cWtOcEhxS1hhZ1VnSTluNDk5dHZxdEs0TFpZbXhfRk92a3BTV0hxUXg5VTNVRnFMN2dBRmZ5R3R6T3BBdVA5WFdqS2dSTWRFSmVaZ3lkU01xRENrOGU3LWxkYVFVVlVoRzhKMUhCV2Ffc0duOFhsXzh4eXd4UHhEZTYtUF9oalhwc1lQYzdaalhN?oc=5",
    "utc": "2026-10-31T22:01:28Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-10-31T22:00:21Z",
+   "title": "Turkey Appoints New Top Market Regulator in Fund Crisis Response",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response",
+   "utc": "2026-10-31T21:50:23Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "North Korea says defence research institutes tested major weapon system",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2szXzlwbFhuTl8xcVFPLU9JTTFnUTYtT1pYWGxTbEFhUmxWV1E5NkxvbTZvOEtETEp4YjdMaEhDbG1MSzIweE5kYXpSM3FWVEpUWEFFNUZTUFdaNzN2UldqMHlVdDZsT3NaNm9PQl9xSFpfMm1FR3JCUTA0Z2hiQ0EtUXpKZ3MwLThwQmZ3R0JxZ2lRZ2hjcEpkWjI0R2FyUGdIQ3VZZUVwRl96UVByZklTSm1KY1RVRExaSlptRUtLbHRld0FVN2lEYUcwbUU?oc=5",
+   "utc": "2026-10-31T21:48:05Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "FBI links North Korea to theft of $6 billion from Binance",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
+   "utc": "2026-10-31T21:44:23Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "ICE raids in a California toss-up district spark accusations of voter intimidation",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkk2Tk5vZ2RHMENmbGFkZjJrWjJIS2xkbDZrQW5hUS1abHlzOVNWendQdHNfZTdZcHFnWkFKUURwMDVmYnhlN3ZPeEctbHBmeE9KcVp0T1JCVGVNN3NrbXZMd1ZmcVZOcHQ5X3JIWHJuOHpJcThkbTdmQTItSlE1MXJ4ektHQ3Ytd3I1dGVhSTFSVHlQQ05iaHdzd2drWXhoTEphUVRTUUh3cWU3cDJ2ak1GQkNMb0NTV3VZeG5GdEFZNThORFE?oc=5",
+   "utc": "2026-10-31T21:38:51Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "After Louvre heist and string of thefts, Europe's smaller museums are on guard",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2hEQ0g1Rk9ZSjJMakpuX2lCY3hFc1I4VjhMbnE3aGFMWXh3TU9NSE1sWEFCM2dRUVBTRXE5cWxUMXdwdXZwZ29vNFdBbjVKYW1yTDN1b2tlZ1RjQW13NkdqVEI5RV9ybFRad3kyY0VTOTZaUEhFaDYyUmdTYnlMenBDNGM0VVEyanFtRFJUTjFnc0MyemdmRVlLNlBGbGdxMjFmZXRUem43WTRz?oc=5",
    "utc": "2026-10-31T21:24:25Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Thousands return to Lisbon square, press government to scrap rental bill",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWVvNnVKTGlkcFRNcmpqWmZlaUNuVXJZU1p3bi1QRDdSbWtHQ082NmdqV3RwZlVobm50NE1JRVljYjc0WXlYdG44V2p1bFJVTTZPUUhxcXM4emlfV3pQdmFIeG9hVGZGZ09mOW05c05hTTFHYzgyWmhiUlhfc3FVNzFhWDFKXzJiRFlJZUdxQmV6SFZIb0RkSERTRklwamlkekYxZjZ5RDZMYWtyR2lRQ0J3eHQ?oc=5",
+   "utc": "2026-10-31T21:22:49Z",
    "tag": "MARKETS",
    "breaking": false
   },
@@ -53,10 +149,10 @@
    "breaking": false
   },
   {
-   "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-   "utc": "2026-10-31T21:05:53Z",
+   "title": "Canada advancing its 'middle power' strategy with new trade deals, Anand says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMkR4dzVKdEdBZ1paNXRBRkJQRHlCaFBWQlk3ZG5jQVBwam1LQXdtMFpQcl8tR3ZpdWRjLXdfVjhRTDlXX0J3dDl1a1NmTHZhV1ZGazBqd1prYjZ3UEpGZHN2MkZ6WkRmS0JJRFE5a0pQSmlCQ1hGbUZSUGFSckgzZ2l5bEFRSUFCR2puZUdRSEgyMENsTzhoZ2hxZGRiUjBYZjMyYW53ODVwX0IwWnNvbVB5YUlvUWZUY21reFVoMmFQZU0?oc=5",
+   "utc": "2026-10-31T21:11:43Z",
    "tag": "MARKETS",
    "breaking": false
   },
@@ -69,107 +165,11 @@
    "breaking": false
   },
   {
-   "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
-   "utc": "2026-10-31T20:45:43Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
    "title": "Rubio Defends Russian G20 Presence Despite Criticism From Allies",
    "source": "Bloomberg",
    "link": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies",
    "utc": "2026-10-31T20:41:04Z",
    "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Real, Mbappe have moved on from China controversy, says Mourinho",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkdaRjdrN052cWJ6QXRmSWJheXBJS3A3dFVTNFZyREY1NE52QlpEWDNoLUNzTWF2d0RpOENKRS1rUXh0a19saUpSMExybzVYdmJFRU9TZmZncTMxTDAzVlVGRmdrZ2dVNU9RcVZ4UFhPYkwtbjhFYXhDUXdmNXN0NmZSWEJndzdkRFBpb056d3NjRlVvYmxjdDBZT2tEZ1E0b0tmcFZIVQ?oc=5",
-   "utc": "2026-10-31T20:16:59Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-   "utc": "2026-10-31T20:15:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Dark day for Manchester United and City after Halloween defeats",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXlwOE02NmwtaFl0UUsxQ0RKOG9MTG1YaWJUbzdpcWN3WGUxRlFPaVRLd1M3Nk5wWEJvX2t1dWI5U0FUdnFtMWJNWDhrano3VWV6bDJubDVuSzcteUoxZFJPcFlHTjVvaDNjbHNOVHJaVlFrQkk1OXh5ZllUSktZZVJ4TWlmc2ZhelR1N1JXVllaVzE5V1V5YVNseE1CS0k?oc=5",
-   "utc": "2026-10-31T20:14:59Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-   "utc": "2026-10-31T20:12:37Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "US, Canada see growing interest in limited ceasefire in Black Sea",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2JIVVB6TndsbFNkS2Vma2ZRT2NBOHRyQTRkcEc2ZnNnRFc5R0JoT0hpem96RFMwalJGZFozdncxNmRBaE05ZU1hQXRsU0sxUDIyVHRWZzhlQXVfLW5GSGxBcHhscVRrLTlLSnFsOEZ0SnliUzhuQVhLeGc3VFBEWTI3ZjRfQU1uS2NWYjk2QVBEVldRVHZOUnZn?oc=5",
-   "utc": "2026-10-31T20:10:06Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Rubio, Brazil's foreign minister to meet again as diplomatic tensions simmer",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUmVTUWlGdkFmblZKTmJTRUZCLS01dWJocVZmVmd1UUtkR3ZLZlMyaG8wMVphRV83QU5RV3haOWlDeG50eG10cU80UkhaeWtnOXgyeHhXV3MzNktnNmgyY1BoMndvVzNTWGtLVnJYQVV3cER4eG93QXdEVWtsU1dnME1SdjJnMlEtSXBqcUlXR3A0MTV4RDE5cGQySHhJYUdUYWZUR3p0Z1J4SWoyeGJ4dlFScmJid2tVTG9lRkZ3?oc=5",
-   "utc": "2026-10-31T20:07:12Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Time for Japan to develop people who can sell content",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHhfMTRHYVBkTGJ2SWp6QTlXZzMyNjBfeFpoSDJoZFBGTXAxNVR3TlZWXzZXNWZCUTNWTnFEYkZNeXBYQjFEWklUa3VyVl9HZHVxQk1UbE1rT0RmdUxnRnEyRndnMjRGbEhJUmFGenFySlV0cGRIQU1CcDRIajlOWXp2Tm1fZUZuUEwwVmxn?oc=5",
-   "utc": "2026-10-31T20:05:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5",
-   "utc": "2026-10-31T20:00:36Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-   "utc": "2026-10-31T19:56:23Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Apple Hospitality REIT Inc (APLE.P) | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13ZDRFMjBOWGZQbVl0MkVtbnBUTFo2X3UyMmYwMXFsMnZ5LTRGdW9DTmNpRWIwSElFc1ZIbXNpMTlDZzk5dWQ2LUhtSmxEMlBWS09BOXRjci1fWlNRZ1lZZmxvMW9LWnM?oc=5",
-   "utc": "2026-10-31T19:32:11Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-   "utc": "2026-10-31T19:30:00Z",
-   "tag": "MARKETS",
    "breaking": false
   }
  ]

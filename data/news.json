@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:51:55Z",
+ "updated": "2026-10-31T00:00:51Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (52)"
+  "Nikkei Asia": "ok (49)"
  },
  "items": [
   {
-   "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+   "title": "Japan demands release of national in meeting with Russian minister",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWVVeFVLcEVpTUVwTXY5MzljVGJrQlRLVGUyN1phaURIMFFja0pzLXdNem1HOXZfMVRxd0VseUllWlJIdnI2dTNRLUwwVWRWRkh0Umc5NlVPVXV6UE1aM1dWOXFoVlF5NTd6cjhKMU1vLTh6eXBLOWNxZlY3R3VBWTVRM2JzeUJXUkRacEh4ZkpJbUVkOTZSTm5NYlh0RWZpQkNGeDRaU1VNWjhXa05HU2gxVFNtRVhZT1BKQmhxT0M?oc=5",
+   "utc": "2026-10-30T23:33:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Net-zero drive causes reliability concerns",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3345926/netzero-drive-causes-reliability-concerns",
+   "utc": "2026-10-30T23:21:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-   "utc": "2026-10-30T20:48:00Z",
+   "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+   "utc": "2026-10-30T23:14:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
+   "title": "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Europe-Is-Now-Seriously-Rethinking-Its-Oil-Refinery-Phase-Down.html",
+   "utc": "2026-10-30T23:00:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-   "utc": "2026-10-30T20:46:04Z",
+   "utc": "2026-10-30T22:57:55Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
-   "utc": "2026-10-30T20:42:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-boost-natural-gas-short-positions-to-most-on-record",
-   "utc": "2026-10-30T20:40:59Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+   "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-   "utc": "2026-10-30T20:30:57Z",
+   "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+   "utc": "2026-10-30T22:52:04Z",
    "tag": "STOCKS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "AI Dip-Buyers Gored as Selling Spasm Caps Third Week of Losses",
+   "title": "Indonesian costume makers bring Japanese superheroes to life",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbnFacU1yaElORlZiX1ZvYUxwR0w3ZnE1emhIcGZiOHozaEl4enBaeDVjZDNPNWxzVnNCQk1iTFBWTDN5M28wMzNIWE1uQmtiNFQ0amJMSkt3UmVYcXhMUHgwWGFwcGF0dEFEOGN3TkFSbnJhbmRucFRDYTA1SnB3OFFXWnpadnQzdFNhZWRxM2FkY1pUOVRmcGdjTWNUWmlE?oc=5",
+   "utc": "2026-10-30T22:46:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Extra B6.7bn fuel subsidy to come from energy fund",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3345841/extra-b67bn-fuel-subsidy-to-come-from-energy-fund",
+   "utc": "2026-10-30T22:44:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+   "utc": "2026-10-30T22:42:26Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Bhutan's female 'farmfluencers' want to make agriculture cool",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFNGbEtVeEZaQ2x0MWRESWM1TTV2WllOWF9zSzJmSVBNbFFJOS0wWVJnNC15OXctZUJ1dS13WWNuX0c3M1VENDJzb085SlNhYi15SjJwZVZBM3RwWkYtam0td2dTelJ2TGo4MVMxTVRwOWFOMHA2V1dUdHJXZFJ4TkdqQkxTanh5ZGd6ZDdwOWVNSUV5ck5Zd016VnBtek0?oc=5",
+   "utc": "2026-10-30T22:42:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Chocolate Price Spook Families for Halloween",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
-   "utc": "2026-10-30T20:30:15Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
+   "utc": "2026-10-30T22:21:45Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "This cybersecurity stock will be the next to join the S&P 500",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+   "utc": "2026-10-30T22:20:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+   "utc": "2026-10-30T22:17:13Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Clarifying plans to strike an energy balance",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3345876/clarifying-plans-to-strike-an-energy-balance",
+   "utc": "2026-10-30T22:12:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Crypto Hack Reignites Regulatory Debate",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
+   "utc": "2026-10-30T22:08:41Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/lonnie-ali-marc-rosen-on-new-muhammad-ali-amazon-show-video",
+   "utc": "2026-10-30T22:05:55Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Bloomberg Screentime: Streaming, AI & Creators",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
+   "utc": "2026-10-30T22:05:47Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-   "utc": "2026-10-30T20:29:00Z",
+   "title": "No reports of food stockpiling",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3345656/no-reports-of-food-stockpiling",
+   "utc": "2026-10-30T22:05:00Z",
    "tag": "STOCKS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+   "title": "PacSun CEO: Brands Mean a Lot to Young People Today",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company",
-   "utc": "2026-10-30T20:28:39Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-   "utc": "2026-10-30T20:28:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "The selloff in tech stocks is shifting into overdrive",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
-   "utc": "2026-10-30T20:26:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
-   "utc": "2026-10-30T20:25:58Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Bilt simplifies its rewards program and eases Bilt Cash restrictions. Here’s what to know",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/select/bilt-rewards-program-changes-2027/",
-   "utc": "2026-10-30T20:24:51Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
+   "utc": "2026-10-30T22:01:02Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "King Charles' sorrow over slavery faces test as reparations movement gains ground",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTlNXWUdBLVdhb1R6TFF1U09KeVhFc0psSEJNM3E1TXZpanhkbDNDV3FXSzljVDJrNm5aWGhIeUROQzBfZFYweEZQWEdYa2cxSXBIY3ZOQktGSHJ4NlhieW1tUEVtUXlWc1N5VXEwVWFITE9EbE50NDg1djRYeG16dy10UkVZSXBnSGxxZThzLUxTd1BXWlhzdnptRlBUcFBoSVpUNUc5Yk1JaHVWSlhoVkZzcWE3QnJTaXhfaVRLcw?oc=5",
-   "utc": "2026-10-30T20:24:20Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Intel Plunges 29% on Weak Outlook as Tech Selloff Deepens | Closing Bell",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/intel-plunges-on-weak-outlook-closing-bell-video",
-   "utc": "2026-10-30T20:23:36Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
-   "utc": "2026-10-30T20:23:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
-   "utc": "2026-10-30T20:23:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Yakitori chicken from Japan takes a stab at the Philippines, the land of Jollibee",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXg1Vl9jbEVfVGpKamJBTWg1Wm15TFBXeVF6TXdEODBSdTBwaUd2UDlQU2FFbDFhWTQ4OGVmQzFFMHJRZndIZDBoaWhiSGxYbmVYNGpSSFRFT2FIQUFtWi05aFhMbExuNG5UbjZfNVFEVVFkSU0zMFNzN3oySzFZcmFFRmlaZEpEZm41U3BKWi1pWkdYYVpsMWFpdlRQNUxIM3ZScGVKNUxIQ2RJQjFJcF9xcy1aUjJpaE1xYlE0Wmh2THhfZGc?oc=5",
-   "utc": "2026-10-30T20:19:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Foxconn unveils 3 EVs to grow contract manufacturing business",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWZoSXAxVVFrWXVwbHJtXzJEcnA0VG01cE1hdWV1M2RWUE5MdG5YQ3RrVk5MMHc4eEc0Q1ptU2ZGMm10MG1VNmgza2FOenNOSjNlZ3BwV0xORmZwMmh3YjdYZFpyNW42bXZjTTFPYzZBNDJXRXJmaV9wZEZJVVIzdDZFdE9uSDg3SEFsUVpwMmRaaHI2MjBwNE9tV1Z2a0dMalIwcWJjS25SSEVRMUpfdmtNZXZ5dUVlQ3NoV0tCQ25fUQ?oc=5",
-   "utc": "2026-10-30T20:18:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "TSX Has Worst Day Since June, Joining North American Retreat",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/tsx-has-worst-day-since-june-joining-north-american-retreat",
-   "utc": "2026-10-30T20:17:27Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japan miner to address labor crunch with self-driving dump trucks",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQk9oMG9NVFROWHN6RDVxX280aGR4TXNYT3dzVTY2a0xqa0RHYndnbmFhdWVVaWdHVWVLTWFSUDhaejNPV2FCelZFUDZOOFhCRnhCaEJ5bnJ0a2g1UUZpNWktd3Ziam9wTERueUFvYlowTW80WDZPb1d4QmJxTkdRM3NlVjFlN3ZycjljaDlpM1hGVWNabkYwRUprSnBuWXBsdFRXOURSaHBhUUdFX0E?oc=5",
-   "utc": "2026-10-30T20:04:00Z",
-   "tag": "MARKETS",
-   "breaking": true
+   "title": "Binance hack prompts Thai scrutiny",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3345716/binance-hack-prompts-thai-scrutiny",
+   "utc": "2026-10-30T22:01:00Z",
+   "tag": "THAI",
+   "breaking": false
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:01:13Z",
+ "updated": "2026-10-31T00:52:00Z",
  "level": 62,
  "band": "Alert",
  "components": [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   45,
+   44,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   8,
+   7,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   2,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -118,7 +118,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -129,7 +129,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -173,7 +173,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 6.4,
+   "score": 6.3,
    "airspace": true
   },
   {
@@ -211,9 +211,9 @@
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 147,
-  "baseline": 2.2,
+  "count": 2,
+  "global": 127,
+  "baseline": 2.1,
   "samples": 40,
   "hist": [
    [
@@ -423,6 +423,10 @@
    [
     "2026-10-31T00:01:13Z",
     1
+   ],
+   [
+    "2026-10-31T00:52:00Z",
+    2
    ]
   ],
   "box": [

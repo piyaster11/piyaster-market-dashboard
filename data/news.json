@@ -1,175 +1,175 @@
 {
- "updated": "2026-11-01T10:35:59Z",
+ "updated": "2026-11-01T17:09:38Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
   "Reuters": "ok (100)",
-  "Bloomberg": "ok (16)",
+  "Bloomberg": "ok (20)",
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (18)"
+  "Nikkei Asia": "ok (16)"
  },
  "items": [
   {
-   "title": "China to Convene Meeting on Supporting Stock Market, Reports Say",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
-   "utc": "2026-11-01T10:08:49Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Thousands join Indian opposition protest demanding poll chief's resignation",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTRESDZoMjFqaUNCLTZPemZuZnFMZGpBbjhLNllJUmtmb3ZLVmx0U0NMRkZTcGRwdGlpQmFoUWM2WlBlMEl6LXR0bnBQNEd3YWdpZUEwZU9aWkluQ0FtUkU1RE9DdGtzZzlZR19wWUpMRjNUV1FTTlRKLXZ5eEswSjhoZ3k0V3F4Nm45Ri1tVFdDR29HLTJmU0ZFR0JSVlp2VnRKbkRhQ242LW92?oc=5",
-   "utc": "2026-11-01T09:53:00Z",
+   "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+   "utc": "2026-11-01T17:05:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
-   "utc": "2026-11-01T09:23:14Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say",
-   "utc": "2026-11-01T09:19:37Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+   "title": "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-   "utc": "2026-11-01T09:03:47Z",
+   "link": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html",
+   "utc": "2026-11-01T17:03:35Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Bulgaria votes in presidential runoff after tight first round",
+   "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+   "utc": "2026-11-01T17:00:00Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Israeli strikes kill eight people in Gaza - medics say",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
-   "utc": "2026-11-01T08:51:44Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2E3NlZWbHB1MUtZdG5sLXBXci1sVnQtMWxWYk1CM1EzTUtfMXJiWDZYRlIzN09BWlBuaUVXOThueVFEdF9nMXdVaUpobUNCSXM3dUZWQVZjN2MwZ19pQUN6cDUtbnE2Rm1PX3BwYmhTWWo4TGRqbG0xSmhKQVhWYTlVNkFpTFdsUFhmcDlVaFI5cWZRYk1jcFRoU3RIZUV2QTRBdm5B?oc=5",
+   "utc": "2026-11-01T16:41:43Z",
+   "tag": "WAR",
+   "breaking": true
   },
   {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+   "utc": "2026-11-01T16:35:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "The Political Debate on Daylight Saving Time",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video",
+   "utc": "2026-11-01T16:23:36Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nuclear reactors under construction rise to 79 globally on AI demand",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-01T07:48:22Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJQV25faktaWGFiUks0eTdlWmFhbkcwR0RWcXdFbk95UXJ6VjBmSUV1NjRaTk1oYXk0NEtKaGF1NTJBOWNFUm1sY2tiUVhjekJVU25tRWduZVpGVFNHMGFyOTN1RjRmS1lFcnNSRExoT216QUNtaFZjOTluU1g0d19EejFmR2pRWDJuSXc4WWQ3WHJ2UngzYmZRV3d0a2dmeHFycVhhZGdvN1dUbmc?oc=5",
-   "utc": "2026-11-01T07:42:09Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "News By Location",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwd1EyVXpkV0JqMFlrSjIzSFVMOGsySmFfR2dyM0k5MDNUeWF2MFNCb21LRmw1cXZQWXZZU1NFdk9vMEplQ200?oc=5",
-   "utc": "2026-11-01T07:34:11Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "AI dubbing to help Japanese companies expand global outreach",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTm9ZUTVkM29nMWhSc25VdjYyMTRsaDlycGdlOUNCaTktYlloRUVEeXpjTHdLYVBHeWNFSDIwQzhhTnRWbmFOaXF3U1NLTHhLYjl2V1NCOER5Y1pKQmVOczRsVE9QN1hqUnpKd1J6a1hVczRIejVGUnJKRGxZbVZvQXU4VWJKQk1LbTVrUE80SGFjSU1MaXB2TFZkUmxiVWdOZW00ZmRiejVnVktUWUdvY0FRSkxoN2hrWnlVeG5YTlM1a0JpN1lv?oc=5",
-   "utc": "2026-11-01T07:31:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2JVTTFfUUJUbzN1Q0s0dG9LV3pZMjdJbGpQRUJJdW1sVTlPOWcwN0dMTldCRzJhQWdYNmZzeHhmbWRVRXdodFRUWHJNTV82SHhyaXM5eVFKV255WjJNaDlTRXBFQnpEN2dWOTE2YlRmeU0wSllXWTVfZnJ4NjQ2ZHVsbU1WcE13aGx3VXBkSFk4OFp5S0dWdjBQU3Z6OURpT1FlT05rSzFETnhX?oc=5",
+   "utc": "2026-11-01T16:20:00Z",
    "tag": "AI",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "FT Vest Nasdaq-100 Conservative Buffer ETF - July (QCJL.N) | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YY0VIVWZxdldkamd3Y05Rd2NtQWlUS1o5VGdDdkdqZTRzSHpjMDNIMEJQVEhCWGEwU3RMQUM5U0Nkb0xjbHVSS190a1BMbGR1aGV2NXNieVA?oc=5",
-   "utc": "2026-11-01T07:22:41Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Indonesia GDP, US midterm elections, Hong Kong financial summit",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakotTjlvMUIwSTZZS0lTdHUwTVdMUWFnMFMtZkRHdE1BbFlpWkRZTkxoSk1Cb0NzYldjNjQ4Umh5eVJzd1dxSW9fa3VaWksxQUk2ejVCMU1UUzF0SkJRUVB3cjdXdVhwWi1WcXFqNzlydEM2X0FDcE9ZNDZjSmhzYkRDQzRnWjJJX01tZDdlRFJlbi1RMnBFMUFvdjJnZDNSWTBOdzRIUWVZZFgwbkp1azFLVQ?oc=5",
-   "utc": "2026-11-01T06:30:00Z",
+   "title": "Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Azerbaijans-Renewable-Energy-Boom-Is-Transforming-Its-Power-Sector.html",
+   "utc": "2026-11-01T16:00:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Iran war",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BcVQ0dEk4SW5nTlE1VTBUcF9sRTFZTUljZ3J6emdQOVZMN0pELVJIWmxRcmJlWGJpdHRlZHN5RGUxSUxONGFibWdkQ0R5Ykd3aEdnWS1RSzBpcE5ZOXd0LWtBakw5ck0?oc=5",
-   "utc": "2026-11-01T06:14:07Z",
+   "title": "Everything changed for the oil, AI and bond trades over the past month",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+   "utc": "2026-11-01T15:58:24Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Bookmarked: News Stories On Our Reading List",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-01/bookmarked-news-stories-on-our-reading-list-video",
+   "utc": "2026-11-01T15:53:30Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trump Struggles to Sell Voters on the Economy",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-01/trump-struggles-to-sell-voters-on-the-economy-video",
+   "utc": "2026-11-01T15:39:27Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Russia's FSB says minor detained over park attack threat after US tip-off",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
+   "utc": "2026-11-01T15:32:23Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Xtrackers II Eurozone Government Green Bond UCITS ETF (XGEZ.DE) | Stock Price & Latest News",
+   "title": "Trump heads to Iowa, Kansas for rallies before midterms",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5keE9LUWp5WmtCOEgxbXdwcDU1YV91LTdhZURQUHVtRDFqVWRMeWhvLW9XZnFha1NCU3VIT2lXNW9XeldGUlRPTmdzYjRmQ2M5TUoxR2NQODV5UQ?oc=5",
-   "utc": "2026-11-01T06:01:43Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2FHcHFUc2FHcFNFdlgyU2xwdjFlUDZ4ZG1aQjk1aDdCYnNFaE5WSXM5Q0E5cHB5Z0tKaWp0QXZ2dThVYjU2ZW1VemZmYmswcm1lUHA3TXhNVVBmUWdSQnRBTVJBdFlHQmlvempGUkFnTFo1aHBTZTZGeU53T3pIYUxXUTFaVGtaLXFldGwyUGRFNTNlWWtn?oc=5",
+   "utc": "2026-11-01T15:27:29Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "These Senate races may help determine the fate of Social Security",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
+   "utc": "2026-11-01T15:20:06Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
+   "utc": "2026-11-01T15:18:38Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-more-wild-days-in-stocks-after-tech-rout",
+   "utc": "2026-11-01T15:00:00Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
-   "utc": "2026-11-01T06:00:01Z",
-   "tag": "AI",
+   "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+   "utc": "2026-11-01T15:00:00Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5",
-   "utc": "2026-11-01T05:49:00Z",
+   "title": "The key races to watch for the 2026 election",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
+   "utc": "2026-11-01T15:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
+   "utc": "2026-11-01T15:00:00Z",
    "tag": "BTC",
    "breaking": false
   },
   {
-   "title": "Black Pearl SA (BPC.WA) | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90bkdRWV9RcVZMNTVPaEU4Zm9DVE96R2dGODIwX29CVWp2MGJzcXl3MTFBYU5ua1V4QVFhNnE1bkVxSkdsRzJ0THdCbEhuM3VheWhhX2RpT0ZGYVRndWxfbU9KZG53dk5sOF9JN2J3?oc=5",
-   "utc": "2026-11-01T05:27:24Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Corgi South Korea 2X Daily ETF (KRWX.N) | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VQ2lNZ0NPRENhZmVMRF9abzZEemFvaG5adkxaSlZvTktNemZNeHQwaVJYSDFfb2djYUxSNFllR0VzWVVneVRmcDQxSUxZX2U2dzBiUTNNUmI?oc=5",
-   "utc": "2026-11-01T05:18:20Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
-   "utc": "2026-11-01T05:14:49Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Germany must do more to boost gas reserves as storage levels hit record low, lobby group says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzBFS0hhWUtOcVhOMDVsX25TV3R4eENLbjdCMUpDRDByYTBHWjU3MmtycmM2blh4Y1Y3V2t6SUhIODJidldfcjNOdG0zVHRNdVFWdXZKWVhJeWdFWE9LaDA1MnJlbk1vaC1qLUpuZWU0WERCckY3Nk4tLUhHcnNFZ1pJdzJYRTFxWFl4cjRTNG53QmxkSDAxUUd2NjdnRUhOTDBhbUx5eUppU3Q4Vmh0aFExRlVRTUJzUGl1aWgySFZtRjlnb1E?oc=5",
-   "utc": "2026-11-01T05:04:00Z",
-   "tag": "MARKETS",
+   "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
+   "utc": "2026-11-01T14:59:15Z",
+   "tag": "OIL",
    "breaking": false
   }
  ]

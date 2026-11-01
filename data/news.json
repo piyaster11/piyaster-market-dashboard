@@ -1,175 +1,175 @@
 {
- "updated": "2026-11-01T02:18:27Z",
+ "updated": "2026-11-01T10:35:59Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
   "Reuters": "ok (100)",
-  "Bloomberg": "ok (17)",
+  "Bloomberg": "ok (16)",
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (13)"
+  "Nikkei Asia": "ok (18)"
  },
  "items": [
   {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "title": "China to Convene Meeting on Supporting Stock Market, Reports Say",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
+   "utc": "2026-11-01T10:08:49Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Thousands join Indian opposition protest demanding poll chief's resignation",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-01T01:45:04Z",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOTRESDZoMjFqaUNCLTZPemZuZnFMZGpBbjhLNllJUmtmb3ZLVmx0U0NMRkZTcGRwdGlpQmFoUWM2WlBlMEl6LXR0bnBQNEd3YWdpZUEwZU9aWkluQ0FtUkU1RE9DdGtzZzlZR19wWUpMRjNUV1FTTlRKLXZ5eEswSjhoZ3k0V3F4Nm45Ri1tVFdDR29HLTJmU0ZFR0JSVlp2VnRKbkRhQ242LW92?oc=5",
+   "utc": "2026-11-01T09:53:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-   "utc": "2026-11-01T01:10:05Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Japan bamboo chopsticks catch on in South Korea",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUDBjWmtSaVQ4eWd5eUFMVVhqaXhKNnZGRlZGTnRSTmVsNEJucnFXVWJ3WVlJa0R1ZTI5NTVCdmRhUFVjblY2dVB1Qk9DNHBoYV9sSmRKWFd1QkRrR2w0NXpUNllRSkVRZDc5M1pfeTVWYVFBTWVPa0NLbDB5NzFPdEp2Y3Z4Q1ZzZ1hXUWhCNzZSeDkx?oc=5",
-   "utc": "2026-11-01T01:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "On India's east coast, tidepooling inspires marine conservation",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbFJySHRsNmpQZWpzNE5RNkFOVHlYSUU3TUVHSGxhaHdOMmVUYWZpRy02VmJLRkUtQ1NrQ3dMTHVxZ3ZiTkxRYnlFbllVdlZmbDVhVUJaZ2IyV2hQUGdTa2tpSUxaZGdSY2o4dEJFWkphN0dOd3prby10NFdKbXViOHJsMXZpYXdKUjlTamJwOWdWYW44Vzl6dlZlaE9pSTVBMU00?oc=5",
-   "utc": "2026-11-01T00:45:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "California governor asks US judges to resist Trump attempts to seize ballots",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVlXWHJiT1ZELXhOM3ZVM1hySTBsenhZbUxYdDRCN1NTcnFRN0xXcWFhVjZ2NDhnLVRzOFhGNzNtOEpXV3RUOWVtSW9tbFlqY184eVFqbUpPRXNQbnl6Q2V4SVVjdU1UZ0tMdGdpdWhhZjM3N3cwSTBPdGIwSXZSeXYxR0JySnhKdE02dzJmYmpvUXlwb05GeUl5QzhjZzNPRVU3VDBDRE1hemVyWHJzendXXzBaWWRKakZqTlh3a3U?oc=5",
-   "utc": "2026-11-01T00:12:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Binance says it has covered 90% of losses from $6.3bn hack",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZkVpU2RpVnRzWFFnUHhudWdJZGhja1lzOFF6V2VzSFFzaGVqb2pHUWpDLXk4VW5kX2tld21vMGFJelI3XzNyR0xHZjR4djMyNmR6RU5IejlDLUUtWUVZYi1HeTEtV01yQjE2ZHZXeHR0Y0dvT3BXeFc4eWZmcXVNTHNrTUUwZnVmR1lIUHdabElCdDNGWS1aZEZfOGp1ZXBQYXVfZWRJRmpkWjA?oc=5",
-   "utc": "2026-11-01T00:10:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Transcript - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV0IxQmozWEtxbi1wa2pYclUxZjBoX1RqU1BOMEVWV1VObVJtYWxlRHpKVThFNEl2Q2M5OWllUmxGaTVJYWJncmJfTEktb3N1a2FVTUhaRkloenpTXzg0UE1ubUU5MS01Vi05aVp4MFZ6bVU5U0RQX3RKaEtWd01keXVsQmtKUHUtNE9B?oc=5",
-   "utc": "2026-11-01T00:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
+   "title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
-   "utc": "2026-11-01T00:00:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-   "utc": "2026-10-31T23:56:40Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "After Louvre heist and string of thefts, Europe's smaller museums are on guard",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2hEQ0g1Rk9ZSjJMakpuX2lCY3hFc1I4VjhMbnE3aGFMWXh3TU9NSE1sWEFCM2dRUVBTRXE5cWxUMXdwdXZwZ29vNFdBbjVKYW1yTDN1b2tlZ1RjQW13NkdqVEI5RV9ybFRad3kyY0VTOTZaUEhFaDYyUmdTYnlMenBDNGM0VVEyanFtRFJUTjFnc0MyemdmRVlLNlBGbGdxMjFmZXRUem43WTRz?oc=5",
-   "utc": "2026-10-31T23:49:30Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "RFGPF.PK",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tU2Fnd1FocUVtcE9VcUYzbmx2LVlJWFNJdzk1UlAtRXcwemdnYUtHeU1jNDk0Y3VIQUJXYl9OVWtUVG15WTVRYjg2MWVxcjZDLWtJT1QtM1V4Wmx1dHZWakVSUEE?oc=5",
-   "utc": "2026-10-31T23:49:23Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkdQUUgzVUh1N1F4MWQyX2hDR2sweTZiMTBlOVBtemRaeXRuUDdrMEI2emRkSFM3aXRteVJFdWFQR3J2cWhUeUt6RHZhb2l1em5ZRm1YVF9nWnpyekZCM2NZYXlHeWlVVXZpbDYtN3hPWWRYbTlFVzU1bFR4dnprU0VEcUU1Um90LXBMUzlpREF2aXhXa0NKZHR1NWREUXA0UExSUUdnWG51S2dFTDNzaVBnMGFpUHc?oc=5",
-   "utc": "2026-10-31T23:49:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China mega complex in Dalian puts spotlight on investment push",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3BwS0hNaUJGOHFydm9Pb19FMFVZU1hQdmNJRmM0X2lRbnZYZEJITTZKV3ZOZ3cwcFo1OC1HbVlueHdTc3pKV3lzeTFqWEZDbmphdmNlbFItbEpETnZxTnVSZFgyVDhETWhuVFJWQklTX3pNN3NGVGNFNU1XWG1wU0ZUSUNuU25SdzM2UW84Y2hfVGduSzJQZmVMdGdIX2txN2NCaWNrblFwMWNHNnIwOTlR?oc=5",
-   "utc": "2026-10-31T23:33:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Chevron Raises Exploration Spending By 50%",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html",
-   "utc": "2026-10-31T23:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
-   "utc": "2026-10-31T22:58:33Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Dark day for Manchester United and City after Halloween defeats",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXlwOE02NmwtaFl0UUsxQ0RKOG9MTG1YaWJUbzdpcWN3WGUxRlFPaVRLd1M3Nk5wWEJvX2t1dWI5U0FUdnFtMWJNWDhrano3VWV6bDJubDVuSzcteUoxZFJPcFlHTjVvaDNjbHNOVHJaVlFrQkk1OXh5ZllUSktZZVJ4TWlmc2ZhelR1N1JXVllaVzE5V1V5YVNseE1CS0k?oc=5",
-   "utc": "2026-10-31T22:48:27Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html",
-   "utc": "2026-10-31T22:44:11Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
+   "utc": "2026-11-01T09:23:14Z",
    "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+   "title": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say",
+   "utc": "2026-11-01T09:19:37Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-   "utc": "2026-10-31T22:27:56Z",
+   "utc": "2026-11-01T09:03:47Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Hamilton takes first proper pole for Ferrari, Antonelli starts fourth",
+   "title": "Bulgaria votes in presidential runoff after tight first round",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGlWdjVINldIeWxNTExNV01jTlZKOVJqWTdPMmRPRTBNZmFnWXBXeGtacmJkMUJldC1FTU0zTlVsMVQ5WVdhYUk2QmZqeG5ZM0U4UFpmeTEwSGNJR1Y1THVzZVZWU1Q5Z2pCcHJyTHpOc3hGVDdxWV9VVndkdzhvVXItQWlyZ3Frb1VSOVB5TWJ4aGdkbk8xeg?oc=5",
-   "utc": "2026-10-31T22:27:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
+   "utc": "2026-11-01T08:51:44Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Cochin Shipyard Ltd (COCH.NS) | Stock Price & Latest News",
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-11-01T07:48:22Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBcXc4aXI3NnZhNHFiaE5ORl9kR2RXT3ZCcVlsNUFpUkdyMVpPZm5meU40VlYtNFpLVTZ4dnd1SmdVWjNsSUg1aWlDTXkyYUxxcUd0QVBELVRHZlYtZHI3MnR1YUhjN0xlajlMUkVJOA?oc=5",
-   "utc": "2026-10-31T22:06:12Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVGJQV25faktaWGFiUks0eTdlWmFhbkcwR0RWcXdFbk95UXJ6VjBmSUV1NjRaTk1oYXk0NEtKaGF1NTJBOWNFUm1sY2tiUVhjekJVU25tRWduZVpGVFNHMGFyOTN1RjRmS1lFcnNSRExoT216QUNtaFZjOTluU1g0d19EejFmR2pRWDJuSXc4WWQ3WHJ2UngzYmZRV3d0a2dmeHFycVhhZGdvN1dUbmc?oc=5",
+   "utc": "2026-11-01T07:42:09Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "News By Location",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwd1EyVXpkV0JqMFlrSjIzSFVMOGsySmFfR2dyM0k5MDNUeWF2MFNCb21LRmw1cXZQWXZZU1NFdk9vMEplQ200?oc=5",
+   "utc": "2026-11-01T07:34:11Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "AI dubbing to help Japanese companies expand global outreach",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTm9ZUTVkM29nMWhSc25VdjYyMTRsaDlycGdlOUNCaTktYlloRUVEeXpjTHdLYVBHeWNFSDIwQzhhTnRWbmFOaXF3U1NLTHhLYjl2V1NCOER5Y1pKQmVOczRsVE9QN1hqUnpKd1J6a1hVczRIejVGUnJKRGxZbVZvQXU4VWJKQk1LbTVrUE80SGFjSU1MaXB2TFZkUmxiVWdOZW00ZmRiejVnVktUWUdvY0FRSkxoN2hrWnlVeG5YTlM1a0JpN1lv?oc=5",
+   "utc": "2026-11-01T07:31:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "FT Vest Nasdaq-100 Conservative Buffer ETF - July (QCJL.N) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YY0VIVWZxdldkamd3Y05Rd2NtQWlUS1o5VGdDdkdqZTRzSHpjMDNIMEJQVEhCWGEwU3RMQUM5U0Nkb0xjbHVSS190a1BMbGR1aGV2NXNieVA?oc=5",
+   "utc": "2026-11-01T07:22:41Z",
    "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Indonesia GDP, US midterm elections, Hong Kong financial summit",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakotTjlvMUIwSTZZS0lTdHUwTVdMUWFnMFMtZkRHdE1BbFlpWkRZTkxoSk1Cb0NzYldjNjQ4Umh5eVJzd1dxSW9fa3VaWksxQUk2ejVCMU1UUzF0SkJRUVB3cjdXdVhwWi1WcXFqNzlydEM2X0FDcE9ZNDZjSmhzYkRDQzRnWjJJX01tZDdlRFJlbi1RMnBFMUFvdjJnZDNSWTBOdzRIUWVZZFgwbkp1azFLVQ?oc=5",
+   "utc": "2026-11-01T06:30:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Iran war",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BcVQ0dEk4SW5nTlE1VTBUcF9sRTFZTUljZ3J6emdQOVZMN0pELVJIWmxRcmJlWGJpdHRlZHN5RGUxSUxONGFibWdkQ0R5Ykd3aEdnWS1RSzBpcE5ZOXd0LWtBakw5ck0?oc=5",
+   "utc": "2026-11-01T06:14:07Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Xtrackers II Eurozone Government Green Bond UCITS ETF (XGEZ.DE) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5keE9LUWp5WmtCOEgxbXdwcDU1YV91LTdhZURQUHVtRDFqVWRMeWhvLW9XZnFha1NCU3VIT2lXNW9XeldGUlRPTmdzYjRmQ2M5TUoxR2NQODV5UQ?oc=5",
+   "utc": "2026-11-01T06:01:43Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+   "utc": "2026-11-01T06:00:01Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5",
+   "utc": "2026-11-01T05:49:00Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Black Pearl SA (BPC.WA) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90bkdRWV9RcVZMNTVPaEU4Zm9DVE96R2dGODIwX29CVWp2MGJzcXl3MTFBYU5ua1V4QVFhNnE1bkVxSkdsRzJ0THdCbEhuM3VheWhhX2RpT0ZGYVRndWxfbU9KZG53dk5sOF9JN2J3?oc=5",
+   "utc": "2026-11-01T05:27:24Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Corgi South Korea 2X Daily ETF (KRWX.N) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VQ2lNZ0NPRENhZmVMRF9abzZEemFvaG5adkxaSlZvTktNemZNeHQwaVJYSDFfb2djYUxSNFllR0VzWVVneVRmcDQxSUxZX2U2dzBiUTNNUmI?oc=5",
+   "utc": "2026-11-01T05:18:20Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
+   "utc": "2026-11-01T05:14:49Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Germany must do more to boost gas reserves as storage levels hit record low, lobby group says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTzBFS0hhWUtOcVhOMDVsX25TV3R4eENLbjdCMUpDRDByYTBHWjU3MmtycmM2blh4Y1Y3V2t6SUhIODJidldfcjNOdG0zVHRNdVFWdXZKWVhJeWdFWE9LaDA1MnJlbk1vaC1qLUpuZWU0WERCckY3Nk4tLUhHcnNFZ1pJdzJYRTFxWFl4cjRTNG53QmxkSDAxUUd2NjdnRUhOTDBhbUx5eUppU3Q4Vmh0aFExRlVRTUJzUGl1aWgySFZtRjlnb1E?oc=5",
+   "utc": "2026-11-01T05:04:00Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

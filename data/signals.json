@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:58:31Z",
+ "updated": "2026-11-01T02:18:41Z",
  "level": 62,
  "band": "Alert",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   44,
+   32,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -100,10 +100,21 @@
  ],
  "headlines": [
   {
+   "title": "Tsaritsyno Evacuated as Russia's FSB Confirms U.S. Tip on Possible Attack",
+   "source": "Around Prague",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmNvX0VoZGRDeHBvVExIc0kwaFNJbFMwMW9menlZRXoxbFRXeFYyV1NvcDlaUmctZGJ0ZGVLa3dVUjNZcDlXcFZhVnN2YzFqaS1MYXFqU3dtazhsSjFESnRFWDU3R1hJbUZUcEJvd3BiWGk0WDdfa1RjY2g5VVpLUWR3ZnRqSjQtVEdXRnF3cXhNQUFJWnc1R0VMYUxuLTlGbEMwYTNmSHVPZmEtYXlj?oc=5",
+   "utc": "2026-11-01T01:53:25Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 6.0,
+   "airspace": false
+  },
+  {
    "title": "FPL Gameweek 9: Saturday’s goals, assists, bonus + DefCon points",
    "source": "Fantasy Football Scout",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWFNd0lDTmhveTlvSk5SMWpJaDZneGszSDlkR0pwa2hMYjRpeTFpTnU3M3BGZFlzeUJ5UWhaTm5XaHEyZDFsNHBSazFpeHdkbHhPbnczT0FxTjJZeDVNWWRsNHM3Y2pKLXZEd3prQ3V3NTBYSTNXMm9Yb25hOTQ2UlQyRk9EbVpJMXE4ZHdybkdRY1NvdHNZZEJLdTVlaWV5YXByODNvX2Nvd0c0YV9Oag?oc=5",
-   "utc": "2026-10-31T22:52:30Z",
+   "utc": "2026-11-01T01:52:30Z",
    "tags": [
     "NUKE"
    ],
@@ -111,36 +122,36 @@
    "airspace": false
   },
   {
+   "title": "Quad calls out export curbs, Strait of Hormuz closure | World News",
+   "source": "Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYnd1bzBBdjhkVUc3SkR6bHphUHNQQmNPaUxMaWhkYy0ycHhMMXpHYk5qV1BVcFY5RlVxVHVvTGdRbm4xMGdMVjMtLXpPZFJZdTJFZ2JFeERrYU9TdGJQUEhPQUdXcDNIRHBWakRmcnNmaW9EaUY2WUdtX1N5QjFaeXFJcXZXUktjM0lXMXgzbm5uOEduR0NEdUU4SnNSVmNiUGdLWFZta1dzUlo2Z3JXSkpxT2lPLTQ4TEZ3TlB1YXFIYTY4MFlSQ0w4MThsX2tzVVpGTE9jQlR0V25IWWJZRlFUa2RJcUdWWUd4eExLSWNXUW5qdC1yek9MVFdQYXEyZ094QkJXd3k1bW9QeFBydNIBlgJBVV95cUxNRkZWeF9xX29wUmVVR3YtRHdQRDVIdWZDc1dYSHo0STVtc2NmZER3NngxaW9UdlZ3LW9palpxcml0RUVwQW0zR2dEMDY3Nm5YakJobTk4NFZMZkVpa1BubkkzSzJLcEF5SDdmTVZrcFlHendsTVVva2xNbUN2QmhXZVhaNkZQNnNGSzVzTHI0LVpqekRfeGp2V2IyVnR0WVU1b1pqTmxhWi1mTkE4S0FBVVhoZ0s1Zl9pZnlmQ3RHbHVQbC1ORXRpZGp5WVVkMDhqTVdKNkFZOThOaTNFelZTYl9MWmRfazY4WWJoUFgzOWpZb21WM0RYMzh1bUNVTllZNTVzQjJZS0dkUk9iWnZSQ2ZBOGFDUQ?oc=5",
+   "utc": "2026-11-01T00:26:49Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
+   "utc": "2026-10-31T22:05:59Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
    "title": "War, latest news. Terror alert in Moscow; museum evacuated",
    "source": "Il Sole 24 ORE",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWtKUnc2cWJwUDZyZm9ZMWRnZkxFa0tuVWxZaGc1MU5Eck5fS1dpWGgzUzZ3YVNUZ0ZTQkdKSEtkZENWVk9RcXFUWldreUllRkxUTUxHclN0bEdlSkNiNUEzX0podHJpRFJEZzdiUXhfX3hWak9jbS1jN1dUOXd1a0J3akhJX0x6MGRYLXdvemtWUldDV1ZIRENHMVhORGE2eHk4VG1qQURCQ3Q3ZmJtZXJyaUpNTFBYVjJjRHZrR0c5bnc?oc=5",
-   "utc": "2026-10-31T20:57:25Z",
+   "utc": "2026-10-31T20:59:26Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
-   "airspace": false
-  },
-  {
-   "title": "Notre Dame on 'DEFCON 3' Alert During Intense Battle with Navy",
-   "source": "Wunderfan",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWZtbGRzVjNIMWRmX0I4ZGFkN3gzZkFVcUk1TzBINHkxNVViUW90eGtlcVEyTnFZb0RHRk9fNTQzUGpHNEc4b05FYXpYT3JTNWRfWkgwZ2RwdDRiSFRudmpkMzF3MDlkakc5YlJzVXNkcS1YS3hTclN4Q1l2MWpkSUl1MnQ2U0xlNnZBaHdzRDJ0RjFtTnRvbWdUS1I?oc=5",
-   "utc": "2026-10-31T19:33:52Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "Booger McFarland declares 'DEFCON 3' for Notre Dame amid first-half struggles vs. Navy",
-   "source": "On3",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDdHd3RYdkxWeGtZVm9ucXF1YXNwa0x1dHg1bFBfT3VrU1hLRjQtSEpNWUJqSFJ0OTZBc0N1Q2ZLaFdqNnl3RzRUYldKbUVJWWstQXlBZDJ2bmZHUGpwMDFpZGZyelo2WHdqZGJwOUNFNlNjaHZ4dldHTWZDcy1LMEY2RFZoX3FoN2N1c3VDR1B1SXNBUWFMd2gtTnFua3BPUEE?oc=5",
-   "utc": "2026-10-31T19:02:16Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.8,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -151,7 +162,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -162,7 +173,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -173,7 +184,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -183,17 +194,6 @@
    "utc": "2026-10-30T22:08:54Z",
    "tags": [
     "HORMUZ"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "US begins evacuating diplomats from Saudi Arabia",
-   "source": "Report.az",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEdDWEtVWnY0ZnVMcnRzX1BFUGVfTGxRNlAtZ1gwa3VFZWJ3QkFnTEtneVlDSUZjc3JLaDBYTUxJWEVuQmx2ZGEzTDJrT2VQcGVMQWxCOHZ1UmdBWVBfdmNmTmJwWFNHWmhDcjN6TWl6SFJwY0lONEwxaTd5WkEwcGExa0J5TGF0Z0htYy1R?oc=5",
-   "utc": "2026-10-30T19:42:11Z",
-   "tags": [
-    "EVAC"
    ],
    "score": 4.8,
    "airspace": false
@@ -206,14 +206,14 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.3,
+   "score": 5.2,
    "airspace": true
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 72,
-  "baseline": 1.7,
+  "count": 1,
+  "global": 51,
+  "baseline": 1.6,
   "samples": 38,
   "hist": [
    [
@@ -447,6 +447,10 @@
    [
     "2026-10-31T23:58:31Z",
     0
+   ],
+   [
+    "2026-11-01T02:18:41Z",
+    1
    ]
   ],
   "box": [

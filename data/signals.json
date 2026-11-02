@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:14:07Z",
+ "updated": "2026-11-02T00:00:14Z",
  "level": 53,
  "band": "Alert",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   31,
+   42,
    35,
    35,
    "1.5 pts per headline"
@@ -100,21 +100,32 @@
  ],
  "headlines": [
   {
-   "title": "War, latest news. Terror alert in Moscow; museum evacuated",
-   "source": "Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWtKUnc2cWJwUDZyZm9ZMWRnZkxFa0tuVWxZaGc1MU5Eck5fS1dpWGgzUzZ3YVNUZ0ZTQkdKSEtkZENWVk9RcXFUWldreUllRkxUTUxHclN0bEdlSkNiNUEzX0podHJpRFJEZzdiUXhfX3hWak9jbS1jN1dUOXd1a0J3akhJX0x6MGRYLXdvemtWUldDV1ZIRENHMVhORGE2eHk4VG1qQURCQ3Q3ZmJtZXJyaUpNTFBYVjJjRHZrR0c5bnc?oc=5",
-   "utc": "2026-11-01T14:15:37Z",
+   "title": "Iran proposes '2-day plan' to reopen Strait of Hormuz amid US talks",
+   "source": "Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkhyREFmd1hxeF8wTVhoVmxhMFUwd0FXQzlWcmVKMjZ6dTVtWm1YMzJ6V19DX1hJNFFSLV9QYUdlTDRMam03NmY1VzR0N3lDVnJ6M0UtUHZwRXlvZEJReWx2bVlMVGU5akpMclE3d2d2MzlYbW1UTmlmZnFwWm5taFQ5NjJhMHp5MHI0WGdydVJma3RYV2FGUEJLN2NIYXVvcGlnTm1zMDFNMEsyQXfSAcABQVVfeXFMTktzcHlSR0dIMnpfTkdKYmVkQVRSV3FfcGxZV0xlXzctMUljcUszNDVQVllJdWN1Uy0tYndfbmZVSUM3VWFIcERKM0RlT0ZNMC1GcTRJR29YYmpVSEJtZFJtNWthQzJfclhOOUdTQ20yZUpQUlJFT3dYTHU4NGRzelJRMzdiSnVSUi1FZzByaHZqRzc4ek1JaW83N3p6ZzQ1Vk1aNGpIdVc0cHMyMjd5SU5vcTE1Z0RjQW5oWEVLay0x?oc=5",
+   "utc": "2026-11-01T22:49:47Z",
    "tags": [
-    "EVAC"
+    "HORMUZ"
    ],
-   "score": 5.7,
+   "score": 5.0,
    "airspace": false
   },
   {
-   "title": "Iran Claims 7-Fold Weapons Rise, Sets 7 Hormuz Conditions",
+   "title": "Ukraine Air Raid System Hacked: Fake Nuclear Alerts Trigger Panic",
+   "source": "Times Now",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenRzRFFJUGE1Yzl5S3hCVEVxblFJQWRXczEyRDFwNmlSOW1TVk5Velk1S1FQMXNYZ1hDdDFvWlE3YVFSMmcxbWJ2YkJEMEZxeGxXeGhWZTNOZXFhTUh6MVpGVXF6MHg4WGFudjg2OXdBQlJueTZPSTNBVnV5ZUV4dFo2NU5MYVNZWjdYVHBzbmN2Y1pZM2xHTUpMVVFzb2VzcEZvSGxhQ2JJaDFJQWdRN0NSaTJNQ0pmMlhJMzdtWHI5QXU5RGpzVDRrUE9lTnhzcnhzTE9QZVBTWVZMX0JvVGswbEVSdXkz0gHuAUFVX3lxTE5qUHViR0psZFp2RnV4dzlKSDBWYTR2REpYNnBfRW5HU185ZG5lVnRUbEhWdVRoYzNSYmdreVNKQllld1MwUGowbGVZVzA4cGU3eE9xaGdrLUJja1VjWlRNSzdxUjV4aFhPVUluVnpzbW5zalQ1MzVqZzU2eElnRFN1dkN0WkxYOEVhUGFkOUVFX0prM0staXBaX2ZBWHZsZW5WUDVsRE14dEp6Z0M5bXFXU0FPaVJMWTJfLWQ2RzljN2NNQU1ZLXc2aHQxUG5uaVVlYkhJSXU4Wl9Bc0hhQVlSc1BMVGZrZVgzYXduUkE?oc=5",
+   "utc": "2026-11-01T22:23:04Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Qatar LNG Carrier Al Mayeda Struck Near Hormuz, Iran Reportedly Cleared Transit",
    "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5paEszRVFUcjhYaGItUmNrT1ZmNFphalRXN2NTTTBwN25HUEdjX2dfRW9Qb2w2eWtvbmtGZzhlbG95Y2NmQnV5YzU1ZDhJaGRKQ2tyTERZaXFxbURmUW9USWxB?oc=5",
-   "utc": "2026-11-01T13:58:05Z",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BRjVsbkpRU3RQcW5hUTI0WkpDZkpYNmFtZTh1THVzOGtNM01oUUgydllZSHlOb2JEV0w5MXV5Q2xpNlVmeHNHTHNtTDFkT2RGamVidDRMS2ZVN2hpamlsbWVrOA?oc=5",
+   "utc": "2026-11-01T17:43:02Z",
    "tags": [
     "HORMUZ"
    ],
@@ -122,14 +133,14 @@
    "airspace": false
   },
   {
-   "title": "Sign Petition: More Than 300 Glaciers Are Gone. Meanwhile, Private Jet Use Surges and Private Equity Firms Fund Cli",
-   "source": "ThePetitionSite.com",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PWkFUeU9zODRGYVZsaERWNWJaZ0lydy11cEMzeDNwMTJpYjU3N2JQaGtjT0pYc2RpVzFhcTFFWnBIM19uLVVtNm91RUJiLUhaeE1TQkJMTGotTlMxZE8xN1VQb0o2UQ?oc=5",
-   "utc": "2026-11-01T12:59:02Z",
+   "title": "War, latest news. Terror alert in Moscow; museum evacuated",
+   "source": "Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWtKUnc2cWJwUDZyZm9ZMWRnZkxFa0tuVWxZaGc1MU5Eck5fS1dpWGgzUzZ3YVNUZ0ZTQkdKSEtkZENWVk9RcXFUWldreUllRkxUTUxHclN0bEdlSkNiNUEzX0podHJpRFJEZzdiUXhfX3hWak9jbS1jN1dUOXd1a0J3akhJX0x6MGRYLXdvemtWUldDV1ZIRENHMVhORGE2eHk4VG1qQURCQ3Q3ZmJtZXJyaUpNTFBYVjJjRHZrR0c5bnc?oc=5",
+   "utc": "2026-11-01T14:15:37Z",
    "tags": [
-    "JETS"
+    "EVAC"
    ],
-   "score": 4.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -140,7 +151,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -151,7 +162,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -162,7 +173,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.9,
+   "score": 7.8,
    "airspace": false
   },
   {
@@ -173,7 +184,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -184,18 +195,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
-   "source": "Addis Standard",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
-   "utc": "2026-10-31T09:38:10Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.5,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -206,13 +206,13 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.4,
+   "score": 7.3,
    "airspace": false
   }
  ],
  "mil": {
   "count": 1,
-  "global": 89,
+  "global": 104,
   "baseline": 1.4,
   "samples": 37,
   "hist": [
@@ -462,6 +462,10 @@
    ],
    [
     "2026-11-01T21:14:07Z",
+    1
+   ],
+   [
+    "2026-11-02T00:00:14Z",
     1
    ]
   ],

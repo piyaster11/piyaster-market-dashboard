@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:13:53Z",
+ "updated": "2026-11-01T23:59:51Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -13,18 +13,18 @@
  },
  "items": [
   {
-   "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-   "utc": "2026-11-01T21:06:42Z",
+   "title": "Learjet Plummets to Ground in Florida Neighborhood",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-01/learjet-plummets-to-ground-in-florida-neighborhood-video",
+   "utc": "2026-11-01T23:50:15Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Indonesian political maneuvers hinder market reforms amid downgrade threats",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3RBdFhybUNtVDJLVTdzUG9IT0NKS0RRdUw0N2lkNlQ1ZU5zNTNTdDhUNDdpZkdFMGRvOVp1U20xdWFnRFhWS3VFbFF6cVZvU1Q5OWxQTDhod1FCWHRxZjlxQ1czNkpFS0VwbUpNOG1mMHhsSEVUZnJ0TFlDVHUtWGIySlhzNU9YemdiZndaOGJGNmxMc285ZmxBbUNnZHRsREJmNE94cXE3c1NGMTB3Ry1RTnpuOHA5ZFpiNFVKNkhDcERjRlQxcA?oc=5",
-   "utc": "2026-11-01T21:00:00Z",
+   "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+   "utc": "2026-11-01T23:28:43Z",
    "tag": "STOCKS",
    "breaking": true
   },
@@ -32,144 +32,144 @@
    "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-   "utc": "2026-11-01T20:55:22Z",
+   "utc": "2026-11-01T23:17:57Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Republicans face legal setback in Alaska while Democrat's endorsement gives boost",
+   "title": "COMMENTARY: India's booming growth has an earnings problem",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2FHcHFUc2FHcFNFdlgyU2xwdjFlUDZ4ZG1aQjk1aDdCYnNFaE5WSXM5Q0E5cHB5Z0tKaWp0QXZ2dThVYjU2ZW1VemZmYmswcm1lUHA3TXhNVVBmUWdSQnRBTVJBdFlHQmlvempGUkFnTFo1aHBTZTZGeU53T3pIYUxXUTFaVGtaLXFldGwyUGRFNTNlWWtn?oc=5",
-   "utc": "2026-11-01T20:53:00Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU3ZYY3ZYdTVpNEJOdnk4a2xCTmVRM2xlempwRWFSNm14Y0JpRWx0WjExUTM4eHFpU3BDOTdiNFdwelp0Z2RXNHdRT19mOVBpem5sNGs3SVhJeEljajNERHhRSHVLNVJRcWRCS1pxQVQ0RjBGS3BYZ09IWEo1R29EUGowcHpNU0FjN1JabHRqZU9NNXdtVW1ocXdzYnI4NGRLbVJpSzlRYTJSUnZMSC1GM2NKLUFSNUNPU2ItSklLNU9pWmE0T29Rc0dDazhlbFhw?oc=5",
+   "utc": "2026-11-01T23:12:35Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Westpac Profit Misses Estimates, CEO Says Economy Uncertain",
+   "title": "Latest Oil Market News and Analysis for Nov. 2",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/westpac-profit-misses-estimates-ceo-says-economy-uncertain",
-   "utc": "2026-11-01T20:41:10Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
+   "utc": "2026-11-01T23:11:50Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Billionaire Friedland to Build Major US-Backed Rare Earths Mine",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/billionaire-friedland-to-build-major-us-backed-rare-earths-mine",
+   "utc": "2026-11-01T23:02:49Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Chinese Communist Party taps big data surveillance to combat corruption",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnFDWGVVSm42MEdBUXcycUoyMTN5amFibk93MUt6RkZfU2xYbWtmSE9NMmdwSlZvUjFvN3Ffa0VpVHJTRGNnZzRoLU1jN3NLM2pMMGViOEZqOW5Uakd3elI4VTFhVXBwSEVEWGx6Yi1oTktLTE42UTBXbW9OTThUTzdXSDNXWVdZOXlZNnV0c1RiVjB3QUV0S20tWjBYc3NZdWRDYXJqTQ?oc=5",
-   "utc": "2026-11-01T20:31:00Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "US judge dismisses Trump election lawsuit in Alaska",
+   "title": "Ukrainian air force says public air raid alert app sent erroneous alerts after being hacked",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
-   "utc": "2026-11-01T20:10:37Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
-   "utc": "2026-11-01T20:10:29Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjdWbExXZ1JiYUVET2JwdTc2VVZ0T3J0czdJbUNyLWhLTzI3cW1zOWkxZF9mU3ZnVWtDYXR5SjVwZTlDZ0tFdXE5bkdIUjBwZEZRbmRDWGY4WkNvVkFqSFRJeXdBMzBPS0VJSmlzRkRTS1lCekRwOWRWZ3dSUXNyOVJMRk1Ga3lKZHV2bnctMFhVNTJDVFQ3UlBSWGl5QV95b3pMR2lGd05TRXdiRDdlUHFITkxmZw?oc=5",
+   "utc": "2026-11-01T22:53:46Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "The best high-yield savings accounts of November 2026: Earn up to 5.0%",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/select/best-high-yield-savings-accounts/",
-   "utc": "2026-11-01T20:06:01Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Japan is attracting startups. But can it keep them?",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVJpSjdhZ1JlWERlRFpfOTUyTFZ5V2xXSy1RUjJvU3FuNGw2dEU2YlM3WkE1MEx6aFhDR0ljVEVQU1hoXzBZMF8wMWw4d2JDMHY0RmRwTmlRX3M4QTczZnhCWWJ2X3pTZ3I4aXlWb2RRdWI4LUlUVU96TVlXVE03V1hQbzJfWHZvalE?oc=5",
-   "utc": "2026-11-01T20:05:00Z",
+   "title": "Republicans get boost from Michigan Democrat's endorsement, face legal setback in Alaska",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2FHcHFUc2FHcFNFdlgyU2xwdjFlUDZ4ZG1aQjk1aDdCYnNFaE5WSXM5Q0E5cHB5Z0tKaWp0QXZ2dThVYjU2ZW1VemZmYmswcm1lUHA3TXhNVVBmUWdSQnRBTVJBdFlHQmlvempGUkFnTFo1aHBTZTZGeU53T3pIYUxXUTFaVGtaLXFldGwyUGRFNTNlWWtn?oc=5",
+   "utc": "2026-11-01T22:50:22Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Wall Street Braces for Biggest Treasury Sales Overhaul in Years",
+   "title": "Trump floats 'concept' of US-Canada deal that includes pipeline after conversation with Carney",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZUM3VWU2twNlU5YnJfamYzWWJtaDV3bm5WTFZMNHpWWVdwSk1BY1REWjl2cEsweU5UQ3ZjbkZkWVlkNFZKZFRDb0tNUFJ0bXVBczAwdWNsV19uMFNCUnNWRHZ0T1NNQ1ZoV2lvY0piVFgzY1lJWnN4bWE0eU16cllQUW9WSGJKSUJQY3FGeDhqN2JJdmJnZkt1MjdXc1hscE1zdGxqQ1NIeFJsUVRvLUxjTlA?oc=5",
+   "utc": "2026-11-01T22:44:26Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Colombia at Risk of Default Without a Fix, Restrepo Tells Semana",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-biggest-treasury-sales-overhaul-in-years",
-   "utc": "2026-11-01T20:00:01Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-   "utc": "2026-11-01T20:00:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/colombia-is-at-risk-of-default-without-fiscal-fix-restrepo-says",
+   "utc": "2026-11-01T22:38:32Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Massive-AI-Data-Center-Sparks-Backlash-Despite-Clean-Energy-Promises.html",
-   "utc": "2026-11-01T20:00:00Z",
+   "title": "Thailand eyes status as AI medical hub",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3346775/thailand-eyes-status-as-ai-medical-hub",
+   "utc": "2026-11-01T22:25:00Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
-   "utc": "2026-11-01T19:30:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-   "utc": "2026-11-01T19:20:00Z",
+   "title": "Rice exports face mounting headwinds",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3346760/rice-exports-face-mounting-headwinds",
+   "utc": "2026-11-01T22:24:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "ARXRF.PK",
+   "title": "Small firms look for state assistance in AI campaign",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3346830/small-firms-look-for-state-assistance-in-ai-campaign",
+   "utc": "2026-11-01T22:22:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Betting big on small AI",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3346889/betting-big-on-small-ai",
+   "utc": "2026-11-01T22:20:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Real Madrid extend winning run with 3-0 victory at Racing Santander",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BTjE0SXh1bjAxdHAtQVMzT0RuczhXU2x4U0o5dlZ5RlFMeUJIeVBETWNucXowVHBoVExUbFR3alZkNnE0NVpBYlRsM0p1SjRRd0t4UzNRLU5xZUFPZktGeG9Nb1g?oc=5",
-   "utc": "2026-11-01T19:09:56Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM190MHVUWXZicG1HS1lBTG1FZk9tbDlsV3lLVFVKVnBSSHFOcVlVek82RDNBME94eTVPMVAyZVNOaWpmVTZpYzVCRHg4anJGR1NNMTNta2k4YzFvRkR6UF82WWhVN09ab1VkbmxGaVAyaE1QZkZSU2ZVOUhBd2FTbV83THk0OXdoUGhfLXVaZTZxYmp4V3ZONDdzRTFzeFRFYkJBaWFTWXd2Nk9WR1g4dFRaY0c?oc=5",
+   "utc": "2026-11-01T22:10:12Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Canada PM Carney said he had a good conversation with Trump on trade",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZUM3VWU2twNlU5YnJfamYzWWJtaDV3bm5WTFZMNHpWWVdwSk1BY1REWjl2cEsweU5UQ3ZjbkZkWVlkNFZKZFRDb0tNUFJ0bXVBczAwdWNsV19uMFNCUnNWRHZ0T1NNQ1ZoV2lvY0piVFgzY1lJWnN4bWE0eU16cllQUW9WSGJKSUJQY3FGeDhqN2JJdmJnZkt1MjdXc1hscE1zdGxqQ1NIeFJsUVRvLUxjTlA?oc=5",
-   "utc": "2026-11-01T19:05:37Z",
+   "title": "Australian Far-Right Party Regains Poll Lead as Government Slips",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/australian-far-right-party-regains-poll-lead-as-government-slips",
+   "utc": "2026-11-01T22:09:50Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Bulgaria's acting President Iotova takes lead in presidential runoff vote, exit polls show",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
-   "utc": "2026-11-01T18:55:40Z",
+   "title": "Indonesia’s MSCI Crisis Driven By Wash Trades and 5,000% Rallies",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/features/2026-11-01/indonesia-s-msci-crisis-driven-by-wash-trades-and-5-000-rallies",
+   "utc": "2026-11-01T22:00:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Zhejiang Shuanghuan Driveline Co Ltd (002472.SZ) | Stock Price & Latest News",
+   "title": "Westpac's full-year profit ticks higher, flags slowing loan demand",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QaVNZLS11dlY2SXdJekFzbG1wYXQ5dGRmX2sxZFpYdHhqWGtUdEJyY2dZMExVTjNuRHQyaGVBUW0wYWZEVF93bTZxQVZKdVhId3YySlhuU1lrRWNvdC1LeWdRaFIwaWNjcjBheTFoa3Z1Zw?oc=5",
-   "utc": "2026-11-01T18:44:48Z",
-   "tag": "STOCKS",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1B2amVrelNnTnZYVUUxdll3eFZBNEJXdmZ2aDctSFo4cjhyRmxTbDVweFdQR0NmUzI2ai1tUklYa1djc3A0YmIyYjRZTEMxWXJiaHV6WVZ3ajlDZ0FVNWxiX1hGOGxxRlRjaW5wZG9OZzNGYmQzN1RoZnF1WVQ2aEV3NS1ua3FZUE5UdDNWSWNBMGJSR0l2c1NZLWlDQURVdlQ5THdHMVdxSGVuZmc?oc=5",
+   "utc": "2026-11-01T21:37:26Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Here are 3 big things we're watching in the stock market in the week ahead",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/11/01/3-big-things-were-watching-in-the-stock-market-this-week.html",
-   "utc": "2026-11-01T18:12:05Z",
-   "tag": "STOCKS",
+   "title": "How Trump’s noncitizen voter lists could affect the midterms",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm9ZSldZUlltbnFxUUhWanNTQjRneFM1YnR4MlpuSWtwNlpVaE56cGVfUnJWSGN1QzFFQktUZEk1XzB6MThhRDJ6ODBkakt2UGZTQk16LVRGUU5qU1FhYjVyQUtIOVJNZmZyZlhSOW9kWDhIajBvTXJJelRNSXFWRFVnd0wyYkJnRkFiT1RjbzVjT2E5eUdTUGp2ZXVGZUpsTEw2bkhJak9NbGxH?oc=5",
+   "utc": "2026-11-01T21:34:09Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Asian Stocks to Fall on AI Fears, Oil Declines: Markets Wrap",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+   "utc": "2026-11-01T21:28:04Z",
+   "tag": "OIL",
    "breaking": false
   }
  ]

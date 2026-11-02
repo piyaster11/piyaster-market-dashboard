@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02T00:52:26Z",
- "level": 58,
+ "updated": "2026-11-02T07:44:31Z",
+ "level": 60,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   41,
+   32,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   2,
-   6,
+   1,
+   3,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
-   5,
+   15,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -100,14 +100,69 @@
  ],
  "headlines": [
   {
-   "title": "Iran proposes '2-day plan' to reopen Strait of Hormuz amid US talks",
-   "source": "Gulf News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkhyREFmd1hxeF8wTVhoVmxhMFUwd0FXQzlWcmVKMjZ6dTVtWm1YMzJ6V19DX1hJNFFSLV9QYUdlTDRMam03NmY1VzR0N3lDVnJ6M0UtUHZwRXlvZEJReWx2bVlMVGU5akpMclE3d2d2MzlYbW1UTmlmZnFwWm5taFQ5NjJhMHp5MHI0WGdydVJma3RYV2FGUEJLN2NIYXVvcGlnTm1zMDFNMEsyQXfSAcABQVVfeXFMTktzcHlSR0dIMnpfTkdKYmVkQVRSV3FfcGxZV0xlXzctMUljcUszNDVQVllJdWN1Uy0tYndfbmZVSUM3VWFIcERKM0RlT0ZNMC1GcTRJR29YYmpVSEJtZFJtNWthQzJfclhOOUdTQ20yZUpQUlJFT3dYTHU4NGRzelJRMzdiSnVSUi1FZzByaHZqRzc4ek1JaW83N3p6ZzQ1Vk1aNGpIdVc0cHMyMjd5SU5vcTE1Z0RjQW5oWEVLay0x?oc=5",
-   "utc": "2026-11-01T22:49:47Z",
+   "title": "False nuclear alert in Ukraine: The Ukrainian alert app was targeted by a cyberattack / Russia reported similar problems",
+   "source": "Informat.ro",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZE5fTkwwYWl4SGdJaTRQQ0ZySVJweEkyeWgwbmFBNWk2ZVUtMTdKaWR5REhXWjR4VEFjX1dMck52dC1TcGVKWWNpUFBLY21lMDhvUU51TEc1M0dlaXhXLUtoQzNGbXotVm81VDNwQUU2TUdURDVuMHFCd29tSjEyLWhxRFVGNVNTVE5PcFY4TElCVk5JT3NVNW5rNm15MGYtSkVPaFpPRQ?oc=5",
+   "utc": "2026-11-02T06:25:34Z",
    "tags": [
-    "HORMUZ"
+    "NUKE"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "The U.S. has deployed 43 tanker aircraft to Israel for strikes on Iran",
+   "source": "شبكة تواصل الإخبارية",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1YW5lVXFuOExRVnUxZWJhRllVTVN4VmJVN01mYWRETU92MTZtcUdfYkgtWVFRSWYwWXV1YWN4eHRuQnF2WTRZaVFtMmE2X3g1MGlJ?oc=5",
+   "utc": "2026-11-02T06:11:54Z",
+   "tags": [
+    "MIL"
    ],
    "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Fake nuclear alert in Ukraine became a reason for memes: later the Russian Emergencies Ministry app was hacked",
+   "source": "Прямий",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSG1mLW81MVRGd19JSk5INTVFOTNwSWdqZmdhYWYtb1BKUTJINVV3OTRqbjVFZDhmVVI2bDRkSlF6TnNuVUI3MXVUUFp0cG9KQy1GR085UUpZZkFwTFRFZFlrLTI5SU8yb1BIalVfVjljbGQxbHdRWmxrallyZXNnTlVMWUNMQmgyLVpRMjcxVjE3YU1DZXBaX25yMmFyY1NZZG9OYlFPSmxPQzJlZlZZcmpmM3NTbU1nZFRtekp6bUhHdWZJYXFz?oc=5",
+   "utc": "2026-11-02T05:32:11Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Russians sent urgent nuclear alert telling them 'hide in your f******' basement'",
+   "source": "The Mirror",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa3hXVEhMdE42cHhYTlM0UnhfdHdBQnoycC1CUE9QRnlrbm1WZlNYSDV5blBxUHdIQnZDVjZPMXpIam4xTHU0NnR6NjAwRGVqNlhNWmowVkw0Y1Y2REFvYURUcGNtdktjMVRNejB6ckVSam9UY3FiY0taMTlmbF9oNjdCcmZzek5ROE1qNFFhTdIBjwFBVV95cUxPa3hXVEhMdE42cHhYTlM0UnhfdHdBQnoycC1CUE9QRnlrbm1WZlNYSDV5blBxUHdIQnZDVjZPMXpIam4xTHU0NnR6NjAwRGVqNlhNWmowVkw0Y1Y2REFvYURUcGNtdktjMVRNejB6ckVSam9UY3FiY0taMTlmbF9oNjdCcmZzek5ROE1qNFFhTQ?oc=5",
+   "utc": "2026-11-02T04:03:00Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "Russian Emergencies Ministry app hacked with fake nuclear alert ᐉ News from Fakti.bg - World",
+   "source": "Fakti.bg",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaXRBeElVQ29aZy10bURvaC12N0h1V3hnTG9XOHNfNUdGVlhqeE5KUGdacW5VSEpTck1VN1ptYTBRaDg3YmxfdG45aTZZck9oa2V1dXR4dmlEcW0yODNKQUYtWXdpU3pHREpSMWhhTy1pNkFsTnBRVGpLRlZ5NVhYMHFuZVJ4emtQTFpISkpsSTNGVE9HcWJFWXl5M3ZfQQ?oc=5",
+   "utc": "2026-11-02T03:52:00Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "Nuclear alert sent in Ukraine as public ​air raid alert app hacked | A similar app in Russia was hit by cyberattack | Inshorts",
+   "source": "Inshorts",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzRJbHlIYUlnTEdlRWZXb05GQWQ0TnFWWHhQdEhTNEkwSW1lcENXbjh1SkNaZm5qYVpaYm5tb185MUg5eF9HVEs1RnhkRWJMOFJiUXZ4YklTN0piX28zSUtKOEJuNVNZc2xuY3dMWFFyMVNLLWZyWXVzSnZUdWJrZUFaeHc1anpxaC1TM3Etc3podzV1UGhqTU5zN2xNbGJNNTlQSG0tOUVFTXBVNGpmczVRQdIBswFBVV95cUxQYzRJbHlIYUlnTEdlRWZXb05GQWQ0TnFWWHhQdEhTNEkwSW1lcENXbjh1SkNaZm5qYVpaYm5tb185MUg5eF9HVEs1RnhkRWJMOFJiUXZ4YklTN0piX28zSUtKOEJuNVNZc2xuY3dMWFFyMVNLLWZyWXVzSnZUdWJrZUFaeHc1anpxaC1TM3Etc3podzV1UGhqTU5zN2xNbGJNNTlQSG0tOUVFTXBVNGpmczVRQQ?oc=5",
+   "utc": "2026-11-02T03:02:52Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -118,7 +173,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.9,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -129,18 +184,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.9,
-   "airspace": false
-  },
-  {
-   "title": "Qatar LNG Carrier Al Mayeda Struck Near Hormuz, Iran Reportedly Cleared Transit",
-   "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BRjVsbkpRU3RQcW5hUTI0WkpDZkpYNmFtZTh1THVzOGtNM01oUUgydllZSHlOb2JEV0w5MXV5Q2xpNlVmeHNHTHNtTDFkT2RGamVidDRMS2ZVN2hpamlsbWVrOA?oc=5",
-   "utc": "2026-11-01T17:43:02Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -151,29 +195,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
-   "airspace": false
-  },
-  {
-   "title": "Tsaritsyno Evacuated as Russia's FSB Confirms U.S. Tip on Possible Attack",
-   "source": "Around Prague",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmNvX0VoZGRDeHBvVExIc0kwaFNJbFMwMW9menlZRXoxbFRXeFYyV1NvcDlaUmctZGJ0ZGVLa3dVUjNZcDlXcFZhVnN2YzFqaS1MYXFqU3dtazhsSjFESnRFWDU3R1hJbUZUcEJvd3BiWGk0WDdfa1RjY2g5VVpLUWR3ZnRqSjQtVEdXRnF3cXhNQUFJWnc1R0VMYUxuLTlGbEMwYTNmSHVPZmEtYXlj?oc=5",
-   "utc": "2026-11-01T01:53:25Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.0,
-   "airspace": false
-  },
-  {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-10-31T22:07:02Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -184,37 +206,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.7,
-   "airspace": false
-  },
-  {
-   "title": "\"Hope for lasting peace\": Melania Trump reacts to the evacuation of residents of Oleshky",
-   "source": "Українські Національні Новини (УНН)",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlZMRW8yaGI2VmcxaWNuQ3lmWVRXV19mUXVJWHlWcGo1US0zb2J5aFhlMjJxNUJ1QjB3NGp4dGZ6UUx5aHdVaUdwOXQ5SUxoVDgtRU1IeU9kVkluZXZuVEdmYU5uOHNyVHZweXNjNVRnenJEQ0o5MXhndG5GRXd5clY1OGhoYVFnaEtiQnBkcHM4S2lTMzRTeFFZdjlWcVAtSHQzSFNPeDBnUTDSAasBQVVfeXFMTVZWTEVvMmhiNlZnMWljbkN5ZllUV1dfZlF1SVh5VnBqNVEtM29ieWhYZTIycTVCdUIwdzRqeHRmelFMeWh3VWlHcDl0OUlMaFQ4LUVNSHlPZFZJbmV2blRHZmFObjhzclR2cHlzYzVUZ3pyRENKOTF4Z3RuRkV3eXJWNThoaGFRZ2hLYkJwZHBzOEtpUzM0U3hRWXY5VnFQLUh0M0hTT3gwZ1Ew?oc=5",
-   "utc": "2026-10-31T16:48:52Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "US Preparing to Issue Ordered Departure of Some Personnel From Gulf Embassies – US Officials",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSUVvU045M0loMEo2dEdHVzZ5VW5KUTdnNGEwdXpEN05fX19Nbnc3ek4wQTE2MnJaQUpSd0czVlNIU3NGQ3VyMmxNRWo4ZnBKTkRGUzYzQ01YakV6dXAtQzdCaWFNTm9ObFZpWFV3STNIaHQ5WmRxajJ6bF9Ld25mNU45TGhadnJzUDRON1pGUy1JWWVyanFJSHJfNmZTS0tqbWh5d2Vmdnh4Qll1bG9abDZlTGhpMTMwWE5teW1n?oc=5",
-   "utc": "2026-10-31T07:00:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 7.3,
+   "score": 7.4,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 98,
-  "baseline": 1.3,
-  "samples": 37,
+  "count": 15,
+  "global": 166,
+  "baseline": 1.1,
+  "samples": 36,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -471,6 +471,10 @@
    [
     "2026-11-02T00:52:26Z",
     2
+   ],
+   [
+    "2026-11-02T07:44:31Z",
+    15
    ]
   ],
   "box": [

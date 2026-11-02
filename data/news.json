@@ -1,174 +1,174 @@
 {
- "updated": "2026-11-02T00:52:03Z",
+ "updated": "2026-11-02T07:44:16Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
-  "Reuters": "ok (100)",
+  "Reuters": "ok (99)",
   "Bloomberg": "ok (20)",
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (16)"
+  "Nikkei Asia": "ok (19)"
  },
  "items": [
   {
-   "title": "Asia shares bend under AI stress; Apple earnings loom",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXpaWVRrQUkzYThuc1E5TnFCUXBTSTV2bHNaR1FhUmdEYnhjSHVneFdpbGhjeENwWlE2WVE1c3FCUV9qeGZzRGNoNFEzdERMblBDb005a2NBV3B2YzdfNF95dGtrVmxiNlJrNFU3UC1BTnZHcVh4a3hna25vdEFkSEtMUQ?oc=5",
-   "utc": "2026-11-02T00:41:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "This is the biggest threat to the AI-powered bull market",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-   "utc": "2026-11-02T00:22:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-   "utc": "2026-11-02T00:21:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Judge tosses Trump attempt to block Alaska vote results if Republican loses",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVFneWw3UHA4RWl0eVFtRnh0eFNxVDlkaDJnbWk1eTdoOGJoVnExMVl4Rjh4VTRVT0U1Y0ZXczZjeDBhc2pzZjVMOFl0TXhHd295eExCR0szY1NFcThCVzFKNjZSUlAtUWd1cVNIV1J5UTFONzFtdHczMG1zZ1hQMWpSN05NNWR1bHpXbEVUZ1ZIWFBYU09oZzdjckRPOW0zd1RRc1VSbHpTUHF2UmxjSEhRVnlJaWtlbWdvcEYwRlk2UzFENjRvQmh2bw?oc=5",
-   "utc": "2026-11-02T00:19:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
+   "title": "Ryanair CEO O’Leary on Costs, Fuel Prices, Higher Fares (Video)",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
-   "utc": "2026-11-02T00:15:20Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-   "utc": "2026-11-02T00:11:37Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-02/ryanair-ceo-o-leary-on-costs-fuel-prices-higher-fares-video",
+   "utc": "2026-11-02T07:41:05Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates",
+   "title": "Where to Invest 1 Crore Rupees",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-02/where-to-invest-1-crore-rupees-video",
+   "utc": "2026-11-02T07:37:33Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan net provider GMO apologizes for cyberattack incident",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlBveFlacE1famowY2JqbVExenZvWnFHUGdKeEZOeXNfUWxJenNYbmpLd0Z0UzNKUk1zNnN0U2pVcjlxUlZOWGxpTzZ5NTJWdXlaZklKMjgyZEpCb2xta1ZsSTdyQkdXV1BkOVFCYXZ6dVdGTGVYTmpCb0JNSHZfS3FUSnpNbWZGRWtkemlhQTZCaGF0cG03ODd2SjJGUGdGWFBQZWIxQXdDQQ?oc=5",
+   "utc": "2026-11-02T07:33:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Ryanair Slashes Costs After €2 Billion Fuel-Charge Increase",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-02/ryanair-slashes-costs-after-2-billion-fuel-charge-increase",
+   "utc": "2026-11-02T07:31:26Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Turkish Market Clearinghouse CEO Resigns as Fund Probe Widens",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/turkish-market-clearinghouse-ceo-resigns-as-fund-probe-widens",
+   "utc": "2026-11-02T07:25:14Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here’s his playbook.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/marine-sniper-turned-macro-strategist-says-this-bull-market-has-six-to-12-months-left-heres-his-playbook-8b48ce6e?mod=mw_rss_topstories",
+   "utc": "2026-11-02T07:25:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5",
+   "utc": "2026-11-02T07:24:40Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Hormuz Reopening Talks Advance as Iran Warns of Wider Response if Attacked",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-02/horizons-middle-east-africa-11-2-2026-video",
+   "utc": "2026-11-02T07:19:07Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Alphabet Kicks Off Sale of Its Second Euro Bond This Year",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
+   "utc": "2026-11-02T07:17:51Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures rebound ahead of busy week of earnings, jobs data and the midterm elections: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-   "utc": "2026-11-02T00:10:21Z",
+   "utc": "2026-11-02T07:11:50Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
+   "title": "Traders Brace for Treasury Sales Overhaul",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
-   "utc": "2026-11-02T00:03:36Z",
-   "tag": "GOLD",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-02/traders-brace-for-treasury-sales-overhaul-video",
+   "utc": "2026-11-02T07:09:58Z",
+   "tag": "FED",
    "breaking": true
   },
   {
-   "title": "Bank of England poised to raise rates but may push back on bets for more",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFVxcW9DcnR5S1BVdndGZkhXT1F1SUR0WEZTbkRsSzRLSmtiOXFZdXNneUs4VXVCaV9ldFZQVVdHMnVvWDBrZERDTFo5bHc4NE9GelZKbmloVi1VVTVmN0tiZXFUSW5fMFIzMXZCWE5CWHd5TEdHc2VvRVA3T1VCRV9XampjTDBmd3BpTlkyNjBScTJReVhCanlUX21XX1dhbWc?oc=5",
-   "utc": "2026-11-02T00:03:00Z",
+   "title": "Will Japanese insurers bring money home? 5 things to know",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEN0WkE2NGFUSUU4ZnA5eFRMVkw5MUY1bnFPYXk5Zm9UZEJvYm9LQ2VxbW5yVWxhY3BCTXptN002M3RyMXhlRWw2NjV6aDlwWlFZUllkVjhTVlVoblh2UlJPR2RpdDNXTGMxTUNmeVdMLXZ4bzZhcmZKV18wVF9odUIzc2x0V2NuMU1sQU1DTUxVSWVtVzllN181MTZfQ29valJLOV9B?oc=5",
+   "utc": "2026-11-02T07:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Gulf States Fear Iran Retaliation If US Strikes Again",
+   "title": "FTSE 100 Live: UK Stocks Set to Lag Europe in Tech Rebound",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-02/gulf-states-fear-iran-retaliation-if-us-strikes-again-video",
-   "utc": "2026-11-02T00:01:10Z",
-   "tag": "WAR",
+   "link": "https://www.bloomberg.com/news/live-blog/2026-11-02/ftse-100-live-updates-pound-gilts-pmi-data-trump-iran-oil-prices-ryanair-what-s-moving-uk-markets-right-now-markets-today",
+   "utc": "2026-11-02T06:55:25Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Oil Prices No Longer Follow Headlines",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html",
-   "utc": "2026-11-02T00:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Philippine Bonds Can Beat Asia If War Risks Ebb, Says Brandywine",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/philippine-bonds-can-beat-asia-if-war-risks-ebb-says-brandywine",
-   "utc": "2026-11-01T23:55:15Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Learjet Plummets to Ground in Florida Neighborhood",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-01/learjet-plummets-to-ground-in-florida-neighborhood-video",
-   "utc": "2026-11-01T23:50:15Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Russia's FSB says minor detained over park attack threat after US tip-off",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
-   "utc": "2026-11-01T23:27:41Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+   "title": "AI is coming to construction sites. But does it make workers safer?",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-   "utc": "2026-11-01T23:17:57Z",
+   "link": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+   "utc": "2026-11-02T06:55:19Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+   "utc": "2026-11-02T06:46:41Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "National Geographic brings nature to life at SX2026",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3347025/national-geographic-brings-nature-to-life-at-sx2026",
+   "utc": "2026-11-02T06:40:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Crew from NASA's simulated Mars mission emerges after 378 days in isolation",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRXMURNMmtKbjhBMEt0NnJPb3JYSXlaVHlBZzJfRXlaclVDejlLWElYWE5wMlRIc0E5bmVYN295RmczMklmR0E2SVBSTjJYWkR4ZzBXR0NUS2llWEwyRTU3NVV0Uk1WX1hxZlg2eE5vYXpXX0hpZ3VRQlRJM3ljaVppZEdJa0VleUNlSGZ2bUdaZTZmUTN3S1NDd2trdGJsaTRXcTFaUVFnNlNnZ3B3?oc=5",
-   "utc": "2026-11-01T23:15:42Z",
+   "title": "German Firms Mahle, Schott Said to Seek Banks for India IPOs",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/german-firms-mahle-schott-said-to-seek-banks-for-india-ipos",
+   "utc": "2026-11-02T06:39:31Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Oil slips more than 1% as talks continue on ending Iran war",
+   "title": "EXCLUSIVE: India markets regulator backs removal of long-term capital gains tax for foreign investors, sources say",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
-   "utc": "2026-11-01T23:13:57Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzZGZDRyZ3dzMWVMcEp4bmVRbGNoRFdhODFvSDFjZmplU1VDRXNleUs1MElLczNVRHN5WS0xc2phWXFZaktGQ1pqelBPbjRfeWRLSFBqajEzRU43bWxpUkZtNVM4VGs0LVVUMzVlbW13X0FGZlJLWWZDZmpscXV4NVBNemxXZ2RhZEozakVfRlNWb3E0MTlEYlhveXRZVHVmeUozNkJ4RjBBQTR2TUt2QnJZajV1SVRMZUEyMG5n?oc=5",
+   "utc": "2026-11-02T06:38:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "UAE Oil Boss Calls for More Stockpiles, Refining Closer to Users",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/uae-oil-boss-calls-for-more-stockpiles-refining-closer-to-users",
+   "utc": "2026-11-02T06:35:19Z",
    "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "COMMENTARY: India's booming growth has an earnings problem",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU3ZYY3ZYdTVpNEJOdnk4a2xCTmVRM2xlempwRWFSNm14Y0JpRWx0WjExUTM4eHFpU3BDOTdiNFdwelp0Z2RXNHdRT19mOVBpem5sNGs3SVhJeEljajNERHhRSHVLNVJRcWRCS1pxQVQ0RjBGS3BYZ09IWEo1R29EUGowcHpNU0FjN1JabHRqZU9NNXdtVW1ocXdzYnI4NGRLbVJpSzlRYTJSUnZMSC1GM2NKLUFSNUNPU2ItSklLNU9pWmE0T29Rc0dDazhlbFhw?oc=5",
-   "utc": "2026-11-01T23:12:35Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Latest Oil Market News and Analysis for Nov. 2",
+   "title": "Apollo Opens European Loan Arm With ADIC Cash, Meissner as Chair",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
-   "utc": "2026-11-01T23:11:50Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Billionaire Friedland to Build Major US-Backed Rare Earths Mine",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/billionaire-friedland-to-build-major-us-backed-rare-earths-mine",
-   "utc": "2026-11-01T23:02:49Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/apollo-opens-european-loan-arm-with-adic-cash-meissner-as-chair",
+   "utc": "2026-11-02T06:30:00Z",
    "tag": "MARKETS",
    "breaking": false
   }

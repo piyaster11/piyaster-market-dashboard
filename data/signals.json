@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02T00:00:14Z",
- "level": 53,
+ "updated": "2026-11-02T00:52:26Z",
+ "level": 58,
  "band": "Alert",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   42,
+   41,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
-   0,
+   2,
+   5,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -107,7 +107,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -115,6 +115,17 @@
    "source": "Times Now",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenRzRFFJUGE1Yzl5S3hCVEVxblFJQWRXczEyRDFwNmlSOW1TVk5Velk1S1FQMXNYZ1hDdDFvWlE3YVFSMmcxbWJ2YkJEMEZxeGxXeGhWZTNOZXFhTUh6MVpGVXF6MHg4WGFudjg2OXdBQlJueTZPSTNBVnV5ZUV4dFo2NU5MYVNZWjdYVHBzbmN2Y1pZM2xHTUpMVVFzb2VzcEZvSGxhQ2JJaDFJQWdRN0NSaTJNQ0pmMlhJMzdtWHI5QXU5RGpzVDRrUE9lTnhzcnhzTE9QZVBTWVZMX0JvVGswbEVSdXkz0gHuAUFVX3lxTE5qUHViR0psZFp2RnV4dzlKSDBWYTR2REpYNnBfRW5HU185ZG5lVnRUbEhWdVRoYzNSYmdreVNKQllld1MwUGowbGVZVzA4cGU3eE9xaGdrLUJja1VjWlRNSzdxUjV4aFhPVUluVnpzbW5zalQ1MzVqZzU2eElnRFN1dkN0WkxYOEVhUGFkOUVFX0prM0staXBaX2ZBWHZsZW5WUDVsRE14dEp6Z0M5bXFXU0FPaVJMWTJfLWQ2RzljN2NNQU1ZLXc2aHQxUG5uaVVlYkhJSXU4Wl9Bc0hhQVlSc1BMVGZrZVgzYXduUkE?oc=5",
    "utc": "2026-11-01T22:23:04Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "\"Nuclear Alert\" and street fighting in Kyiv: the \"Air Alert\" application has been subjected to a suspected cyberattack. What is known",
+   "source": "Dev.ua",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZeTl2Q0s4cEhNcy14bVBxNzZSYjA3YXEtR0t1VVdKc094TC0ySVB3cVltVFBLeUdBdTllbmVOczZTOWx5RVdtazA4Y1FEUjVPYS02TE50MndBUWtGMWVCUTJn?oc=5",
+   "utc": "2026-11-01T21:38:00Z",
    "tags": [
     "NUKE"
    ],
@@ -151,7 +162,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -173,7 +184,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.8,
+   "score": 7.7,
    "airspace": false
   },
   {
@@ -185,17 +196,6 @@
     "EVAC"
    ],
    "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "US and Ukrainian Forces Collaborate on Humanitarian Evacuation and Demining in Kherson’s Oleshky",
-   "source": "Inkorr",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb2lidzdNT1dPdDFsZ09hNFJ0SkxSa0RyTjdVb0plUWxmcUVqa3V3djdqandlMDk1OXNlTVZ3VVZLZFJHZ1Bod0pMTTA1R3BvZ0k4YzNFQkx4eHE3UnFqMUR1Mzl6SnQxNjNERnZvSTNnQmF4WkhyRFJ5NnJWQWRDWFN2RHVld3JMTEthRzRiQUFsVHN0N0kwSlpnYU41M25SX1M2NlpsbGdpUzhfWGpDaFBUbmFGTWVRS2J3Y3ZRazLSAcABQVVfeXFMTm9pYnc3TU9XT3QxbGdPYTRSdEpMUmtEck43VW9KZVFsZnFFamt1d3Y3amp3ZTA5NTlzZU1Wd1VWS2RSR2dQaHdKTE0wNUdwb2dJOGMzRUJMeHhxN1JxajFEdTM5ekp0MTYzREZ2b0kzZ0JheFpIckRSeTZyVkFkQ1hTdkR1ZXdyTExLYUc0YkFBbFRzdDdJMEpaZ2FONTNuUl9TNjZabGxnaVM4X1hqQ2hQVG5hRk1lUUtid2N2UWsy?oc=5",
-   "utc": "2026-10-31T15:24:29Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.6,
    "airspace": false
   },
   {
@@ -211,9 +211,9 @@
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 104,
-  "baseline": 1.4,
+  "count": 2,
+  "global": 98,
+  "baseline": 1.3,
   "samples": 37,
   "hist": [
    [
@@ -467,6 +467,10 @@
    [
     "2026-11-02T00:00:14Z",
     1
+   ],
+   [
+    "2026-11-02T00:52:26Z",
+    2
    ]
   ],
   "box": [

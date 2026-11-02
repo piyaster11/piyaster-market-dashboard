@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:59:51Z",
+ "updated": "2026-11-02T00:52:03Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,14 +9,54 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (15)"
+  "Nikkei Asia": "ok (16)"
  },
  "items": [
   {
-   "title": "Learjet Plummets to Ground in Florida Neighborhood",
+   "title": "Asia shares bend under AI stress; Apple earnings loom",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXpaWVRrQUkzYThuc1E5TnFCUXBTSTV2bHNaR1FhUmdEYnhjSHVneFdpbGhjeENwWlE2WVE1c3FCUV9qeGZzRGNoNFEzdERMblBDb005a2NBV3B2YzdfNF95dGtrVmxiNlJrNFU3UC1BTnZHcVh4a3hna25vdEFkSEtMUQ?oc=5",
+   "utc": "2026-11-02T00:41:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "This is the biggest threat to the AI-powered bull market",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+   "utc": "2026-11-02T00:22:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+   "utc": "2026-11-02T00:21:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Judge tosses Trump attempt to block Alaska vote results if Republican loses",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVFneWw3UHA4RWl0eVFtRnh0eFNxVDlkaDJnbWk1eTdoOGJoVnExMVl4Rjh4VTRVT0U1Y0ZXczZjeDBhc2pzZjVMOFl0TXhHd295eExCR0szY1NFcThCVzFKNjZSUlAtUWd1cVNIV1J5UTFONzFtdHczMG1zZ1hQMWpSN05NNWR1bHpXbEVUZ1ZIWFBYU09oZzdjckRPOW0zd1RRc1VSbHpTUHF2UmxjSEhRVnlJaWtlbWdvcEYwRlk2UzFENjRvQmh2bw?oc=5",
+   "utc": "2026-11-02T00:19:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-01/learjet-plummets-to-ground-in-florida-neighborhood-video",
-   "utc": "2026-11-01T23:50:15Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
+   "utc": "2026-11-02T00:15:20Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+   "utc": "2026-11-02T00:11:37Z",
    "tag": "MARKETS",
    "breaking": true
   },
@@ -24,9 +64,65 @@
    "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-   "utc": "2026-11-01T23:28:43Z",
+   "utc": "2026-11-02T00:10:21Z",
    "tag": "STOCKS",
    "breaking": true
+  },
+  {
+   "title": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
+   "utc": "2026-11-02T00:03:36Z",
+   "tag": "GOLD",
+   "breaking": true
+  },
+  {
+   "title": "Bank of England poised to raise rates but may push back on bets for more",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFVxcW9DcnR5S1BVdndGZkhXT1F1SUR0WEZTbkRsSzRLSmtiOXFZdXNneUs4VXVCaV9ldFZQVVdHMnVvWDBrZERDTFo5bHc4NE9GelZKbmloVi1VVTVmN0tiZXFUSW5fMFIzMXZCWE5CWHd5TEdHc2VvRVA3T1VCRV9XampjTDBmd3BpTlkyNjBScTJReVhCanlUX21XX1dhbWc?oc=5",
+   "utc": "2026-11-02T00:03:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Gulf States Fear Iran Retaliation If US Strikes Again",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-02/gulf-states-fear-iran-retaliation-if-us-strikes-again-video",
+   "utc": "2026-11-02T00:01:10Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Oil Prices No Longer Follow Headlines",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html",
+   "utc": "2026-11-02T00:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Philippine Bonds Can Beat Asia If War Risks Ebb, Says Brandywine",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/philippine-bonds-can-beat-asia-if-war-risks-ebb-says-brandywine",
+   "utc": "2026-11-01T23:55:15Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Learjet Plummets to Ground in Florida Neighborhood",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-01/learjet-plummets-to-ground-in-florida-neighborhood-video",
+   "utc": "2026-11-01T23:50:15Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Russia's FSB says minor detained over park attack threat after US tip-off",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
+   "utc": "2026-11-01T23:27:41Z",
+   "tag": "WAR",
+   "breaking": false
   },
   {
    "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
@@ -34,7 +130,23 @@
    "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
    "utc": "2026-11-01T23:17:57Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Crew from NASA's simulated Mars mission emerges after 378 days in isolation",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGRXMURNMmtKbjhBMEt0NnJPb3JYSXlaVHlBZzJfRXlaclVDejlLWElYWE5wMlRIc0E5bmVYN295RmczMklmR0E2SVBSTjJYWkR4ZzBXR0NUS2llWEwyRTU3NVV0Uk1WX1hxZlg2eE5vYXpXX0hpZ3VRQlRJM3ljaVppZEdJa0VleUNlSGZ2bUdaZTZmUTN3S1NDd2trdGJsaTRXcTFaUVFnNlNnZ3B3?oc=5",
+   "utc": "2026-11-01T23:15:42Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Oil slips more than 1% as talks continue on ending Iran war",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
+   "utc": "2026-11-01T23:13:57Z",
+   "tag": "OIL",
+   "breaking": false
   },
   {
    "title": "COMMENTARY: India's booming growth has an earnings problem",
@@ -42,7 +154,7 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU3ZYY3ZYdTVpNEJOdnk4a2xCTmVRM2xlempwRWFSNm14Y0JpRWx0WjExUTM4eHFpU3BDOTdiNFdwelp0Z2RXNHdRT19mOVBpem5sNGs3SVhJeEljajNERHhRSHVLNVJRcWRCS1pxQVQ0RjBGS3BYZ09IWEo1R29EUGowcHpNU0FjN1JabHRqZU9NNXdtVW1ocXdzYnI4NGRLbVJpSzlRYTJSUnZMSC1GM2NKLUFSNUNPU2ItSklLNU9pWmE0T29Rc0dDazhlbFhw?oc=5",
    "utc": "2026-11-01T23:12:35Z",
    "tag": "STOCKS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Latest Oil Market News and Analysis for Nov. 2",
@@ -50,7 +162,7 @@
    "link": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
    "utc": "2026-11-01T23:11:50Z",
    "tag": "OIL",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Billionaire Friedland to Build Major US-Backed Rare Earths Mine",
@@ -58,118 +170,6 @@
    "link": "https://www.bloomberg.com/news/articles/2026-11-01/billionaire-friedland-to-build-major-us-backed-rare-earths-mine",
    "utc": "2026-11-01T23:02:49Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Ukrainian air force says public air raid alert app sent erroneous alerts after being hacked",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjdWbExXZ1JiYUVET2JwdTc2VVZ0T3J0czdJbUNyLWhLTzI3cW1zOWkxZF9mU3ZnVWtDYXR5SjVwZTlDZ0tFdXE5bkdIUjBwZEZRbmRDWGY4WkNvVkFqSFRJeXdBMzBPS0VJSmlzRkRTS1lCekRwOWRWZ3dSUXNyOVJMRk1Ga3lKZHV2bnctMFhVNTJDVFQ3UlBSWGl5QV95b3pMR2lGd05TRXdiRDdlUHFITkxmZw?oc=5",
-   "utc": "2026-11-01T22:53:46Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Republicans get boost from Michigan Democrat's endorsement, face legal setback in Alaska",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2FHcHFUc2FHcFNFdlgyU2xwdjFlUDZ4ZG1aQjk1aDdCYnNFaE5WSXM5Q0E5cHB5Z0tKaWp0QXZ2dThVYjU2ZW1VemZmYmswcm1lUHA3TXhNVVBmUWdSQnRBTVJBdFlHQmlvempGUkFnTFo1aHBTZTZGeU53T3pIYUxXUTFaVGtaLXFldGwyUGRFNTNlWWtn?oc=5",
-   "utc": "2026-11-01T22:50:22Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump floats 'concept' of US-Canada deal that includes pipeline after conversation with Carney",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZUM3VWU2twNlU5YnJfamYzWWJtaDV3bm5WTFZMNHpWWVdwSk1BY1REWjl2cEsweU5UQ3ZjbkZkWVlkNFZKZFRDb0tNUFJ0bXVBczAwdWNsV19uMFNCUnNWRHZ0T1NNQ1ZoV2lvY0piVFgzY1lJWnN4bWE0eU16cllQUW9WSGJKSUJQY3FGeDhqN2JJdmJnZkt1MjdXc1hscE1zdGxqQ1NIeFJsUVRvLUxjTlA?oc=5",
-   "utc": "2026-11-01T22:44:26Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Colombia at Risk of Default Without a Fix, Restrepo Tells Semana",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/colombia-is-at-risk-of-default-without-fiscal-fix-restrepo-says",
-   "utc": "2026-11-01T22:38:32Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Thailand eyes status as AI medical hub",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3346775/thailand-eyes-status-as-ai-medical-hub",
-   "utc": "2026-11-01T22:25:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Rice exports face mounting headwinds",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3346760/rice-exports-face-mounting-headwinds",
-   "utc": "2026-11-01T22:24:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Small firms look for state assistance in AI campaign",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3346830/small-firms-look-for-state-assistance-in-ai-campaign",
-   "utc": "2026-11-01T22:22:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Betting big on small AI",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3346889/betting-big-on-small-ai",
-   "utc": "2026-11-01T22:20:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Real Madrid extend winning run with 3-0 victory at Racing Santander",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM190MHVUWXZicG1HS1lBTG1FZk9tbDlsV3lLVFVKVnBSSHFOcVlVek82RDNBME94eTVPMVAyZVNOaWpmVTZpYzVCRHg4anJGR1NNMTNta2k4YzFvRkR6UF82WWhVN09ab1VkbmxGaVAyaE1QZkZSU2ZVOUhBd2FTbV83THk0OXdoUGhfLXVaZTZxYmp4V3ZONDdzRTFzeFRFYkJBaWFTWXd2Nk9WR1g4dFRaY0c?oc=5",
-   "utc": "2026-11-01T22:10:12Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Australian Far-Right Party Regains Poll Lead as Government Slips",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/australian-far-right-party-regains-poll-lead-as-government-slips",
-   "utc": "2026-11-01T22:09:50Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Indonesia’s MSCI Crisis Driven By Wash Trades and 5,000% Rallies",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/features/2026-11-01/indonesia-s-msci-crisis-driven-by-wash-trades-and-5-000-rallies",
-   "utc": "2026-11-01T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Westpac's full-year profit ticks higher, flags slowing loan demand",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1B2amVrelNnTnZYVUUxdll3eFZBNEJXdmZ2aDctSFo4cjhyRmxTbDVweFdQR0NmUzI2ai1tUklYa1djc3A0YmIyYjRZTEMxWXJiaHV6WVZ3ajlDZ0FVNWxiX1hGOGxxRlRjaW5wZG9OZzNGYmQzN1RoZnF1WVQ2aEV3NS1ua3FZUE5UdDNWSWNBMGJSR0l2c1NZLWlDQURVdlQ5THdHMVdxSGVuZmc?oc=5",
-   "utc": "2026-11-01T21:37:26Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "How Trump’s noncitizen voter lists could affect the midterms",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm9ZSldZUlltbnFxUUhWanNTQjRneFM1YnR4MlpuSWtwNlpVaE56cGVfUnJWSGN1QzFFQktUZEk1XzB6MThhRDJ6ODBkakt2UGZTQk16LVRGUU5qU1FhYjVyQUtIOVJNZmZyZlhSOW9kWDhIajBvTXJJelRNSXFWRFVnd0wyYkJnRkFiT1RjbzVjT2E5eUdTUGp2ZXVGZUpsTEw2bkhJak9NbGxH?oc=5",
-   "utc": "2026-11-01T21:34:09Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Asian Stocks to Fall on AI Fears, Oil Declines: Markets Wrap",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-   "utc": "2026-11-01T21:28:04Z",
-   "tag": "OIL",
    "breaking": false
   }
  ]

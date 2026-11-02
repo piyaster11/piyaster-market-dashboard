@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-02T18:29:10Z",
- "level": 47,
+ "updated": "2026-11-02T23:57:16Z",
+ "level": 38,
  "band": "Watch",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
-   1,
-   12,
+   0,
+   0,
    40,
    "20 per ordered/authorized departure, 12 per other Level 4"
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   36,
+   38,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   0,
-   0,
+   1,
+   3,
    15,
    "3 pts each"
   ],
@@ -41,16 +41,6 @@
    "authorized": false,
    "date": "2025-12-29T00:00:00Z",
    "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.blr.html"
-  },
-  {
-   "src": "UK FCDO",
-   "country": "Ethiopia",
-   "level": 4,
-   "ordered": false,
-   "authorized": false,
-   "date": "2026-10-30T21:20:19Z",
-   "link": "https://www.gov.uk/foreign-travel-advice/ethiopia",
-   "note": "Update on areas that the FCDO advise against all travel to within 10km of the border with Kenya (Warnings and Insurance page)"
   },
   {
    "src": "US State",
@@ -100,14 +90,47 @@
  ],
  "headlines": [
   {
+   "title": "Fake nuclear alert sent to Ukrainians in suspected cyberattack",
+   "source": "Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kME52UXY0SmZsd1ZqekxiZFV2VThuMHhFWFVqcldxaWhHWUVaOEVNWHpMaF9nWDZkNFZ0NWNBVTJQOXdwMkZ2OXp1eXplVkpJczBCWGdGdENybmlma1JWQ0tJUU1ubmPSAVxBVV95cUxNVEFaclZtMVZOcklSc1NBWWVxTzc5UWF6N213R29YVjhUajNrN0puTElFMVRQamgxVTd3b213SmRLdXRYQmw5ZjNOaVYxUUpqLXRIZXN6cHhhSUhhVw?oc=5",
+   "utc": "2026-11-02T21:00:00Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Hackers send fake nuclear alerts in Ukraine and Russia",
+   "source": "RTE.ie",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GcjdXNzFTYkRTMmFqc1M0WjJZaHpvQVVYbDFvNUJLTWpidWY2SFlMVGQ1RVB1bU0yWXVUbm5zUFFscTlrZnp4aXREQ0U0aXlZT0ZXb2hOQVkzQV9sS0o0Z0NGU2Rya3BoYUN5RHpVby15dlk?oc=5",
+   "utc": "2026-11-02T20:07:22Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "Ukrainian reacts to nuclear alert app hack",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44TDlMOUlxV3pYVFJJYzNGd2FGT3YwN1Qtb2l1VmpDQ0s0NWV4YzBYdGVISnBvb3ZmTHJmYVdqT3p4ZlZKRzBhMzRIVHF2ZC1tZVc1VkxEdDRsMjQ?oc=5",
+   "utc": "2026-11-02T19:40:45Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
    "title": "Shafaq News..Iran: Tanker struck mine east of Hormuz",
    "source": "شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkQ1dlpuaHk0VjFQQVJUd2Q2X01XVFcxU2RnLTlJZUl4WURzTHhsc3Z0RzNRbHpTalhKMHV1Nnk1OUxzSzJGSnk2S1FIRC1kVGZLT1pueEs2RVJUR0R3N29zWWR1d2lXOFRnLUp6OUR0elc1NGRQdTR6MFJuNkJYYklB?oc=5",
-   "utc": "2026-11-02T15:24:38Z",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwSkFuZGhVR3luWEZhZkFSUjlGSUhzZ0dmaG5KYTg3TG0tbkVXX29JTE1xbHN3eEczbzBfLVNUZTNLRWx6RG9oMnA5R09Kc3Vial90bU55eFVnUFo3dzB3SHZpUDlYdkM5aDhSQ3FDRlYtMlJXYWFDTG1WaHU?oc=5",
+   "utc": "2026-11-02T15:23:08Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.9,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -118,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.8,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -129,7 +152,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -140,7 +163,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.7,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -151,7 +174,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -162,7 +185,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -173,46 +196,13 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.5,
-   "airspace": false
-  },
-  {
-   "title": "Russians sent urgent nuclear alert telling them 'hide in your f******' basement'",
-   "source": "The Mirror",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa3hXVEhMdE42cHhYTlM0UnhfdHdBQnoycC1CUE9QRnlrbm1WZlNYSDV5blBxUHdIQnZDVjZPMXpIam4xTHU0NnR6NjAwRGVqNlhNWmowVkw0Y1Y2REFvYURUcGNtdktjMVRNejB6ckVSam9UY3FiY0taMTlmbF9oNjdCcmZzek5ROE1qNFFhTdIBjwFBVV95cUxPa3hXVEhMdE42cHhYTlM0UnhfdHdBQnoycC1CUE9QRnlrbm1WZlNYSDV5blBxUHdIQnZDVjZPMXpIam4xTHU0NnR6NjAwRGVqNlhNWmowVkw0Y1Y2REFvYURUcGNtdktjMVRNejB6ckVSam9UY3FiY0taMTlmbF9oNjdCcmZzek5ROE1qNFFhTQ?oc=5",
-   "utc": "2026-11-02T04:03:00Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 5.4,
-   "airspace": false
-  },
-  {
-   "title": "Nuclear alert sent in Ukraine as public ​air raid alert app hacked | A similar app in Russia was hit by cyberattack | Inshorts",
-   "source": "Inshorts",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzRJbHlIYUlnTEdlRWZXb05GQWQ0TnFWWHhQdEhTNEkwSW1lcENXbjh1SkNaZm5qYVpaYm5tb185MUg5eF9HVEs1RnhkRWJMOFJiUXZ4YklTN0piX28zSUtKOEJuNVNZc2xuY3dMWFFyMVNLLWZyWXVzSnZUdWJrZUFaeHc1anpxaC1TM3Etc3podzV1UGhqTU5zN2xNbGJNNTlQSG0tOUVFTXBVNGpmczVRQdIBswFBVV95cUxQYzRJbHlIYUlnTEdlRWZXb05GQWQ0TnFWWHhQdEhTNEkwSW1lcENXbjh1SkNaZm5qYVpaYm5tb185MUg5eF9HVEs1RnhkRWJMOFJiUXZ4YklTN0piX28zSUtKOEJuNVNZc2xuY3dMWFFyMVNLLWZyWXVzSnZUdWJrZUFaeHc1anpxaC1TM3Etc3podzV1UGhqTU5zN2xNbGJNNTlQSG0tOUVFTXBVNGpmczVRQQ?oc=5",
-   "utc": "2026-11-02T03:02:52Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 5.4,
-   "airspace": false
-  },
-  {
-   "title": "Ukraine Air Raid System Hacked: Fake Nuclear Alerts Trigger Panic",
-   "source": "Times Now",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenRzRFFJUGE1Yzl5S3hCVEVxblFJQWRXczEyRDFwNmlSOW1TVk5Velk1S1FQMXNYZ1hDdDFvWlE3YVFSMmcxbWJ2YkJEMEZxeGxXeGhWZTNOZXFhTUh6MVpGVXF6MHg4WGFudjg2OXdBQlJueTZPSTNBVnV5ZUV4dFo2NU5MYVNZWjdYVHBzbmN2Y1pZM2xHTUpMVVFzb2VzcEZvSGxhQ2JJaDFJQWdRN0NSaTJNQ0pmMlhJMzdtWHI5QXU5RGpzVDRrUE9lTnhzcnhzTE9QZVBTWVZMX0JvVGswbEVSdXkz0gHuAUFVX3lxTE5qUHViR0psZFp2RnV4dzlKSDBWYTR2REpYNnBfRW5HU185ZG5lVnRUbEhWdVRoYzNSYmdreVNKQllld1MwUGowbGVZVzA4cGU3eE9xaGdrLUJja1VjWlRNSzdxUjV4aFhPVUluVnpzbW5zalQ1MzVqZzU2eElnRFN1dkN0WkxYOEVhUGFkOUVFX0prM0staXBaX2ZBWHZsZW5WUDVsRE14dEp6Z0M5bXFXU0FPaVJMWTJfLWQ2RzljN2NNQU1ZLXc2aHQxUG5uaVVlYkhJSXU4Wl9Bc0hhQVlSc1BMVGZrZVgzYXduUkE?oc=5",
-   "utc": "2026-11-01T22:23:04Z",
-   "tags": [
-    "NUKE"
-   ],
    "score": 5.2,
    "airspace": false
   }
  ],
  "mil": {
   "count": 0,
-  "global": 368,
+  "global": 199,
   "baseline": 1.4,
   "samples": 36,
   "hist": [
@@ -478,6 +468,10 @@
    ],
    [
     "2026-11-02T18:29:10Z",
+    0
+   ],
+   [
+    "2026-11-02T23:57:16Z",
     0
    ]
   ],

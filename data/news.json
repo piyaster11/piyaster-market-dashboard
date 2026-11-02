@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T18:28:54Z",
+ "updated": "2026-11-02T23:56:54Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (26)"
+  "Nikkei Asia": "ok (29)"
  },
  "items": [
   {
-   "title": "Apple reports after the bell. Options traders expect a big move",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
-   "utc": "2026-11-02T18:19:03Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
-   "utc": "2026-11-02T18:16:02Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
-   "utc": "2026-11-02T18:16:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
-   "utc": "2026-11-02T18:13:57Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
-   "utc": "2026-11-02T18:13:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+   "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-   "utc": "2026-11-02T18:12:15Z",
+   "utc": "2026-11-02T23:48:28Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+   "title": "Stocks making the biggest moves after hours: Fabrinet, Clorox, Apple, Palantir & more",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-   "utc": "2026-11-02T18:09:26Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Investors are giving up on CoreWeave. I see a potential triple",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/wall-street-sees-a-debt-disaster-in-coreweave-i-see-a-stock-that-could-triple.html",
-   "utc": "2026-11-02T18:07:53Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
-   "utc": "2026-11-02T18:03:06Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Apple earnings live updates: New CEO John Ternus faces first Wall Street test",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
-   "utc": "2026-11-02T18:00:10Z",
+   "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-after-hours-fn-clx-aapl-pltr.html",
+   "utc": "2026-11-02T23:47:49Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+   "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-   "utc": "2026-11-02T18:00:00Z",
+   "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+   "utc": "2026-11-02T23:39:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Rare-Iranian-Strike-On-Vessel-Hundreds-Of-Miles-From-Strait-Of-Hormuz.html",
-   "utc": "2026-11-02T18:00:00Z",
-   "tag": "OIL",
+   "title": "COMMENTARY: Brutal AI selloff stirs recession fears: McGeever",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWE8zaUFuYVVHZHM4aDVEdEN1TzVfbjVQa0xXWG1UNXpHcTlja19HTUtZbDUyTno2bXVwWDBvUm43eUVNbmZVblhrX1dTS2FGSTNLaU1zcDhSWWczS2dGUks5NFFYYTljcW43REtWYWZSRnBzV2ZFeTFNdmlzMno2WXFiTWY0RDBwTmtBdFRZWWMta1NUSktYdnVfTUF1c2NqTkhfaUJfNTVwaXI1QUhPV01SZnZxbzZW?oc=5",
+   "utc": "2026-11-02T23:30:28Z",
+   "tag": "AI",
    "breaking": true
   },
   {
    "title": "Stock market after midterm elections: What S&P 500 history shows",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-   "utc": "2026-11-02T17:57:35Z",
+   "utc": "2026-11-02T23:13:34Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Stocks rise as oil prices slide before midterms: Live updates",
+   "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-   "utc": "2026-11-02T17:55:05Z",
-   "tag": "OIL",
+   "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
+   "utc": "2026-11-02T23:13:19Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-   "utc": "2026-11-02T17:52:01Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japan's IHI wins key role in Westinghouse's new Poland nuclear plant",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdTQ0WGtWWU5fR0Y0SzVmdEtJRDVuMm5obXczSWV6ZndOeUZaV0szOXFld2tmeDBlc0xucTl0RUU1dmxBLUJuYkh1REhSUENCMFFsdWEwbVd2RFU4bkxzZy1JNGJzZzZ4TGRUeTh5NUVYVk8wOXJ4T2lEOVM3aE8tNlpVbnhFb3NCdmgwZ2JFbzBseFY0a3Qxc1BoQjFpR2laRm5iMHFJRHl0WVZY?oc=5",
-   "utc": "2026-11-02T17:52:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble",
+   "title": "Latest Oil Market News and Analysis for Nov. 3",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble",
-   "utc": "2026-11-02T17:44:40Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-   "utc": "2026-11-02T17:37:46Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
+   "utc": "2026-11-02T23:01:19Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
+   "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
-   "utc": "2026-11-02T17:35:57Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-   "utc": "2026-11-02T17:33:26Z",
+   "link": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
+   "utc": "2026-11-02T23:00:01Z",
    "tag": "AI",
    "breaking": true
+  },
+  {
+   "title": "Africa Launches Its Own Oil Bank as Western Lenders Retreat",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Africa-Launches-Its-Own-Oil-Bank-as-Western-Lenders-Retreat.html",
+   "utc": "2026-11-02T23:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5",
+   "utc": "2026-11-02T22:59:03Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+   "utc": "2026-11-02T22:53:20Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Game industry act faces major revisions",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3347630/game-industry-act-faces-major-revisions",
+   "utc": "2026-11-02T22:51:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Luxury travel demand boosts hotels in Southeast Asia",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3347725/luxury-travel-demand-boosts-hotels-in-southeast-asia",
+   "utc": "2026-11-02T22:49:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Eppo advances EV use in state sector",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/motoring/3347605/eppo-advances-ev-use-in-state-sector",
+   "utc": "2026-11-02T22:48:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "US strategy links Myanmar peace talks to rare-earth access",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQektPMXRENjNVbGZYbW9uOE5TdHFnWkxqTWh0bmJqLWtFUnBMQ2xSM2s2am5ra3NLdEhBMFFhYTRYd29ENUx6eDI3YjBURW1BcW5jZ0RBSkowbEplM0lwY251UzZuWEZmZng0RGVvbkYxV090RTJlaVZvUkx5LWR1aFdfYWFTbmN2T05LbmRHOGhmOW5Cci1fSW96UjMxNDFuLThmMVo4V00teDd0a2Zr?oc=5",
+   "utc": "2026-11-02T22:44:02Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Industrial depth anchors Thailand's edge",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3347720/industrial-depth-anchors-thailands-edge",
+   "utc": "2026-11-02T22:43:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "Ageing Thais put pressure on creaking pension system",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3347570/ageing-thais-put-pressure-on-creaking-pension-system",
+   "utc": "2026-11-02T22:39:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
+   "utc": "2026-11-02T22:34:07Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "Committee greenlights TAT's proposals",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3347545/committee-greenlights-tats-proposals",
+   "utc": "2026-11-02T22:33:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5",
+   "utc": "2026-11-02T22:30:09Z",
+   "tag": "MARKETS",
+   "breaking": false
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T09:40:31Z",
- "level": 48,
+ "updated": "2026-11-03T17:53:47Z",
+ "level": 35,
  "band": "Watch",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   51,
+   39,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   1,
-   3,
+   0,
+   0,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   5,
-   10,
+   1,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,28 @@
  ],
  "headlines": [
   {
+   "title": "‘We’ll watch this one very closely’ as Streeting warns of Russian cyber threat after Ukraine nuclear alert hack",
+   "source": "London Business News",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNXM5WXE3VEp0QTcyRHpDM0FoVzBDOUlYY3o1cnZveTgxSS1pSTZqV01uVm1JcC1Kbk1qc0VzV21lbHVRSmNVWUNobHJnYnY3a1FDYW1MbXJvNDJhZTNMZWMtMjZ5LXEyZ2pGZ1VidkRXQkZ5cUZGYlVWTGZfRXB6NnN2UHM2cDlEdzRmR2RQeFdidkF0VE9xUmlLY0RidXlZelV3anBUekZHd3ZJUFRNVWEtVWQyaW5iaUV6RmZaX2MxU1RTc3l4M3FqOUZjaHM2UXdBT3BNMm4?oc=5",
+   "utc": "2026-11-03T14:45:00Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Iranian official says US response on demands unconvincing, Strait of Hormuz closure to continue",
+   "source": "JFeed",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSy1uU0hwVVBpODJSUWNuQTd4Y19QY3VaR2FkTTl5bExWMm1YdWZyMUFQalpHQjZzYlkxSldXbGN6dHdPeS1nWXVRdWpJMV83blRIY0JBSWhYa1pMeTVaYW11NFFQWXhvV0pjLWsxenA2RndvLXBQQjhfcGFvSXR3bmxnS29xY05IUTJ2ZUdjb3cySVpUSE84c2hMd1doTFZydG50N1IyVjJJRWl6bEVLVlJ1UHJTVnlwR0huNg?oc=5",
+   "utc": "2026-11-03T14:38:07Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
    "title": "Cyberattacks Strike Ukrainian and Russian Emergency Apps With False Nuclear Alerts",
    "source": "SOFX",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGlzaEFxQTQ3UzRYel83TEE3bVU5cGdGcnBzZm5WSHJVdm5FU1JCZU8yTHFMZDBIeXU0RUFwTFRvb2ktUnl3U0trOUlvcXhoa0lUTFQ5SVpwTU5oV050cjZUNHVWVTlVSUNZOWlXVFlBZ1J0bjF3dTR1RFE3TVpPZVU1aUFlU1ktdW5TQlB4akwtdXdIVFVVYS1qbXMyMlNxcXM1RXZsRQ?oc=5",
@@ -97,7 +119,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.8,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -108,7 +130,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.7,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -119,18 +141,18 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.5,
+   "score": 5.1,
    "airspace": false
   },
   {
    "title": "Ukrainian reacts to nuclear alert app hack",
    "source": "BBC",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44TDlMOUlxV3pYVFJJYzNGd2FGT3YwN1Qtb2l1VmpDQ0s0NWV4YzBYdGVISnBvb3ZmTHJmYVdqT3p4ZlZKRzBhMzRIVHF2ZC1tZVc1VkxEdDRsMjQ?oc=5",
-   "utc": "2026-11-02T20:42:39Z",
+   "utc": "2026-11-02T20:50:13Z",
    "tags": [
     "NUKE"
    ],
-   "score": 5.5,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -141,7 +163,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -152,40 +174,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": false
   },
   {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-11-02T13:59:01Z",
+   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
+   "utc": "2026-11-02T14:15:28Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 5.2,
-   "airspace": false
-  },
-  {
-   "title": "Emergency alert hack sends fake nuclear alerts in Ukraine, Russia",
-   "source": "Minute Mirror",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16bGl1bi01eHk0WDYxLW5YSTU5U1RxVFpDTUxHZWNUM3NwY0h0bnMtTThrbC1ncng5X0c2UE9INEgzZ2dOV3otR0gtUlFTdDVyQzhuNnE2em1HV21GMW1QRjN4M21KVXlIYmhDZVo0a2lIaVJjOUE?oc=5",
-   "utc": "2026-11-02T10:46:26Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 5.0,
-   "airspace": false
-  },
-  {
-   "title": "Fake Nuclear Alerts Trigger Alarm in Ukraine and Russia After Cyberattacks",
-   "source": "Khaama Press",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mN0JxTHE3Rm9HaXM0NTJaWnlCUlBsSFRVNFpBRHpCUVRoMEh4dV9pcjdrZFRvUUtoX2tocF91a2JaSGZJNzJTUktoNnFtX0Z4MC05SjhhWVd3RVBfMDkyTHN6Wng4dFEwV1NkQXNaUGxwRmxqQk53VHp5TQ?oc=5",
-   "utc": "2026-11-02T10:44:26Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -196,14 +196,14 @@
    "tags": [
     "NUKE"
    ],
-   "score": 10.5,
+   "score": 10.2,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 5,
-  "global": 238,
-  "baseline": 1.3,
+  "count": 1,
+  "global": 433,
+  "baseline": 1.4,
   "samples": 35,
   "hist": [
    [
@@ -481,6 +481,10 @@
    [
     "2026-11-03T09:40:31Z",
     5
+   ],
+   [
+    "2026-11-03T17:53:47Z",
+    1
    ]
   ],
   "box": [

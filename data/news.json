@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T09:40:09Z",
+ "updated": "2026-11-03T17:53:32Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (33)"
+  "Nikkei Asia": "ok (30)"
  },
  "items": [
+  {
+   "title": "Midterm elections 2026 live updates: Economy, inflation and voter concerns",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+   "utc": "2026-11-03T17:45:07Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan's Yamato targets 'leaner' delivery service in push for profit: president",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMk4xMUp2bjRmTS1OczN1N085XzBOc2h5OHYyZnFtbVF6TU13OXdvYzBMTzQwQi05TElfenpGUDB2MUkwN2d4bjBaVkFDX05VbXl3dmU2RnlISGFZYmJ5WVNSd24xZTZZVjN1NGhwNFFGRTFkLVpNeEhEaTJUdE0yaWNYcG1yRG1zZUs0dG4tcEZHVDZFMUhERUJ3c1JucUtNczhSRUZLdFFFYVhYVVVWQWNGalJfVExTVWNnS0t0NFJyZw?oc=5",
+   "utc": "2026-11-03T17:39:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+   "utc": "2026-11-03T17:37:31Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+   "utc": "2026-11-03T17:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Oil-Flows-Unlikely-to-Return-to-Pre-War-Levels-Rystad-Says.html",
+   "utc": "2026-11-03T17:30:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Prediction markets face US midterms test as election bets soar",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
+   "utc": "2026-11-03T17:27:21Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "JPMorgan’s Michele Urges Treasury to Ax ‘Orphan’ 20-Year Bond",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond",
+   "utc": "2026-11-03T17:26:02Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+   "utc": "2026-11-03T17:24:34Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "S&P 500, Nasdaq rise as tech stocks gain ahead of midterm results",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVp0N2w0REZqOUJ3YkRxcmliYkhtX25yTkFtdmJDUFdSVm5CcXRQYjdMeFFLU0gxcHk1STM2R0xXaGJ6TW9ZN2ZQS2RReVRiXzNtY1B3Qm5fZ1lfTUFaMVpRM2d2ZVZodnZtbUFFLUtkcURfUEtENElyNG5YcFRGcncteEFaZFUwOGxVUmpTMWFkMEtvb09VTG50a2NSbjhLUm5Zc3EtZS1XUU5lWm9B?oc=5",
+   "utc": "2026-11-03T17:19:33Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Hydro-Quebec Forced to Import More Power After Deals With US Utilities",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/hydro-quebec-forced-to-import-more-power-after-deals-with-us-utilities",
+   "utc": "2026-11-03T17:18:12Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+   "utc": "2026-11-03T17:15:20Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Majority of London’s Thames Bridges Are in Poor Condition",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/majority-of-london-s-thames-bridges-are-in-poor-condition",
+   "utc": "2026-11-03T17:15:19Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+   "utc": "2026-11-03T17:15:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
   {
    "title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
-   "utc": "2026-11-03T09:39:21Z",
+   "utc": "2026-11-03T17:09:51Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Brookfield plans for a $27 billion AI data center at UK power station",
+   "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
-   "utc": "2026-11-03T09:30:35Z",
-   "tag": "AI",
+   "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+   "utc": "2026-11-03T17:05:29Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Apple and Palantir shares slide in premarket trading following post-bell earnings",
+   "title": "This casino stock has fallen for 17 weeks in a row. Katie Stockton says it could be due for a bounce",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-   "utc": "2026-11-03T09:21:40Z",
+   "link": "https://www.cnbc.com/2026/11/03/mgm-resorts-stock-rebound-technical-analysis.html",
+   "utc": "2026-11-03T17:05:27Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Stock futures are mixed as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
-   "utc": "2026-11-03T09:18:11Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "An Election Day Special With Nate Silver",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
-   "utc": "2026-11-03T09:00:21Z",
+   "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+   "utc": "2026-11-03T17:01:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Odd Lots: An Election Day Special With Nate Silver (Podcast)",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/audio/2026-11-03/odd-lots-an-election-day-special-with-nate-silver-podcast",
-   "utc": "2026-11-03T09:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-   "utc": "2026-11-03T08:56:48Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
-   "utc": "2026-11-03T08:50:56Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Asian Cup pushed back nearly a year as Saudi security risks mount",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREw3aFhKSHM5WUFQblh6UHB4ODJKSEYzRTlCdXVWU05IWUpKZjc4TmRrTm4xa2tLYVF0bENzV1JBMS1aUGxwUXQ2dmNBUy1mbE9LZ3FoRjNaMVg2MlpDWXFHVVJ5MnNWbFl2a1lMT3ZBU0Z4WVJJX3dnRVlIeXJ2NUxWOTJmOE84N0dGNEZyRVlydDBQX2FMZHZDSzNGRGtnOWdaUjNLN0lBa3JPc1ktbXZwbFlYVjh4?oc=5",
-   "utc": "2026-11-03T08:40:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "SBI’s Profit Beats Estimates on Loan Growth, One-Time Gain",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/sbi-s-strong-loan-growth-drives-second-quarter-profit-beat",
-   "utc": "2026-11-03T08:28:27Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-   "utc": "2026-11-03T08:27:23Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Wall Street Heavyweights Weigh the Risks to the AI Boom",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-03/insight-with-haslinda-amin-11-3-2026-video",
-   "utc": "2026-11-03T08:19:36Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Eyesan: Strong Interest in New Nigerian Oil Blocks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-03/eyesan-strong-interest-in-new-nigerian-oil-blocks-video",
-   "utc": "2026-11-03T08:15:20Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Oil Is the Biggest Binary Risk: Market Analysis",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-03/oil-is-the-biggest-binary-risk-3-minutes-mliv-video",
-   "utc": "2026-11-03T08:15:08Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "CVR Energy Nears $4 Billion Refinery Deal With Marathon",
+   "title": "Drax Unveils £20 Billion AI Data Centre Plans at UK Biomass Plant",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/CVR-Energy-Nears-4-Billion-Refinery-Deal-With-Marathon.html",
-   "utc": "2026-11-03T08:15:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "link": "https://oilprice.com/Energy/Energy-General/Drax-Unveils-20-Billion-AI-Data-Centre-Plans-at-UK-Biomass-Plant.html",
+   "utc": "2026-11-03T17:00:00Z",
+   "tag": "AI",
+   "breaking": true
   },
   {
-   "title": "Marin: YPF Eyes November Deal with XRG and Eni",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-03/marin-ypf-eyes-november-deal-with-xrg-and-eni-video",
-   "utc": "2026-11-03T08:12:40Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Amer: BGN Investing in Ships as Iran War Disrupts Trade",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-03/amer-bgn-investing-in-ships-as-iran-war-disrupts-trade-video",
-   "utc": "2026-11-03T08:11:26Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "China's cable-cutting threat reaches Taiwan and the Philippines",
+   "title": "New MUFG digital bank to forgo ATM cards in cybercrime safeguard",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTQzT3kxVmMtak9FMGI2bmhlVnFuUkpqUnZtWVE1SFRnaG93UVlOU3ZWQklTRDlqcTFJYTZOQXB1UnkxRHVOSDctN1ZJLTFxVElQeGtFaTRGcXJMZTQ1RGVIM2lXWWNxa3EzWTRNWS1FRWhjZ25BNUY3WnVmeFE3TEFLbi1OZzNQVEhOUFVPaDZ6ZlVaYV81NGVpUQ?oc=5",
-   "utc": "2026-11-03T08:05:00Z",
-   "tag": "CHINA",
-   "breaking": false
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEhTc0hrNGJER0xhOTloVmd3c2tFdm1DdHdvNkUtaGI3VHZrbWdsVi01MXo0ZEk5UXRPZHNwTVl1UFNiRHVhOHREQjY4d19uQlBYMmVtUUFmQmRmX2lwMEVNTnZrSFY5bi1BVDJHcDRUVjVvZ0FBMUx1Sk51eU9uLTV6cGl4UlVDVjJobnFyMzFlVzE4U1pGdVZVMTJQSnRWT29DSTlVTGw?oc=5",
+   "utc": "2026-11-03T17:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
-   "title": "US Hits Iran’s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-03/horizons-middle-east-africa-11-3-2026-video",
-   "utc": "2026-11-03T08:01:42Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Hochstein: Markets Should Be Cognizant of Strike Risk",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-03/hochstein-markets-should-be-cognizant-of-strike-risk-video",
-   "utc": "2026-11-03T07:53:44Z",
-   "tag": "WAR",
-   "breaking": false
+   "title": "U.S. jobs market perks up, but it’s still not a great time to get hired",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
+   "utc": "2026-11-03T16:56:00Z",
+   "tag": "MARKETS",
+   "breaking": true
   }
  ]
 }

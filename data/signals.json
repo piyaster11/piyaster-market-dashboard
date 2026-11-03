@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T01:39:02Z",
- "level": 43,
+ "updated": "2026-11-03T09:40:31Z",
+ "level": 48,
  "band": "Watch",
  "components": [
   [
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
    5,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,10 +90,10 @@
  ],
  "headlines": [
   {
-   "title": "Fake nuclear alert sent to Ukrainians in suspected cyberattack",
-   "source": "Modern Ghana",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kME52UXY0SmZsd1ZqekxiZFV2VThuMHhFWFVqcldxaWhHWUVaOEVNWHpMaF9nWDZkNFZ0NWNBVTJQOXdwMkZ2OXp1eXplVkpJczBCWGdGdENybmlma1JWQ0tJUU1ubmPSAVxBVV95cUxNVEFaclZtMVZOcklSc1NBWWVxTzc5UWF6N213R29YVjhUajNrN0puTElFMVRQamgxVTd3b213SmRLdXRYQmw5ZjNOaVYxUUpqLXRIZXN6cHhhSUhhVw?oc=5",
-   "utc": "2026-11-02T21:00:00Z",
+   "title": "Cyberattacks Strike Ukrainian and Russian Emergency Apps With False Nuclear Alerts",
+   "source": "SOFX",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGlzaEFxQTQ3UzRYel83TEE3bVU5cGdGcnBzZm5WSHJVdm5FU1JCZU8yTHFMZDBIeXU0RUFwTFRvb2ktUnl3U0trOUlvcXhoa0lUTFQ5SVpwTU5oV050cjZUNHVWVTlVSUNZOWlXVFlBZ1J0bjF3dTR1RFE3TVpPZVU1aUFlU1ktdW5TQlB4akwtdXdIVFVVYS1qbXMyMlNxcXM1RXZsRQ?oc=5",
+   "utc": "2026-11-03T04:41:07Z",
    "tags": [
     "NUKE"
    ],
@@ -101,14 +101,36 @@
    "airspace": false
   },
   {
-   "title": "Ukrainian reacts to nuclear alert app hack",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44TDlMOUlxV3pYVFJJYzNGd2FGT3YwN1Qtb2l1VmpDQ0s0NWV4YzBYdGVISnBvb3ZmTHJmYVdqT3p4ZlZKRzBhMzRIVHF2ZC1tZVc1VkxEdDRsMjQ?oc=5",
-   "utc": "2026-11-02T19:40:45Z",
+   "title": "Hackers Hijack Ukraine's Air Raid App With Fake Nuclear Alerts",
+   "source": "Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3ZwUy1CNU9TOGlkOEJlcV9XMzA0TlZ4UXRnY290Z0wzN1A1ZFp3SkN5UFhBU2dJd1BpM2Rra2dfMXE3TTRBUWhmWDlJZElNUVNUcGJEQjlySUttTVVDajNBRXRoSmdhakU3akE2MXYtT21nTk1NNXB0TXZYQk5MbjY2a3E4QjhNWU05SF9OU29CeFFSR2xrZ0RPVktRY3JLUGVqRg?oc=5",
+   "utc": "2026-11-03T02:12:40Z",
    "tags": [
     "NUKE"
    ],
-   "score": 5.8,
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "Fake nuclear alert sent to Ukrainians in suspected cyberattack",
+   "source": "Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kME52UXY0SmZsd1ZqekxiZFV2VThuMHhFWFVqcldxaWhHWUVaOEVNWHpMaF9nWDZkNFZ0NWNBVTJQOXdwMkZ2OXp1eXplVkpJczBCWGdGdENybmlma1JWQ0tJUU1ubmPSAVxBVV95cUxNVEFaclZtMVZOcklSc1NBWWVxTzc5UWF6N213R29YVjhUajNrN0puTElFMVRQamgxVTd3b213SmRLdXRYQmw5ZjNOaVYxUUpqLXRIZXN6cHhhSUhhVw?oc=5",
+   "utc": "2026-11-02T21:00:00Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.5,
+   "airspace": false
+  },
+  {
+   "title": "Ukrainian reacts to nuclear alert app hack",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44TDlMOUlxV3pYVFJJYzNGd2FGT3YwN1Qtb2l1VmpDQ0s0NWV4YzBYdGVISnBvb3ZmTHJmYVdqT3p4ZlZKRzBhMzRIVHF2ZC1tZVc1VkxEdDRsMjQ?oc=5",
+   "utc": "2026-11-02T20:42:39Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -119,7 +141,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.6,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -130,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -141,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -152,7 +174,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.4,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -163,46 +185,24 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.4,
+   "score": 5.0,
    "airspace": false
   },
   {
-   "title": "Sick cyber hoax: Ukraine's air raid app hacked, issued fake 'Oreshnik is on its way' nuclear alert",
-   "source": "Dagens.com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeFM0OWxOeGpxZ2h5dFBUVmtPZ0tYR3llNDlKQ3RFSnJTUnFLWFJ4bGNXSlFPVjlZak1idjNsRmF5TzFFVWdpRGs4RVVjSGxfNGtOUlFjRlNhLVlRYXJKeVBheEVpY21iNjdXbVZ4Z3JCTnhYaV9NV0xtYmtNQU9BTWVFR2NkQVpiS1dUYXk5eEh2bjlfXy12UGFrQTVncGw0dmtaZkw3WmlTU1drOUdUNUFHVlRYQ2d3SG9GNw?oc=5",
-   "utc": "2026-11-02T07:53:39Z",
+   "title": "Hackers hit Ukraine and Russia's emergency apps, send fake nuclear alerts",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjdWbExXZ1JiYUVET2JwdTc2VVZ0T3J0czdJbUNyLWhLTzI3cW1zOWkxZF9mU3ZnVWtDYXR5SjVwZTlDZ0tFdXE5bkdIUjBwZEZRbmRDWGY4WkNvVkFqSFRJeXdBMzBPS0VJSmlzRkRTS1lCekRwOWRWZ3dSUXNyOVJMRk1Ga3lKZHV2bnctMFhVNTJDVFQ3UlBSWGl5QV95b3pMR2lGd05TRXdiRDdlUHFITkxmZw?oc=5",
+   "utc": "2026-11-01T21:36:00Z",
    "tags": [
     "NUKE"
    ],
-   "score": 5.3,
-   "airspace": false
-  },
-  {
-   "title": "False nuclear alert in Ukraine: The Ukrainian alert app was targeted by a cyberattack / Russia reported similar problems",
-   "source": "Informat.ro",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZE5fTkwwYWl4SGdJaTRQQ0ZySVJweEkyeWgwbmFBNWk2ZVUtMTdKaWR5REhXWjR4VEFjX1dMck52dC1TcGVKWWNpUFBLY21lMDhvUU51TEc1M0dlaXhXLUtoQzNGbXotVm81VDNwQUU2TUdURDVuMHFCd29tSjEyLWhxRFVGNVNTVE5PcFY4TElCVk5JT3NVNW5rNm15MGYtSkVPaFpPRQ?oc=5",
-   "utc": "2026-11-02T06:25:34Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 5.2,
-   "airspace": false
-  },
-  {
-   "title": "Fake Nuclear Alert Sparks Memes in Ukraine as Russian Emergency App Gets Hacked",
-   "source": "Прямий",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSG1mLW81MVRGd19JSk5INTVFOTNwSWdqZmdhYWYtb1BKUTJINVV3OTRqbjVFZDhmVVI2bDRkSlF6TnNuVUI3MXVUUFp0cG9KQy1GR085UUpZZkFwTFRFZFlrLTI5SU8yb1BIalVfVjljbGQxbHdRWmxrallyZXNnTlVMWUNMQmgyLVpRMjcxVjE3YU1DZXBaX25yMmFyY1NZZG9OYlFPSmxPQzJlZlZZcmpmM3NTbU1nZFRtekp6bUhHdWZJYXFz?oc=5",
-   "utc": "2026-11-02T05:32:11Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 5.2,
+   "score": 10.5,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 201,
+  "count": 5,
+  "global": 238,
   "baseline": 1.3,
   "samples": 35,
   "hist": [
@@ -477,6 +477,10 @@
    [
     "2026-11-03T01:39:02Z",
     2
+   ],
+   [
+    "2026-11-03T09:40:31Z",
+    5
    ]
   ],
   "box": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:38:40Z",
+ "updated": "2026-11-03T09:40:09Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (30)"
+  "Nikkei Asia": "ok (33)"
  },
  "items": [
   {
-   "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+   "title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-   "utc": "2026-11-03T01:32:13Z",
+   "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
+   "utc": "2026-11-03T09:39:21Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Malaysia transport minister still plans to quit, says megaprojects safe",
+   "title": "Brookfield plans for a $27 billion AI data center at UK power station",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+   "utc": "2026-11-03T09:30:35Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Apple and Palantir shares slide in premarket trading following post-bell earnings",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+   "utc": "2026-11-03T09:21:40Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures are mixed as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+   "utc": "2026-11-03T09:18:11Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "An Election Day Special With Nate Silver",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
+   "utc": "2026-11-03T09:00:21Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Odd Lots: An Election Day Special With Nate Silver (Podcast)",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/audio/2026-11-03/odd-lots-an-election-day-special-with-nate-silver-podcast",
+   "utc": "2026-11-03T09:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+   "utc": "2026-11-03T08:56:48Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+   "utc": "2026-11-03T08:50:56Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Asian Cup pushed back nearly a year as Saudi security risks mount",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNkItTTh4RU5URUhkb0QzV2FMc2gyV0NER2VaSF80Nlo5b2hVdVR5cVU5TElNRkFoU3BMbUJrWDJ4U2hUWmxfOXVQWGhIWEpTRkg1NlNPS014WDZGdzU1REs4d01mX2ZtZEtGa3J6WXVwejliRnpsZWRfamJhdWZJNElLTzgwOGxPSEEwdlRVRE05Y2FlNzNVUzZSbmRmaTdXRzFOZVVR?oc=5",
-   "utc": "2026-11-03T01:30:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREw3aFhKSHM5WUFQblh6UHB4ODJKSEYzRTlCdXVWU05IWUpKZjc4TmRrTm4xa2tLYVF0bENzV1JBMS1aUGxwUXQ2dmNBUy1mbE9LZ3FoRjNaMVg2MlpDWXFHVVJ5MnNWbFl2a1lMT3ZBU0Z4WVJJX3dnRVlIeXJ2NUxWOTJmOE84N0dGNEZyRVlydDBQX2FMZHZDSzNGRGtnOWdaUjNLN0lBa3JPc1ktbXZwbFlYVjh4?oc=5",
+   "utc": "2026-11-03T08:40:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "China's He Lifeng on Hong Kong's Financial Edge",
+   "title": "SBI’s Profit Beats Estimates on Loan Growth, One-Time Gain",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-03/china-s-he-lifeng-on-hong-kong-s-financial-edge-video",
-   "utc": "2026-11-03T01:22:52Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "China’s He Says Will Support Free, Open Economy in Hong Kong",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-he-says-will-support-free-open-economy-in-hong-kong",
-   "utc": "2026-11-03T01:22:26Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Offshore Yuan Weakens on PBOC’s Move to Raise FX Reserve Ratio",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
-   "utc": "2026-11-03T01:06:15Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/pakistan-s-rebound-masks-deeper-problems-weighing-on-economy",
-   "utc": "2026-11-03T01:00:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/sbi-s-strong-loan-growth-drives-second-quarter-profit-beat",
+   "utc": "2026-11-03T08:28:27Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Questions Mount Over Venezuela’s Biggest Oil Deal",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html",
-   "utc": "2026-11-03T01:00:00Z",
+   "title": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+   "utc": "2026-11-03T08:27:23Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Wall Street Heavyweights Weigh the Risks to the AI Boom",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-03/insight-with-haslinda-amin-11-3-2026-video",
+   "utc": "2026-11-03T08:19:36Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Eyesan: Strong Interest in New Nigerian Oil Blocks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-03/eyesan-strong-interest-in-new-nigerian-oil-blocks-video",
+   "utc": "2026-11-03T08:15:20Z",
    "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
-   "utc": "2026-11-03T00:59:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
-   "utc": "2026-11-03T00:52:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-   "utc": "2026-11-03T00:45:32Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
-   "utc": "2026-11-03T00:38:35Z",
-   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Gold Holds Biggest Jump in Two Months on Iran Peace-Deal Hopes",
+   "title": "Oil Is the Biggest Binary Risk: Market Analysis",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes",
-   "utc": "2026-11-03T00:20:16Z",
-   "tag": "GOLD",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-03/oil-is-the-biggest-binary-risk-3-minutes-mliv-video",
+   "utc": "2026-11-03T08:15:08Z",
+   "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "Live: Goldman, Morgan Stanley CEOs to Navigate Markets, AI Trades at HK Summit",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/live-blog/2026-11-03/goldman-morgan-stanley-finance-ceos-speak-at-hong-kong-investment-summit",
-   "utc": "2026-11-03T00:19:45Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "US Supreme Court rejects Trump, lets California count all ballots",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjVjbnBEeHpqd0ttbUV2SVU2Q0s1eHZuc1p5YnJBQWZDc2M0Qm9RMENsb0pXZ0xYRF9haUZWSDBxVkdCSms4NHY0c0NxN19DdVdiaThqZkFPb2txVGdSclJUVmZSbTJTeXB6QmllSmRqTFRaV2lTVGNuZVZwcnBudGltWnR0U1BXWENteVVWUjhZZXVfLWFHRjdKZjVUQndfWkdrRVo3T1ZTS1Q3LWRJbXBlbXlzRlNvYk8wUg?oc=5",
-   "utc": "2026-11-03T00:15:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Franklin Templeton CEO Hopes Indonesia Changes on MSCI Warning",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/franklin-templeton-ceo-hopes-indonesia-changes-on-msci-warning",
-   "utc": "2026-11-03T00:04:18Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
-   "utc": "2026-11-03T00:03:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Germany Misses Gas Storage Target as Prices Soar",
+   "title": "CVR Energy Nears $4 Billion Refinery Deal With Marathon",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Natural-Gas/Germany-Misses-Gas-Storage-Target-as-Prices-Soar.html",
-   "utc": "2026-11-03T00:00:00Z",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/CVR-Energy-Nears-4-Billion-Refinery-Deal-With-Marathon.html",
+   "utc": "2026-11-03T08:15:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
-   "utc": "2026-11-02T23:54:27Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
-   "utc": "2026-11-02T23:39:00Z",
+   "title": "Marin: YPF Eyes November Deal with XRG and Eni",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-03/marin-ypf-eyes-november-deal-with-xrg-and-eni-video",
+   "utc": "2026-11-03T08:12:40Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcHg1TzJIbXNhYlFoOUJHZ1NBLUV1X00zQlZabmJDa2lpOUtCY0dpbUZxNmRPSXJUcnVHZ3JOc19MamxqUnpDNl9qT2FQbmppZ09qSnhRbnNGSFZxeGJYSlZqd1prMlktb0xkajhGMkpKTDNXcFZOcjZHVUFzRnpnNHExR2Fub1N0REhjZXVKUDVGanBacjFreWVNODNGc0xBd0xxTWotR2g2a0wtbzI1NTltZWJjX2h6WmV6UWFWUDJxLTQ?oc=5",
-   "utc": "2026-11-02T23:35:16Z",
+   "title": "Amer: BGN Investing in Ships as Iran War Disrupts Trade",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-03/amer-bgn-investing-in-ships-as-iran-war-disrupts-trade-video",
+   "utc": "2026-11-03T08:11:26Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "China's cable-cutting threat reaches Taiwan and the Philippines",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTQzT3kxVmMtak9FMGI2bmhlVnFuUkpqUnZtWVE1SFRnaG93UVlOU3ZWQklTRDlqcTFJYTZOQXB1UnkxRHVOSDctN1ZJLTFxVElQeGtFaTRGcXJMZTQ1RGVIM2lXWWNxa3EzWTRNWS1FRWhjZ25BNUY3WnVmeFE3TEFLbi1OZzNQVEhOUFVPaDZ6ZlVaYV81NGVpUQ?oc=5",
+   "utc": "2026-11-03T08:05:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "US Hits Iran’s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-03/horizons-middle-east-africa-11-3-2026-video",
+   "utc": "2026-11-03T08:01:42Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Hochstein: Markets Should Be Cognizant of Strike Risk",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-03/hochstein-markets-should-be-cognizant-of-strike-risk-video",
+   "utc": "2026-11-03T07:53:44Z",
    "tag": "WAR",
    "breaking": false
   }

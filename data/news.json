@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T17:53:32Z",
+ "updated": "2026-11-03T23:28:31Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (30)"
+  "Nikkei Asia": "ok (31)"
  },
  "items": [
   {
-   "title": "Midterm elections 2026 live updates: Economy, inflation and voter concerns",
+   "title": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
+   "utc": "2026-11-03T23:28:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+   "utc": "2026-11-03T23:26:39Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Midterm elections 2026 live updates: First polls close as House, Senate control hang in balance",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-   "utc": "2026-11-03T17:45:07Z",
+   "utc": "2026-11-03T23:26:37Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Japan's Yamato targets 'leaner' delivery service in push for profit: president",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMk4xMUp2bjRmTS1OczN1N085XzBOc2h5OHYyZnFtbVF6TU13OXdvYzBMTzQwQi05TElfenpGUDB2MUkwN2d4bjBaVkFDX05VbXl3dmU2RnlISGFZYmJ5WVNSd24xZTZZVjN1NGhwNFFGRTFkLVpNeEhEaTJUdE0yaWNYcG1yRG1zZUs0dG4tcEZHVDZFMUhERUJ3c1JucUtNczhSRUZLdFFFYVhYVVVWQWNGalJfVExTVWNnS0t0NFJyZw?oc=5",
-   "utc": "2026-11-03T17:39:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+   "title": "Stocks making the biggest moves after hours: Arista Networks, CVS Health, AMD, Super Micro, Skyworks Solutions & more",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
-   "utc": "2026-11-03T17:37:31Z",
-   "tag": "AI",
+   "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-after-hours-anet-amd-smci-swks.html",
+   "utc": "2026-11-03T23:25:38Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-   "utc": "2026-11-03T17:30:00Z",
+   "title": "What voters said about their views on crypto",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+   "utc": "2026-11-03T23:19:44Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "UOB Profits Miss Estimates as Lower Trading Income Dampens Gains",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
+   "utc": "2026-11-03T23:14:17Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Oil-Flows-Unlikely-to-Return-to-Pre-War-Levels-Rystad-Says.html",
-   "utc": "2026-11-03T17:30:00Z",
+   "title": "Latest Oil Market News and Analysis for Nov. 4",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
+   "utc": "2026-11-03T23:08:04Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Prediction markets face US midterms test as election bets soar",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
-   "utc": "2026-11-03T17:27:21Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "JPMorgan’s Michele Urges Treasury to Ax ‘Orphan’ 20-Year Bond",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond",
-   "utc": "2026-11-03T17:26:02Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
+   "title": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-   "utc": "2026-11-03T17:24:34Z",
+   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+   "utc": "2026-11-03T23:07:58Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "S&P 500, Nasdaq rise as tech stocks gain ahead of midterm results",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVp0N2w0REZqOUJ3YkRxcmliYkhtX25yTkFtdmJDUFdSVm5CcXRQYjdMeFFLU0gxcHk1STM2R0xXaGJ6TW9ZN2ZQS2RReVRiXzNtY1B3Qm5fZ1lfTUFaMVpRM2d2ZVZodnZtbUFFLUtkcURfUEtENElyNG5YcFRGcncteEFaZFUwOGxVUmpTMWFkMEtvb09VTG50a2NSbjhLUm5Zc3EtZS1XUU5lWm9B?oc=5",
-   "utc": "2026-11-03T17:19:33Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Hydro-Quebec Forced to Import More Power After Deals With US Utilities",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/hydro-quebec-forced-to-import-more-power-after-deals-with-us-utilities",
-   "utc": "2026-11-03T17:18:12Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
+   "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-   "utc": "2026-11-03T17:15:20Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Majority of London’s Thames Bridges Are in Poor Condition",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/majority-of-london-s-thames-bridges-are-in-poor-condition",
-   "utc": "2026-11-03T17:15:19Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-   "utc": "2026-11-03T17:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
-   "utc": "2026-11-03T17:09:51Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-   "utc": "2026-11-03T17:05:29Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "This casino stock has fallen for 17 weeks in a row. Katie Stockton says it could be due for a bounce",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/mgm-resorts-stock-rebound-technical-analysis.html",
-   "utc": "2026-11-03T17:05:27Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-   "utc": "2026-11-03T17:01:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Drax Unveils £20 Billion AI Data Centre Plans at UK Biomass Plant",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Drax-Unveils-20-Billion-AI-Data-Centre-Plans-at-UK-Biomass-Plant.html",
-   "utc": "2026-11-03T17:00:00Z",
+   "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+   "utc": "2026-11-03T23:04:37Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "New MUFG digital bank to forgo ATM cards in cybercrime safeguard",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEhTc0hrNGJER0xhOTloVmd3c2tFdm1DdHdvNkUtaGI3VHZrbWdsVi01MXo0ZEk5UXRPZHNwTVl1UFNiRHVhOHREQjY4d19uQlBYMmVtUUFmQmRmX2lwMEVNTnZrSFY5bi1BVDJHcDRUVjVvZ0FBMUx1Sk51eU9uLTV6cGl4UlVDVjJobnFyMzFlVzE4U1pGdVZVMTJQSnRWT29DSTlVTGw?oc=5",
-   "utc": "2026-11-03T17:00:00Z",
+   "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+   "utc": "2026-11-03T23:00:07Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Hong Kong Deal Boom Slows With Most IPOs Abandoned Since 2008",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008",
+   "utc": "2026-11-03T23:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "U.S. jobs market perks up, but it’s still not a great time to get hired",
+   "title": "Big Oil Puts Debt Reduction Ahead of New Investments",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oil-Puts-Debt-Reduction-Ahead-of-New-Investments.html",
+   "utc": "2026-11-03T23:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "What analysts are telling us while Apple’s stock falls after earnings report",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
-   "utc": "2026-11-03T16:56:00Z",
+   "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+   "utc": "2026-11-03T22:48:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+   "utc": "2026-11-03T22:45:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Investors ready for possible shake-up in Congress as US awaits election results",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzBTeXRWM3ktaW9LQUFHVVg5V2JZMWZ3OG5LaWUtNGpVMmN2bnQ4RTJmaWVVaGctdnJZTkFZeWdjbG9JUUE4NFdFalFyQ2tZRFotZERxRkJQcHVtS1lwUGhVc0xJZnVqYnF4ZllqcDJFUkJxcEd2QTF0RGFERW1oSkFENEV0V3VQMEFabVkwOHcwTV9lVWNRZ3JmbDVDOUQ5aGYwWTJUb0o5RGpK?oc=5",
+   "utc": "2026-11-03T22:40:05Z",
    "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "Texas race results could kick AI trade while it's already down",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/texas-election-could-pressure-ai-data-center-trade.html",
+   "utc": "2026-11-03T22:38:18Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
+   "utc": "2026-11-03T22:26:20Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "US Stock Futures Climb on AI Rally as US Votes: Markets Wrap",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+   "utc": "2026-11-03T22:20:22Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Bedrock CEO on Future of Detroit Real Estate",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-03/bedrock-ceo-on-future-of-detroit-real-estate-video",
+   "utc": "2026-11-03T22:19:33Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+   "utc": "2026-11-03T22:14:44Z",
+   "tag": "BTC",
+   "breaking": false
   }
  ]
 }

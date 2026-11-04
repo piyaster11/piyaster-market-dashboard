@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T15:30:48Z",
- "level": 38,
+ "updated": "2026-11-04T21:56:49Z",
+ "level": 41,
  "band": "Watch",
  "components": [
   [
@@ -12,15 +12,15 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   28,
+   26,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   1,
-   3,
+   2,
+   6,
    15,
    "3 pts each"
   ],
@@ -90,6 +90,28 @@
  ],
  "headlines": [
   {
+   "title": "Birmingham-Delhi direct flights suspended over winter by Air India",
+   "source": "https://www.birmingham-now.co.uk/",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN0hPM18wR3pBdjB1Y0daME15TDQ2U3lET01xQmhySzFPS2tJWmJUbFE3NjRiOENGb3FhWDlxUzE0RlRsT3R2RkE4TlQ5MUs3Z2hZcl9JY2M5ekRFRWNXY2ZEUlJ1dXBXNHV3QWpXYmZCeXRKcmJTOTFsZmpZemVhdkxUSVlQVG55YjVNbTlXZWJNZlZmSlNJNC00WTc?oc=5",
+   "utc": "2026-11-04T19:38:48Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.9,
+   "airspace": true
+  },
+  {
+   "title": "Spot Crude Premiums Ease From Record Highs Despite Hormuz Closure",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzdSMlprV3F6U21zaVhVZDJIeDZuN0xoU1JKUmNGZ0M3UEgwVk5FSUpLOTZRcmhQc3p1MVRaM0V1ejNwUHl1RnlKSGszRU5kQk04VV9KR3luSE50T1ZqbXVkWjNJUGJ3LWNiVTh3bTNqZm9hbGpsZHFkaDRzN1l5VldIYmVGWm5NeVZwazlPNjhkUHNiYkJRcTJkaw?oc=5",
+   "utc": "2026-11-04T17:03:24Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
    "title": "BeOnd Is Still Grounded: All November Flights Suspended, Return to Malpensa Postponed. What Happened",
    "source": "The Flight Club",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Cdzh1bXdsUE9WUFdXMHlQWm12bXItbHN1NGtBMVg1R3Y3dk82WEFqS182RVRRMmNJanJCc1pVUDNnTXM2bmpPbVYzRWRDZDdMNWRna0tnaE9rUTZFY0FYVWR2T1hpenVuRDN5WHNCeXJhdw?oc=5",
@@ -97,7 +119,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": true
   },
   {
@@ -108,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -119,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -130,18 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "Woman Is On Her Drive Home. Then She Receives An Urgent Warning From Her Cybertruck: ‘On A Dark Road... Full DEFCON 1'",
-   "source": "Motor1.com",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGNqNVZIcGEyYklXYTZXcHNWTDVUTFY0Z25WX1ZGVnZJdTNJM3hYYXhzOWkzM0F3OGJkM2ZjTVdZMm5KVVRObFE2M0pMYUVYRUhXSVpBWWlyeTAxbllkOEprYUxZSFo2dW1FOVdOOXRMZXRPY0tvcWJnZEVET1BoVjdhdk9odw?oc=5",
-   "utc": "2026-11-03T21:14:37Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.2,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.1,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.0,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.5,
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -185,24 +196,13 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Fake nuclear alert sent to Ukrainians in suspected cyberattack",
-   "source": "Modern Ghana",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UQVpyVm0xVk5ySVJzU0FZZXFPNzlRYXo3bXdHb1hWOFRqM2s3Sm5MSUUxVFBqaDFVN3dvbXdKZEt1dFhCbDlmM05pVjFRSmotdEhlc3pweGFJSGFX0gFcQVVfeXFMTVRBWnJWbTFWTnJJUnNTQVllcU83OVFhejdtd0dvWFY4VGozazdKbkxJRTFUUGpoMVU3d29td0pkS3V0WEJsOWYzTmlWMVFKai10SGVzenB4YUlIYVc?oc=5",
-   "utc": "2026-11-02T21:00:00Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 7.2,
+   "score": 4.2,
    "airspace": false
   }
  ],
  "mil": {
   "count": 1,
-  "global": 433,
+  "global": 329,
   "baseline": 1.4,
   "samples": 34,
   "hist": [
@@ -500,6 +500,10 @@
    ],
    [
     "2026-11-04T15:30:48Z",
+    1
+   ],
+   [
+    "2026-11-04T21:56:49Z",
     1
    ]
   ],

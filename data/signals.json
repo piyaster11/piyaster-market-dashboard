@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T00:00:49Z",
- "level": 38,
+ "updated": "2026-11-04T06:36:35Z",
+ "level": 39,
  "band": "Watch",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   52,
+   45,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   1,
-   3,
+   0,
+   0,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
-   0,
+   2,
+   4,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -97,7 +97,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.6,
+   "airspace": false
+  },
+  {
+   "title": "EU paid extra €127 billion for fossil fuels due to Strait of Hormuz closure",
+   "source": "JFeed",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmxaTzR1R2x4S25maEc5S3RfVlM4Y1c3ZlNUX2VfZjB5cmhSNF9Gb19mOVFtTWZfVEE4clZmcXNRVVdMem9SMU56ejFuZUtJUS1LSVk0RWh6STN0UkdTQXVfWTJSNi1jMldOSklIUldiU3A4OWl6cUROa1lsazRNZFliTFRnM2czLU4xcDVydWdMTEh4Y1ViWVBrdW1kRGpBdnluZ0ZOVUU5ZkViN0NPalhsUk8?oc=5",
+   "utc": "2026-11-03T20:17:09Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -108,7 +119,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -119,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -130,7 +141,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.8,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -141,7 +152,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.1,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 7.9,
+   "score": 7.6,
    "airspace": false
   },
   {
@@ -185,26 +196,15 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Ukraine, Russia emergency apps hacked to send out false nuclear alerts",
-   "source": "The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2F6bmF3dTNpVWZSUndPTFlfdmhCQXB3b2stR3hvNlR3TjBUNGFVeVhSaVpWOHRVbnhGSDJaZlpPbEhqdzZNR2NraS1EWmhlMWtXZ2hNSEdIYTRoYndpcTdJTWFhcWw3emFwQTVaczlBOHpfbUdMM2c2OERuSFA1RktHSWJNUWxmb1E?oc=5",
-   "utc": "2026-11-02T15:27:42Z",
-   "tags": [
-    "NUKE"
-   ],
    "score": 4.6,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 263,
+  "count": 2,
+  "global": 121,
   "baseline": 1.4,
-  "samples": 35,
+  "samples": 34,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -493,6 +493,10 @@
    [
     "2026-11-04T00:00:49Z",
     1
+   ],
+   [
+    "2026-11-04T06:36:35Z",
+    2
    ]
   ],
   "box": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:00:34Z",
+ "updated": "2026-11-04T06:36:21Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (31)"
+  "Nikkei Asia": "ok (34)"
  },
  "items": [
   {
-   "title": "Iran War Doubles Egypt’s LNG Bill as Gas Output Keeps Falling",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Natural-Gas/Iran-War-Doubles-Egypts-LNG-Bill-as-Gas-Output-Keeps-Falling.html",
-   "utc": "2026-11-04T00:00:00Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Global Diesel Crunch Set to Last Well Into 2027",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Global-Diesel-Crunch-Set-to-Last-Well-Into-2027.html",
-   "utc": "2026-11-04T00:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Midterm elections 2026 live updates: First polls close as House, Senate control hang in balance",
+   "title": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-   "utc": "2026-11-03T23:57:28Z",
+   "utc": "2026-11-04T06:35:46Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
+   "title": "Democrats win the House and Senate. Here’s what it means for your finances.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+   "utc": "2026-11-04T06:27:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures fall as Democrats win big in midterms with traders betting they slow data center buildout: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "utc": "2026-11-03T23:54:26Z",
-   "tag": "STOCKS",
+   "utc": "2026-11-04T06:26:48Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
-   "utc": "2026-11-03T23:37:07Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves after hours: Arista Networks, CVS Health, AMD, Super Micro, Skyworks Solutions & more",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-after-hours-anet-amd-smci-swks.html",
-   "utc": "2026-11-03T23:30:34Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
-   "utc": "2026-11-03T23:28:01Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-   "utc": "2026-11-03T23:26:39Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "What voters said about their views on crypto",
+   "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
-   "utc": "2026-11-03T23:19:44Z",
+   "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
+   "utc": "2026-11-04T06:16:40Z",
    "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "UOB Profits Miss Estimates as Lower Trading Income Dampens Gains",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
-   "utc": "2026-11-03T23:14:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Latest Oil Market News and Analysis for Nov. 4",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
-   "utc": "2026-11-03T23:08:04Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
-   "utc": "2026-11-03T23:04:37Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "What happens if North Korea steals Wall Street's tokenized assets next",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
-   "utc": "2026-11-03T23:00:07Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Hong Kong Deal Boom Slows With Most IPOs Abandoned Since 2008",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008",
-   "utc": "2026-11-03T23:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Big Oil Puts Debt Reduction Ahead of New Investments",
+   "title": "Oil Prices Rebound as Middle East Supply Fears Return",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oil-Puts-Debt-Reduction-Ahead-of-New-Investments.html",
-   "utc": "2026-11-03T23:00:00Z",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
+   "utc": "2026-11-04T06:15:00Z",
    "tag": "OIL",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "What analysts are telling us while Apple’s stock falls after earnings report",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-   "utc": "2026-11-03T22:48:00Z",
-   "tag": "STOCKS",
-   "breaking": false
+   "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+   "utc": "2026-11-04T06:06:04Z",
+   "tag": "BTC",
+   "breaking": true
   },
   {
-   "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
-   "utc": "2026-11-03T22:45:00Z",
-   "tag": "STOCKS",
-   "breaking": false
+   "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+   "utc": "2026-11-04T05:53:30Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
-   "title": "Investors ready for possible shake-up in Congress as US awaits election results",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzBTeXRWM3ktaW9LQUFHVVg5V2JZMWZ3OG5LaWUtNGpVMmN2bnQ4RTJmaWVVaGctdnJZTkFZeWdjbG9JUUE4NFdFalFyQ2tZRFotZERxRkJQcHVtS1lwUGhVc0xJZnVqYnF4ZllqcDJFUkJxcEd2QTF0RGFERW1oSkFENEV0V3VQMEFabVkwOHcwTV9lVWNRZ3JmbDVDOUQ5aGYwWTJUb0o5RGpK?oc=5",
-   "utc": "2026-11-03T22:40:05Z",
+   "title": "European Stocks Set to Dip as Democrat Sweep Stokes AI Worries",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
+   "utc": "2026-11-04T05:51:38Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "ASEAN auto sales rose 13% in Q3 on EV and hybrid demand in key markets",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHM2cnpXb2JpUElRS1hZemlKX1VEQUtiRzNTUUJMSVBCYjFkdnItaVNFMnBQaDRvVGgwRjBsMUZPTkMyR2tRRF9JVGg0WWVUd3c0WWpyc0FsU1pGd05YLS1IU0hwbEhVeVNYWVY1V2dyb1FCNXRHZ215ZF9CbHJRSEFGTFc4c1EzQjd0WGluQm81dzdzc2gydm03S3FyVGx1M2p3NnBsaTRfWVhxLWVXcENUV1k?oc=5",
+   "utc": "2026-11-04T05:28:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Texas race results could kick AI trade while it's already down",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/texas-election-could-pressure-ai-data-center-trade.html",
-   "utc": "2026-11-03T22:38:18Z",
+   "title": "Thai business group raises 2026 growth forecast",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3348540/thai-business-group-raises-2026-growth-forecast",
+   "utc": "2026-11-04T05:18:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+   "utc": "2026-11-04T05:14:12Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "South Korea's ruling party wants to delay its crypto tax again",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+   "utc": "2026-11-04T05:09:40Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
+   "utc": "2026-11-04T04:55:11Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
+   "utc": "2026-11-04T04:48:16Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Japanese Stocks Sink as US Midterm Results Hit Tech Shares",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/japanese-stocks-sink-as-us-midterm-results-hit-tech-shares",
+   "utc": "2026-11-04T04:45:41Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDlRV3hVRTVwNFI1djM0X2k3dnhLaVM3ZG9aVEdGYU5FN2ZKOWdYR0xFNUdOZ2tiZGJ1ZmhwX3F1Wi1MYWo4OVBKaFRkbVZzVjQ2S0xUQmNOVHo1SGstOE1ZYUpFZWswUlFienF0MDRZSTRwZzRmNE9aYzRCNmVFeWFJRHNjMERCaTY5eXdyanhFVTlabzk3bHV3NTBUMHF0NE5xdmRUYlFQX0wyWlhLdnQ5em9Wc1hF?oc=5",
+   "utc": "2026-11-04T04:43:00Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "AMD forecasts quarterly revenue above estimates as data-center revenue hits record",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM01ic0VHVkhaaTh2RV9KVV8zNHFCNW1TZnRlc29mMDg5T200aGRFZkdhd0JtYmtiZGt4LVJRdTdzWlV4dnhnRk9WVW5NWE1QWEFXSmhnZFVDNHpUVk94b0NFOEt4MXNLRWFmYTQzZnlZN3VvTGNtVzZFNnFHQVJ6NWlISXlsNFFBYnVVMnhXTVlOUHE0MWk2TWhYUFgtQ2Yzc1JzVHVRNmo5RmpvQ3Qwc3E3bkJVQTRnQ2JIX2x5NVg?oc=5",
-   "utc": "2026-11-03T22:27:07Z",
+   "title": "Palm Oil Sinks to Lowest Since June as Stockpile Concerns Mount",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/palm-oil-sinks-to-lowest-since-june-as-stockpile-concerns-mount",
+   "utc": "2026-11-04T04:38:43Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Tesla, SpaceX Shares Take Early Hit as Midterm Blue Wave Unfolds",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/tesla-spacex-shares-take-early-hit-as-midterm-blue-wave-unfolds",
+   "utc": "2026-11-04T04:28:06Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Bain Capital Chair Expects $30 Billion of Exits This Year",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-04/bain-capital-chair-expects-30b-of-exits-this-year-video",
+   "utc": "2026-11-04T04:26:04Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "One Indian killed in attack on ship near Oman, Indian foreign ministry says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2NuSE5mVy01YUNOTlhhdTA0UEo5ZEVKeFZJeVE2NDhKZzlVUFFKNjhSY3loRU5HTlhmS05jcmdfQWdXbmExTDBjTUhoek16elpLc3lJYkxoRzU2dU85WC1XYllVeXoxRndsYno4bU9XR1FtczVZa1dzQ3BTa2VVbW1CRFBZX3FDa015TGZYNDFSTHllYjA4d1hVeG5uM3JxS0hHWnFLZUhpSkdWNXdaWmFaSTIzWUU?oc=5",
+   "utc": "2026-11-04T04:23:34Z",
+   "tag": "WAR",
    "breaking": false
   }
  ]

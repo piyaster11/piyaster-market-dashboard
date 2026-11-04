@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T06:36:35Z",
- "level": 39,
+ "updated": "2026-11-04T15:30:48Z",
+ "level": 38,
  "band": "Watch",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   45,
+   28,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   0,
-   0,
+   1,
+   3,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
-   4,
+   1,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,10 +90,43 @@
  ],
  "headlines": [
   {
-   "title": "Shafaq News..Iran exempts Iraq, three countries from Hormuz restrictions",
-   "source": "شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFpvU3dvTTU4SzV6QmtTTUJUdWR1ZklTSldjcjNRTVdSNmg4WE1zalVYVG8zV0ZrTzRzNHYtcEZMTHNZdWJaYmhCeHI4RmRBMjZ3MlRmWG5sbXk5eGpFeWFBYVpjOUstVVdVYldSUFJkS0dLWGt1dWV1OWEwT2FhR2NTcDJ2aHhhdmVDQXdxOG1fMUZENGc0?oc=5",
-   "utc": "2026-11-03T20:49:05Z",
+   "title": "BeOnd Is Still Grounded: All November Flights Suspended, Return to Malpensa Postponed. What Happened",
+   "source": "The Flight Club",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Cdzh1bXdsUE9WUFdXMHlQWm12bXItbHN1NGtBMVg1R3Y3dk82WEFqS182RVRRMmNJanJCc1pVUDNnTXM2bmpPbVYzRWRDZDdMNWRna0tnaE9rUTZFY0FYVWR2T1hpenVuRDN5WHNCeXJhdw?oc=5",
+   "utc": "2026-11-04T13:46:05Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.9,
+   "airspace": true
+  },
+  {
+   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
+   "source": "Addis Standard",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
+   "utc": "2026-11-04T08:53:31Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "'Big concern': How the Iran war and Strait of Hormuz closure could drive up prices for helium, fertilizer and other goods",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUEwbGQzcGczbVRKcXRoNHB3QmtLMENVMzFfd0xnWmN3aWRILU5CRTRWR0pFdnhQdGFsLXJwa01WR2N1S0JCQUxxdFRkRGZHaWFlakYxMk1YdDBCRDFXQjhDeFNMZmlyWnFsVjFaY21FZUdNdDg1RXdKM1JSb19jVVFTVTJFREFfRFN3TTRVbzNpY21mYXdZVmhwYl9wM0JrTGRvLUJ30gGrAUFVX3lxTE13aGdnRGlNem9jTGFaMTYwZjc3SVZ3bGFhYVhQVnVXVVJQZ2lzVHFqT3VONnBFbWpGVUw2VE52U0xSTmozSGJSM2d6dEF6Z2FiZjF3VWdMdHRUcWRYYjhKRjltNGVNeElDNGY2UVlvLVZRUkJrZGxvTERNRDF0MUk1dTRUWWFMNnpTWTM0b1BHU0JLeTBBZVJON2s2dE5jblB5Nzl5dEFiMnNPcw?oc=5",
+   "utc": "2026-11-04T07:59:14Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "Hormuz Closure Triggers Slump, Then Partial Rebound in Global Refining, EIA Says",
+   "source": "energynews.pro",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjdpclhzV0VSTTZGY1p6Nk1vOHZPNF81VFlVV2R5NUR0WF9jdUxWRmVOcHRiV0VGc0JuaEktbzZjODA0a0FlaU9zbGZ2Z1BRYWxXVmFwd2Q0aDdjeWdPOE45Z29hclZjQnBFeTc4a0ZPZkR6THd6SVQ2bHNxdzNWdkpUcnRrSW1YeThQZlFpWnRieEJVTHJJdGVzajFTcGduT1V3MG5mOA?oc=5",
+   "utc": "2026-11-04T07:00:43Z",
    "tags": [
     "HORMUZ"
    ],
@@ -101,36 +134,14 @@
    "airspace": false
   },
   {
-   "title": "EU paid extra €127 billion for fossil fuels due to Strait of Hormuz closure",
-   "source": "JFeed",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmxaTzR1R2x4S25maEc5S3RfVlM4Y1c3ZlNUX2VfZjB5cmhSNF9Gb19mOVFtTWZfVEE4clZmcXNRVVdMem9SMU56ejFuZUtJUS1LSVk0RWh6STN0UkdTQXVfWTJSNi1jMldOSklIUldiU3A4OWl6cUROa1lsazRNZFliTFRnM2czLU4xcDVydWdMTEh4Y1ViWVBrdW1kRGpBdnluZ0ZOVUU5ZkViN0NPalhsUk8?oc=5",
-   "utc": "2026-11-03T20:17:09Z",
+   "title": "Woman Is On Her Drive Home. Then She Receives An Urgent Warning From Her Cybertruck: ‘On A Dark Road... Full DEFCON 1'",
+   "source": "Motor1.com",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGNqNVZIcGEyYklXYTZXcHNWTDVUTFY0Z25WX1ZGVnZJdTNJM3hYYXhzOWkzM0F3OGJkM2ZjTVdZMm5KVVRObFE2M0pMYUVYRUhXSVpBWWlyeTAxbllkOEprYUxZSFo2dW1FOVdOOXRMZXRPY0tvcWJnZEVET1BoVjdhdk9odw?oc=5",
+   "utc": "2026-11-03T21:14:37Z",
    "tags": [
-    "HORMUZ"
+    "NUKE"
    ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "The Strait of Hormuz closure has cost Europe an extra $142 billion for the same energy it was already buying",
-   "source": "Fortune",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUpnMUY0NURYRkpSdzMxYzZDMHRZR2V2dGxnc0loSjJJYVE0LXl5Ni1qT3k1MmtsQlhwYV9ZNThBSGJiSm1fLWdWa0tCSGdQVktjdG9DUWpHRUU2SnI1SVptcUpDX2w4Q1lkV3NLbUpobjM0TnkwNDBCd3Y2aEFQZlQ0ZkhEX0NEZ19iWk5B?oc=5",
-   "utc": "2026-11-03T19:55:00Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "Von der Leyen: The Closure of the Strait of Hormuz Has Cost Europe €127 Billion ᐉ News from Fakti.bg - World",
-   "source": "Fakti.bg",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXdfaG53WU8zUVc4R3hPZkZ6ZW1CNW55X2s1ZXRTTzFOYTNUNlhtQnczeS1WVm52SnJZNl85alBnV0QxZDNxaktoLVhwdUo4a2ZiUXA4WkEtRWNtcWU2M215bXFhRzRnRllUVDZZdjVBb0RaVUdEQWxJUHM0enV3UGlCaC0wRDdibURTNnZpSmNFd2h0Wjh2NmxJVmxTdjV3WDgyTlJfN0RKOVNlZW9abw?oc=5",
-   "utc": "2026-11-03T19:03:00Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.5,
+   "score": 4.2,
    "airspace": false
   },
   {
@@ -141,7 +152,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.5,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.3,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.9,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.8,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -185,24 +196,13 @@
    "tags": [
     "NUKE"
    ],
-   "score": 7.6,
-   "airspace": false
-  },
-  {
-   "title": "Ukrainian reacts to nuclear alert app hack",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44TDlMOUlxV3pYVFJJYzNGd2FGT3YwN1Qtb2l1VmpDQ0s0NWV4YzBYdGVISnBvb3ZmTHJmYVdqT3p4ZlZKRzBhMzRIVHF2ZC1tZVc1VkxEdDRsMjQ?oc=5",
-   "utc": "2026-11-02T20:50:13Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.6,
+   "score": 7.2,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 121,
+  "count": 1,
+  "global": 433,
   "baseline": 1.4,
   "samples": 34,
   "hist": [
@@ -497,6 +497,10 @@
    [
     "2026-11-04T06:36:35Z",
     2
+   ],
+   [
+    "2026-11-04T15:30:48Z",
+    1
    ]
   ],
   "box": [

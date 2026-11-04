@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:36:21Z",
+ "updated": "2026-11-04T15:30:29Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (34)"
+  "Nikkei Asia": "ok (32)"
  },
  "items": [
   {
-   "title": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+   "title": "Brent Falls to $100 as Traders Bet on a U.S.-Iran Deal",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Falls-to-100-as-Traders-Bet-on-a-US-Iran-Deal.html",
+   "utc": "2026-11-04T15:30:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "10-year Treasury yield is little changed as traders mull over Democrats' midterm victories",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-   "utc": "2026-11-04T06:35:46Z",
-   "tag": "MARKETS",
+   "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+   "utc": "2026-11-04T15:28:54Z",
+   "tag": "FED",
    "breaking": true
   },
   {
-   "title": "Democrats win the House and Senate. Here’s what it means for your finances.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-   "utc": "2026-11-04T06:27:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stock futures fall as Democrats win big in midterms with traders betting they slow data center buildout: Live updates",
+   "title": "Dow rallies 1,000 points as political risk eases after resounding Democratic victory in U.S. midterms: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "utc": "2026-11-04T06:26:48Z",
-   "tag": "AI",
+   "utc": "2026-11-04T15:28:03Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-   "utc": "2026-11-04T06:16:40Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Oil Prices Rebound as Middle East Supply Fears Return",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
-   "utc": "2026-11-04T06:15:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
-   "utc": "2026-11-04T06:06:04Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+   "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-   "utc": "2026-11-04T05:53:30Z",
+   "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+   "utc": "2026-11-04T15:26:08Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Midterm elections 2026 live updates: House Speaker Mike Johnson says he won't run for minority leader after Democrats flip Congress",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+   "utc": "2026-11-04T15:25:11Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "European Stocks Set to Dip as Democrat Sweep Stokes AI Worries",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
-   "utc": "2026-11-04T05:51:38Z",
-   "tag": "AI",
+   "title": "Prologis CEO says warehouse demands are shifting fast. Here's how he's keeping up",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/prologis-ceo-says-warehouse-demands-are-shifting-how-hes-keeping-up.html",
+   "utc": "2026-11-04T15:22:59Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "ASEAN auto sales rose 13% in Q3 on EV and hybrid demand in key markets",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHM2cnpXb2JpUElRS1hZemlKX1VEQUtiRzNTUUJMSVBCYjFkdnItaVNFMnBQaDRvVGgwRjBsMUZPTkMyR2tRRF9JVGg0WWVUd3c0WWpyc0FsU1pGd05YLS1IU0hwbEhVeVNYWVY1V2dyb1FCNXRHZ215ZF9CbHJRSEFGTFc4c1EzQjd0WGluQm81dzdzc2gydm03S3FyVGx1M2p3NnBsaTRfWVhxLWVXcENUV1k?oc=5",
-   "utc": "2026-11-04T05:28:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Thai business group raises 2026 growth forecast",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3348540/thai-business-group-raises-2026-growth-forecast",
-   "utc": "2026-11-04T05:18:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
-   "utc": "2026-11-04T05:14:12Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "South Korea's ruling party wants to delay its crypto tax again",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
-   "utc": "2026-11-04T05:09:40Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
-   "utc": "2026-11-04T04:55:11Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
-   "utc": "2026-11-04T04:48:16Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Japanese Stocks Sink as US Midterm Results Hit Tech Shares",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/japanese-stocks-sink-as-us-midterm-results-hit-tech-shares",
-   "utc": "2026-11-04T04:45:41Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDlRV3hVRTVwNFI1djM0X2k3dnhLaVM3ZG9aVEdGYU5FN2ZKOWdYR0xFNUdOZ2tiZGJ1ZmhwX3F1Wi1MYWo4OVBKaFRkbVZzVjQ2S0xUQmNOVHo1SGstOE1ZYUpFZWswUlFienF0MDRZSTRwZzRmNE9aYzRCNmVFeWFJRHNjMERCaTY5eXdyanhFVTlabzk3bHV3NTBUMHF0NE5xdmRUYlFQX0wyWlhLdnQ5em9Wc1hF?oc=5",
-   "utc": "2026-11-04T04:43:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Palm Oil Sinks to Lowest Since June as Stockpile Concerns Mount",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/palm-oil-sinks-to-lowest-since-june-as-stockpile-concerns-mount",
-   "utc": "2026-11-04T04:38:43Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Tesla, SpaceX Shares Take Early Hit as Midterm Blue Wave Unfolds",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/tesla-spacex-shares-take-early-hit-as-midterm-blue-wave-unfolds",
-   "utc": "2026-11-04T04:28:06Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Bain Capital Chair Expects $30 Billion of Exits This Year",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-04/bain-capital-chair-expects-30b-of-exits-this-year-video",
-   "utc": "2026-11-04T04:26:04Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "One Indian killed in attack on ship near Oman, Indian foreign ministry says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2NuSE5mVy01YUNOTlhhdTA0UEo5ZEVKeFZJeVE2NDhKZzlVUFFKNjhSY3loRU5HTlhmS05jcmdfQWdXbmExTDBjTUhoek16elpLc3lJYkxoRzU2dU85WC1XYllVeXoxRndsYno4bU9XR1FtczVZa1dzQ3BTa2VVbW1CRFBZX3FDa015TGZYNDFSTHllYjA4d1hVeG5uM3JxS0hHWnFLZUhpSkdWNXdaWmFaSTIzWUU?oc=5",
-   "utc": "2026-11-04T04:23:34Z",
+   "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+   "utc": "2026-11-04T15:17:00Z",
    "tag": "WAR",
-   "breaking": false
+   "breaking": true
+  },
+  {
+   "title": "Datadog’s stock extends steep declines in the wake of earnings",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+   "utc": "2026-11-04T15:16:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
+   "utc": "2026-11-04T15:13:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Dozens dead and missing after Russian strike on Ukrainian aid centre, officials say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw?oc=5",
+   "utc": "2026-11-04T15:07:29Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Wall Street rallies after Democrats win Congress; data center stocks slide",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
+   "utc": "2026-11-04T15:05:51Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+   "utc": "2026-11-04T15:05:28Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+   "utc": "2026-11-04T15:05:19Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Democratic sweep adds new twist to markets' Iran, AI, and debt worries",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
+   "utc": "2026-11-04T15:03:04Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Three things that explain what’s changing with Obamacare in 2027",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
+   "utc": "2026-11-04T15:03:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Caitlin Clark signs as first-ever brand partner with Dick's and Foot Locker",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/caitlin-clark-signs-as-first-brand-partner-with-dicks-foot-locker-.html",
+   "utc": "2026-11-04T15:00:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "US Service Sector Grows at the Slowest Pace in Three Months",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/us-service-sector-grows-at-the-slowest-pace-in-three-months",
+   "utc": "2026-11-04T15:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Shein Invests €500 Million in Europe as Customs Rules Tighten",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/shein-invests-500-million-in-europe-as-customs-rules-tighten",
+   "utc": "2026-11-04T15:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Russia and Ukraine Head to White House for Melania Trump-Led Talks",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Geopolitics/Africa/Russia-and-Ukraine-Head-to-White-House-for-Melania-Trump-Led-Talks.html",
+   "utc": "2026-11-04T15:00:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
+   "utc": "2026-11-04T14:59:00Z",
+   "tag": "STOCKS",
+   "breaking": true
   }
  ]
 }

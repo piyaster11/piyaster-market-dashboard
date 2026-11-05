@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:56:25Z",
+ "updated": "2026-11-05T00:20:53Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (30)"
+  "Nikkei Asia": "ok (28)"
  },
  "items": [
   {
-   "title": "What Republicans' huge loss means for Trump",
+   "title": "Stock futures are little changed after big rally following Democrats' decisive midterm wins",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-   "utc": "2026-11-04T21:50:05Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Trump tells CNBC he can work with Dems on ‘many more things than people understand’: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
-   "utc": "2026-11-04T21:49:41Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Every stock that moved because of the election",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/every-stock-thats-moving-as-a-result-of-the-election.html",
-   "utc": "2026-11-04T21:48:51Z",
+   "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+   "utc": "2026-11-05T00:20:31Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Figma’s stock falls as investors worry that AI momentum is coming at a high price",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
-   "utc": "2026-11-04T21:48:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+   "title": "Trump committee hearing on Fed Governor Lisa Cook rescheduled to Dec. 14",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
-   "utc": "2026-11-04T21:47:22Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
-   "utc": "2026-11-04T21:38:33Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on smartphone sales",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
-   "utc": "2026-11-04T21:36:59Z",
-   "tag": "STOCKS",
+   "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+   "utc": "2026-11-05T00:18:54Z",
+   "tag": "FED",
    "breaking": true
   },
   {
    "title": "Snap shares fall over 10% on third-quarter revenue miss",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
-   "utc": "2026-11-04T21:36:58Z",
+   "utc": "2026-11-05T00:14:47Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
-   "utc": "2026-11-04T21:33:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
-   "utc": "2026-11-04T21:33:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "What was really behind Wednesday's monster rally? Trump quickly making peace",
+   "title": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
-   "utc": "2026-11-04T21:32:01Z",
+   "link": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
+   "utc": "2026-11-05T00:04:36Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-   "utc": "2026-11-04T21:30:00Z",
+   "title": "Butane’s Perfect Storm Sends Prices to Decade Highs",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Natural-Gas/Butanes-Perfect-Storm-Sends-Prices-to-Decade-Highs.html",
+   "utc": "2026-11-05T00:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
-   "utc": "2026-11-04T21:29:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Toyota to bring Celica back to premier rally racing after 32-year break",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaFlqRXJsUllKellFTWlzanFYQzBRNzlyY25Mall6ajRsZFFObEduUjdVcTl4MWN6MFlXdDhiTm00Ukw4b0NZZ3RwaXNEN19GRnBhRUxaUnRFbmZEcDVyOTc2VGdTUk5FRzVPUGlvcWJlOFZfVlZoT0JfTGZuODZxY2hWSHllaENqZjNiRFlIUzBuOGR6RlA4TW9XVEtKaFVIa2RmSjVnd2NzSldfT0R1bkxCZGg5UDQ?oc=5",
-   "utc": "2026-11-04T21:29:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-   "source": "CNBC Markets",
-   "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-   "utc": "2026-11-04T21:18:44Z",
+   "title": "Gold Holds Above $4,000 as Dollar, Yields Fall on Midterm Result",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result",
+   "utc": "2026-11-04T23:58:33Z",
    "tag": "FED",
    "breaking": true
   },
   {
-   "title": "Apple cements its status as tech’s biggest heavyweight with the stock’s best day in over a year",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/apple-cements-its-status-as-techs-biggest-heavyweight-with-the-stocks-best-day-in-over-a-year-c7fd9e6f?mod=mw_rss_topstories",
-   "utc": "2026-11-04T21:17:00Z",
-   "tag": "STOCKS",
+   "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
+   "utc": "2026-11-04T23:54:37Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates",
+   "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+   "utc": "2026-11-04T23:45:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "utc": "2026-11-04T21:16:05Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have $500 in savings. What politician speaks for me?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-   "utc": "2026-11-04T21:16:00Z",
+   "link": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
+   "utc": "2026-11-04T23:44:18Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Hospital stocks rallied while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
-   "utc": "2026-11-04T21:10:00Z",
+   "title": "Australian Chain David Jones Collapses After Almost 200 Years",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years",
+   "utc": "2026-11-04T23:44:05Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+   "utc": "2026-11-04T23:38:11Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Billionaires aren’t off the hook for higher taxes, even if they did dodge California’s wealth tax",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/billionaires-arent-off-the-hook-for-higher-taxes-even-if-they-did-dodge-californias-wealth-tax-a73f9045?mod=mw_rss_topstories",
-   "utc": "2026-11-04T21:10:00Z",
+   "title": "Asian Markets React as Trump Cools Iran Fears",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-04/asian-markets-react-as-trump-cools-iran-fears-video",
+   "utc": "2026-11-04T23:31:57Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
+   "utc": "2026-11-04T23:23:03Z",
    "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+   "utc": "2026-11-04T23:17:56Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "TAT targets European market to boost tourism revenue by 5-7% next year",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3348941/tat-targets-european-market-to-boost-tourism-revenue-by-57-next-year",
+   "utc": "2026-11-04T23:16:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Democrats take Congress in a blue wave. Here's what it means for your money",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+   "utc": "2026-11-04T23:11:48Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Nov. 5",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5",
+   "utc": "2026-11-04T23:08:01Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+   "utc": "2026-11-04T23:02:39Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Malaysia Set to Hold Rates on Strong Growth, Signal Hike in 2027",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/malaysia-set-to-hold-rates-on-strong-growth-signal-hike-in-2027",
+   "utc": "2026-11-04T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Upbeat Earnings Bolster Case for India Stocks as Asia Wavers",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/upbeat-earnings-bolster-case-for-india-stocks-as-asia-wavers",
+   "utc": "2026-11-04T23:00:00Z",
+   "tag": "STOCKS",
+   "breaking": false
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:56:49Z",
+ "updated": "2026-11-05T00:21:15Z",
  "level": 41,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   26,
+   27,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   0,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
+   "utc": "2026-11-04T22:16:46Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
    "title": "Birmingham-Delhi direct flights suspended over winter by Air India",
    "source": "https://www.birmingham-now.co.uk/",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN0hPM18wR3pBdjB1Y0daME15TDQ2U3lET01xQmhySzFPS2tJWmJUbFE3NjRiOENGb3FhWDlxUzE0RlRsT3R2RkE4TlQ5MUs3Z2hZcl9JY2M5ekRFRWNXY2ZEUlJ1dXBXNHV3QWpXYmZCeXRKcmJTOTFsZmpZemVhdkxUSVlQVG55YjVNbTlXZWJNZlZmSlNJNC00WTc?oc=5",
@@ -97,18 +108,18 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": true
   },
   {
-   "title": "Spot Crude Premiums Ease From Record Highs Despite Hormuz Closure",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzdSMlprV3F6U21zaVhVZDJIeDZuN0xoU1JKUmNGZ0M3UEgwVk5FSUpLOTZRcmhQc3p1MVRaM0V1ejNwUHl1RnlKSGszRU5kQk04VV9KR3luSE50T1ZqbXVkWjNJUGJ3LWNiVTh3bTNqZm9hbGpsZHFkaDRzN1l5VldIYmVGWm5NeVZwazlPNjhkUHNiYkJRcTJkaw?oc=5",
-   "utc": "2026-11-04T17:03:24Z",
+   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
+   "source": "Addis Standard",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
+   "utc": "2026-11-04T14:29:40Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 4.8,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -119,19 +130,8 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": true
-  },
-  {
-   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
-   "source": "Addis Standard",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
-   "utc": "2026-11-04T08:53:31Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.5,
-   "airspace": false
   },
   {
    "title": "'Big concern': How the Iran war and Strait of Hormuz closure could drive up prices for helium, fertilizer and other goods",
@@ -141,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.4,
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -152,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.4,
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -163,7 +163,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -174,7 +174,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -185,7 +185,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.3,
+   "score": 4.2,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.2,
+   "score": 4.1,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 329,
-  "baseline": 1.4,
-  "samples": 34,
+  "count": 0,
+  "global": 282,
+  "baseline": 1.5,
+  "samples": 33,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -505,6 +505,10 @@
    [
     "2026-11-04T21:56:49Z",
     1
+   ],
+   [
+    "2026-11-05T00:21:15Z",
+    0
    ]
   ],
   "box": [

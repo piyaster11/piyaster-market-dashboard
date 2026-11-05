@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T02:31:45Z",
- "level": 41,
- "band": "Watch",
+ "updated": "2026-11-05T11:05:45Z",
+ "level": 54,
+ "band": "Alert",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -19,15 +19,15 @@
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   2,
-   6,
+   3,
+   9,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
-   0,
+   5,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,26 +90,59 @@
  ],
  "headlines": [
   {
-   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
-   "utc": "2026-11-04T22:16:46Z",
+   "title": "FPL Gameweek 10: Players with the best chance of DefCon points",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2pjS29aeTdHLUhfeEF0VkJ5bC1mNXdTTFpOR1RlMHR3YndsU3FkTW1QUWNjcDBfbm1DLUwtTERQYVoyQUIwRE00WGhZdUJGdG9QandfNnU1MEpJZXUxM3BsWTZVWVBINlpvWlNha3Vrbmh0OFg1Y0hCZk5tY0djdkRzeVdyc2ZCMFZSOEJ1RGZXajF6SUhaeDBHU2M0SThfUTdQWXNaSFpOWW5FaGUzTw?oc=5",
+   "utc": "2026-11-05T10:14:02Z",
    "tags": [
-    "EVAC"
+    "NUKE"
    ],
-   "score": 8.8,
+   "score": 5.0,
    "airspace": false
   },
   {
-   "title": "Birmingham-Delhi direct flights suspended over winter by Air India",
-   "source": "https://www.birmingham-now.co.uk/",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN0hPM18wR3pBdjB1Y0daME15TDQ2U3lET01xQmhySzFPS2tJWmJUbFE3NjRiOENGb3FhWDlxUzE0RlRsT3R2RkE4TlQ5MUs3Z2hZcl9JY2M5ekRFRWNXY2ZEUlJ1dXBXNHV3QWpXYmZCeXRKcmJTOTFsZmpZemVhdkxUSVlQVG55YjVNbTlXZWJNZlZmSlNJNC00WTc?oc=5",
-   "utc": "2026-11-04T19:38:48Z",
+   "title": "Iran Grants Safe Passage In Hormuz To Four Nations, including India & China",
+   "source": "Marine Insight",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOVdXVk1UVE9iRGpTZHVrOW5uVFdTSUdvVzJoaFFERkd1TVBDcTNvcVVoNFNFXzBfSFBFUEhkaldnSXg5NUgyUXdUVEY1dVNLWVo5OXlKcDBQcnB4WG5VeVllZzUweTFHZEhqMHZPSVZGNXQyampzejBDNUJhQk5peFBycTQxRXNZUzlCUUQxdzlyUEF3eGpqUjl3MzJvSEFCaXlPWHNn?oc=5",
+   "utc": "2026-11-05T09:49:09Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Watch Viral Video: Tornado Turns Brazil’s Chapecó Airport Into a Disaster Zone! 126 km/h Winds Rip Apart Hangars, Shatter Terminal Glass and All Flights Suspended",
+   "source": "The Sunday Guardian",
+   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOT21LTmNjQ3pkOXotSEpGeDFUOFVaSkMwV2FDQjFxdUZBLV9aYk9vcU1ET1BFTGh0YWFrSWFyTU5aMWRMTjFHZGtiUmtzY0t1ZFJvcU1ZM1VGV0Ixc0w5UkxOYTVvdllid2h4UUxVTDhkX3dYS0FUNmE0N1VCbU50YlBWWmxGNU96NDNYUENxMERRb1RJSlloenpXVDhqZ3VLQkhqdXhLLUdwRERwM1lPSEFSMDBTcU9NQ1hSR0d0ZFZpUmZIaXBYZWdkVTVPN2tYQ09vVFBUNVRRVWJqVjJ1dnpSV0Rhc2xKNlI2WTZsZ3M2b0lldW1DZ1EtYnR3NS1sUXl3QUJkZy1qZnd5MF9jdzlWa1MtM0l5bDdwRmZIcmoxenR1T2Q1N2dUMGVQQXloSXfSAbICQVVfeXFMTk9tS05jY0N6ZDl6LUhKRngxVDhVWkpDMFdhQ0IxcXVGQS1fWmJPb3FNRE9QRUxodGFha0lhck1OWjFkTE4xR2RrYlJrc2NLdWRSb3FNWTNVRldCMXNMOVJMTmE1b3ZZYndoeFFMVUw4ZF93WEtBVDZhNDdVQm1OdGJQVlpsRjVPejQzWFBDcTBEUW9USUpZaHp6V1Q4amd1S0JIanV4Sy1HcEREcDNZT0hBUjAwU3FPTUNYUkdHdGRWaVJmSGlwWGVnZFU1TzdrWENPb1RQVDVUUVVialYydXZ6UldEYXNsSjZSNlk2bGdzNm9JZXVtQ2dRLWJ0dzUtbFF5d0FCZGctamZ3eTBfY3c5VmtTLTNJeWw3cEZmSHJqMXp0dU9kNTdnVDBlUEF5aEl3?oc=5",
+   "utc": "2026-11-05T09:29:02Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.7,
+   "score": 4.9,
    "airspace": true
+  },
+  {
+   "title": "Birmingham-Delhi direct flights suspended over winter by Air India",
+   "source": "The Worcester News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdU5pV0Yxam9hTDktWWVBdjNmRjl5Y3VJVmVHd3F4VVRrV1U0YW1VVmQzRkk4OWgzczVYdzNzVWQ5c2J2a3NEN1RRVTdYbTdJdjlkWTZZLS1ZUFJiMzdVR19uVXJHOFFUNVJyNnBwanBpZlJYWFdPZHFzazByd2FZLXJteDFfWXNRLWRHbVljZDd2cUpWcjJfbHJvcw?oc=5",
+   "utc": "2026-11-05T09:14:30Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.9,
+   "airspace": true
+  },
+  {
+   "title": "Hormuz Closure Extends Well Beyond Oil to Threaten Chinese EVs: Russell",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVk1OHZNb2o2dEUxTnQ0S2sxbUpRSklhSV9QMm1qT1otUFV6QTFadmdzQWFTX3dGQkpQVGpWZmd3UEFXOXNtQmxGNDFYOE9Fc3NwbnNuVV9kVGN0YzRjN0FWcWtjOExFT2pPc1IzMjA5Sl9URGV2aUkwYzZ0S2g0bDlMdGZLYUctLUxRUlJLLTFBeXBqNjdsUkJObng1MWhtYzVj?oc=5",
+   "utc": "2026-11-04T22:34:44Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.5,
+   "airspace": false
   },
   {
    "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
@@ -119,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -130,40 +163,18 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.5,
+   "score": 4.1,
    "airspace": true
   },
   {
-   "title": "'Big concern': How the Iran war and Strait of Hormuz closure could drive up prices for helium, fertilizer and other goods",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUEwbGQzcGczbVRKcXRoNHB3QmtLMENVMzFfd0xnWmN3aWRILU5CRTRWR0pFdnhQdGFsLXJwa01WR2N1S0JCQUxxdFRkRGZHaWFlakYxMk1YdDBCRDFXQjhDeFNMZmlyWnFsVjFaY21FZUdNdDg1RXdKM1JSb19jVVFTVTJFREFfRFN3TTRVbzNpY21mYXdZVmhwYl9wM0JrTGRvLUJ30gGrAUFVX3lxTE13aGdnRGlNem9jTGFaMTYwZjc3SVZ3bGFhYVhQVnVXVVJQZ2lzVHFqT3VONnBFbWpGVUw2VE52U0xSTmozSGJSM2d6dEF6Z2FiZjF3VWdMdHRUcWRYYjhKRjltNGVNeElDNGY2UVlvLVZRUkJrZGxvTERNRDF0MUk1dTRUWWFMNnpTWTM0b1BHU0JLeTBBZVJON2s2dE5jblB5Nzl5dEFiMnNPcw?oc=5",
-   "utc": "2026-11-04T07:59:14Z",
+   "title": "Saudi Arabia Under Fire: Houthis Target Oil Refinery, Defence Ministry as US Orders Diplomatic Evacuation",
+   "source": "Newsmakers",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOV83RkRrQ1BaVndMQUIzWFZIdkt6TFJtajBvVmhYZjJqQjVvaEc4THdNZFRJNl9CRmY3SmRBakV3b0x6a0tMa25iRXFVQ0xyQjJCMlM3VjdWQ3h2U2V2VU9Obk9zeTdQTU1SYWozMlNuREp1N3IzMzBGcFpBT2lYR0tGM2hUdUR4RVZSLVVsTmZTM2hWSEs0Y3ZnY3VyUUs3QlpKZF90aHZXZGpzd0pDN2RiWGJRdUVwLXozWnAtSDlwVU5lNkh6ZHJZQQ?oc=5",
+   "utc": "2026-11-04T06:08:55Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 4.2,
-   "airspace": false
-  },
-  {
-   "title": "Hormuz Closure Triggers Slump, Then Partial Rebound in Global Refining, EIA Says",
-   "source": "energynews.pro",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjdpclhzV0VSTTZGY1p6Nk1vOHZPNF81VFlVV2R5NUR0WF9jdUxWRmVOcHRiV0VGc0JuaEktbzZjODA0a0FlaU9zbGZ2Z1BRYWxXVmFwd2Q0aDdjeWdPOE45Z29hclZjQnBFeTc4a0ZPZkR6THd6SVQ2bHNxdzNWdkpUcnRrSW1YeThQZlFpWnRieEJVTHJJdGVzajFTcGduT1V3MG5mOA?oc=5",
-   "utc": "2026-11-04T07:00:43Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.2,
-   "airspace": false
-  },
-  {
-   "title": "As Trump and Xi discuss Strait of Hormuz closure, Washington mulls pausing gas tax",
-   "source": "KDNL",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTWJ3YnQzMkVPTF9oQW9VM3dQNHZKbEpsRS1aSzRNbkVTdnBJMFVRMFpOT0tENC13eVRUbUdWYjAycmloR0c0bVFuLVl0bUNSckg1eDZwRGk5MGFnM1pGYzJORmthaUlGUm5MM0JqbUZVODFBbU5LaVUxaFk4Z2pjcEVtY091bzY2QmtvVmNhd3hTQXJBQWRNNTc3VTZqNmF6TzlCTTlaYXoxY2xnemVGVXZQSmJMX3hhV1lZcm0wWm5zVWR1bkUydGpXQjE1eHFkUnNINWplOGt3NEJQR2plczJMa1JycTZSM1hTc3N3?oc=5",
-   "utc": "2026-11-03T22:38:43Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 3.8,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.7,
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -185,26 +196,15 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.5,
-   "airspace": false
-  },
-  {
-   "title": "Cyberattacks Strike Ukrainian and Russian Emergency Apps With False Nuclear Alerts",
-   "source": "SOFX",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGlzaEFxQTQ3UzRYel83TEE3bVU5cGdGcnBzZm5WSHJVdm5FU1JCZU8yTHFMZDBIeXU0RUFwTFRvb2ktUnl3U0trOUlvcXhoa0lUTFQ5SVpwTU5oV050cjZUNHVWVTlVSUNZOWlXVFlBZ1J0bjF3dTR1RFE3TVpPZVU1aUFlU1ktdW5TQlB4akwtdXdIVFVVYS1qbXMyMlNxcXM1RXZsRQ?oc=5",
-   "utc": "2026-11-03T04:41:07Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.1,
+   "score": 4.2,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 261,
+  "count": 5,
+  "global": 276,
   "baseline": 1.4,
-  "samples": 34,
+  "samples": 33,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -513,6 +513,10 @@
    [
     "2026-11-05T02:31:45Z",
     0
+   ],
+   [
+    "2026-11-05T11:05:45Z",
+    5
    ]
   ],
   "box": [

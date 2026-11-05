@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:21:15Z",
+ "updated": "2026-11-05T02:31:45Z",
  "level": 41,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   27,
+   26,
    35,
    35,
    "1.5 pts per headline"
@@ -97,7 +97,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 8.8,
    "airspace": false
   },
   {
@@ -108,7 +108,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": true
   },
   {
@@ -119,7 +119,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -130,7 +130,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.6,
+   "score": 4.5,
    "airspace": true
   },
   {
@@ -141,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.3,
+   "score": 4.2,
    "airspace": false
   },
   {
@@ -152,7 +152,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.3,
+   "score": 4.2,
+   "airspace": false
+  },
+  {
+   "title": "As Trump and Xi discuss Strait of Hormuz closure, Washington mulls pausing gas tax",
+   "source": "KDNL",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTWJ3YnQzMkVPTF9oQW9VM3dQNHZKbEpsRS1aSzRNbkVTdnBJMFVRMFpOT0tENC13eVRUbUdWYjAycmloR0c0bVFuLVl0bUNSckg1eDZwRGk5MGFnM1pGYzJORmthaUlGUm5MM0JqbUZVODFBbU5LaVUxaFk4Z2pjcEVtY091bzY2QmtvVmNhd3hTQXJBQWRNNTc3VTZqNmF6TzlCTTlaYXoxY2xnemVGVXZQSmJMX3hhV1lZcm0wWm5zVWR1bkUydGpXQjE1eHFkUnNINWplOGt3NEJQR2plczJMa1JycTZSM1hTc3N3?oc=5",
+   "utc": "2026-11-03T22:38:43Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 3.8,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.6,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -185,26 +196,15 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.2,
-   "airspace": false
-  },
-  {
-   "title": "Hackers Hijack Ukraine's Air Raid App With Fake Nuclear Alerts",
-   "source": "Seoul Economic Daily",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3ZwUy1CNU9TOGlkOEJlcV9XMzA0TlZ4UXRnY290Z0wzN1A1ZFp3SkN5UFhBU2dJd1BpM2Rra2dfMXE3TTRBUWhmWDlJZElNUVNUcGJEQjlySUttTVVDajNBRXRoSmdhakU3akE2MXYtT21nTk1NNXB0TXZYQk5MbjY2a3E4QjhNWU05SF9OU29CeFFSR2xrZ0RPVktRY3JLUGVqRg?oc=5",
-   "utc": "2026-11-03T02:12:40Z",
-   "tags": [
-    "NUKE"
-   ],
    "score": 4.1,
    "airspace": false
   }
  ],
  "mil": {
   "count": 0,
-  "global": 282,
-  "baseline": 1.5,
-  "samples": 33,
+  "global": 261,
+  "baseline": 1.4,
+  "samples": 34,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -508,6 +508,10 @@
    ],
    [
     "2026-11-05T00:21:15Z",
+    0
+   ],
+   [
+    "2026-11-05T02:31:45Z",
     0
    ]
   ],

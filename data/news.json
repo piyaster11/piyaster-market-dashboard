@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:20:53Z",
+ "updated": "2026-11-05T02:31:30Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,24 +9,152 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (28)"
+  "Nikkei Asia": "ok (29)"
  },
  "items": [
   {
-   "title": "Stock futures are little changed after big rally following Democrats' decisive midterm wins",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-   "utc": "2026-11-05T00:20:31Z",
+   "title": "Nifty Bounces Back to Beat All of Asia on Foreign Flows, Earnings",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-05/nifty-bounces-back-to-beat-all-of-asia-on-foreign-flows-earnings",
+   "utc": "2026-11-05T02:30:31Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Trump committee hearing on Fed Governor Lisa Cook rescheduled to Dec. 14",
+   "title": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
+   "utc": "2026-11-05T02:07:35Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Des Bishop on China's Comedy Boom and Censorship",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-05/des-bishop-on-china-s-comedy-boom-and-censorship-video",
+   "utc": "2026-11-05T01:53:55Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "El Niño Pushes Asia Rice Prices to 2-Year High, Threatening Inflation",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/el-nino-pushes-asia-rice-prices-to-2-year-high-threatening-inflation",
+   "utc": "2026-11-05T01:51:53Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Blue Wave Stock Rotation Sinks Asian Chipmakers, Boosts Autos",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/blue-wave-stock-rotation-sinks-asian-chipmakers-boosts-autos",
+   "utc": "2026-11-05T01:45:33Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "North Korea's patient cyber operations pay off in crypto",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZm9aX0Z2WFViaEtmRE56N3gyR2lqM3Q4REhEWmMyOHV2MFBIa1ZjeElIM0k0dm14VElyLTFYLVlnekxic0ctTDNXMzZzMGhrM1FUQ0ZnUWFmS09BWmdCYXgtSFMwQXdoQzI4ZWxNNWYtQy12LTViWWhKcGh6WEc3UFpwdFRocFpvd3A5cXhFU0ktY3ZxZGVmeEV4dnZNQUs0SERnT0lNejRNaW8?oc=5",
+   "utc": "2026-11-05T01:45:00Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures are little changed after big rally following Democrats' decisive midterm wins",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+   "utc": "2026-11-05T01:27:15Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
-   "utc": "2026-11-05T00:18:54Z",
+   "utc": "2026-11-05T01:11:26Z",
    "tag": "FED",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Qualcomm’s stock falls as twin forces pressure sales",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+   "utc": "2026-11-05T01:06:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+   "utc": "2026-11-05T01:05:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+   "utc": "2026-11-05T01:03:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+   "utc": "2026-11-05T01:01:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Natural-Gas/Africas-LNG-Exports-Set-to-Soar-175-as-Buyers-Flee-Hormuz.html",
+   "utc": "2026-11-05T01:00:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs",
+   "utc": "2026-11-05T00:48:32Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/04/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+   "utc": "2026-11-05T00:42:58Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+   "utc": "2026-11-05T00:38:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Malaysia's main opposition calls for greater power for states",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGo5dVkwNDA4M1NBTm5pdzhvTEtZQkl1TnJxQTN1VWlmN2I5cFhtS0VRZmFlU2xrbE9zbG9RVGxBaWNFcklRdHdoVjByUW0wWkxDLWVBdnI0LVhpeFNjemlnbDZ1aEcydjNXck41OVZ6U3NiLWVhRFlSV0Q1X2VLZ3R4bFE2cVl4TlByMkQ5TjlHNmR3OXRDMlR3?oc=5",
+   "utc": "2026-11-05T00:26:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
+   "utc": "2026-11-05T00:24:57Z",
+   "tag": "STOCKS",
+   "breaking": false
   },
   {
    "title": "Snap shares fall over 10% on third-quarter revenue miss",
@@ -34,142 +162,14 @@
    "link": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
    "utc": "2026-11-05T00:14:47Z",
    "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
-   "utc": "2026-11-05T00:04:36Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Butane’s Perfect Storm Sends Prices to Decade Highs",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Natural-Gas/Butanes-Perfect-Storm-Sends-Prices-to-Decade-Highs.html",
-   "utc": "2026-11-05T00:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Gold Holds Above $4,000 as Dollar, Yields Fall on Midterm Result",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result",
-   "utc": "2026-11-04T23:58:33Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
-   "utc": "2026-11-04T23:54:37Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-   "utc": "2026-11-04T23:45:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
-   "utc": "2026-11-04T23:44:18Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Australian Chain David Jones Collapses After Almost 200 Years",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years",
-   "utc": "2026-11-04T23:44:05Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
-   "utc": "2026-11-04T23:38:11Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Asian Markets React as Trump Cools Iran Fears",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-04/asian-markets-react-as-trump-cools-iran-fears-video",
-   "utc": "2026-11-04T23:31:57Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
-   "utc": "2026-11-04T23:23:03Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-   "utc": "2026-11-04T23:17:56Z",
-   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "TAT targets European market to boost tourism revenue by 5-7% next year",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3348941/tat-targets-european-market-to-boost-tourism-revenue-by-57-next-year",
-   "utc": "2026-11-04T23:16:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Democrats take Congress in a blue wave. Here's what it means for your money",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
-   "utc": "2026-11-04T23:11:48Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Latest Oil Market News and Analysis for Nov. 5",
+   "title": "Philippine October Inflation Accelerates 7.8%, Close to Four-Year High",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5",
-   "utc": "2026-11-04T23:08:01Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
-   "utc": "2026-11-04T23:02:39Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Malaysia Set to Hold Rates on Strong Growth, Signal Hike in 2027",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/malaysia-set-to-hold-rates-on-strong-growth-signal-hike-in-2027",
-   "utc": "2026-11-04T23:00:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high",
+   "utc": "2026-11-05T00:05:46Z",
    "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Upbeat Earnings Bolster Case for India Stocks as Asia Wavers",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/upbeat-earnings-bolster-case-for-india-stocks-as-asia-wavers",
-   "utc": "2026-11-04T23:00:00Z",
-   "tag": "STOCKS",
    "breaking": false
   }
  ]

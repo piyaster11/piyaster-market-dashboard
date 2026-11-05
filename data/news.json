@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:05:29Z",
+ "updated": "2026-11-05T18:48:34Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (28)"
+  "Nikkei Asia": "ok (23)"
  },
  "items": [
   {
-   "title": "How the midterms could fuel the K-shaped AI trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
-   "utc": "2026-11-05T11:01:39Z",
+   "title": "Goldman Traders Say Phones ‘Are Exploding’ as AI Selloff Worsens",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/goldman-traders-say-phones-are-exploding-as-ai-selloff-worsens",
+   "utc": "2026-11-05T18:40:06Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
+   "title": "Dow tumbles 1,600 points, erasing its postelection rally; Nasdaq plummets 5%: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
-   "utc": "2026-11-05T11:00:01Z",
-   "tag": "MARKETS",
+   "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+   "utc": "2026-11-05T18:39:44Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
-   "utc": "2026-11-05T10:57:11Z",
+   "title": "White House Reviewing SEC’s Proposed Crypto Broker Rule Changes",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/white-house-reviewing-sec-s-proposed-crypto-broker-rule-changes",
+   "utc": "2026-11-05T18:35:08Z",
    "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "CNBC's Robert Frank chats live with Brown Harris Stevens CEO Bess Freedman about wealth, real estate, and the 'blue wave'",
+   "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/cnbcs-robert-frank-talks-with-brown-harris-stevens-ceo-bess-freedman.html",
-   "utc": "2026-11-05T10:52:44Z",
+   "link": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+   "utc": "2026-11-05T18:34:51Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
-   "utc": "2026-11-05T10:44:54Z",
-   "tag": "BTC",
+   "title": "Trump-Backed Critical Minerals Deals Face Growing Pressure After Blue Wave",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/trump-backed-critical-minerals-deals-face-growing-pressure-after-blue-wave",
+   "utc": "2026-11-05T18:33:17Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist",
+   "title": "We're dipping into our large cash pile to buy this bank on Thursday's sell-off",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/11/05/were-dipping-into-our-cash-to-buy-this-bank-on-thursdays-sell-off.html",
+   "utc": "2026-11-05T18:29:21Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Musk has little to show for his record spending on Republican campaigns in US midterms",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLW1HNDhJZmxwMWdaVVZTX05ZVjhhTkRhV19Wb3RJOVhfWjdCa0MxLV9uWXZ1YWRKVUZ5bGZHN3duOTJMWGdrQ0tDRDdORGtHTlIxVWlhOXozR1J2MXBxV2JreTY4b2c3empONmg5QXl0ejFvelFlTjRSTzZZd19fSy0zT0E2T1NjWXE5Y29pdXFVQ1pYbDFrQXlwZ0ZRSkhuRS1oR2RYU2FFdDVmN1JJS2t6Yzczbk1Ydnc?oc=5",
+   "utc": "2026-11-05T18:18:29Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
-   "utc": "2026-11-05T10:20:00Z",
-   "tag": "WAR",
+   "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+   "utc": "2026-11-05T18:18:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Argentina Bonds Drop as Market Flags Intervention in Peso Debt",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/argentina-bonds-drop-as-market-flags-intervention-in-peso-debt",
+   "utc": "2026-11-05T18:17:34Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
    "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-   "utc": "2026-11-05T10:15:00Z",
+   "utc": "2026-11-05T18:15:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Toyota stock rallies after company lowered sales guidance. Here’s how rare that is.",
+   "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
+   "utc": "2026-11-05T18:11:08Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nasdaq set to confirm correction as AI spending worries mount",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXp2Q3NVSS1qMGl2VFZhWTJxREN5ZHg3T2lNeE5MYjBGT3JGZUVwV2drT0V5S0h0a2Y3UUxfSl9nRWZrWlozR2RYNkRPRC05N0g0T2J4bEljZW1RdllqODEtb2dBYmk3NHFzNS0zMWRHenpON2lZbER1SDhZaWhDbnZWSmZ5cmRxbVduR0FWakFzQzFwZElyYVIwamdSdXhJYmhnbTREVQ?oc=5",
+   "utc": "2026-11-05T18:09:47Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Stocks making the biggest moves midday: Micron, Tesla, Tripadvisor, AppLovin, Nvidia & more",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-midday-mu-tsla-trip-app-nvda.html",
+   "utc": "2026-11-05T18:09:36Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
-   "utc": "2026-11-05T10:15:00Z",
+   "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+   "utc": "2026-11-05T18:03:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "China’s Diesel Exports Set to Plunge as Domestic Inventories Run Low",
+   "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+   "utc": "2026-11-05T18:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "U.S. Refineries Make Dramatic Shift Away From Gasoline",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Diesel-Exports-Set-to-Plunge-as-Domestic-Inventories-Run-Low.html",
-   "utc": "2026-11-05T10:15:00Z",
+   "link": "https://oilprice.com/Energy/Energy-General/US-Refineries-Make-Dramatic-Shift-Away-From-Gasoline.html",
+   "utc": "2026-11-05T18:00:00Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Alphabet’s Search Dominance Is at Risk From Its Own AI Success",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-05/alphabet-s-search-dominance-is-at-risk-from-its-own-ai-success",
-   "utc": "2026-11-05T10:05:58Z",
+   "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+   "utc": "2026-11-05T17:56:55Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "OpenAI kicks off charm offensive to change voters' view of data centers",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3pvX1VfZi1WbVpNTl9weHZ0YUJ5RmhvVTgyOVRadlVyc01HeW1rdm5uRjhzMFRSSkJ4TW1yVmxHbkFvSnpTWkxWSGRIalRXM0dndmdtUXNTNTlYc0V2TGlxNTEtZm5iZDJlZXd5VUhjWUc1ejFXeTJpNHBzY2g4NllDX3dNWmo0eFBZQW1MUVR5Z2NVOUFMcENoLWZzMThDaGNXdERwWXJ6Mi1MTHc?oc=5",
+   "utc": "2026-11-05T17:55:04Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Richard Simmons’ L.A. estate sells for $3.8 million",
+   "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/richard-simmons-l-a-estate-sells-for-3-8-million-abf43450?mod=mw_rss_topstories",
-   "utc": "2026-11-05T10:02:00Z",
+   "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+   "utc": "2026-11-05T17:54:00Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "OpenAI pledges to pay for data center power after election highlights AI concerns",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
-   "utc": "2026-11-05T10:00:01Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
-   "utc": "2026-11-05T09:36:32Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "China blocks SoftBank's $5.4bn deal for ABB robotics division",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2hCWHhTMDZDQllhZ244Z1ZabmhyT01IT1BJSFFSY25vU3pMS090VEU3UlQ3WjZiMGxKVGVuZ2dTR09BRm80cjZVVTBGdnZ5Y0hYZHhwY3cySVBiVTVpNkZ4UGcta3pEUDVUN2JpUktmdXZ6dTJBRkNGRTZmRTRfM0UwdUlDZURlWEFWaXZKbUdoUUNVUnY0alkzakhabTg3VFFUWWtpcjVydEo0?oc=5",
-   "utc": "2026-11-05T09:36:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Russia's Dmitriev in Washington for first US contact since Trump's midterm setback",
+   "title": "Democrats gearing up to probe JPMorgan's relationship with Epstein, CNBC reports",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkhXRFdJbFdiTmQySWJyWVRIbHhpdFlXaVRSQmh6UzJvbDJSbWZUdGRwM0VPaFpHbkVpc1VmSlAybEFJUTN0cmNMWkpuX1FJSE8zT3NBYXdXY05lLUhjTldMelM1eGdUWWVnbF9qb0s3VFMySFJ1Qk5GTFJmeXVHM1NLaHNEMzdrZjhXNWpEcVhOQTdSV3V6SVVMQU0xMGtNbUhkblZRdG82aUdvTWxLbHZQUmFpdEh5WUV4ZUgtZU1JcjFjaUxZ?oc=5",
-   "utc": "2026-11-05T09:15:47Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
-   "utc": "2026-11-05T09:06:40Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Trending",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQjF3ZWRBTUpfdHRETlhBZEhuWkpUR3JmLWdaYVZhNUpMUlBTdExmVnBZejVRbkVWcDR3LWxvRHRfbnMxVlV3?oc=5",
-   "utc": "2026-11-05T09:00:42Z",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEZJMjNKVlMxaWFJRFFkS194bW1uQUpHb0dNR01TdHVnMXduTGxWOEQ4YnZ1dTg5bUZ6a2lvZVRKLXhNZTgxYlpZakJwMUxBQkJWRkhXZ1ZrOW54YnlhSTlEaU96ZW9FYUoyRG45Z2lFQkRwYXNVVDZDamFHb2RBUThvQ0txSXd0b1Awcy1ySkgwQXFtS1RKeTdzV2x1WW44NU5QUFVQYVRvUkYwaWtSUE1meVZTNGdnSmk2QnBwQVJIR3IzZGJZ?oc=5",
+   "utc": "2026-11-05T17:53:53Z",
    "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Renee Montgomery’s Move From Player to Owner",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-05/renee-montgomery-s-move-from-player-to-owner-video",
-   "utc": "2026-11-05T09:00:05Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Odd Lots: What Comes Next After Lula’s Big Win (Podcast)",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/audio/2026-11-05/odd-lots-what-comes-next-after-lula-s-big-win-podcast",
-   "utc": "2026-11-05T09:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nordic Alliance Seeks One Public Market to Stem Listings to US",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-05/nordic-alliance-seeks-one-public-market-to-stem-listings-to-us",
-   "utc": "2026-11-05T09:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   }
  ]
 }

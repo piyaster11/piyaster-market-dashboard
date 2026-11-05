@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T11:05:45Z",
- "level": 54,
- "band": "Alert",
+ "updated": "2026-11-05T18:49:02Z",
+ "level": 45,
+ "band": "Watch",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   26,
-   35,
+   22,
+   33,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   3,
-   9,
+   4,
+   12,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   5,
-   10,
+   0,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,14 +90,25 @@
  ],
  "headlines": [
   {
+   "title": "'Pain is the point': Iran's Hormuz blockade makes moving oil more costly",
+   "source": "BusinessDesk",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYi1CODhWRDFQU2RnSFJnS1l0aGl1U3pvNGlrWE1STzZZWDcyYW93WDVOM1FnOWk5LVJjdVRMT3FTVHRVU0I0R2NuM0drbk92VUNQUTNhV2MzT3YwSXE2dDUwTTZsR09nUkVPVGNyN0dJaGhmWm90Y3NHMm5uRm1GWVFiTUV0UjR3UzU3UHo5d0QyT1lNNmVSSFpydEhyeWpZSlVXZ2xEQm51cjBKY1Z0OG5zU2o0TEZYY2hoZWhDMjdReG1pQlpOZDZuNlZ2cTVPNHFJMnhJRml0S21SeGJJQnIyVy1laExjOHNINXF5R2Y1YUplUElLemtKalA?oc=5",
+   "utc": "2026-11-05T16:05:23Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
    "title": "FPL Gameweek 10: Players with the best chance of DefCon points",
    "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2pjS29aeTdHLUhfeEF0VkJ5bC1mNXdTTFpOR1RlMHR3YndsU3FkTW1QUWNjcDBfbm1DLUwtTERQYVoyQUIwRE00WGhZdUJGdG9QandfNnU1MEpJZXUxM3BsWTZVWVBINlpvWlNha3Vrbmh0OFg1Y0hCZk5tY0djdkRzeVdyc2ZCMFZSOEJ1RGZXajF6SUhaeDBHU2M0SThfUTdQWXNaSFpOWW5FaGUzTw?oc=5",
-   "utc": "2026-11-05T10:14:02Z",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNU1Hb19JcGtUS0Z1T09Ga2NvMGkwcWNnWFhDOFZHSGFVcTF1VU85SE9FLUpQNXVlRkRwamhqOUtheFNZdVZtY3RMLXlYVHpxTUdyWmlMVWNhUjljR0lmZGZIazY5Z3lyV3RDRTBzTk11UlZGQXZpeVZIVURPd2FoSU5PQmotSUVHcnRqb1I4T3NpVVh2SDFPSUtuazZua01fa0hpUFVWVGdCTVNYMGc5UVB3?oc=5",
+   "utc": "2026-11-05T13:17:44Z",
    "tags": [
     "NUKE"
    ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -108,7 +119,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -119,7 +130,18 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 4.6,
+   "airspace": true
+  },
+  {
+   "title": "AnimaWings Enters Insolvency: Flights Suspended to End of 20",
+   "source": "The Aviation Hub",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcDI5TklmSnpZTF9NWVM2VTlqb0toUm9kZXZqejFfZ3c1d09EdUJtN0FWMTZqX3QybWw4SWhQZ3VPMjc0VEM1bVRxX0JZNnZZaUUtaGYzT0xRdHFYQktDdHZDLTB4WGhfcVMtMmVrRTltekFYbEk5OXY3TVpwbjhrVjZiNXpXd2FzMVFn?oc=5",
+   "utc": "2026-11-05T09:18:37Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.6,
    "airspace": true
   },
   {
@@ -130,18 +152,29 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 4.6,
    "airspace": true
   },
   {
-   "title": "Hormuz Closure Extends Well Beyond Oil to Threaten Chinese EVs: Russell",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVk1OHZNb2o2dEUxTnQ0S2sxbUpRSklhSV9QMm1qT1otUFV6QTFadmdzQWFTX3dGQkpQVGpWZmd3UEFXOXNtQmxGNDFYOE9Fc3NwbnNuVV9kVGN0YzRjN0FWcWtjOExFT2pPc1IzMjA5Sl9URGV2aUkwYzZ0S2g0bDlMdGZLYUctLUxRUlJLLTFBeXBqNjdsUkJObng1MWhtYzVj?oc=5",
-   "utc": "2026-11-04T22:34:44Z",
+   "title": "IRGC: Two tankers, tugboat burst into flames in Hormuz",
+   "source": "Al-Bawaba",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1VudnFIMFg5VmRRR1MyTHJ4N210UklidndYTWE4a1llMnU4TnpDUHFGR3pjOW8yWXdoTXFRNWlELVRuakZqb1lrODZ0S1pEc0c3c2dILVFEOHZKQXN4NlVfQ1V2LVhPOFBucnNZM3Q2UThfSlZtb1EzM21qc0lEVg?oc=5",
+   "utc": "2026-11-05T05:59:48Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.5,
+   "score": 5.5,
+   "airspace": false
+  },
+  {
+   "title": "'Big concern': How the Iran war and Strait of Hormuz closure could drive up prices for helium, fertilizer and other goods",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUEwbGQzcGczbVRKcXRoNHB3QmtLMENVMzFfd0xnWmN3aWRILU5CRTRWR0pFdnhQdGFsLXJwa01WR2N1S0JCQUxxdFRkRGZHaWFlakYxMk1YdDBCRDFXQjhDeFNMZmlyWnFsVjFaY21FZUdNdDg1RXdKM1JSb19jVVFTVTJFREFfRFN3TTRVbzNpY21mYXdZVmhwYl9wM0JrTGRvLUJ30gGrAUFVX3lxTE13aGdnRGlNem9jTGFaMTYwZjc3SVZ3bGFhYVhQVnVXVVJQZ2lzVHFqT3VONnBFbWpGVUw2VE52U0xSTmozSGJSM2d6dEF6Z2FiZjF3VWdMdHRUcWRYYjhKRjltNGVNeElDNGY2UVlvLVZRUkJrZGxvTERNRDF0MUk1dTRUWWFMNnpTWTM0b1BHU0JLeTBBZVJON2s2dE5jblB5Nzl5dEFiMnNPcw?oc=5",
+   "utc": "2026-11-05T03:11:52Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -152,19 +185,8 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 4.8,
    "airspace": false
-  },
-  {
-   "title": "BeOnd Is Still Grounded: All November Flights Suspended, Return to Malpensa Postponed. What Happened",
-   "source": "The Flight Club",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Cdzh1bXdsUE9WUFdXMHlQWm12bXItbHN1NGtBMVg1R3Y3dk82WEFqS182RVRRMmNJanJCc1pVUDNnTXM2bmpPbVYzRWRDZDdMNWRna0tnaE9rUTZFY0FYVWR2T1hpenVuRDN5WHNCeXJhdw?oc=5",
-   "utc": "2026-11-04T13:46:05Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.1,
-   "airspace": true
   },
   {
    "title": "Saudi Arabia Under Fire: Houthis Target Oil Refinery, Defence Ministry as US Orders Diplomatic Evacuation",
@@ -174,36 +196,14 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "A Fake Nuclear Alert Is A Real Security Threat – Analysis",
-   "source": "Eurasia Review",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXRheFh4NlQ3RUtTZzJhQkRRYklSLXpfSndYdnFwNXFOT0J6WWNSclZKOW5aWlVLdmtpMEhyMHY2bW4tdElndlRrOURKNUhiaDRjQlBzZkpneW9LZHJYX294VFFRdHZ2dU5WN0NhQ3ljRzdLdlQ5SUs4ZE5hRHJiSmI3VHR4Z1B4SEJycjlCSzB4eWF0VGVMdlc4RQ?oc=5",
-   "utc": "2026-11-03T18:38:57Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.3,
-   "airspace": false
-  },
-  {
-   "title": "‘We’ll watch this one very closely’ as Streeting warns of Russian cyber threat after Ukraine nuclear alert hack",
-   "source": "London Business News",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNXM5WXE3VEp0QTcyRHpDM0FoVzBDOUlYY3o1cnZveTgxSS1pSTZqV01uVm1JcC1Kbk1qc0VzV21lbHVRSmNVWUNobHJnYnY3a1FDYW1MbXJvNDJhZTNMZWMtMjZ5LXEyZ2pGZ1VidkRXQkZ5cUZGYlVWTGZfRXB6NnN2UHM2cDlEdzRmR2RQeFdidkF0VE9xUmlLY0RidXlZelV3anBUekZHd3ZJUFRNVWEtVWQyaW5iaUV6RmZaX2MxU1RTc3l4M3FqOUZjaHM2UXdBT3BNMm4?oc=5",
-   "utc": "2026-11-03T14:45:00Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.2,
+   "score": 4.5,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 5,
-  "global": 276,
-  "baseline": 1.4,
+  "count": 0,
+  "global": 446,
+  "baseline": 1.5,
   "samples": 33,
   "hist": [
    [
@@ -517,6 +517,10 @@
    [
     "2026-11-05T11:05:45Z",
     5
+   ],
+   [
+    "2026-11-05T18:49:02Z",
+    0
    ]
   ],
   "box": [

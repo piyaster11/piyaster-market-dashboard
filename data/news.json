@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:58:51Z",
+ "updated": "2026-11-06T15:58:55Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (30)"
+  "Nikkei Asia": "ok (33)"
  },
  "items": [
   {
-   "title": "UK Markets Join Global Rout",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-06/uk-markets-join-global-rout",
-   "utc": "2026-11-06T07:53:26Z",
-   "tag": "MARKETS",
+   "title": "Data center double-down: Hassett says Blue Wave won't stop AI build-out",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+   "utc": "2026-11-06T15:55:48Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Stock futures mixed after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates",
+   "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
-   "utc": "2026-11-06T07:48:48Z",
+   "link": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+   "utc": "2026-11-06T15:55:32Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Watch live: Jim Cramer shares his next investing moves for this tough market",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
+   "utc": "2026-11-06T15:51:02Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "The 'World's Best Airline' is updating its business and first-class experience",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
-   "utc": "2026-11-06T07:32:26Z",
+   "title": "Millennium Parting Ways With Two More Credit Trading Pods",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-06/millennium-parting-ways-with-two-more-credit-trading-pods",
+   "utc": "2026-11-06T15:48:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "The Global Oil Glut Returns as High Prices Crush Demand",
+   "title": "Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+   "utc": "2026-11-06T15:48:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Tesla to wind down Cybertruck production in mid-2027, Musk tweets",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdl9OcVRWZ195eUxQT0ppejBQcGo1UndadU1sZGFoam1iR25GMTNLZlZOMXhTNHRUbUItNTdDWk84VElrdmVjN3FsOXRjemstWTJjZ0x6ZWJjYWhmUFVqVVBEbFp1NHlnWTQzd2JLbWd1WXlLMHpQRW1nZnAtMzJ3aGRleTl2cmJZMGE2UUhRNlJLQWR0UGxTdXFsZmxvOUk2X3lfNk9HZ3JEYlREWGc?oc=5",
+   "utc": "2026-11-06T15:39:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
+   "utc": "2026-11-06T15:32:21Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "The Rise of Luxury Prenatal Retreats",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-06/the-rise-of-luxury-prenatal-retreats-video",
+   "utc": "2026-11-06T15:31:06Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+   "utc": "2026-11-06T15:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+   "utc": "2026-11-06T15:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Energy Aspects Slashes Forecast of China’s November Diesel Exports",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Global-Oil-Glut-Returns-as-High-Prices-Crush-Demand.html",
-   "utc": "2026-11-06T07:30:00Z",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Energy-Aspects-Slashes-Forecast-of-Chinas-November-Diesel-Exports.html",
+   "utc": "2026-11-06T15:30:00Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Singapore Airlines to splash $1.6 billion on luxury long-haul cabins as rivals up their game",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3349899/singapore-airlines-to-splash-16-billion-on-luxury-longhaul-cabins-as-rivals-up-their-game",
-   "utc": "2026-11-06T07:26:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/equinix-us-data-center-growth-asia.html",
-   "utc": "2026-11-06T07:23:02Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "IAG Says It Will Keep Rewarding Investors Even as Fuel Surges",
+   "title": "Goldman’s US Stock Panic Gauge Hits Extreme, Signaling Rebound",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/iag-says-it-will-keep-rewarding-investors-even-as-fuel-surges",
-   "utc": "2026-11-06T07:22:33Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Alpha Dhabi: Long-Term Strategy Include More UAE IPOs",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/alpha-dhabi-long-term-strategy-include-more-uae-ipos-video",
-   "utc": "2026-11-06T06:57:27Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan’s GPIF Suffers First Loss in Six Quarters as Bonds Slump",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/japan-gpif-government-pension-investment-fund-first-loss-six-quarters-bonds-yen",
-   "utc": "2026-11-06T06:45:53Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "BofA’s Piron Says Won, Taiwan Dollar Offer Opportunity",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/bofa-s-piron-says-won-taiwan-dollar-offer-opportunity-video",
-   "utc": "2026-11-06T06:41:28Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Edelweiss' Shah Says India Is Regaining Investor Appeal",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/edelweiss-shah-says-india-is-regaining-investor-appeal-video",
-   "utc": "2026-11-06T06:34:22Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Editor's Choice: US anti-data center sentiment spreads, hitting Asian markets",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLWhndnNSOXlhT3ZTMjFTaXBNdDBET1JXVmJtZUhidTZfelVkMjc1enBpZjlYUnFUV2F6R0RqeTJzdFR5Z1RpMjBmaXo3UktNbXc3QW5TQXVHMG45emRiRmhHNFo3djQyLTM0V1NuQ005d2p6My1QUWR4Q19PakFnanpZWkNLenpoWHdQeUhwdnRDNXdoZUVRQUdScjJqdWotc0RLclJGcm54RmZHM3VlV1paQmpjZjgyc0lJb1JtbVBqTk1lQTBDa25OQTYwUnpib0FFcQ?oc=5",
-   "utc": "2026-11-06T06:34:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Fonterra's Allen Targets Value-Led Growth in China",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/fonterra-s-allen-targets-value-led-growth-in-china-video",
-   "utc": "2026-11-06T06:24:48Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Fesharaki Says Oil’s Right Price Is $80-$90",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/fesharaki-says-oil-s-right-price-is-80-90-video",
-   "utc": "2026-11-06T06:24:34Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Malaysia ex-PM Najib set for house arrest after party pays $12m fine",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREJNN2hlUGdmN3VORDdkSkQ4TDF5akJ0MDJ4WkROUEl0VDFQWnZCUUxsd09LUktqd2xZNXJTeWxORFZpdTFoQVpUeWlIQUs1VWtQNmxuU0ZJU2ljNW9pMjhMLXN6a1lLM2p4end5dWN6andKUFJOWndNX1otdFNLVy0tWElaVVFBTzRQY3JMMzFsalRHOHJ4dTFqbTM3R3NWaXc?oc=5",
-   "utc": "2026-11-06T06:23:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Niles: AI Trade Faces Repricing Amid Data Center Risks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/niles-ai-trade-faces-repricing-amid-data-center-risks-video",
-   "utc": "2026-11-06T06:22:10Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "KB Financial Says Korea Stock Selloff Favors Buyers",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/kb-financial-says-korea-stock-selloff-favors-buyers-video",
-   "utc": "2026-11-06T06:20:43Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-06/goldman-s-us-stock-panic-gauge-hits-extreme-signaling-rebound",
+   "utc": "2026-11-06T15:28:07Z",
    "tag": "STOCKS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "China Tech Stocks Slide in Broad Market Rout",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/the-china-show-11-06-2026-video",
-   "utc": "2026-11-06T06:17:44Z",
-   "tag": "CHINA",
-   "breaking": false
+   "title": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Isnt-Over-but-Oil-Traders-Are-Already-Pricing-In-Peace.html",
+   "utc": "2026-11-06T15:28:00Z",
+   "tag": "OIL",
+   "breaking": true
   },
   {
-   "title": "Zambian Budget Gets Copper Boost With El Niño Threatening Crops",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/zambian-budget-gets-copper-boost-with-el-nino-threatening-crops",
-   "utc": "2026-11-06T06:15:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "title": "These three stars need to align before investors rush back into stocks, Bank of America strategist says",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/these-three-stars-need-to-align-before-investors-rush-back-into-stocks-bank-of-america-strategist-says-52879caa?mod=mw_rss_topstories",
+   "utc": "2026-11-06T15:27:00Z",
+   "tag": "STOCKS",
+   "breaking": true
   },
   {
-   "title": "Turkey court jails former minister in funds probe, Anadolu says",
+   "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+   "utc": "2026-11-06T15:26:38Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "SpaceX is down big on Dem retribution fears against Musk. Deutsche Bank says buy the dip",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/spacex-is-down-big-on-dem-retribution-fears-against-musk-deutsche-bank-says-buy-the-dip.html",
+   "utc": "2026-11-06T15:26:33Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Russell Brand, convicted of rape, now likely to face more allegations, says UK police chief",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1U0VUFYc2RhcmQyNVd3bjU1X1hhOU5PVHpPc0djNWR3ejRmSG5qRVd1VkZCdmtZaGJrbm5HcEczdFFieHVJdHBEeXhzdDh1bmhjdXJwSldxWWl4XzNPY0tZRHN2UFRlSlAyYlpfYkNURkVNTlB6dGxYdVVmMjJCRXVpd19nenYxRVJ4OVBrZG1XSF9RN2tqTDVQd0FRVGdFYUd3?oc=5",
-   "utc": "2026-11-06T06:12:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmlXTi1JeEUwMS1MWXk5MjFEVm9RZHRpNWtMTkZ4dm1PcWdrTmVlWktteHlnejQzU2hZOXp1bGZGdVpEU3pjRkNURXlfRnhiLVh4RF9zN0lIbElnaV84QWRxSjZlMWlGRXVfWERPLXd5YVZxWkZ4ckJOb0ZHLW5reHlqUHkzSzUtWFhpeVl2QXlwUDQ2Vm9yMnBjX2paTjZ3WjhDRXZDdXp5UkREMWVPbUFOQlFUS3M3dHlhUlV3?oc=5",
+   "utc": "2026-11-06T15:14:29Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
+  },
+  {
+   "title": "Moderna raises its revenue outlook — but all eyes are on what happens next with its cancer vaccine",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
+   "utc": "2026-11-06T15:09:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "US job growth surges in October; unemployment rate falls to 4.1%",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
+   "utc": "2026-11-06T15:08:07Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+   "utc": "2026-11-06T15:06:11Z",
+   "tag": "STOCKS",
+   "breaking": true
   }
  ]
 }

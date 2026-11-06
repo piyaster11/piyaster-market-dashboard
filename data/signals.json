@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:00:53Z",
+ "updated": "2026-11-06T00:23:18Z",
  "level": 46,
  "band": "Watch",
  "components": [
@@ -101,15 +101,15 @@
    "airspace": false
   },
   {
-   "title": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2k4RHBPd0V4OEFXVEw5T2hxMy1UaDZOU1dfcXluNnM0NzY4RlZjSzhNekFzWUNCUFJYY0pBT0FWOXBtQzZ3VXRBYjdEeXlRMm1Na0hyRkZQUnNZdTNRYTdxMWItS0h6ZnB3Ny1sTFhGQWRCd0xvSktGcGp1NHJZTzV4czZxZkprQnVWMHRmcmxqM3hIMENydDd5R1ViLS0ySGM1c2tkMVI?oc=5",
-   "utc": "2026-11-05T16:31:19Z",
+   "title": "AnimaWings Enters Insolvency: Flights Suspended to End of 20",
+   "source": "The Aviation Hub",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcDI5TklmSnpZTF9NWVM2VTlqb0toUm9kZXZqejFfZ3c1d09EdUJtN0FWMTZqX3QybWw4SWhQZ3VPMjc0VEM1bVRxX0JZNnZZaUUtaGYzT0xRdHFYQktDdHZDLTB4WGhfcVMtMmVrRTltekFYbEk5OXY3TVpwbjhrVjZiNXpXd2FzMVFn?oc=5",
+   "utc": "2026-11-05T18:44:02Z",
    "tags": [
-    "HORMUZ"
+    "AIRSPACE"
    ],
-   "score": 4.7,
-   "airspace": false
+   "score": 4.8,
+   "airspace": true
   },
   {
    "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
@@ -202,7 +202,7 @@
  ],
  "mil": {
   "count": 0,
-  "global": 313,
+  "global": 301,
   "baseline": 1.5,
   "samples": 33,
   "hist": [
@@ -524,6 +524,10 @@
    ],
    [
     "2026-11-06T00:00:53Z",
+    0
+   ],
+   [
+    "2026-11-06T00:23:18Z",
     0
    ]
   ],

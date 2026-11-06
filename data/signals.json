@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T18:49:02Z",
- "level": 45,
+ "updated": "2026-11-06T00:00:53Z",
+ "level": 46,
  "band": "Watch",
  "components": [
   [
@@ -12,8 +12,8 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   22,
-   33,
+   23,
+   34,
    35,
    "1.5 pts per headline"
   ],
@@ -90,6 +90,39 @@
  ],
  "headlines": [
   {
+   "title": "City Moves Water Restrictions To Defcon 2",
+   "source": "The Rhino Times of Greensboro -",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IeWhlUjJ1aUNyamNxZm5rVnJBRFEwSFJheVZldDVZSkRTNXgtMl9sUy1IbDlheEtVTWs1eHFvUXZiUU0yUDVCdWtnX1hCaDlyQWdPUzhaeUpTNEZiT0JZdVZtSElHMXRYei1PNmw1TVlGN3E1Q25aUFVLTjVCTDQ?oc=5",
+   "utc": "2026-11-05T23:18:41Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2k4RHBPd0V4OEFXVEw5T2hxMy1UaDZOU1dfcXluNnM0NzY4RlZjSzhNekFzWUNCUFJYY0pBT0FWOXBtQzZ3VXRBYjdEeXlRMm1Na0hyRkZQUnNZdTNRYTdxMWItS0h6ZnB3Ny1sTFhGQWRCd0xvSktGcGp1NHJZTzV4czZxZkprQnVWMHRmcmxqM3hIMENydDd5R1ViLS0ySGM1c2tkMVI?oc=5",
+   "utc": "2026-11-05T16:31:19Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
+   "utc": "2026-11-05T16:19:35Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
    "title": "'Pain is the point': Iran's Hormuz blockade makes moving oil more costly",
    "source": "BusinessDesk",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYi1CODhWRDFQU2RnSFJnS1l0aGl1U3pvNGlrWE1STzZZWDcyYW93WDVOM1FnOWk5LVJjdVRMT3FTVHRVU0I0R2NuM0drbk92VUNQUTNhV2MzT3YwSXE2dDUwTTZsR09nUkVPVGNyN0dJaGhmWm90Y3NHMm5uRm1GWVFiTUV0UjR3UzU3UHo5d0QyT1lNNmVSSFpydEhyeWpZSlVXZ2xEQm51cjBKY1Z0OG5zU2o0TEZYY2hoZWhDMjdReG1pQlpOZDZuNlZ2cTVPNHFJMnhJRml0S21SeGJJQnIyVy1laExjOHNINXF5R2Y1YUplUElLemtKalA?oc=5",
@@ -97,18 +130,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
    "title": "FPL Gameweek 10: Players with the best chance of DefCon points",
    "source": "Fantasy Football Scout",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNU1Hb19JcGtUS0Z1T09Ga2NvMGkwcWNnWFhDOFZHSGFVcTF1VU85SE9FLUpQNXVlRkRwamhqOUtheFNZdVZtY3RMLXlYVHpxTUdyWmlMVWNhUjljR0lmZGZIazY5Z3lyV3RDRTBzTk11UlZGQXZpeVZIVURPd2FoSU5PQmotSUVHcnRqb1I4T3NpVVh2SDFPSUtuazZua01fa0hpUFVWVGdCTVNYMGc5UVB3?oc=5",
-   "utc": "2026-11-05T13:17:44Z",
+   "utc": "2026-11-05T12:22:19Z",
    "tags": [
     "NUKE"
    ],
-   "score": 4.8,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -119,7 +152,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
+   "score": 4.4,
+   "airspace": false
+  },
+  {
+   "title": "Iran Rejects US Hormuz Reply as Qatar Brokers Interim Deal",
+   "source": "https://houseofsaud.com/",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnp4ODl4dTV4X0ZWYnRRRldoc0VKZ0JLS2xkQktPbmtvbFAxdHBnanMxWmF6TkRiNnp2QWZPS0E3VXBBTk1teUh3VjFXWEs1a0FHQlVKVGdHbXM3VUVZelFVQ3ktUmRsNjJ5WkNnNFJhelZsVC1xZGozYXpXWUlNSGR3WQ?oc=5",
+   "utc": "2026-11-05T09:41:00Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -130,29 +174,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.6,
-   "airspace": true
-  },
-  {
-   "title": "AnimaWings Enters Insolvency: Flights Suspended to End of 20",
-   "source": "The Aviation Hub",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcDI5TklmSnpZTF9NWVM2VTlqb0toUm9kZXZqejFfZ3c1d09EdUJtN0FWMTZqX3QybWw4SWhQZ3VPMjc0VEM1bVRxX0JZNnZZaUUtaGYzT0xRdHFYQktDdHZDLTB4WGhfcVMtMmVrRTltekFYbEk5OXY3TVpwbjhrVjZiNXpXd2FzMVFn?oc=5",
-   "utc": "2026-11-05T09:18:37Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.6,
-   "airspace": true
-  },
-  {
-   "title": "Birmingham-Delhi direct flights suspended over winter by Air India",
-   "source": "The Worcester News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdU5pV0Yxam9hTDktWWVBdjNmRjl5Y3VJVmVHd3F4VVRrV1U0YW1VVmQzRkk4OWgzczVYdzNzVWQ5c2J2a3NEN1RRVTdYbTdJdjlkWTZZLS1ZUFJiMzdVR19uVXJHOFFUNVJyNnBwanBpZlJYWFdPZHFzazByd2FZLXJteDFfWXNRLWRHbVljZDd2cUpWcjJfbHJvcw?oc=5",
-   "utc": "2026-11-05T09:14:30Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.6,
+   "score": 4.4,
    "airspace": true
   },
   {
@@ -163,18 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
-   "airspace": false
-  },
-  {
-   "title": "'Big concern': How the Iran war and Strait of Hormuz closure could drive up prices for helium, fertilizer and other goods",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUEwbGQzcGczbVRKcXRoNHB3QmtLMENVMzFfd0xnWmN3aWRILU5CRTRWR0pFdnhQdGFsLXJwa01WR2N1S0JCQUxxdFRkRGZHaWFlakYxMk1YdDBCRDFXQjhDeFNMZmlyWnFsVjFaY21FZUdNdDg1RXdKM1JSb19jVVFTVTJFREFfRFN3TTRVbzNpY21mYXdZVmhwYl9wM0JrTGRvLUJ30gGrAUFVX3lxTE13aGdnRGlNem9jTGFaMTYwZjc3SVZ3bGFhYVhQVnVXVVJQZ2lzVHFqT3VONnBFbWpGVUw2VE52U0xSTmozSGJSM2d6dEF6Z2FiZjF3VWdMdHRUcWRYYjhKRjltNGVNeElDNGY2UVlvLVZRUkJrZGxvTERNRDF0MUk1dTRUWWFMNnpTWTM0b1BHU0JLeTBBZVJON2s2dE5jblB5Nzl5dEFiMnNPcw?oc=5",
-   "utc": "2026-11-05T03:11:52Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.3,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -185,24 +196,13 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "Saudi Arabia Under Fire: Houthis Target Oil Refinery, Defence Ministry as US Orders Diplomatic Evacuation",
-   "source": "Newsmakers",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOV83RkRrQ1BaVndMQUIzWFZIdkt6TFJtajBvVmhYZjJqQjVvaEc4THdNZFRJNl9CRmY3SmRBakV3b0x6a0tMa25iRXFVQ0xyQjJCMlM3VjdWQ3h2U2V2VU9Obk9zeTdQTU1SYWozMlNuREp1N3IzMzBGcFpBT2lYR0tGM2hUdUR4RVZSLVVsTmZTM2hWSEs0Y3ZnY3VyUUs3QlpKZF90aHZXZGpzd0pDN2RiWGJRdUVwLXozWnAtSDlwVU5lNkh6ZHJZQQ?oc=5",
-   "utc": "2026-11-04T06:08:55Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.5,
+   "score": 4.6,
    "airspace": false
   }
  ],
  "mil": {
   "count": 0,
-  "global": 446,
+  "global": 313,
   "baseline": 1.5,
   "samples": 33,
   "hist": [
@@ -520,6 +520,10 @@
    ],
    [
     "2026-11-05T18:49:02Z",
+    0
+   ],
+   [
+    "2026-11-06T00:00:53Z",
     0
    ]
   ],

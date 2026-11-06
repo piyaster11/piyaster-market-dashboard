@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:48:34Z",
+ "updated": "2026-11-06T00:00:28Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (23)"
+  "Nikkei Asia": "ok (24)"
  },
  "items": [
   {
-   "title": "Goldman Traders Say Phones ‘Are Exploding’ as AI Selloff Worsens",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-05/goldman-traders-say-phones-are-exploding-as-ai-selloff-worsens",
-   "utc": "2026-11-05T18:40:06Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Dow tumbles 1,600 points, erasing its postelection rally; Nasdaq plummets 5%: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-   "utc": "2026-11-05T18:39:44Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "White House Reviewing SEC’s Proposed Crypto Broker Rule Changes",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-05/white-house-reviewing-sec-s-proposed-crypto-broker-rule-changes",
-   "utc": "2026-11-05T18:35:08Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
-   "utc": "2026-11-05T18:34:51Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Trump-Backed Critical Minerals Deals Face Growing Pressure After Blue Wave",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-05/trump-backed-critical-minerals-deals-face-growing-pressure-after-blue-wave",
-   "utc": "2026-11-05T18:33:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "We're dipping into our large cash pile to buy this bank on Thursday's sell-off",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/11/05/were-dipping-into-our-cash-to-buy-this-bank-on-thursdays-sell-off.html",
-   "utc": "2026-11-05T18:29:21Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Musk has little to show for his record spending on Republican campaigns in US midterms",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLW1HNDhJZmxwMWdaVVZTX05ZVjhhTkRhV19Wb3RJOVhfWjdCa0MxLV9uWXZ1YWRKVUZ5bGZHN3duOTJMWGdrQ0tDRDdORGtHTlIxVWlhOXozR1J2MXBxV2JreTY4b2c3empONmg5QXl0ejFvelFlTjRSTzZZd19fSy0zT0E2T1NjWXE5Y29pdXFVQ1pYbDFrQXlwZ0ZRSkhuRS1oR2RYU2FFdDVmN1JJS2t6Yzczbk1Ydnc?oc=5",
-   "utc": "2026-11-05T18:18:29Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-   "utc": "2026-11-05T18:18:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Argentina Bonds Drop as Market Flags Intervention in Peso Debt",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-05/argentina-bonds-drop-as-market-flags-intervention-in-peso-debt",
-   "utc": "2026-11-05T18:17:34Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-   "utc": "2026-11-05T18:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
-   "utc": "2026-11-05T18:11:08Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nasdaq set to confirm correction as AI spending worries mount",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXp2Q3NVSS1qMGl2VFZhWTJxREN5ZHg3T2lNeE5MYjBGT3JGZUVwV2drT0V5S0h0a2Y3UUxfSl9nRWZrWlozR2RYNkRPRC05N0g0T2J4bEljZW1RdllqODEtb2dBYmk3NHFzNS0zMWRHenpON2lZbER1SDhZaWhDbnZWSmZ5cmRxbVduR0FWakFzQzFwZElyYVIwamdSdXhJYmhnbTREVQ?oc=5",
-   "utc": "2026-11-05T18:09:47Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves midday: Micron, Tesla, Tripadvisor, AppLovin, Nvidia & more",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-midday-mu-tsla-trip-app-nvda.html",
-   "utc": "2026-11-05T18:09:36Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-   "utc": "2026-11-05T18:03:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-   "utc": "2026-11-05T18:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "U.S. Refineries Make Dramatic Shift Away From Gasoline",
+   "title": "U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/US-Refineries-Make-Dramatic-Shift-Away-From-Gasoline.html",
-   "utc": "2026-11-05T18:00:00Z",
+   "link": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Giants-Hold-Back-on-Drilling-Despite-Higher-Oil-Prices.html",
+   "utc": "2026-11-06T00:00:00Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
+   "title": "Stock futures fall after Nasdaq slips into correction; traders await big payrolls report: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-   "utc": "2026-11-05T17:56:55Z",
+   "link": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+   "utc": "2026-11-05T23:58:23Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+   "utc": "2026-11-05T23:50:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Here are the 2027 capital-gains tax rates for each income level",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+   "utc": "2026-11-05T23:48:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "OpenAI kicks off charm offensive to change voters' view of data centers",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3pvX1VfZi1WbVpNTl9weHZ0YUJ5RmhvVTgyOVRadlVyc01HeW1rdm5uRjhzMFRSSkJ4TW1yVmxHbkFvSnpTWkxWSGRIalRXM0dndmdtUXNTNTlYc0V2TGlxNTEtZm5iZDJlZXd5VUhjWUc1ejFXeTJpNHBzY2g4NllDX3dNWmo0eFBZQW1MUVR5Z2NVOUFMcENoLWZzMThDaGNXdERwWXJ6Mi1MTHc?oc=5",
-   "utc": "2026-11-05T17:55:04Z",
+   "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+   "utc": "2026-11-05T23:40:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+   "utc": "2026-11-05T23:39:32Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Korean Chip Stocks Sink 10% in Pre-Market as AI Fears Deepen",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen",
+   "utc": "2026-11-05T23:35:44Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
-   "utc": "2026-11-05T17:54:00Z",
+   "title": "Lula's election win dashes US hopes of quick access to Brazil's rare earths",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbnhUT0ZFTnpsamNBblowSmJHVXhjMEhiRzZCWVRLVk95TXFFcVAxSkxBRXhxZHJaVWdERTdTOTVtcEZTRl9mYi1wSE90Q2hqZGVHSGUzdkxLa3R6SWxHbXlBa3ktdEhGRXhra1lIaG54ZUhFQWQ3TW5XUUdVVnBhcVptaFlVdUY2b3dIMHotRFh0T1pVTGpMTmNyU3R1UUlnakRaQWVPOVpTTUp2ZkxhMk9IMWFYZw?oc=5",
+   "utc": "2026-11-05T23:34:03Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Democrats gearing up to probe JPMorgan's relationship with Epstein, CNBC reports",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEZJMjNKVlMxaWFJRFFkS194bW1uQUpHb0dNR01TdHVnMXduTGxWOEQ4YnZ1dTg5bUZ6a2lvZVRKLXhNZTgxYlpZakJwMUxBQkJWRkhXZ1ZrOW54YnlhSTlEaU96ZW9FYUoyRG45Z2lFQkRwYXNVVDZDamFHb2RBUThvQ0txSXd0b1Awcy1ySkgwQXFtS1RKeTdzV2x1WW44NU5QUFVQYVRvUkYwaWtSUE1meVZTNGdnSmk2QnBwQVJIR3IzZGJZ?oc=5",
-   "utc": "2026-11-05T17:53:53Z",
+   "title": "Monster Tops Estimates on Growing Global Energy Drink Demand",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/monster-tops-estimates-on-growing-global-energy-drink-demand",
+   "utc": "2026-11-05T23:30:27Z",
    "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "Japanese Equities Set to Plunge as AI Selloff Continues",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/japanese-equities-set-to-plunge-as-ai-selloff-continues",
+   "utc": "2026-11-05T23:26:33Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+   "utc": "2026-11-05T23:25:02Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "OCBC’s Profit Gains Dented by Drop in Trading, Insurance Income",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/ocbc-s-profit-gains-dented-by-drop-in-trading-insurance-income",
+   "utc": "2026-11-05T23:21:37Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Blue tsunami wipes out $2.5 trillion from Nasdaq, as investors fret about AI trade",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVFVWVUwWmVwQXRLMTV2ZFBIV3dpR1VBUTU4dnhfUW5SN3BwcGZraXF1YTFDMmx2TjZFOTVBTWNqc09zTV9VbE1faDJ5Y294THA0YlFkTlZmX3AzWDJacm96Um1YQ0htd2FLRmJFTlpvLWVhQ0pXdUtyLVh0ZTRESzBJNW1fZ2lrTVBkUEIzejF2VUVLeGdyQWxDazczTmNWQWdOMXIybTR2T0x5OWFGNWMyU256bUhRME54eXBlTQ?oc=5",
+   "utc": "2026-11-05T23:19:28Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "e.l.f. CEO: All of Our Brands Are Growing",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-05/e-l-f-ceo-all-of-our-brands-are-growing-video",
+   "utc": "2026-11-05T23:14:20Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "US extends suspension of export restrictions on Chinese firms",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDRsdElnRGFmbW5YVDI0UlZydWQtaHZhRUlFWFdpTDZrRWxUbzJDWWVrYVlKb2NmTmJOeUhxSXNtc3FxaWRjZGhDZUxoQlJWZWZwekNUUUFiNjVBMXVQZ09jU1lJR3BWREhRbF92b1pTZHNPVmNSSjU0VnFsZWtLamRadUtEVVhnSnlFZWp4WWEwZGt1THFBMjNHWlZkbnFSSTRtTEMzQjJYNGJvUE5iYnZoTmlzN1NmOXhsR3ppd3VIdllfbzFTOWRpd2s2TmpNY3c?oc=5",
+   "utc": "2026-11-05T23:11:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Nov. 6",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6",
+   "utc": "2026-11-05T23:08:17Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjhqRms1YmpjV2l6LW1FMTllNnp5R3BoZzc3TExxXzJUVGk1RmNCbkQ0d3pGN05WSHBsX0RldGJ4UWxoWjd4VmpLT1RabTJQNDA5cmV5QXV4RG1ITHVBQUsxNEJla1pnWXJIYWhHTE9waEZCaUpud0dQX3lQVzZmUTlEalJLX29nSTBrcVFrLUdaSVU2cDRDNUFfbE03ZEZqcHhCbEN0My1zZmJYaXVtOWpYdUpEVDhL?oc=5",
+   "utc": "2026-11-05T23:04:05Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launchpad",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+   "utc": "2026-11-05T23:02:14Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Former Turkish Minister Kaya Arrested in Fund Probe, AA Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/former-turkish-minister-kaya-arrested-in-funds-probe-aa-says",
+   "utc": "2026-11-05T23:00:43Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Investors Pick Disney, G Mining at Sohn Conference in Queenstown",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/investors-pick-disney-g-mining-at-sohn-conference-in-queenstown",
+   "utc": "2026-11-05T23:00:20Z",
+   "tag": "MARKETS",
+   "breaking": false
   }
  ]
 }

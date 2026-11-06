@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T00:23:18Z",
- "level": 46,
- "band": "Watch",
+ "updated": "2026-11-06T07:59:04Z",
+ "level": 56,
+ "band": "Alert",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
-   0,
+   4,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,26 +90,70 @@
  ],
  "headlines": [
   {
+   "title": "Can Multilateral Approaches Do More for Free Passage in the Strait of Hormuz?",
+   "source": "ORF Middle East",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPejRpbnE4Y19GWG0tbHAzTk1UWTVERHVJQUVXZTJ4SzRXYU1KbzJHRkV0T1M1ZXBDdGtWbkZiLWQxMVQ3blpKaU91eFVrLWhHYjI5R3VZNDhJNHpsRXJReWZOWE5ycDZYTDdsaU92cG9rRHpCdG1KbVVUS05yOXNGaHdQTWhEOERPa1o2WUExR1duMGswRVNvOTVaQjlzWDFXN29OSlNacWtIZHZt?oc=5",
+   "utc": "2026-11-06T05:35:48Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
    "title": "City Moves Water Restrictions To Defcon 2",
    "source": "The Rhino Times of Greensboro -",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IeWhlUjJ1aUNyamNxZm5rVnJBRFEwSFJheVZldDVZSkRTNXgtMl9sUy1IbDlheEtVTWs1eHFvUXZiUU0yUDVCdWtnX1hCaDlyQWdPUzhaeUpTNEZiT0JZdVZtSElHMXRYei1PNmw1TVlGN3E1Q25aUFVLTjVCTDQ?oc=5",
-   "utc": "2026-11-05T23:18:41Z",
+   "utc": "2026-11-06T02:03:45Z",
    "tags": [
     "NUKE"
    ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": false
   },
   {
    "title": "AnimaWings Enters Insolvency: Flights Suspended to End of 20",
    "source": "The Aviation Hub",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcDI5TklmSnpZTF9NWVM2VTlqb0toUm9kZXZqejFfZ3c1d09EdUJtN0FWMTZqX3QybWw4SWhQZ3VPMjc0VEM1bVRxX0JZNnZZaUUtaGYzT0xRdHFYQktDdHZDLTB4WGhfcVMtMmVrRTltekFYbEk5OXY3TVpwbjhrVjZiNXpXd2FzMVFn?oc=5",
-   "utc": "2026-11-05T18:44:02Z",
+   "utc": "2026-11-05T18:36:42Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.8,
+   "score": 4.4,
    "airspace": true
+  },
+  {
+   "title": "Iran Says Strait of Hormuz Won’t Reopen Until Seven Conditions Are Met, Closure Not Up for Negotiation",
+   "source": "bloomingbit",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbXJkalFVYmZVY0ZrQ1ltZ3hEME4yRHNmenpLTm1ndXp3bXY2RTF3SlRwZF91MUdsUVMyQW4xYThxVlBqSGlKbUFzamhZLUxOdkJRRw?oc=5",
+   "utc": "2026-11-05T16:49:39Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.4,
+   "airspace": false
+  },
+  {
+   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2tKSXpRQ2RURVJRWkNUcVFBMU9sNGRYc3JqUWFLMWdOSnRBS0R6Nm1GYkFBaGpDVkg5RDg3NFI2NXRfZmlEaFBMODBDQkxwNmw3NG5iY0Q4NjFsR1pZMHJvLUlybnVodV85UmN1Nm1oV01qS1hkdXFxb3BZZGFWYTFLT25vYk9FeWZqUXVjQ2NjZFdQOVBTbXFFMzQ1QQ?oc=5",
+   "utc": "2026-11-05T16:34:38Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.4,
+   "airspace": false
+  },
+  {
+   "title": "Oil Prices Up Over 3% Over Concerns About Prolonged Hormuz Disruption",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWU1mb2RuUzdVRV81T2J1UnFkcUNwVlpVT1Y2YzJma2RueGZxbHowQmJJSWg2a2ItWC1IUUpxUEMzNW5xS0RiWlZGMklDVUotczE2RmFrUUZIRE1PMDRuTVI5eHlRRkZNQlY3TFM3cXYzM3FleGk5cW1ZbF9NbHFEbmlfTEt6R0lmOU5hYmlscGpzYW9oUkRIT290MjVidzc1?oc=5",
+   "utc": "2026-11-05T16:22:00Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.3,
+   "airspace": false
   },
   {
    "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
@@ -119,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -130,52 +174,19 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.3,
    "airspace": false
   },
   {
    "title": "FPL Gameweek 10: Players with the best chance of DefCon points",
    "source": "Fantasy Football Scout",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNU1Hb19JcGtUS0Z1T09Ga2NvMGkwcWNnWFhDOFZHSGFVcTF1VU85SE9FLUpQNXVlRkRwamhqOUtheFNZdVZtY3RMLXlYVHpxTUdyWmlMVWNhUjljR0lmZGZIazY5Z3lyV3RDRTBzTk11UlZGQXZpeVZIVURPd2FoSU5PQmotSUVHcnRqb1I4T3NpVVh2SDFPSUtuazZua01fa0hpUFVWVGdCTVNYMGc5UVB3?oc=5",
-   "utc": "2026-11-05T12:22:19Z",
+   "utc": "2026-11-05T12:21:24Z",
    "tags": [
     "NUKE"
    ],
-   "score": 4.5,
+   "score": 4.2,
    "airspace": false
-  },
-  {
-   "title": "Iran Grants Safe Passage In Hormuz To Four Nations, including India & China",
-   "source": "Marine Insight",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOVdXVk1UVE9iRGpTZHVrOW5uVFdTSUdvVzJoaFFERkd1TVBDcTNvcVVoNFNFXzBfSFBFUEhkaldnSXg5NUgyUXdUVEY1dVNLWVo5OXlKcDBQcnB4WG5VeVllZzUweTFHZEhqMHZPSVZGNXQyampzejBDNUJhQk5peFBycTQxRXNZUzlCUUQxdzlyUEF3eGpqUjl3MzJvSEFCaXlPWHNn?oc=5",
-   "utc": "2026-11-05T09:49:09Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Iran Rejects US Hormuz Reply as Qatar Brokers Interim Deal",
-   "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnp4ODl4dTV4X0ZWYnRRRldoc0VKZ0JLS2xkQktPbmtvbFAxdHBnanMxWmF6TkRiNnp2QWZPS0E3VXBBTk1teUh3VjFXWEs1a0FHQlVKVGdHbXM3VUVZelFVQ3ktUmRsNjJ5WkNnNFJhelZsVC1xZGozYXpXWUlNSGR3WQ?oc=5",
-   "utc": "2026-11-05T09:41:00Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Watch Viral Video: Tornado Turns Brazil’s Chapecó Airport Into a Disaster Zone! 126 km/h Winds Rip Apart Hangars, Shatter Terminal Glass and All Flights Suspended",
-   "source": "The Sunday Guardian",
-   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOT21LTmNjQ3pkOXotSEpGeDFUOFVaSkMwV2FDQjFxdUZBLV9aYk9vcU1ET1BFTGh0YWFrSWFyTU5aMWRMTjFHZGtiUmtzY0t1ZFJvcU1ZM1VGV0Ixc0w5UkxOYTVvdllid2h4UUxVTDhkX3dYS0FUNmE0N1VCbU50YlBWWmxGNU96NDNYUENxMERRb1RJSlloenpXVDhqZ3VLQkhqdXhLLUdwRERwM1lPSEFSMDBTcU9NQ1hSR0d0ZFZpUmZIaXBYZWdkVTVPN2tYQ09vVFBUNVRRVWJqVjJ1dnpSV0Rhc2xKNlI2WTZsZ3M2b0lldW1DZ1EtYnR3NS1sUXl3QUJkZy1qZnd5MF9jdzlWa1MtM0l5bDdwRmZIcmoxenR1T2Q1N2dUMGVQQXloSXfSAbICQVVfeXFMTk9tS05jY0N6ZDl6LUhKRngxVDhVWkpDMFdhQ0IxcXVGQS1fWmJPb3FNRE9QRUxodGFha0lhck1OWjFkTE4xR2RrYlJrc2NLdWRSb3FNWTNVRldCMXNMOVJMTmE1b3ZZYndoeFFMVUw4ZF93WEtBVDZhNDdVQm1OdGJQVlpsRjVPejQzWFBDcTBEUW9USUpZaHp6V1Q4amd1S0JIanV4Sy1HcEREcDNZT0hBUjAwU3FPTUNYUkdHdGRWaVJmSGlwWGVnZFU1TzdrWENPb1RQVDVUUVVialYydXZ6UldEYXNsSjZSNlk2bGdzNm9JZXVtQ2dRLWJ0dzUtbFF5d0FCZGctamZ3eTBfY3c5VmtTLTNJeWw3cEZmSHJqMXp0dU9kNTdnVDBlUEF5aEl3?oc=5",
-   "utc": "2026-11-05T09:29:02Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.4,
-   "airspace": true
   },
   {
    "title": "IRGC: Two tankers, tugboat burst into flames in Hormuz",
@@ -185,24 +196,13 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.2,
-   "airspace": false
-  },
-  {
-   "title": "#Daily_Brief: 36 #Israelis evacuated from conflict-hit #Ethiopia, four remain in Lalibela",
-   "source": "Addis Standard",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWFR1b1FicmxqdGRkMHNBTmJWUUtJMzhlci1ZeWtrNVBjVjdLRWROVWVEaW1mckxKbVl3NFE5Y2x1OVBJbDdqSWY5TWR3NDkxUEE?oc=5",
-   "utc": "2026-11-04T14:29:40Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.6,
+   "score": 4.9,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 301,
+  "count": 4,
+  "global": 145,
   "baseline": 1.5,
   "samples": 33,
   "hist": [
@@ -529,6 +529,10 @@
    [
     "2026-11-06T00:23:18Z",
     0
+   ],
+   [
+    "2026-11-06T07:59:04Z",
+    4
    ]
   ],
   "box": [

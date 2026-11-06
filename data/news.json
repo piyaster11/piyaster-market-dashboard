@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:58:55Z",
+ "updated": "2026-11-06T21:34:35Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (33)"
+  "Nikkei Asia": "ok (40)"
  },
  "items": [
   {
-   "title": "Data center double-down: Hassett says Blue Wave won't stop AI build-out",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-   "utc": "2026-11-06T15:55:48Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
-   "utc": "2026-11-06T15:55:32Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Watch live: Jim Cramer shares his next investing moves for this tough market",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-   "utc": "2026-11-06T15:51:02Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Millennium Parting Ways With Two More Credit Trading Pods",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/millennium-parting-ways-with-two-more-credit-trading-pods",
-   "utc": "2026-11-06T15:48:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?",
+   "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-   "utc": "2026-11-06T15:48:00Z",
+   "utc": "2026-11-06T21:24:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Tesla to wind down Cybertruck production in mid-2027, Musk tweets",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdl9OcVRWZ195eUxQT0ppejBQcGo1UndadU1sZGFoam1iR25GMTNLZlZOMXhTNHRUbUItNTdDWk84VElrdmVjN3FsOXRjemstWTJjZ0x6ZWJjYWhmUFVqVVBEbFp1NHlnWTQzd2JLbWd1WXlLMHpQRW1nZnAtMzJ3aGRleTl2cmJZMGE2UUhRNlJLQWR0UGxTdXFsZmxvOUk2X3lfNk9HZ3JEYlREWGc?oc=5",
-   "utc": "2026-11-06T15:39:00Z",
+   "title": "AI’s Wild Week Has Wall Street Hunting for Fresh Escape Routes",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes",
+   "utc": "2026-11-06T21:23:32Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Nasdaq rebounds 1% following worst session in 18 months as traders snap up tech shares: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+   "utc": "2026-11-06T21:22:40Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
-   "utc": "2026-11-06T15:32:21Z",
-   "tag": "MARKETS",
+   "title": "Japanese companies caught in crossfire of Beijing-Tokyo rift",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzctWFhrbW1xZUdDaU5tS2s5bkJwQjQyV1RrMHp1QU1NZHIySmNwaG1Ka0VjNHlHYjQ4anRhZzAzR3QxOFZhY25hX2ppWlBPdnUybWk5OUZBZW53OWtNalA0ZEF6cjh4eWhVVTdyS3hldHlaOUFIa2JkaFhWWlA0N215ZXc2dmNkUkhPc1lKNFJwODFtenh0SUhXWGpwc19rdl9jY1ZaZmxIdWpabTc5Z05IWnZINGd5?oc=5",
+   "utc": "2026-11-06T21:22:00Z",
+   "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "The Rise of Luxury Prenatal Retreats",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/the-rise-of-luxury-prenatal-retreats-video",
-   "utc": "2026-11-06T15:31:06Z",
-   "tag": "MARKETS",
+   "title": "OpenAI bugging suspect Alfozan pleads not guilty",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+   "utc": "2026-11-06T21:15:47Z",
+   "tag": "AI",
    "breaking": true
   },
   {
    "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-   "utc": "2026-11-06T15:30:00Z",
+   "utc": "2026-11-06T21:15:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+   "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-   "utc": "2026-11-06T15:30:00Z",
+   "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+   "utc": "2026-11-06T21:15:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Energy Aspects Slashes Forecast of China’s November Diesel Exports",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Energy-Aspects-Slashes-Forecast-of-Chinas-November-Diesel-Exports.html",
-   "utc": "2026-11-06T15:30:00Z",
-   "tag": "OIL",
+   "title": "Further turmoil could be in store for tech stocks. What to watch in the week ahead",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
+   "utc": "2026-11-06T21:12:41Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Goldman’s US Stock Panic Gauge Hits Extreme, Signaling Rebound",
+   "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+   "utc": "2026-11-06T21:07:07Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/goldman-s-us-stock-panic-gauge-hits-extreme-signaling-rebound",
-   "utc": "2026-11-06T15:28:07Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025",
+   "utc": "2026-11-06T21:05:54Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace",
+   "title": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Isnt-Over-but-Oil-Traders-Are-Already-Pricing-In-Peace.html",
-   "utc": "2026-11-06T15:28:00Z",
-   "tag": "OIL",
+   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Americas-Nuclear-Revival-Is-Running-Into-a-Fuel-Supply-Wall.html",
+   "utc": "2026-11-06T21:00:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "These three stars need to align before investors rush back into stocks, Bank of America strategist says",
+   "title": "Japan's new whisky breed chases export elixir",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlJjUjZseU9USi0xUkd3UmMzb0k0eG5WSHdfdzN3WDlNSXd4RTRCWEFqa1A5RE5nU2Y1X3JkbEZXQWdvX2RwbWRENkNTR2Q5Y3Mtd0NNR0xYcUJQM3BjQ1psekEzWWFYdmFoYTUwMDVyNjJnQzhrSlRoY3VzQ2VuajJ6MVpPVk4wX3NfZEhUNE1EZ2tRMEE?oc=5",
+   "utc": "2026-11-06T21:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/these-three-stars-need-to-align-before-investors-rush-back-into-stocks-bank-of-america-strategist-says-52879caa?mod=mw_rss_topstories",
-   "utc": "2026-11-06T15:27:00Z",
+   "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+   "utc": "2026-11-06T20:58:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
-   "utc": "2026-11-06T15:26:38Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "SpaceX is down big on Dem retribution fears against Musk. Deutsche Bank says buy the dip",
+   "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/spacex-is-down-big-on-dem-retribution-fears-against-musk-deutsche-bank-says-buy-the-dip.html",
-   "utc": "2026-11-06T15:26:33Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Russell Brand, convicted of rape, now likely to face more allegations, says UK police chief",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmlXTi1JeEUwMS1MWXk5MjFEVm9RZHRpNWtMTkZ4dm1PcWdrTmVlWktteHlnejQzU2hZOXp1bGZGdVpEU3pjRkNURXlfRnhiLVh4RF9zN0lIbElnaV84QWRxSjZlMWlGRXVfWERPLXd5YVZxWkZ4ckJOb0ZHLW5reHlqUHkzSzUtWFhpeVl2QXlwUDQ2Vm9yMnBjX2paTjZ3WjhDRXZDdXp5UkREMWVPbUFOQlFUS3M3dHlhUlV3?oc=5",
-   "utc": "2026-11-06T15:14:29Z",
+   "link": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+   "utc": "2026-11-06T20:53:13Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Moderna raises its revenue outlook — but all eyes are on what happens next with its cancer vaccine",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
-   "utc": "2026-11-06T15:09:00Z",
+   "title": "Spotlight",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jM3FjbU1NSG5MUmtGVnJDbFBVbGpZTjZqejFhSlppR1pobzQxQ1dpTEZRU3hHWmlFRXZQd3JqamxVZFRFUVRkNQ?oc=5",
+   "utc": "2026-11-06T20:52:56Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "US job growth surges in October; unemployment rate falls to 4.1%",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
-   "utc": "2026-11-06T15:08:07Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+   "title": "Nasdaq drops into correction territory — here’s what typically happens next",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-   "utc": "2026-11-06T15:06:11Z",
+   "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+   "utc": "2026-11-06T20:42:28Z",
    "tag": "STOCKS",
    "breaking": true
+  },
+  {
+   "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+   "utc": "2026-11-06T20:42:07Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Here's a rapid-fire update on all 31 of our stocks, including 2 to buy now",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/11/06/heres-a-rapid-fire-update-on-our-31-stocks-including-2-to-buy-now.html",
+   "utc": "2026-11-06T20:36:03Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Wall Street Sees US Hitting $41.1 Trillion Debt Cap in February",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-sees-us-hitting-41-1-trillion-debt-cap-in-february",
+   "utc": "2026-11-06T20:33:40Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Don't Think Social Security Going Away: Lusardi",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-06/don-t-think-social-security-going-away-lusardi-video",
+   "utc": "2026-11-06T20:31:03Z",
+   "tag": "MARKETS",
+   "breaking": false
   }
  ]
 }

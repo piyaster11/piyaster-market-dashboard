@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:59:58Z",
+ "updated": "2026-11-07T08:53:41Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   33,
+   36,
    35,
    35,
    "1.5 pts per headline"
@@ -100,6 +100,17 @@
  ],
  "headlines": [
   {
+   "title": "Trump Says US and Iran Are Talking as Hormuz Mine Attacks Continue",
+   "source": "https://houseofsaud.com/",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kZXI4TlFQNlNoNm1lb1E4UC1feWdmVWdteXBsdEZtS2NDbkxGXzZlb09yQnFPRFJaLVMzUUlWaTJNNkgtR3FjUjVURGp5elE1aTBqcnNITW5HTFhoNkZOdm9FamVQSmVlV05wMFVLYTg?oc=5",
+   "utc": "2026-11-07T06:23:16Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
    "title": "Nuclear alert in Iran: Iodine distributed to the population",
    "source": "TodayPress.tv",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUZhdDZob1o2NUtULVZpWlJLOE9pLWxodEQ1ZVQxQXdIVngtc2drU0dQV3RKVFJMeS00VFRacmxyQ2pwd2VoaDlrMi1TUDFlNHNZNlMwYjBTV0FNX3drQjlKeUFzcUZOM2gxc0NTdnRtTkpmTU1TUlpXX3p5NG1LdnZWWk85am5EOS1HYVlzdWhfekk?oc=5",
@@ -107,7 +118,18 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.9,
+   "score": 5.6,
+   "airspace": false
+  },
+  {
+   "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
+   "utc": "2026-11-06T22:20:11Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -118,7 +140,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.7,
+   "score": 5.4,
    "airspace": true
   },
   {
@@ -129,29 +151,18 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.6,
+   "score": 4.3,
    "airspace": false
   },
   {
-   "title": "Theodore Roosevelt Carrier Strike Group Pulls Into Singapore",
-   "source": "USNI News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmNfay1KZG45aExFdXNUbnFZQTFOZDlHVURzWmgtR1JsNlo2V0t5UGtSR0Y2LUxISk1FVHg0SDNBR2ZhU2swX0ExX2dlb0FDaFg4NVg1WlVJajN6ZnZoSkQ5M1NKTXNJbmJHQmZka0kzT3VXRHRiZlJBZk5ORVZLUi1HUDFScExqbDhtdVI4WkxuVDU0bUJPOQ?oc=5",
-   "utc": "2026-11-06T14:04:00Z",
+   "title": "Security alert over threats against European media: Buildings evacuated, authorities on high alert",
+   "source": "TodayPress.tv",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVVpKSm1yMVBvWHNnc0F2UmRGaGFWY2paZ2VjTjlzcVJ3TnpCNDdFQzVhWV9LTm83SUN6SW1KUG1sSFh2LWUzMU1FLWdBSnIwTFNHMGg1NWk1eWlFdnR1Y2xWMk5ZanNCaktYVUZfZlhFR3ozTDY1OGVSZFM5aldjLVVKaUdrVFNMY0U1bEhuYlhWdDMzOUZGWHJaVlpQd29HRDVSSlJ0MUFSenVkdnFNeW5JY2xEUXBLSkhqYzNzbTBLWXBzR3c?oc=5",
+   "utc": "2026-11-06T16:28:00Z",
    "tags": [
-    "MIL"
+    "NUKE"
    ],
-   "score": 4.5,
-   "airspace": false
-  },
-  {
-   "title": "UAE boosts investment in Oman after Hormuz closure",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMlBXaWF3eXlvcDdFQU5aTUtObGU4OWxzNzhyRGo5bWRMUHp3bTFQOXF0MmFVNldHVFVfdVVxR3cwLU5laGM0U2F3aVNCOHQ4LU9xeEFGTnM4UlNnMi0tbDRKdzFRRU5FQ2VnM1hvRlpWTUVvZkI0d09IRzNZX0FZZElBOHdDbXhwN1JEeFNTTlNlYUliZXJYWDhOTHQ2WG5MVjJQV2pOdnBtLUQyRHE0RVk2QzNWeHdtWGVnRXJQTU1GZW16?oc=5",
-   "utc": "2026-11-06T12:48:26Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -162,7 +173,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.4,
+   "score": 5.2,
    "airspace": true
   },
   {
@@ -173,7 +184,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.4,
+   "score": 5.2,
    "airspace": true
   },
   {
@@ -184,7 +195,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -195,24 +206,13 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.0,
+   "score": 4.7,
    "airspace": true
-  },
-  {
-   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2tKSXpRQ2RURVJRWkNUcVFBMU9sNGRYc3JqUWFLMWdOSnRBS0R6Nm1GYkFBaGpDVkg5RDg3NFI2NXRfZmlEaFBMODBDQkxwNmw3NG5iY0Q4NjFsR1pZMHJvLUlybnVodV85UmN1Nm1oV01qS1hkdXFxb3BZZGFWYTFLT25vYk9FeWZqUXVjQ2NjZFdQOVBTbXFFMzQ1QQ?oc=5",
-   "utc": "2026-11-05T16:34:38Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.6,
-   "airspace": false
   }
  ],
  "mil": {
   "count": 1,
-  "global": 125,
+  "global": 78,
   "baseline": 1.4,
   "samples": 32,
   "hist": [
@@ -558,6 +558,10 @@
    ],
    [
     "2026-11-07T01:59:58Z",
+    1
+   ],
+   [
+    "2026-11-07T08:53:41Z",
     1
    ]
   ],

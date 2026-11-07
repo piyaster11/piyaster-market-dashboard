@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T00:06:25Z",
+ "updated": "2026-11-07T08:53:41Z",
  "ok": 9,
  "q": {
   "spx": {
    "v": 7376.86,
    "chg": 0.31,
-   "t": "2026-11-06T21:37:09Z",
+   "t": "2026-11-06T21:00:00Z",
    "prev": 7353.73,
    "src": "Yahoo Finance ^GSPC",
    "stale": false
@@ -35,24 +35,24 @@
    "stale": false
   },
   "wti": {
-   "v": 90.34,
-   "chg": -0.2,
+   "v": 90.83,
+   "chg": 0.34,
    "t": "2026-11-06T21:59:58Z",
    "prev": 90.52,
    "src": "Yahoo Finance CL=F",
    "stale": false
   },
   "brent": {
-   "v": 97.76,
-   "chg": -0.54,
+   "v": 98.32,
+   "chg": 0.03,
    "t": "2026-11-06T21:59:44Z",
    "prev": 98.29,
    "src": "Yahoo Finance BZ=F",
    "stale": false
   },
   "gold": {
-   "v": 4079.5,
-   "chg": -0.83,
+   "v": 4074.9,
+   "chg": -0.94,
    "t": "2026-11-06T21:59:59Z",
    "prev": 4113.5,
    "src": "Yahoo Finance GC=F",

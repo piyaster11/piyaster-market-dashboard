@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:59:09Z",
+ "updated": "2026-11-07T08:52:37Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -8,15 +8,143 @@
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
-  "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (35)"
+  "Bangkok Post": "fail: The read operation timed out",
+  "Nikkei Asia": "ok (26)"
  },
  "items": [
+  {
+   "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch",
+   "utc": "2026-11-07T08:00:21Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+   "utc": "2026-11-07T07:37:36Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Prospect of 'modern-day Yalta' shakes Asia's postwar order",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnFiWHQzSEM5bEpQNTRBUVgzTGp6aklDSGhrcnBBQnFBMmR6enZXM0FMWWxvQTQwYWNpODNOYklFbDlLZjJqbFJObDBFcTV0T2RFU0RmNDZhVU1nLUVKSDVJYkgxY1M3U1VoSHYzQmQ4NVJqcUJUeDZWRHk2N2ZGb0dpbS1RemhfMmhrS0RSSHpHLTN5aG9jWUdTOGJmdGc?oc=5",
+   "utc": "2026-11-07T07:20:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "- Nikkei Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43U1otemwzVjRPMk5PS1FyMU9QTGdIS25iNVhrV1k1R3NreUUxcjRyWnhDajJrNkE5WUxqeUpCSURzXzRY?oc=5",
+   "utc": "2026-11-07T06:29:08Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "- 日本経済新聞",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1aWI5d2RyMDFiakxxa1dfc1QtWnF0azZmdHgzMnZYdzBBeW14TEY0QlVSUkgtTGQtS1loSzhzOUZicHZiX2N6VXdQbUlIc243d0t3TkhENXRUT1JsdnlpVUxFOERINE1aQzRqWkVRSXpGVWhmOUozOWFkRQ?oc=5",
+   "utc": "2026-11-07T06:14:03Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
+   "utc": "2026-11-07T06:00:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Prep schools help Chinese students get into Japan's top universities",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkVPZjFCQVhHUmNoUzBGRlRaUFpuUmJBaW4xOXh6bTZveE00emJBZGIyX3ZLTTNWaWNhOFYxeHdld0lwYkxBLVJTNmVQT18wSTdST2JQOU9XWW1raDZQZDg3M2JUb1NEVTFIZTZjbGtuYVRHLWVFbEI0M3BEQVhERHVvcjNMWTdzb2hfZFJPRllPTndIOWM5aXF1Q2w3VFRCbmE4aHZQSHlQVFJjZXJyXw?oc=5",
+   "utc": "2026-11-07T05:43:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Delhi world's most polluted major city on eve of Diwali, Swiss group says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
+   "utc": "2026-11-07T05:28:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Why India’s Stock Markets Hold a Session on Diwali: Explainer",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer",
+   "utc": "2026-11-07T04:30:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB?oc=5",
+   "utc": "2026-11-07T04:23:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Japan's unprotected deposits hit $890bn as inheritances inflate accounts",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ25xYTlCNjVIRjA1alIzTDFROHBUNEYxMWprSWotZXhnR2p4RHpUWHU0STN1NmhKeFpZRmRIYlg1N18wanFyaDdjVU16WEZVRklaSkRsUEc1RHV0WEFzbzA5ZzFkTnFiV0UyOVVUdVNNZVo2Tm9HZExkQURYY2txZ21nMGNRNTRTc2ZJUHQ1aUwtdWdRdEtKbzdrZnhheWpEZVJ2YkdEM29NbDZnWnVpWXhB?oc=5",
+   "utc": "2026-11-07T02:46:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-11-07T02:34:37Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop",
+   "utc": "2026-11-07T02:26:22Z",
+   "tag": "GOLD",
+   "breaking": false
+  },
+  {
+   "title": "Inside the card-grading empire shaping the price of Pokémon cards",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
+   "utc": "2026-11-07T02:00:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
+   "utc": "2026-11-07T01:54:36Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
   {
    "title": "Taiwan's KMT old guard fights for power base in tight Taipei mayoral races",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVENha05jLVprdEk2dmwxSm5TdXhPT3ZHS2VVYkdfVHRXSTRhdFJwQ2tQS1ZBYVVidVlyOW5rMzNOOG95QWpHNGhwOHB0Qm80dU5wNnJjSVh5YW80WGx2NjBqRDZjN0ZNR2RidFVzbjIwRzNtNEhIZTctdFhDaE8zU2hPQWo3TDk5VmE3bW1Rd2tqVkpUWTdEcUxDY1RQTTFFM2YwcVlnUm1OWFU?oc=5",
    "utc": "2026-11-07T00:44:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Haiti PM says gang leader Mathias Saintil is dead",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkdOZEEtMTQ5NzlLdWRCRUlzdVFsWkFoR0xPOTdIV2szN1hTWmNLQTBHejRjVUI0YTU1bDJpUXdONl9VSlQtZU9iLVRTWFhEbi1RLTZuNEJGQTFxZ1JXWVBBRk43Rjl0VXJrTnF5MXNONkM2TFRYRUM3QXVqTVBOR0R0a1o4NkNsZDhUVVNYTzRkTWNvYm4yRFpEWmVfUQ?oc=5",
+   "utc": "2026-11-07T00:27:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
@@ -37,139 +165,11 @@
    "breaking": false
   },
   {
-   "title": "Four-story building collapses in Sao Paulo, four injured",
+   "title": "IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkRTaFNMU09QY0lHNW9mTF9SYlZqa0pJbWRRRWdCV09naDk2M1AzWl9LZDByTmVoN1V1cGI3T21zaG9zZzl3ZDZnTmVoS01pWDBjN1VDdzBoMkR2ZVVoNkJEWWkwWDBSd29RTmpKNDVlaDhoS2FGbzNuNmF2MXlPZ3lOcHRJam15VnRiVmY3eFRwYzl1?oc=5",
-   "utc": "2026-11-06T23:49:58Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "The Corner Store Brings Its New York Experience to the Las Vegas Strip",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/the-corner-store-brings-nyc-experience-to-vegas-strip-video",
-   "utc": "2026-11-06T23:49:39Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "North Korea's army of world-class hackers is secret weapon that took down Binance",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFdzUlg5LTJNVHdsSWIyX2UycEcwbERwS29uTTVaNXhBbHY4V0ZvR0VJWktxcm5OdkxuUWE1Q3ctWVFZZ2dKclYwX21iVnl4VEJ4dWplSm84enVCallLSGdHejVrQTQ4bXUxUXBuLXZReDRpenpXQ3dIRUtiNlZva3dta2pFWV9ZeVlKU0RldWczLU0wREdvMTNkQXQ5Zzl6UzI2TkwwMVdLTnpfXzJlYUZ6UURtU01EZnRTdmI0YWdOMzZndXRmX29HWG0?oc=5",
-   "utc": "2026-11-06T23:41:55Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Paraguay's Alliana sworn in as president after Peña impeachment",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeldCbTBsWG5XTElfREZndWV5MnZGX0ppbFdNcmZwNUpnMjBMWGFPcmVzWEhlOTk3dnBFYjYxNnlwZm9TaUl2cjJDeXVBLWhFejJqbUhvVzduQ3RzTVlFTWEtUDBFRU1jdjljQ1RmSnZ6aVBfUzNDLVUySGFLaU9vYWxqQmRqWDUtcDNkaXRqclhKNVIwam9KZjRoNHRFdmx1ajVjQWR5cG15UQ?oc=5",
-   "utc": "2026-11-06T23:37:59Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Paraguay ex-president Peña placed under house arrest after impeachment",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjV6S0FNdm9aN3JPcUdrX0p3Y3pOZFlRZTVRUzlwTXpwWmFDenpqam51UFBrY2xjTDdCVUlDQ3B6NHdoMjNWWlgtU0N4cWhHUGluUnljcE1lSFZhUHpIVExodGs5OU42WUxfSHBqa0ZnLVk2SVQ0OGhkd2tsWUlfb1p2cEI4dl9yQU5jLWJGSnNZcEdXWXhDakVFWlZCaExOWnZvNUdVZUVhVTlNaHluYndwUVVqc0JOR1E?oc=5",
-   "utc": "2026-11-06T23:37:37Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Rest of the World",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMXFSX2EzTjlUb3I1VlJhVTVacGVabWFPVERQRU1peU5NRFNlY2ZaRWM2NmhBZkNNMTdod0dKVnlMc3JfcFEtUWNvT1lTRlRKRGVzUmtqaXJyTTJIVkxN?oc=5",
-   "utc": "2026-11-06T23:33:50Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Elanco Shares Jump After Q3 Beat and Outlook Raise",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/elanco-shares-jump-after-q3-beat-and-outlook-raise-video",
-   "utc": "2026-11-06T23:30:58Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Grab seeks to monetise Thai cultural appeal",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3350179/grab-seeks-to-monetise-thai-cultural-appeal",
-   "utc": "2026-11-06T23:27:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "Sweetgreen CEO Says Sales Rebound After Cyclospora-Related Traffic Drop",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/sweetgreen-ceo-on-earnings-sales-rebound-video",
-   "utc": "2026-11-06T23:26:21Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Books: Uncovering the secret life of Tokyo's guard pipes",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQU1pQTZGOExUM205b1V5b1p3djJSNkg2bjJYYXhlTy11RFN6bW83Q3l6SUk4U01kcE8tak91YlNaY01oU0Z5THU3MWs5UkNsWUZ5aExrUVBiT01tY2g3dVF2RUVoUzV6QmUyNGIzX3N3dnBJVVZHdkE5WjA3VEdXcW5zQ2pHVm5SWko2SmNsRzh4TXRTWUxIeWxFUQ?oc=5",
-   "utc": "2026-11-06T23:23:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "FIGS Beats Earnings as Demand Outstrips Supply, CEO Trina Spear Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/figs-ceo-trina-spears-on-earnings-beat-video",
-   "utc": "2026-11-06T23:21:26Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Mall Group targets 20% rise in festive-season traffic",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3350149/mall-group-targets-20-rise-in-festiveseason-traffic",
-   "utc": "2026-11-06T23:05:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc?oc=5",
-   "utc": "2026-11-06T23:04:12Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html",
-   "utc": "2026-11-06T23:00:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
-   "utc": "2026-11-06T22:46:57Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Seres, Li Auto join Chinese EVs' charge into Europe",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTYyTFF4XzBSb2tRbVV0bFpwRkNXd2tBV2h1V3M4TlZ2bTJCUHdHQmk2LUhzcnRXMFJNNm04dzh3NWtLSlZKaEwyWmJhVWZKRHF0TzV0aXliTUxqeGdOUTF1d2JZSWdWY0F0dk56SmVsVmZiRl8tTzVSdk9OSG15QzdqTGh3THVlTm80SGg1c3BJU29MNC1xYkJUQll4cWZHZG9JVHh4QXdYUUw3UU5STHhB?oc=5",
-   "utc": "2026-11-06T22:34:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "US slaps sanctions on Cambodia's Prince Group over online scams",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjgxejg4TXptODFqNzd1bjF6U1VsaHBnbENOaERHTVdkYTdVV0VaR3g2Vlpyd3J4bDZYT1k1enZtSmdoMzZ5NTNiTWRkZWVzakdzTlZHYUNHWlJkQnlFWFZjaVl1VE1HU0Ywc0c4czk0SHBZSmt2T3hWWUwzT0I5cTBmMm5adGFLdU51S3A5NmtqR3VvUTBXMm9WWDVUeVN1R1F4NFhoaDgwTjF1ckt2ag?oc=5",
-   "utc": "2026-11-06T22:30:00Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVpUdVhKa3ZpUXBuSDdMV0tXM3JyVDFhWmpjOU95Mld1cWlMeGhPSmJ3Ym5WeHVQSkpLLW5iQngzVUVyeHg5Y19ucWF0SUpVNkxUOU5DNTFYN0dBN2hGWi1DVDNUQU9xMEtIVFlQSG1FSlU1NEUxeV9FeUNyV05CMXRVU3V3MmdSVFBEc2pjbE9WMFN3ZU1PS252VXVHemM5YkpmeFd4OVpFZ3pIZnN4TlpILWZfckU3R3VqTGs4RE84dw?oc=5",
+   "utc": "2026-11-06T23:53:47Z",
+   "tag": "AI",
    "breaking": false
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:52:37Z",
+ "updated": "2026-11-07T15:43:19Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -8,168 +8,168 @@
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
-  "Bangkok Post": "fail: The read operation timed out",
-  "Nikkei Asia": "ok (26)"
+  "Bangkok Post": "ok (10)",
+  "Nikkei Asia": "ok (23)"
  },
  "items": [
   {
-   "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch",
-   "utc": "2026-11-07T08:00:21Z",
-   "tag": "CHINA",
+   "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+   "utc": "2026-11-07T15:41:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-   "utc": "2026-11-07T07:37:36Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Prospect of 'modern-day Yalta' shakes Asia's postwar order",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnFiWHQzSEM5bEpQNTRBUVgzTGp6aklDSGhrcnBBQnFBMmR6enZXM0FMWWxvQTQwYWNpODNOYklFbDlLZjJqbFJObDBFcTV0T2RFU0RmNDZhVU1nLUVKSDVJYkgxY1M3U1VoSHYzQmQ4NVJqcUJUeDZWRHk2N2ZGb0dpbS1RemhfMmhrS0RSSHpHLTN5aG9jWUdTOGJmdGc?oc=5",
-   "utc": "2026-11-07T07:20:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "- Nikkei Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43U1otemwzVjRPMk5PS1FyMU9QTGdIS25iNVhrV1k1R3NreUUxcjRyWnhDajJrNkE5WUxqeUpCSURzXzRY?oc=5",
-   "utc": "2026-11-07T06:29:08Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "- 日本経済新聞",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1aWI5d2RyMDFiakxxa1dfc1QtWnF0azZmdHgzMnZYdzBBeW14TEY0QlVSUkgtTGQtS1loSzhzOUZicHZiX2N6VXdQbUlIc243d0t3TkhENXRUT1JsdnlpVUxFOERINE1aQzRqWkVRSXpGVWhmOUozOWFkRQ?oc=5",
-   "utc": "2026-11-07T06:14:03Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-   "utc": "2026-11-07T06:00:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Prep schools help Chinese students get into Japan's top universities",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkVPZjFCQVhHUmNoUzBGRlRaUFpuUmJBaW4xOXh6bTZveE00emJBZGIyX3ZLTTNWaWNhOFYxeHdld0lwYkxBLVJTNmVQT18wSTdST2JQOU9XWW1raDZQZDg3M2JUb1NEVTFIZTZjbGtuYVRHLWVFbEI0M3BEQVhERHVvcjNMWTdzb2hfZFJPRllPTndIOWM5aXF1Q2w3VFRCbmE4aHZQSHlQVFJjZXJyXw?oc=5",
-   "utc": "2026-11-07T05:43:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Delhi world's most polluted major city on eve of Diwali, Swiss group says",
+   "title": "Pope Leo urges South America to bridge divides on Uruguay-Argentina border",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVlxZmVpMjBDLXg3TUszakhnQ25XZ2RzQUhjRzBHUi1waG1FeEV5LVNfQ29FNmJlbnFDY21Ebi1Jazh3RF9OOGlrOFZxdFRYMFFDRVdpajNqcS1EVkk4SDgtendZN1ZiMmxUamZaLXRGMjlIVDNqTUFDRDNmVHE4NV9TTDJnbnZfcDY5VGpiYXQtc3JadHo1Umt0cUdWWXZwLTRhNENqbXlWRHRCemhTN2ZHeV9MR2VlenlTa3ZHZw?oc=5",
-   "utc": "2026-11-07T05:28:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNld4REJFQ1RVUFd0ekQzNS1GOFItalNLYlAyVmhPVVpWN3RzdXl2ZDg3R2JoUkJiSmpMVjZVXy1taDYzNGJWd0NfVHhXdXRQb0d4LTItdTY1dTVJdDdSWUdrN25feUhFTnJOY3dncHpaRFZhT0lFelpWdFRpY0Q3djdwOGlkaXNyVHFUTDZMZGNWaVJGYUlzR05TVEltdE1jck5NdDRCeTVXVHhRZEdWNjBoUFpybzJpeGNZ?oc=5",
+   "utc": "2026-11-07T15:36:27Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Why India’s Stock Markets Hold a Session on Diwali: Explainer",
+   "title": "A record number of first-time home buyers now pay in cash. Here’s where they get the money.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
+   "utc": "2026-11-07T15:35:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Ken Chenault on Leadership in an Age of AI",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer",
-   "utc": "2026-11-07T04:30:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB?oc=5",
-   "utc": "2026-11-07T04:23:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Japan's unprotected deposits hit $890bn as inheritances inflate accounts",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ25xYTlCNjVIRjA1alIzTDFROHBUNEYxMWprSWotZXhnR2p4RHpUWHU0STN1NmhKeFpZRmRIYlg1N18wanFyaDdjVU16WEZVRklaSkRsUEc1RHV0WEFzbzA5ZzFkTnFiV0UyOVVUdVNNZVo2Tm9HZExkQURYY2txZ21nMGNRNTRTc2ZJUHQ1aUwtdWdRdEtKbzdrZnhheWpEZVJ2YkdEM29NbDZnWnVpWXhB?oc=5",
-   "utc": "2026-11-07T02:46:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-07T02:34:37Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop",
-   "utc": "2026-11-07T02:26:22Z",
-   "tag": "GOLD",
-   "breaking": false
-  },
-  {
-   "title": "Inside the card-grading empire shaping the price of Pokémon cards",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
-   "utc": "2026-11-07T02:00:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
-   "utc": "2026-11-07T01:54:36Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Taiwan's KMT old guard fights for power base in tight Taipei mayoral races",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVENha05jLVprdEk2dmwxSm5TdXhPT3ZHS2VVYkdfVHRXSTRhdFJwQ2tQS1ZBYVVidVlyOW5rMzNOOG95QWpHNGhwOHB0Qm80dU5wNnJjSVh5YW80WGx2NjBqRDZjN0ZNR2RidFVzbjIwRzNtNEhIZTctdFhDaE8zU2hPQWo3TDk5VmE3bW1Rd2tqVkpUWTdEcUxDY1RQTTFFM2YwcVlnUm1OWFU?oc=5",
-   "utc": "2026-11-07T00:44:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Haiti PM says gang leader Mathias Saintil is dead",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkdOZEEtMTQ5NzlLdWRCRUlzdVFsWkFoR0xPOTdIV2szN1hTWmNLQTBHejRjVUI0YTU1bDJpUXdONl9VSlQtZU9iLVRTWFhEbi1RLTZuNEJGQTFxZ1JXWVBBRk43Rjl0VXJrTnF5MXNONkM2TFRYRUM3QXVqTVBOR0R0a1o4NkNsZDhUVVNYTzRkTWNvYm4yRFpEWmVfUQ?oc=5",
-   "utc": "2026-11-07T00:27:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Kylian Mbappe puts European soccer's China bet to the test",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdEdjXzhQUzdZcmV6NU85VVNUNHMtZzE1LTM5bEZVLVdER2dKTEdHOHZmNG9QLXEza2N2VVhjLXNqMHZuQ0lqWEFoaHlvWFUtYnM2VWlqRFM2eFVyaW85S0l3Z2s3NXlxT0k0dEoyc1c0bDJmM3RidWp4eTZOeTc5VXowNlBnTUNZbjJYZEozcHMxdVN6cmo0R24yT01uaXNm?oc=5",
-   "utc": "2026-11-07T00:24:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Bangkok embraces Isan food, but not necessarily its people",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclVFaTFiNDQ4cHNSakNfNUF1MGRBWjR0cUpwZUlmVlF2VGFBVHllY3JkUHhMLTRVLTczVWxSMEtJcllJNlEwS0ZBalFBbk1HQ2NuaE45T1luc0FoRTRfTi1UM2p0eHVVMjZBRnRQRk5TVGZ3bnB6QlpFOHhOb3RNQmZIaG5QNldnSmtTUFAxNzhwbUxvRkNxVVNJUmZZdFdjWU5sSGZnR3dRZFk?oc=5",
-   "utc": "2026-11-06T23:56:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVpUdVhKa3ZpUXBuSDdMV0tXM3JyVDFhWmpjOU95Mld1cWlMeGhPSmJ3Ym5WeHVQSkpLLW5iQngzVUVyeHg5Y19ucWF0SUpVNkxUOU5DNTFYN0dBN2hGWi1DVDNUQU9xMEtIVFlQSG1FSlU1NEUxeV9FeUNyV05CMXRVU3V3MmdSVFBEc2pjbE9WMFN3ZU1PS252VXVHemM5YkpmeFd4OVpFZ3pIZnN4TlpILWZfckU3R3VqTGs4RE84dw?oc=5",
-   "utc": "2026-11-06T23:53:47Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video",
+   "utc": "2026-11-07T15:32:55Z",
    "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+   "utc": "2026-11-07T15:23:46Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "A Historic First for Women at the Metropolitan Opera",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video",
+   "utc": "2026-11-07T15:23:13Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trump’s Iran war has changed the future of Social Security",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
+   "utc": "2026-11-07T15:18:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Two killed, at least 10 injured in shooting in Polish city of Krakow, TVN24 reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+   "utc": "2026-11-07T15:15:07Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "How the Iran War Is Making Alaskans Both Richer and Poorer",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video",
+   "utc": "2026-11-07T15:04:03Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Russia pounds power facilities around Kyiv, damages major bridge",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html",
+   "utc": "2026-11-07T15:03:14Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWZNYXdzeHF4Ymh3blFVa2M3MlNpVWRUN0FjRXlkcWtVTjdwd0ZWZF9FSXpISWczYURGdmxzWVh1RE9SQ0NvaUhkTFV5dXg2dExMU1lGOVNJYnAyRUFGMUF2U1RMR0dlbFRiT3JmNV92Q3E0LUh6ZHU2Vm1WN2RvMk1hQWZyVTNlbGNCWFEyd3RtSkZaTHlEanRmOWJ3Qk1BQ3BSSDFwamdUb3pGWmVrQ1BWMnQwMW9rTFE?oc=5",
+   "utc": "2026-11-07T15:02:21Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Protein Craze Fuels an Investment Boom in Livestock Health",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
+   "utc": "2026-11-07T15:00:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+   "utc": "2026-11-07T14:50:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "America's newest small business owners with no employees are off to a hot start in AI era",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+   "utc": "2026-11-07T14:45:01Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Berkshire Hathaway accelerates stock buybacks, operating profit falls",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa29SbTRWcFpWdFpiekRVRjRvNmZjM1BnNzhOeVY3ajB5S25PaGgxVFAyTTItcjRDZkRmcHROSkJIZ3lNdXZkaGp0R2hOZE51eHBzR1U3MXlFRXhGOUhzV1pJR0I2RWtUZnRrQU1MVXZaSm1haDUtTHo3NEJvNGJhLU1rM2N4a240NWp2VFh5Vkd5LW1DOTd6emN0S1QyengzS1ZjdE04LVluRGppX19oSkxtVktEcDdoWXVIVk93?oc=5",
+   "utc": "2026-11-07T14:43:23Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Astellas employee jailed in China on spy charge set for December release",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1dteS1lVXk5Z1FFczI1Y1lfUW1oc2RYUDQ2eF9PZi1GaWp2YlB5RWp0VThBU29vbktUSzZPNnMxemJmRnpuMUtzQUI5TzhmcWtJVzZYbGdRb21NN3VHQUg4VXF6ZlZHcmxQWjN3VUdTMDVuRnBPdFhyY050bnBIaUVYQXRud1JnTHN6TWVBdXBpbHQ0eTJOUXI3RFBNZW0wcnJ1QWJPbEFOcjJCUDRiWHVpSGJPRWxYVmZMUlNqSmNwaTBsUkVBaQ?oc=5",
+   "utc": "2026-11-07T14:42:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "What midterm election blue wave rebuke of Trump means for renewable energy",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
+   "utc": "2026-11-07T14:33:32Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Many workers lose unused FSA money — but could still come out ahead. Here's how",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/07/fsa-forfeit.html",
+   "utc": "2026-11-07T14:30:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+   "utc": "2026-11-07T14:30:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Young Travelers Are Warming Up to Cruises",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-07/young-travelers-are-warming-up-to-cruises-video",
+   "utc": "2026-11-07T14:27:25Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

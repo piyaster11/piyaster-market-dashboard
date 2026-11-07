@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T08:53:41Z",
- "level": 50,
+ "updated": "2026-11-07T15:43:34Z",
+ "level": 53,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   36,
+   38,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   8,
+   6,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
-   0,
+   2,
+   3,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -100,6 +100,28 @@
  ],
  "headlines": [
   {
+   "title": "Hormuz reopening raises hopes of recovery in Mormugao port trade",
+   "source": "Goemkarponn",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX3IxQ0N5MWREanY1cTNsTkJmeGlyNzluWFhacXFSYUstcGpZSmxsNG1IVXZ1MGVWRkRxT01wYXR0SUtxM3h1M2RMVVdOM2d4Q3R3QXlrRTNUQWFacWRmUFRxS0Jrdng0UkxCS3hPYjFmSndZQWdJRk9MVnJLVGprazc4dXJ6WlNEX0lLa2x5cDg5c1k?oc=5",
+   "utc": "2026-11-07T10:55:02Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Oleshky Residents Request Evacuation Assistance Following Humanitarian Mission, Says Lubinets",
+   "source": "most.ks.ua",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa2RsQUl2ZlZwc21fSE5Odjd1V3E0Szd2dDlJa1FFUjg1Vk1mQlAxTm9HTlR6LWxoOG12RG9aa1VhbnJMVkFta0xvRGpBMDVXLVNpVHBlS0hlbmpVQWNfOEtzR2xmc1hJcHJrOEVNZm5abGRSNzFFTmdWWjRHN2VJbU9VdDVkZTZ0cHVIUlc5TE1sNFREODFLcThqQndQZDJvblgwOTg3c3laM2VKOFIxVE5mNlAwU3dubWlmSmdLUDZiUW9HUTFnQlJYM2I?oc=5",
+   "utc": "2026-11-07T09:41:44Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
    "title": "Trump Says US and Iran Are Talking as Hormuz Mine Attacks Continue",
    "source": "https://houseofsaud.com/",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kZXI4TlFQNlNoNm1lb1E4UC1feWdmVWdteXBsdEZtS2NDbkxGXzZlb09yQnFPRFJaLVMzUUlWaTJNNkgtR3FjUjVURGp5elE1aTBqcnNITW5HTFhoNkZOdm9FamVQSmVlV05wMFVLYTg?oc=5",
@@ -107,7 +129,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.6,
+   "airspace": false
+  },
+  {
+   "title": "NAF boosts aeromedical evacuation response for counter-terrorism operations through USAF training in Ohio",
+   "source": "National Accord Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeE43bFNsRHRELXVDSXNGbDl6UWd3djh6V3kwb1J3N18ycTdMYllfU2ZfVkZBV0ttaWp0SWpDbFZkRXVyT1lNQ1pDSFZPMGlycEpiVFBDc25hcnZxb09ObWppNUxKdy1aclFhNGZVa2YyWnl4QTAtaldXa3lJWl9EM3gzY1p2eVoxM2YxRHdCSXhOVG9sbVJKWlk4eV9rWGdXMVZrM282QlpaZlZrTl9pbkl6cG55VC1iWHpRbzQ2cUUyWnlZeEozS1BvNUltTG9ZNU5BMGZHZ0Ywdw?oc=5",
+   "utc": "2026-11-07T03:02:50Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -118,18 +151,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.6,
-   "airspace": false
-  },
-  {
-   "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
-   "utc": "2026-11-06T22:20:11Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.6,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -140,19 +162,8 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": true
-  },
-  {
-   "title": "Invisible points: What DefCon taught me about FPL transfers",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0RxUmRHZndMRWxNNTFlY1pmbWVVWkQ4RTlUY2pCMjJNeWdyYWQ2NXotSHNMVDJhd2wyVlJtMUdIbTFOZV8wMFhfbG5YVFk2WkZMN0VTU0JyamdwTWdMOWpJSFRySWxDSDRtNndDRlE4NDF6RVc1OVZEM016R0VLcHRSUGNneGRHUndRV1BTWDkwYlRMWmJkMUtXNHVnc3NvQTNuaE5KQTFpU0ZiRkE?oc=5",
-   "utc": "2026-11-06T17:16:13Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.3,
-   "airspace": false
   },
   {
    "title": "Security alert over threats against European media: Buildings evacuated, authorities on high alert",
@@ -162,7 +173,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.3,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -173,7 +184,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": true
   },
   {
@@ -184,7 +195,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": true
   },
   {
@@ -195,25 +206,14 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.1,
+   "score": 4.8,
    "airspace": false
-  },
-  {
-   "title": "Pakistan Extends Airspace Ban on Indian Aircraft to November 24, 2026 Under NOTAM A0590/26",
-   "source": "Avi-Go",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GMjdxUXFSRFVfMGMwQldZOUpBRkU1SDVDWkpuZUJGSTNxcDdyX3JtRXJyYTJqLWxaRDJNa2d1QXZIMG1BeUhERnh4YnV1eGg2a2tFYWlzdVBNVGRRSlRVQldfeld5dmN0NXZqMnp6WTd3WW8?oc=5",
-   "utc": "2026-11-06T00:54:59Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.7,
-   "airspace": true
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 78,
-  "baseline": 1.4,
+  "count": 2,
+  "global": 181,
+  "baseline": 1.5,
   "samples": 32,
   "hist": [
    [
@@ -563,6 +563,10 @@
    [
     "2026-11-07T08:53:41Z",
     1
+   ],
+   [
+    "2026-11-07T15:43:34Z",
+    2
    ]
   ],
   "box": [

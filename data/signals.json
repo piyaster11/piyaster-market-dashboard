@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:35:05Z",
+ "updated": "2026-11-07T00:06:25Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -100,14 +100,25 @@
  ],
  "headlines": [
   {
-   "title": "Invisible points: What DefCon taught me about FPL transfers",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZG9Id2ZUd1ZXcGdONnBGU0ZaSVZUQ2NxNE9vNjc4VEpxWkFSZGNDeGMtcWxFWGc5RmMwTFh1RUZXRDhhdU5sTlBobVpLU0pUeGtnUm9lYlBFclpNNF9fcjNDQWxnV2ZGREdWZFVTa0VpekdjWS1Cc3BoZDdfMnJGQjVrLVRFdmdJMDdUd1ZNbEVTMEhNcGlSNmxKNWNfVHV1WjA1SDRGOFI1SFQz?oc=5",
-   "utc": "2026-11-06T17:15:00Z",
+   "title": "Nuclear alert in Iran: Iodine distributed to the population",
+   "source": "TodayPress.tv",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUZhdDZob1o2NUtULVZpWlJLOE9pLWxodEQ1ZVQxQXdIVngtc2drU0dQV3RKVFJMeS00VFRacmxyQ2pwd2VoaDlrMi1TUDFlNHNZNlMwYjBTV0FNX3drQjlKeUFzcUZOM2gxc0NTdnRtTkpmTU1TUlpXX3p5NG1LdnZWWk85am5EOS1HYVlzdWhfekk?oc=5",
+   "utc": "2026-11-06T23:45:00Z",
    "tags": [
     "NUKE"
    ],
-   "score": 4.8,
+   "score": 6.0,
+   "airspace": false
+  },
+  {
+   "title": "Invisible points: What DefCon taught me about FPL transfers",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0RxUmRHZndMRWxNNTFlY1pmbWVVWkQ4RTlUY2pCMjJNeWdyYWQ2NXotSHNMVDJhd2wyVlJtMUdIbTFOZV8wMFhfbG5YVFk2WkZMN0VTU0JyamdwTWdMOWpJSFRySWxDSDRtNndDRlE4NDF6RVc1OVZEM016R0VLcHRSUGNneGRHUndRV1BTWDkwYlRMWmJkMUtXNHVnc3NvQTNuaE5KQTFpU0ZiRkE?oc=5",
+   "utc": "2026-11-06T17:16:13Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -118,7 +129,7 @@
    "tags": [
     "MIL"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -129,7 +140,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -140,7 +151,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": true
   },
   {
@@ -151,7 +162,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": true
   },
   {
@@ -162,7 +173,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -173,18 +184,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "Developing Economies Face Heavier Oil Shock Burden After Strait Of Hormuz Closure, UNCTAD Says",
-   "source": "UrduPoint",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUllROGZuSHdIamdoOFhIcnZjemw5NHRfa1pxRk5xOENsaXVsS1FCZjFQbXJiTEVjZ3BGempuMG1NaVlGMUo3eHllV05HNl9aMXJ3bFNlTXc5YmZ0NlBZVTBoYlJIU1ZjLVgzckdyczFiSHFJZ3cteVZ4V0lfaThNYTNjS1NIc3d0ZlQ2TGtkSG9QTlZTU1pzNw?oc=5",
-   "utc": "2026-11-06T10:55:24Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.6,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -195,7 +195,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.1,
+   "score": 5.0,
    "airspace": true
   },
   {
@@ -206,13 +206,13 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 331,
+  "count": 1,
+  "global": 153,
   "baseline": 1.5,
   "samples": 32,
   "hist": [
@@ -551,6 +551,10 @@
    [
     "2026-11-06T21:35:05Z",
     0
+   ],
+   [
+    "2026-11-07T00:06:25Z",
+    1
    ]
   ],
   "box": [

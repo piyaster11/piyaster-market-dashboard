@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:34:35Z",
+ "updated": "2026-11-07T00:06:03Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (40)"
+  "Nikkei Asia": "ok (38)"
  },
  "items": [
   {
-   "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-   "utc": "2026-11-06T21:24:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "AI’s Wild Week Has Wall Street Hunting for Fresh Escape Routes",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes",
-   "utc": "2026-11-06T21:23:32Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Nasdaq rebounds 1% following worst session in 18 months as traders snap up tech shares: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
-   "utc": "2026-11-06T21:22:40Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Japanese companies caught in crossfire of Beijing-Tokyo rift",
+   "title": "Bangkok embraces Isan food, but not necessarily its people",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzctWFhrbW1xZUdDaU5tS2s5bkJwQjQyV1RrMHp1QU1NZHIySmNwaG1Ka0VjNHlHYjQ4anRhZzAzR3QxOFZhY25hX2ppWlBPdnUybWk5OUZBZW53OWtNalA0ZEF6cjh4eWhVVTdyS3hldHlaOUFIa2JkaFhWWlA0N215ZXc2dmNkUkhPc1lKNFJwODFtenh0SUhXWGpwc19rdl9jY1ZaZmxIdWpabTc5Z05IWnZINGd5?oc=5",
-   "utc": "2026-11-06T21:22:00Z",
-   "tag": "CHINA",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclVFaTFiNDQ4cHNSakNfNUF1MGRBWjR0cUpwZUlmVlF2VGFBVHllY3JkUHhMLTRVLTczVWxSMEtJcllJNlEwS0ZBalFBbk1HQ2NuaE45T1luc0FoRTRfTi1UM2p0eHVVMjZBRnRQRk5TVGZ3bnB6QlpFOHhOb3RNQmZIaG5QNldnSmtTUFAxNzhwbUxvRkNxVVNJUmZZdFdjWU5sSGZnR3dRZFk?oc=5",
+   "utc": "2026-11-06T23:56:00Z",
+   "tag": "THAI",
    "breaking": true
   },
   {
-   "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-   "utc": "2026-11-06T21:15:47Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-   "utc": "2026-11-06T21:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-   "utc": "2026-11-06T21:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Further turmoil could be in store for tech stocks. What to watch in the week ahead",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
-   "utc": "2026-11-06T21:12:41Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
-   "utc": "2026-11-06T21:07:07Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025",
+   "title": "The Corner Store Brings Its New York Experience to the Las Vegas Strip",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025",
-   "utc": "2026-11-06T21:05:54Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-06/the-corner-store-brings-nyc-experience-to-vegas-strip-video",
+   "utc": "2026-11-06T23:49:39Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "North Korea's army of world-class hackers is secret weapon that took down Binance",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFdzUlg5LTJNVHdsSWIyX2UycEcwbERwS29uTTVaNXhBbHY4V0ZvR0VJWktxcm5OdkxuUWE1Q3ctWVFZZ2dKclYwX21iVnl4VEJ4dWplSm84enVCallLSGdHejVrQTQ4bXUxUXBuLXZReDRpenpXQ3dIRUtiNlZva3dta2pFWV9ZeVlKU0RldWczLU0wREdvMTNkQXQ5Zzl6UzI2TkwwMVdLTnpfXzJlYUZ6UURtU01EZnRTdmI0YWdOMzZndXRmX29HWG0?oc=5",
+   "utc": "2026-11-06T23:41:55Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
+   "title": "Elanco Shares Jump After Q3 Beat and Outlook Raise",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-06/elanco-shares-jump-after-q3-beat-and-outlook-raise-video",
+   "utc": "2026-11-06T23:30:58Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Grab seeks to monetise Thai cultural appeal",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3350179/grab-seeks-to-monetise-thai-cultural-appeal",
+   "utc": "2026-11-06T23:27:00Z",
+   "tag": "THAI",
+   "breaking": true
+  },
+  {
+   "title": "Sweetgreen CEO Says Sales Rebound After Cyclospora-Related Traffic Drop",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-06/sweetgreen-ceo-on-earnings-sales-rebound-video",
+   "utc": "2026-11-06T23:26:21Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Books: Uncovering the secret life of Tokyo's guard pipes",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQU1pQTZGOExUM205b1V5b1p3djJSNkg2bjJYYXhlTy11RFN6bW83Q3l6SUk4U01kcE8tak91YlNaY01oU0Z5THU3MWs5UkNsWUZ5aExrUVBiT01tY2g3dVF2RUVoUzV6QmUyNGIzX3N3dnBJVVZHdkE5WjA3VEdXcW5zQ2pHVm5SWko2SmNsRzh4TXRTWUxIeWxFUQ?oc=5",
+   "utc": "2026-11-06T23:23:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "FIGS Beats Earnings as Demand Outstrips Supply, CEO Trina Spear Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-06/figs-ceo-trina-spears-on-earnings-beat-video",
+   "utc": "2026-11-06T23:21:26Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Mall Group targets 20% rise in festive-season traffic",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3350149/mall-group-targets-20-rise-in-festiveseason-traffic",
+   "utc": "2026-11-06T23:05:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Americas-Nuclear-Revival-Is-Running-Into-a-Fuel-Supply-Wall.html",
-   "utc": "2026-11-06T21:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japan's new whisky breed chases export elixir",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlJjUjZseU9USi0xUkd3UmMzb0k0eG5WSHdfdzN3WDlNSXd4RTRCWEFqa1A5RE5nU2Y1X3JkbEZXQWdvX2RwbWRENkNTR2Q5Y3Mtd0NNR0xYcUJQM3BjQ1psekEzWWFYdmFoYTUwMDVyNjJnQzhrSlRoY3VzQ2VuajJ6MVpPVk4wX3NfZEhUNE1EZ2tRMEE?oc=5",
-   "utc": "2026-11-06T21:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
-   "utc": "2026-11-06T20:58:00Z",
+   "link": "https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html",
+   "utc": "2026-11-06T23:00:00Z",
    "tag": "STOCKS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-   "utc": "2026-11-06T20:53:13Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Spotlight",
+   "title": "Rest of the World",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jM3FjbU1NSG5MUmtGVnJDbFBVbGpZTjZqejFhSlppR1pobzQxQ1dpTEZRU3hHWmlFRXZQd3JqamxVZFRFUVRkNQ?oc=5",
-   "utc": "2026-11-06T20:52:56Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMXFSX2EzTjlUb3I1VlJhVTVacGVabWFPVERQRU1peU5NRFNlY2ZaRWM2NmhBZkNNMTdod0dKVnlMc3JfcFEtUWNvT1lTRlRKRGVzUmtqaXJyTTJIVkxN?oc=5",
+   "utc": "2026-11-06T22:56:29Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+   "title": "Seres, Li Auto join Chinese EVs' charge into Europe",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTYyTFF4XzBSb2tRbVV0bFpwRkNXd2tBV2h1V3M4TlZ2bTJCUHdHQmk2LUhzcnRXMFJNNm04dzh3NWtLSlZKaEwyWmJhVWZKRHF0TzV0aXliTUxqeGdOUTF1d2JZSWdWY0F0dk56SmVsVmZiRl8tTzVSdk9OSG15QzdqTGh3THVlTm80SGg1c3BJU29MNC1xYkJUQll4cWZHZG9JVHh4QXdYUUw3UU5STHhB?oc=5",
+   "utc": "2026-11-06T22:34:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "US slaps sanctions on Cambodia's Prince Group over online scams",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjgxejg4TXptODFqNzd1bjF6U1VsaHBnbENOaERHTVdkYTdVV0VaR3g2Vlpyd3J4bDZYT1k1enZtSmdoMzZ5NTNiTWRkZWVzakdzTlZHYUNHWlJkQnlFWFZjaVl1VE1HU0Ywc0c4czk0SHBZSmt2T3hWWUwzT0I5cTBmMm5adGFLdU51S3A5NmtqR3VvUTBXMm9WWDVUeVN1R1F4NFhoaDgwTjF1ckt2ag?oc=5",
+   "utc": "2026-11-06T22:30:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "AI-Generated Movie Heading Theaters",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-06/ai-generated-movie-heading-theaters-video",
+   "utc": "2026-11-06T22:29:48Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-   "utc": "2026-11-06T20:42:28Z",
-   "tag": "STOCKS",
-   "breaking": true
+   "link": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+   "utc": "2026-11-06T22:25:58Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Thomas Markle, father of Meghan, charged with possession of child sexual abuse photos",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3ZsOHM5bmJFSVZCX3dsS3g1cUIxWEE5SHprTWZubEpyNW1xajlvdnBYZnpvZGlqVnhBRF96NFBKZEhDTXpTNVE0VzVLbGd0dVVFcmVCeUxQenRvdlpEUTA3Q2hYZ2EwcmJRdkppV1JUcE1OQU5vLTU4MFdDNzJyTVFyOHYzZ3BUU05iQVJscG12UzByNDN0WHlKb2Q?oc=5",
+   "utc": "2026-11-06T22:23:28Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-   "utc": "2026-11-06T20:42:07Z",
+   "utc": "2026-11-06T22:22:53Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Here's a rapid-fire update on all 31 of our stocks, including 2 to buy now",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/11/06/heres-a-rapid-fire-update-on-our-31-stocks-including-2-to-buy-now.html",
-   "utc": "2026-11-06T20:36:03Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Wall Street Sees US Hitting $41.1 Trillion Debt Cap in February",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-sees-us-hitting-41-1-trillion-debt-cap-in-february",
-   "utc": "2026-11-06T20:33:40Z",
-   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Don't Think Social Security Going Away: Lusardi",
+   "title": "Providing Capital to Tech Companies: Masters In Business with Ann Berry",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/don-t-think-social-security-going-away-lusardi-video",
-   "utc": "2026-11-06T20:31:03Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-06/masters-in-business-with-ann-berry-video",
+   "utc": "2026-11-06T22:15:53Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNLaDVCMElHQkc5cjV5SmVJcFNPdVpMbnZHRmVFMkoxR3hhbERYTnBZcUlmQVZBanhMeVhEZHpsN3JxM0xrUHNsYVZPWW1EdXBWam1pNk5lSEZVNHkwcUV1VG9xbmVYek80a3JXelRIcW9fQjQ3TUljTUdpZkhYWUJaZHhxNTUybWQwME81bUtPTmJ4UUg4ZjVrZjVlLUx2azFkWjhmeThDWkp2MHJwdTVR?oc=5",
+   "utc": "2026-11-06T22:04:06Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Ann Berry on the Importance of Learning AI",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-06/ann-berry-on-the-importance-of-learning-ai-video",
+   "utc": "2026-11-06T22:01:25Z",
+   "tag": "AI",
    "breaking": false
   }
  ]

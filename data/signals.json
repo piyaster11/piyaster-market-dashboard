@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T15:43:34Z",
- "level": 53,
+ "updated": "2026-11-07T20:17:37Z",
+ "level": 50,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   38,
+   36,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   6,
+   5,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
-   3,
+   0,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -100,14 +100,36 @@
  ],
  "headlines": [
   {
-   "title": "Hormuz reopening raises hopes of recovery in Mormugao port trade",
-   "source": "Goemkarponn",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX3IxQ0N5MWREanY1cTNsTkJmeGlyNzluWFhacXFSYUstcGpZSmxsNG1IVXZ1MGVWRkRxT01wYXR0SUtxM3h1M2RMVVdOM2d4Q3R3QXlrRTNUQWFacWRmUFRxS0Jrdng0UkxCS3hPYjFmSndZQWdJRk9MVnJLVGprazc4dXJ6WlNEX0lLa2x5cDg5c1k?oc=5",
-   "utc": "2026-11-07T10:55:02Z",
+   "title": "FPL Gameweek 10: Saturday’s goals, assists, bonus + DefCon points",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjRNRWk4R24zcy03RzVKSlFTS2pJQzE2eWx2Z0g3cV9TcDYxcEx5bWNMb0ZFM25KcU9rX0JLYjh4anlYWjZwaWFuODVxMklDNFlLNEVkbl9XX3I0b1JSMFhlekc4NmNoR0gwcmptQWNiZ191c1dVelJfNmF1RGZEbjI2UXo3ZkxGb0huVDZ4clNZNE1LMTNfYkMtNXNBTW1RekdBXzQ2Nmg4TWFMVDBTa1VB?oc=5",
+   "utc": "2026-11-07T20:05:35Z",
    "tags": [
-    "HORMUZ"
+    "NUKE"
    ],
-   "score": 4.8,
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "Palestinian families in Belgium seek evacuation of relatives stranded in flood-hit Gaza",
+   "source": "Middle East Monitor",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLTctdEJOeVBadnpaeFdCLUt5Y05SNGJycTlCdkNpZnF3Y0xURzh5U0hURkJBcDN1MTY1Q281dndWNzBpODFHWm1WaG9telJKcWVXVUk2T2dXUGdpSlE2N0VCZGI3bGZkNkg2R1Y4T1RRZkNMMGFPSzZyNUw3dV9QU0huYWVHdnB2eUt3U2FnTkpEcG9icVhMOWYwLW5EakNiSzJBY2x3aExwRUgyckE1SU16RlpLVUl2TDlIVG5aYzZLaHU0RVpoREhOVdIB0AFBVV95cUxQc0pnSjdKUmNPM0NhZXYtUjhncjZKWGJKUXF0emI5WU9XcWNOc3FySlpHVUFNVUc2WHZpb1hEMF9aRDJ6ZEVmQk5iU3JOVjJ2aFljQU5mUnpXZWlTT2FZTUZiTXJ4VHRKTUhjSkVScm5OLU1WZjRBUERjTmpSQV96cEhoQm9kOWRvMXJaNVNiWHoxLTNFTEVVNkx5MEhfWjJQOEw1cV8xSGFaUTFQdWpzU3RZZDFDOXc5aVhZOFJWa2tDSTZjb2xqUDhraF9mSzhX?oc=5",
+   "utc": "2026-11-07T18:09:00Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Residents of Oleshky began seeking help with evacuation following the humanitarian mission, — Lubinets",
+   "source": "NikVesti",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSS1JSUJJNGQzVTRiMXRySHZYTXo4M2dpRGU2c21TdFZyYlREbzIzM01jOHBEYW5SUDhjaDBXY0dSZllzVW9SSklCNkExc1oxZGs5aWdpamFGZDE1RWhFMWM0cEcyVWx4ZXdsVGdrNUl1TWVmak9NQTd4U01ZTDhEWUNKencxVDJiSm9icEJNaTkzSUFNRXRSRE9OY2h6RXA3VTJELXhTYVhZTUNPcV9IeUZKTmxRQkNa0gG4AUFVX3lxTE5JLUlJQkk0ZDNVNGIxdHJIdlhNejgzZ2lEZTZzbVN0VnJiVERvMjMzTWM4cERhblJQOGNoMFdjR1JmWXNVb1JKSUI2QTFzWjFkazlpZ2lqYUZkMTVFaEUxYzRwRzJVbHhld2xUZ2s1SXVNZWZqT01BN3hTTVlMOERZQ0p6dzFUMmJKb2JwQk1pOTNJQU1FdFJET05jaHpFcDdVMkQteFNhWFlNQ09xX0h5RkpObFFCQ1o?oc=5",
+   "utc": "2026-11-07T18:02:49Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
    "airspace": false
   },
   {
@@ -118,29 +140,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
-   "airspace": false
-  },
-  {
-   "title": "Trump Says US and Iran Are Talking as Hormuz Mine Attacks Continue",
-   "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kZXI4TlFQNlNoNm1lb1E4UC1feWdmVWdteXBsdEZtS2NDbkxGXzZlb09yQnFPRFJaLVMzUUlWaTJNNkgtR3FjUjVURGp5elE1aTBqcnNITW5HTFhoNkZOdm9FamVQSmVlV05wMFVLYTg?oc=5",
-   "utc": "2026-11-07T06:23:16Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "NAF boosts aeromedical evacuation response for counter-terrorism operations through USAF training in Ohio",
-   "source": "National Accord Newspaper",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeE43bFNsRHRELXVDSXNGbDl6UWd3djh6V3kwb1J3N18ycTdMYllfU2ZfVkZBV0ttaWp0SWpDbFZkRXVyT1lNQ1pDSFZPMGlycEpiVFBDc25hcnZxb09ObWppNUxKdy1aclFhNGZVa2YyWnl4QTAtaldXa3lJWl9EM3gzY1p2eVoxM2YxRHdCSXhOVG9sbVJKWlk4eV9rWGdXMVZrM282QlpaZlZrTl9pbkl6cG55VC1iWHpRbzQ2cUUyWnlZeEozS1BvNUltTG9ZNU5BMGZHZ0Ywdw?oc=5",
-   "utc": "2026-11-07T03:02:50Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.5,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -151,7 +151,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.3,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -162,7 +162,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.1,
+   "score": 4.9,
    "airspace": true
   },
   {
@@ -173,7 +173,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -184,18 +184,18 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": true
   },
   {
    "title": "Iraq denies airspace closure despite civil aviation alert",
    "source": "The New Region",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WbWt1Z0xPbkNob182ZmlVRFZENmJyc1VZTFBBYlJzeDZJX2JYWWQzVVVkdlBaY0hQS1l6ek1OSlJ1azBXR3BXaVpDbw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXFPWGpoMWNZZTY5TnRNQURrWTRNMmpHOGtNYlpfeGtsQ3FBTEFSamhSamFTSHl1MU1hNDM5SFlka1llSlJ6MzZvRGc3dTNSend0czVEcTh2djJuQ1VDMTBjY2pTWGMzTUp6dmw1ckNxU0ROOXpTRVJVYi1qMVdnZnI1U1k0VHo1TVFOVnpRMWNLUUhPZGVwUw?oc=5",
    "utc": "2026-11-06T12:29:49Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": true
   },
   {
@@ -206,13 +206,13 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 181,
+  "count": 0,
+  "global": 148,
   "baseline": 1.5,
   "samples": 32,
   "hist": [
@@ -567,6 +567,10 @@
    [
     "2026-11-07T15:43:34Z",
     2
+   ],
+   [
+    "2026-11-07T20:17:37Z",
+    0
    ]
   ],
   "box": [

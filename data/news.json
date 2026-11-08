@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T00:43:07Z",
+ "updated": "2026-11-08T07:27:14Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -13,162 +13,162 @@
  },
  "items": [
   {
-   "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
-   "utc": "2026-11-08T00:00:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Wars May Spur Faster Electrification",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
-   "utc": "2026-11-08T00:00:00Z",
+   "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+   "utc": "2026-11-08T06:00:01Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
-   "utc": "2026-11-07T23:54:25Z",
-   "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-07T23:53:30Z",
+   "utc": "2026-11-08T05:42:31Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Judge orders Paraguay's ex-president Peña held before trial",
+   "title": "Saudi-led coalition intercepts two Houthi missiles fired towards Riyadh",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
-   "utc": "2026-11-07T23:34:21Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEd1Mi1tMEV0cUFGYkd2V01lQ1NkczNNYzZXTlpTOXByR3BaSk82N21DOEpTeEtNMlJ1bFJ3S2pLTVZBOUp5cDFwOUpGakNxMTR1a2RyaHJBcDNOZUJqR1dDZllfejBPWGZ3UVYyT2s3Uk9XaFE3LW1qQkxtNHhlcmFRcGk0bDlWeHZyQmNNOEJyT1lWeVZlTEJlZ0xpRHF6UUs0RnRTWExlbEJ4eDc4YTY4d0VfM2x3dllKUGhZa1Z4QQ?oc=5",
+   "utc": "2026-11-08T05:24:00Z",
+   "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Trump offers UFC chief Dana White press secretary job",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-   "utc": "2026-11-07T23:13:38Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Poland in shock after six die in Krakow mass shooting",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
-   "utc": "2026-11-07T22:57:43Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan tourism industry steps up push to draw Indian visitors",
+   "title": "Bridgestone revs up output of massive mining tires on AI-driven demand",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbG1UN2RHMWI0V21DcVJaRlU5d3pxQ0poN3dnYnVKbFAxUlN4Wi1LVEhMdHc3QzlaX0lxcktiUE5wR3lkbUU5R1EwOHVyOWMza1RzYm1UOGxpTE1QN1RFNTlMaXVEbTQ4NjFNY2R6UktlM0hfQUtyRWhGOHJGeGRmZnVhT2c5Y2FLMkRoOEt6d1lid28yb0ItRy1sRGt5bkNvOVZxMGlFQzJ4cFBs?oc=5",
-   "utc": "2026-11-07T22:50:00Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkFaOEc0RVp6MEdUcnlsY3BUYk85ekxTQUNIUmZFTHR1eko1aXJLcmtLb1g5RWU4VldNSG1sQWJFTHVuXzZwcHdVaGFfUU1MVDJlTTFPSkhQSVpDM05QbTVKNWN5bkIwc1hibDlZcHhZX2p4WlAtSVg4S0FwdlQ2NTh6UGNnOE1ySU5kaTlUTkxGTW02ZjdETzJYczlPaVI2ZncxelQ3V0l0MFdsUFdubGE1WHFSdw?oc=5",
+   "utc": "2026-11-08T05:04:00Z",
+   "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+   "title": "1339ta.TW - | Stock Price & Latest News",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
-   "utc": "2026-11-07T22:49:13Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
-   "utc": "2026-11-07T22:48:58Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
-   "utc": "2026-11-07T22:45:57Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Guatemalan lawmaker, three police officers killed in armed attack",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXlOVWFGbEdmcjdXRHh1UWR1aEZUUDVHSlpoMG9vUERJWEVRdWZRenlvaWlkZFJ3WFk4MTB6RVFNajRHY2oySHRFbkJqbWVWRVd6M3k3eWtNZTl4RjJZaGNKNWNBQUVrUTduNXFZODI0bmhCbm9XMmtGOHZVaHFKaHVlMURsd2tsUER4ZVZxdjFvLW9TQUxIM3dEMFpjWkpHY3FIdzhqOXZ4UTVDbW0xTFZ3?oc=5",
-   "utc": "2026-11-07T22:45:43Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1JmenBXVVhvTTZIU0dnVDduN0VVeWNYU3R1Sl9CLVRhQ3RPaUYwcG85TWZrenoxS3Nwc2NKU3FmNnI0Z05ydlhySG9fWjF1cy1sdm9WVlluYUt6SFNzSTVzUFdaSWVQY21Ud0dOV1ROamRnSUFPUUFTZF9mLXpidXRRdjlwRkZfaGVSNmxnMDVhWF9SRDE4TmxsanRkRktselE4SGVRZFlXYmNvbWo1aEJaVl8zZy1YZm9nQg?oc=5",
-   "utc": "2026-11-07T22:45:30Z",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMk1nWWlIX3N5c2cwa3JOeGViSzEtZ3F4aXpJWHN2N3VseUUwdFZuVTNYR3JtVVBJSGdxakl2aUVtS2ZmRFNKWGhhbXpqNDUxVkU1YjM2OGRZZ1JEdnFwX1BDNXVkR2x2cXZ5enV6LWc4UlJ1LXJUNXBTWE5WQ1dzVXBIZ1l6YWZMdUo3WE9uSGM0SW8?oc=5",
+   "utc": "2026-11-08T04:59:24Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
-   "utc": "2026-11-07T22:39:10Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
-   "utc": "2026-11-07T22:36:37Z",
+   "title": "Iran executes three men over armed unrest during January protests",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3AtenozM05Va3RPQ1JUYWZ2T2ZYSHVLeDVpN0pKd2lObzVlTjFmSTAyazZoUzNFbHNEc3F5NVBsclI5Rkt3MlpQaVpISy1HdEtOTmNWQVFPQ0IyOGVMOUp0aURUQWJNWENqTklhSUlNQkRqTnFSWm9QR2o3R201b0FVRk00WjV2dG5XaEwzRjIwWVoxQUtkRExIVWdUV1FqdFdPNUQxRjBIdXdfUVJ5RWJ3RkFEX0p5dUZtSzFVLVpsQlI2OTdRQ0pJeDl5djg?oc=5",
+   "utc": "2026-11-08T04:41:00Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Trump says he wants UFC chief Dana White for White House press secretary",
+   "title": "LEDR.OQ",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5",
-   "utc": "2026-11-07T22:23:16Z",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41THlkeWVNZXBYN28waTFoRHE5RXJGTHJ6MlhOT2trMDJnSE9RSUdKV19EUDhvU0YzaXhKSUdYSHVFSU1kNENWNUt4NGFHYWlfSHJFVDZGM3BtbkNGazBtNEJ5Ym5DNUlLYi05RXpxdUtIUjlkSFQw?oc=5",
+   "utc": "2026-11-08T04:31:18Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-   "utc": "2026-11-07T22:17:52Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Indonesia's art deco hot spot, a century on",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXhGR29JVHZZVERGSTFtSFp0ckpBMWpZRXpiNGx5SUlBWlNNaW5vd2JlaDJ6QmlpM1BvWjRFamtPUmhlVnptSHdHdkJBalB0YVdXQ25wYjJ2ZHNVNG1MTVZKVjZycEZfYzVVZVFyN0dJcElHc0gyVDRISGxOcG9OTmRuaEZQN2lWcVlqM29ibDFoMF9jV09oSE9R?oc=5",
-   "utc": "2026-11-07T22:10:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Microsoft Corporation (MSFT.O) | Stock Price & Latest News",
+   "title": "Apple Inc. (AAPL.O) | Stock Price & Latest News",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mc1U3MkxiZ00yS0FLaXVrTG1GRkFVdFRNTVRBV2cxQm1vSGl4bThaMXdGRHI2Q09oUkpsTE5mcElfN2ppbnlkcTQ2eE5jYlZETzBnNTdCN2lUNDluNkE?oc=5",
-   "utc": "2026-11-07T22:07:50Z",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PaWY2R1FiNlpzRDZ4dGJBX0pHNDFzcE5RdzlFenJoLVppQ2JjTzFIVE9STTloMkFhMnNqaTJYdzAwZVYwMGNWNWhwU3RaTWtDSHpGZTRybTFRVkJPbnc?oc=5",
+   "utc": "2026-11-08T04:15:04Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Police officer's home in France destroyed by fire, interior minister says",
+   "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
+   "utc": "2026-11-08T04:02:33Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Astellas employee imprisoned in China to be released in December, Japanese media report",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHZQM3Zvc21OMXdXcEo3LUhQQXRGdXhLaFk1elFXbjZNQkQ3UjIweHByaTFBM2ZfWlhZd25uQ0M1NzB6TFU4MkNHenRNSDA2Z1FrSXBIMEotblZGVGZFdnN6d0RMc2sybHU5dmQ5QUo4aXQ3UWROQUU5RW5ac3N6VlN2NnJhb3QxMlBwNTN3ZlVhNVVPcmFPdHAwNE1TVnN6SEd1ay12WEtQS1RFcG80?oc=5",
-   "utc": "2026-11-07T22:06:52Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODFjR25tcklTWnhjRDdJX0J4YjdUVTF3QU9hWUEwemp6cEd1c1NEb003Qm5kUE5WblVNN0c1SlBxZU4yM3lGdHRUZzR1cXpyNEs5VE9nTEF1b3d3NzlabkdLRDJWV3Nuc2tJQ3FaTU1MV1E5T0tUOUlKR2ZZSHp1TS10aWxrRzdiVi1ldlZlYXpJQldFMHFrUkRDd0hLc2NkUkp5NEpCTUlDSnJFTkYyUkE1SVJUcGw1cVI3dEdveEg3ckE?oc=5",
+   "utc": "2026-11-08T03:49:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Pakistan's Hormuz agreement with Iran faces test after LNG tanker attack",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGhZaHRiZXIzX2RzeTBMRTNVS2FsQnk1VUpwdThDbzhBb0FiaU9HX0ZkQTBwVW5rUkFlUHB6NEU1U3A1V3VCOWdLOVRoNDhXc18tMl9Pcl9pOXdFVlZLSndDMHJTaWMtYWdKNHJFeVhHV2FkSno0cjVxSFh0V1Z4WHJUZlR4MmZLZ042X2J6OFFRbklYSDZnelp0d0NBaWppbE1PY0RrU2hNcnRzWVc3QUNuY0hzS3RURU1RTnpXdlZNVF8wMDFrTw?oc=5",
+   "utc": "2026-11-08T03:45:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "China Raises Delegate Count to 2,360 for 2027 Party Congress",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress",
+   "utc": "2026-11-08T03:29:25Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Global Management Dialogue 2026",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1FaR2pVZ29WWXdxWExBUjdfaEg0WHJvMVFpQWZwckhkM21BOWhQSzluQUltVkxERUI2ME04REs2aHF2LU1mNi0xU2x4ZzUtcGxGQ2hpcXpvbDBUNEk1Y1ZrdzZzM2diSEtqSjFRUGdtdF9KRF9FVW5WSDQ1d2QtNUhDTDAwS0hXYjA1R2hCVG1lQ2g3Y19V?oc=5",
+   "utc": "2026-11-08T03:28:25Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Saudi civil defence gives all-clear after alerts in Eastern Province",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5",
+   "utc": "2026-11-08T03:11:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "GLSHol.M3 - | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96VGJwNW95QzZzWl9QU3NaLUp2T3FJZHFpdi0tcmpXT3UzTC1WbEFMaEF0WjlUVS00MUJ2amg2MTBMYmdOWHV4QW53ODVvNTJZbF9HLXlkTlhxMFpuNkVwdGhDTDQ0NnR6NmRSd3NFUU5iQQ?oc=5",
+   "utc": "2026-11-08T02:40:35Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "8362.JAX - | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GVVBFM04zV3RMckU5VDJXS0x4X3lBajBrTVdzSjdVdl9xU2JjOHlUMU1kWlF2QjlsUlhEYXM4YXJPTko4aFVLSmF4X1pjbmhYc1Zyd1dlWkNDTWdxX1hRTDVvSGZORG5zYnNIWkRxVzNaQUNMek1NZQ?oc=5",
+   "utc": "2026-11-08T02:35:45Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "A taste of Myanmar's ethnic diversity comes to Tokyo",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUNPejlMUHFvVzQtSlhNdkl2a1k1LTAtMWpHcTVYOFRNSGpVd1dNSTZfUzdFUXNLWEl5WTZlS2FnRzZHVjFiaUFHTlk3Y1B4ZUNtQktYXzZUU1lObUtBRFFHbWl3cmRwVV85VjNkQUJqRlhqRmNCTkR6eVQ4TURsem9acW9IVGp6MEl4ckgyQnN1UFF1SnRlLV8zNjM4UG9MNU1n?oc=5",
+   "utc": "2026-11-08T02:16:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "What the Democratic sweep means for Trump's tariffs and AI",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkdNUHVFN1FiQmJRczhMWWJtZlpFVDJvcF82eHphNmxhekEwQU1ranhPQnhmUWx2SC1SRFF1aUpWTmo4ZWtLZUR4Q1JKM2tmbkN0QWxCVXNEbndtZlRzNVJjY0FQd2R5QUhnZC1PSjNRYjRWa0ZQdDk0cFAyUkdmNVRFYVZaNWl6N0ZwMmRJdk4xUQ?oc=5",
+   "utc": "2026-11-08T01:46:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "AXN.CHA",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1ZPNXdjVkpUdlp1aFVCeEhFeDByVGFVWFB1Y0Q2VkVrUVBuOW5OcGlOa2NXM2oxaGV2eGNlR2JfQkhHZDFBTXJZeFo3VVV3YWM1cTh6UWhxSmlka3hSVHVjRFhobFItSjJhQmNHYnRISWIzQnpLYU9TSTBQQ3ROQVZBNHdIRTBmQVhxMlB4NUk?oc=5",
+   "utc": "2026-11-08T01:43:25Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "FBK.TH",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDZmMTF4Z3pCVkxRQTlWQTZjZ2tKT2J1Mi1YbFVKUmhDeVZPaURIbmo3MVlHNVRnWkhsRWhYNmc4d25lWjJRdWg4Ukg3Uk1mN29pQ210cnZvVjBhNkpNTWtKN2VkRVIycUlzRWRRX3h1VHV5QUhSZVllZHRZODh4Mjc1cEQ?oc=5",
+   "utc": "2026-11-08T01:38:14Z",
    "tag": "MARKETS",
    "breaking": false
   }

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T00:43:21Z",
- "level": 50,
+ "updated": "2026-11-08T07:27:34Z",
+ "level": 57,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   34,
+   30,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   5,
-   15,
+   4,
+   12,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
-   0,
+   7,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -100,14 +100,47 @@
  ],
  "headlines": [
   {
-   "title": "FPL Gameweek 10: Saturday’s goals, assists, bonus + DefCon points",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjRNRWk4R24zcy03RzVKSlFTS2pJQzE2eWx2Z0g3cV9TcDYxcEx5bWNMb0ZFM25KcU9rX0JLYjh4anlYWjZwaWFuODVxMklDNFlLNEVkbl9XX3I0b1JSMFhlekc4NmNoR0gwcmptQWNiZ191c1dVelJfNmF1RGZEbjI2UXo3ZkxGb0huVDZ4clNZNE1LMTNfYkMtNXNBTW1RekdBXzQ2Nmg4TWFMVDBTa1VB?oc=5",
-   "utc": "2026-11-07T23:15:00Z",
+   "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDZGV213b2dwYWhTaHVHT2x3d1RjbkJ0dTMwdWFiUTlJbnRueS01SXlfaXJUVnV1RGUzUU9JZXpUOFItSUJWTWFVSFJ6MDN4VXRFRW9GazhKRDFUR0lzRS03dDN0Z2o3ZXFhc2hTTUtPSWdFX2pIa2tmdFVmNC1UMXlDTWtvZWtPbXZTaTIxTVc5aDJ1RzNDLVVZcXlCdFg1YjFzYXRtTzFfSXR5U3AtdEVTLUdsalNNbDJBZjI0dklYY19vLW5FOUtRODdxMVFUcU9XeW1TUnAydEZEQmdkUmcwWkF5a2wtSnc?oc=5",
+   "utc": "2026-11-08T06:00:00Z",
    "tags": [
     "NUKE"
    ],
-   "score": 4.9,
+   "score": 8.9,
+   "airspace": false
+  },
+  {
+   "title": "IRGC Says 2 Tankers Hit Mines as US Disables M/V Huda Near Hormuz",
+   "source": "https://houseofsaud.com/",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ta0s1S2d6U1I2VWttU1B0M3REX21DeVE4ODI4OVNtQjVnT2RVZkFhSVRwSTdTSGdtUWRNd3VySngyZ2JaTVFTQU9MMXhLRENhRjBnTzd1bHE3M0E3aTlON0RTQ3JRQQ?oc=5",
+   "utc": "2026-11-08T01:25:51Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "M’sia diaspora in Qatar conducts evacuation drills for war threats",
+   "source": "The Star",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBRYlJWNjlsVFBsbGlmVjFObmxzRHJ0VEtmeHNQX1VuWnYtN3VCcVRKcERxM2ptYVI2dEEzZXlNNC05VWdSSGx5dHBUcGFYV3h5Wmc4MjJoczZsT18xZXM5QTFSZ25NLWh6QVRkMjJHdnozMExIejhoYVB1YUVPVUVXUlVrT2oyRVhrYjVac05jUkl2c1llWXFHUVBpMVc4YU5Bamx0QWcxN19EaEl3OUJrRFk1UQ?oc=5",
+   "utc": "2026-11-08T00:43:00Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "FPL Gameweek 10: Saturday’s goals, assists, bonus + DefCon points",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjRNRWk4R24zcy03RzVKSlFTS2pJQzE2eWx2Z0g3cV9TcDYxcEx5bWNMb0ZFM25KcU9rX0JLYjh4anlYWjZwaWFuODVxMklDNFlLNEVkbl9XX3I0b1JSMFhlekc4NmNoR0gwcmptQWNiZ191c1dVelJfNmF1RGZEbjI2UXo3ZkxGb0huVDZ4clNZNE1LMTNfYkMtNXNBTW1RekdBXzQ2Nmg4TWFMVDBTa1VB?oc=5",
+   "utc": "2026-11-07T23:17:37Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -118,18 +151,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.4,
    "airspace": false
   },
   {
    "title": "Residents of Oleshky began seeking help with evacuation following the humanitarian mission, — Lubinets",
    "source": "NikVesti",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSS1JSUJJNGQzVTRiMXRySHZYTXo4M2dpRGU2c21TdFZyYlREbzIzM01jOHBEYW5SUDhjaDBXY0dSZllzVW9SSklCNkExc1oxZGs5aWdpamFGZDE1RWhFMWM0cEcyVWx4ZXdsVGdrNUl1TWVmak9NQTd4U01ZTDhEWUNKencxVDJiSm9icEJNaTkzSUFNRXRSRE9OY2h6RXA3VTJELXhTYVhZTUNPcV9IeUZKTmxRQkNa0gG4AUFVX3lxTE5JLUlJQkk0ZDNVNGIxdHJIdlhNejgzZ2lEZTZzbVN0VnJiVERvMjMzTWM4cERhblJQOGNoMFdjR1JmWXNVb1JKSUI2QTFzWjFkazlpZ2lqYUZkMTVFaEUxYzRwRzJVbHhld2xUZ2s1SXVNZWZqT01BN3hTTVlMOERZQ0p6dzFUMmJKb2JwQk1pOTNJQU1FdFJET05jaHpFcDdVMkQteFNhWFlNQ09xX0h5RkpObFFCQ1o?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONk8zR0hTV1NvaldhbGw1MlIwZ3luSU56MVZPMk1FNTRja0Q4aUhmeG91RGZtLUJ1LUlGUklwNHd3eHM2OVFOOThsTWNpZ3J5UHp1cHI5Yjk2SmdldGRFRzcwYnd1aVozQW1wd3JLdC1FNUdFakhXOExYZGgzenBMd2hkdmNuNDRGSUdiWklSUWhsSklpTndpRE5rY1lpRG8xYTQ0RmYyX0RvMkttRlVid1ZRSdIBuAFBVV95cUxOSS1JSUJJNGQzVTRiMXRySHZYTXo4M2dpRGU2c21TdFZyYlREbzIzM01jOHBEYW5SUDhjaDBXY0dSZllzVW9SSklCNkExc1oxZGs5aWdpamFGZDE1RWhFMWM0cEcyVWx4ZXdsVGdrNUl1TWVmak9NQTd4U01ZTDhEWUNKencxVDJiSm9icEJNaTkzSUFNRXRSRE9OY2h6RXA3VTJELXhTYVhZTUNPcV9IeUZKTmxRQkNa?oc=5",
    "utc": "2026-11-07T18:02:49Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -140,7 +173,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -151,7 +184,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -162,7 +195,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.0,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -173,47 +206,14 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.7,
-   "airspace": true
-  },
-  {
-   "title": "Shafaq News..Iraqi government denies nationwide airspace closure",
-   "source": "شفق نيوز",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOElabVpNZjh2VDhfTGgzbkpuRkJnOTRsQkVpMUN1dEFSRzRqY19DVnRpR0VtbUxMWFJNS1FJNGRRRlBZTVdhWVY1ZjFDR01TeHhpb2FCT3BfV2otdmFIb1daSW10M05vSS1HNEk2Q0g1RnNTbXJtUWs4bmQ0a09Ja1V4dWZ6Q1NJa3pDTFJR?oc=5",
-   "utc": "2026-11-06T12:32:07Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.5,
-   "airspace": true
-  },
-  {
-   "title": "Iraq denies airspace closure despite civil aviation alert",
-   "source": "The New Region",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXFPWGpoMWNZZTY5TnRNQURrWTRNMmpHOGtNYlpfeGtsQ3FBTEFSamhSamFTSHl1MU1hNDM5SFlka1llSlJ6MzZvRGc3dTNSend0czVEcTh2djJuQ1VDMTBjY2pTWGMzTUp6dmw1ckNxU0ROOXpTRVJVYi1qMVdnZnI1U1k0VHo1TVFOVnpRMWNLUUhPZGVwUw?oc=5",
-   "utc": "2026-11-06T12:29:49Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.5,
-   "airspace": true
-  },
-  {
-   "title": "Trump’s Threat Sounds Nuclear Alert | Firstpost Live",
-   "source": "Firstpost",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHlvM3RuSkNSVUI5R1d0Nk8yOWswcjU3Ym52LUVlelRyeXRiVjZPS2hUZXpRWFBvdFdldjhvOXJScTZ3dW5CNlh2YUFEREthWmJvb0pDby1tZHJoN2xVdVFOc0hyM2Q5MTBQVzVHUVR4b0Nya3U0dzJSdWYzY1ZyXzFtSndNQTZwZTdFZDY3SFg3WlJoXzFJOEZNZlVOSWN0elV1cHNWZ3kwVWRjRDdIbk9nTkZfRzIxVjk1MXNKaGJXQjRM?oc=5",
-   "utc": "2026-11-06T11:15:56Z",
-   "tags": [
-    "NUKE"
-   ],
    "score": 4.4,
-   "airspace": false
+   "airspace": true
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 98,
-  "baseline": 1.6,
+  "count": 7,
+  "global": 70,
+  "baseline": 1.5,
   "samples": 32,
   "hist": [
    [
@@ -579,6 +579,10 @@
    [
     "2026-11-08T00:43:21Z",
     0
+   ],
+   [
+    "2026-11-08T07:27:34Z",
+    7
    ]
   ],
   "box": [

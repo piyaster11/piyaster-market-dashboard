@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:27:14Z",
+ "updated": "2026-11-08T15:19:06Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (17)"
+  "Nikkei Asia": "ok (15)"
  },
  "items": [
   {
-   "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+   "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+   "utc": "2026-11-08T15:16:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43OGZkbXJEM0NHMkhTVXE5WDNGYmZHdjNTWk95ZTRfWUxjdVpyY1NGelZHSjlTUHVtZ2NfckdQNldJTmxBUzJCd1FXdllyU1dxa1hWN1paS21HZVBpN3NkcVJSc0lFUQ?oc=5",
+   "utc": "2026-11-08T15:13:55Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Can Europe Afford Its Welfare State?",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
+   "utc": "2026-11-08T15:02:58Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+   "utc": "2026-11-08T15:00:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "New House Democrats Set Their Priorities",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
+   "utc": "2026-11-08T14:58:22Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Luxury Gyms Turn Fitness Into a Family Affair",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
+   "utc": "2026-11-08T14:40:27Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
-   "utc": "2026-11-08T06:00:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-08T05:42:31Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Saudi-led coalition intercepts two Houthi missiles fired towards Riyadh",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEd1Mi1tMEV0cUFGYkd2V01lQ1NkczNNYzZXTlpTOXByR3BaSk82N21DOEpTeEtNMlJ1bFJ3S2pLTVZBOUp5cDFwOUpGakNxMTR1a2RyaHJBcDNOZUJqR1dDZllfejBPWGZ3UVYyT2s3Uk9XaFE3LW1qQkxtNHhlcmFRcGk0bDlWeHZyQmNNOEJyT1lWeVZlTEJlZ0xpRHF6UUs0RnRTWExlbEJ4eDc4YTY4d0VfM2x3dllKUGhZa1Z4QQ?oc=5",
-   "utc": "2026-11-08T05:24:00Z",
+   "link": "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html",
+   "utc": "2026-11-08T14:30:30Z",
    "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Seattle and Las Vegas Make Their NBA Pitch",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
+   "utc": "2026-11-08T14:28:18Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
+   "utc": "2026-11-08T14:26:27Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html",
+   "utc": "2026-11-08T14:23:16Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+   "utc": "2026-11-08T14:15:00Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Bridgestone revs up output of massive mining tires on AI-driven demand",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkFaOEc0RVp6MEdUcnlsY3BUYk85ekxTQUNIUmZFTHR1eko1aXJLcmtLb1g5RWU4VldNSG1sQWJFTHVuXzZwcHdVaGFfUU1MVDJlTTFPSkhQSVpDM05QbTVKNWN5bkIwc1hibDlZcHhZX2p4WlAtSVg4S0FwdlQ2NTh6UGNnOE1ySU5kaTlUTkxGTW02ZjdETzJYczlPaVI2ZncxelQ3V0l0MFdsUFdubGE1WHFSdw?oc=5",
-   "utc": "2026-11-08T05:04:00Z",
+   "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+   "utc": "2026-11-08T14:14:11Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "1339ta.TW - | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMk1nWWlIX3N5c2cwa3JOeGViSzEtZ3F4aXpJWHN2N3VseUUwdFZuVTNYR3JtVVBJSGdxakl2aUVtS2ZmRFNKWGhhbXpqNDUxVkU1YjM2OGRZZ1JEdnFwX1BDNXVkR2x2cXZ5enV6LWc4UlJ1LXJUNXBTWE5WQ1dzVXBIZ1l6YWZMdUo3WE9uSGM0SW8?oc=5",
-   "utc": "2026-11-08T04:59:24Z",
-   "tag": "STOCKS",
+   "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+   "utc": "2026-11-08T14:13:00Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Iran executes three men over armed unrest during January protests",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3AtenozM05Va3RPQ1JUYWZ2T2ZYSHVLeDVpN0pKd2lObzVlTjFmSTAyazZoUzNFbHNEc3F5NVBsclI5Rkt3MlpQaVpISy1HdEtOTmNWQVFPQ0IyOGVMOUp0aURUQWJNWENqTklhSUlNQkRqTnFSWm9QR2o3R201b0FVRk00WjV2dG5XaEwzRjIwWVoxQUtkRExIVWdUV1FqdFdPNUQxRjBIdXdfUVJ5RWJ3RkFEX0p5dUZtSzFVLVpsQlI2OTdRQ0pJeDl5djg?oc=5",
-   "utc": "2026-11-08T04:41:00Z",
+   "title": "Ukraine Peace Push Returns to Abu Dhabi",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-08/ukraine-peace-push-returns-to-abu-dhabi-video",
+   "utc": "2026-11-08T14:05:13Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "LEDR.OQ",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41THlkeWVNZXBYN28waTFoRHE5RXJGTHJ6MlhOT2trMDJnSE9RSUdKV19EUDhvU0YzaXhKSUdYSHVFSU1kNENWNUt4NGFHYWlfSHJFVDZGM3BtbkNGazBtNEJ5Ym5DNUlLYi05RXpxdUtIUjlkSFQw?oc=5",
-   "utc": "2026-11-08T04:31:18Z",
+   "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+   "utc": "2026-11-08T14:00:01Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Apple Inc. (AAPL.O) | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PaWY2R1FiNlpzRDZ4dGJBX0pHNDFzcE5RdzlFenJoLVppQ2JjTzFIVE9STTloMkFhMnNqaTJYdzAwZVYwMGNWNWhwU3RaTWtDSHpGZTRybTFRVkJPbnc?oc=5",
-   "utc": "2026-11-08T04:15:04Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
+   "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
-   "utc": "2026-11-08T04:02:33Z",
-   "tag": "CHINA",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
+   "utc": "2026-11-08T14:00:00Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Astellas employee imprisoned in China to be released in December, Japanese media report",
+   "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+   "utc": "2026-11-08T14:00:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "At least 21 dead after migrant boat sinks off Senegal coast, government says",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODFjR25tcklTWnhjRDdJX0J4YjdUVTF3QU9hWUEwemp6cEd1c1NEb003Qm5kUE5WblVNN0c1SlBxZU4yM3lGdHRUZzR1cXpyNEs5VE9nTEF1b3d3NzlabkdLRDJWV3Nuc2tJQ3FaTU1MV1E5T0tUOUlKR2ZZSHp1TS10aWxrRzdiVi1ldlZlYXpJQldFMHFrUkRDd0hLc2NkUkp5NEpCTUlDSnJFTkYyUkE1SVJUcGw1cVI3dEdveEg3ckE?oc=5",
-   "utc": "2026-11-08T03:49:00Z",
-   "tag": "CHINA",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWEyY01QZXphanRHT21PZUR2UVdNcEQzUVdRSW44Z2oxb1hfanV3TE00ZXhkMDJnZVdXYnF6OTdsZ3Jwd0lqamgxYlpTS2h3NjBjaTVaNC1nQXM0RXFNX2phMWItS1Q4UldFdzN3WFlocExfUElZZEJwQ2hVX1YzRmlDQnpDMEhrTC1oNk5VYmVCQ2pLc090LUlfbFY5VXk3YTFhTlg4NUJSTXk1WDVVTXdNYkp1RmF3TW02bDZR?oc=5",
+   "utc": "2026-11-08T13:35:48Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Pakistan's Hormuz agreement with Iran faces test after LNG tanker attack",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGhZaHRiZXIzX2RzeTBMRTNVS2FsQnk1VUpwdThDbzhBb0FiaU9HX0ZkQTBwVW5rUkFlUHB6NEU1U3A1V3VCOWdLOVRoNDhXc18tMl9Pcl9pOXdFVlZLSndDMHJTaWMtYWdKNHJFeVhHV2FkSno0cjVxSFh0V1Z4WHJUZlR4MmZLZ042X2J6OFFRbklYSDZnelp0d0NBaWppbE1PY0RrU2hNcnRzWVc3QUNuY0hzS3RURU1RTnpXdlZNVF8wMDFrTw?oc=5",
-   "utc": "2026-11-08T03:45:00Z",
-   "tag": "OIL",
+   "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/08/scott-colom-and-blacks-on-cusp-of-history-as-mississippi-votes-are-counted.html",
+   "utc": "2026-11-08T13:30:48Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "China Raises Delegate Count to 2,360 for 2027 Party Congress",
+   "title": "Democratic Sweep Tests Trump-Linked Trades Across Latin America",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress",
-   "utc": "2026-11-08T03:29:25Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Global Management Dialogue 2026",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1FaR2pVZ29WWXdxWExBUjdfaEg0WHJvMVFpQWZwckhkM21BOWhQSzluQUltVkxERUI2ME04REs2aHF2LU1mNi0xU2x4ZzUtcGxGQ2hpcXpvbDBUNEk1Y1ZrdzZzM2diSEtqSjFRUGdtdF9KRF9FVW5WSDQ1d2QtNUhDTDAwS0hXYjA1R2hCVG1lQ2g3Y19V?oc=5",
-   "utc": "2026-11-08T03:28:25Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Saudi civil defence gives all-clear after alerts in Eastern Province",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJobW1xZDQ2cU5VYVhMc3FTMjd4aS0xSW5KM1hVMzF4YVpGbTRmUXRnMG5nSWwzSFhWQjgzTXJKWEtBa1N4M3p3cUlqZXJUYXdISi1XRjIwclRqTnREaGZKVGlzc3ppam5aQkxSWEFzcENmS1NHQjFaLTFHRk9sMVVXVFVLUGE3NHRKRElPckY3VERpZldxOGdhNFh6bl9CQnhEd2xnUlpKdzR5LWlndlpOREk0VDc4bk8wckYxSVpISUFrNllr?oc=5",
-   "utc": "2026-11-08T03:11:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "GLSHol.M3 - | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96VGJwNW95QzZzWl9QU3NaLUp2T3FJZHFpdi0tcmpXT3UzTC1WbEFMaEF0WjlUVS00MUJ2amg2MTBMYmdOWHV4QW53ODVvNTJZbF9HLXlkTlhxMFpuNkVwdGhDTDQ0NnR6NmRSd3NFUU5iQQ?oc=5",
-   "utc": "2026-11-08T02:40:35Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "8362.JAX - | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GVVBFM04zV3RMckU5VDJXS0x4X3lBajBrTVdzSjdVdl9xU2JjOHlUMU1kWlF2QjlsUlhEYXM4YXJPTko4aFVLSmF4X1pjbmhYc1Zyd1dlWkNDTWdxX1hRTDVvSGZORG5zYnNIWkRxVzNaQUNMek1NZQ?oc=5",
-   "utc": "2026-11-08T02:35:45Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "A taste of Myanmar's ethnic diversity comes to Tokyo",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUNPejlMUHFvVzQtSlhNdkl2a1k1LTAtMWpHcTVYOFRNSGpVd1dNSTZfUzdFUXNLWEl5WTZlS2FnRzZHVjFiaUFHTlk3Y1B4ZUNtQktYXzZUU1lObUtBRFFHbWl3cmRwVV85VjNkQUJqRlhqRmNCTkR6eVQ4TURsem9acW9IVGp6MEl4ckgyQnN1UFF1SnRlLV8zNjM4UG9MNU1n?oc=5",
-   "utc": "2026-11-08T02:16:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "What the Democratic sweep means for Trump's tariffs and AI",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkdNUHVFN1FiQmJRczhMWWJtZlpFVDJvcF82eHphNmxhekEwQU1ranhPQnhmUWx2SC1SRFF1aUpWTmo4ZWtLZUR4Q1JKM2tmbkN0QWxCVXNEbndtZlRzNVJjY0FQd2R5QUhnZC1PSjNRYjRWa0ZQdDk0cFAyUkdmNVRFYVZaNWl6N0ZwMmRJdk4xUQ?oc=5",
-   "utc": "2026-11-08T01:46:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "AXN.CHA",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1ZPNXdjVkpUdlp1aFVCeEhFeDByVGFVWFB1Y0Q2VkVrUVBuOW5OcGlOa2NXM2oxaGV2eGNlR2JfQkhHZDFBTXJZeFo3VVV3YWM1cTh6UWhxSmlka3hSVHVjRFhobFItSjJhQmNHYnRISWIzQnpLYU9TSTBQQ3ROQVZBNHdIRTBmQVhxMlB4NUk?oc=5",
-   "utc": "2026-11-08T01:43:25Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "FBK.TH",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDZmMTF4Z3pCVkxRQTlWQTZjZ2tKT2J1Mi1YbFVKUmhDeVZPaURIbmo3MVlHNVRnWkhsRWhYNmc4d25lWjJRdWg4Ukg3Uk1mN29pQ210cnZvVjBhNkpNTWtKN2VkRVIycUlzRWRRX3h1VHV5QUhSZVllZHRZODh4Mjc1cEQ?oc=5",
-   "utc": "2026-11-08T01:38:14Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/democratic-sweep-tests-trump-linked-trades-across-latin-america",
+   "utc": "2026-11-08T13:30:00Z",
    "tag": "MARKETS",
    "breaking": false
   }

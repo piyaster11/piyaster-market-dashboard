@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T07:27:34Z",
- "level": 57,
- "band": "Alert",
+ "updated": "2026-11-08T15:19:20Z",
+ "level": 36,
+ "band": "Watch",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   30,
-   35,
+   22,
+   33,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   4,
-   12,
+   1,
+   3,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   7,
-   10,
+   1,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -103,11 +103,33 @@
    "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
    "source": "The Guardian",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDZGV213b2dwYWhTaHVHT2x3d1RjbkJ0dTMwdWFiUTlJbnRueS01SXlfaXJUVnV1RGUzUU9JZXpUOFItSUJWTWFVSFJ6MDN4VXRFRW9GazhKRDFUR0lzRS03dDN0Z2o3ZXFhc2hTTUtPSWdFX2pIa2tmdFVmNC1UMXlDTWtvZWtPbXZTaTIxTVc5aDJ1RzNDLVVZcXlCdFg1YjFzYXRtTzFfSXR5U3AtdEVTLUdsalNNbDJBZjI0dklYY19vLW5FOUtRODdxMVFUcU9XeW1TUnAydEZEQmdkUmcwWkF5a2wtSnc?oc=5",
-   "utc": "2026-11-08T06:00:00Z",
+   "utc": "2026-11-08T13:46:00Z",
    "tags": [
     "NUKE"
    ],
-   "score": 8.9,
+   "score": 11.9,
+   "airspace": false
+  },
+  {
+   "title": "Qatar becomes largest buyer of US LNG amid Hormuz crisis",
+   "source": "Daily Sun",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzdxZHZuSy1fekg4aVh1NjBhYXlIVy01blNhaGxzMzBTR2RhWl83OGhKNWtGX25ZLUpNZGVrZ19YSEtRTElCOGhyMTFVVHROTkJZb3FYOFhwNWIzSVJ6UFBmQ0dScjhDUF9rRjR5RmhyMXBVRm1neHFoeXgxMkk3MU01TzVIRHNPSTFkV2hiX19wY01wQzN5d2ZiWQ?oc=5",
+   "utc": "2026-11-08T12:58:04Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Straits of Hormuz closure and housing freeze pose risks, Will Hutton warns",
+   "source": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUpWbnE1X2w4Z2l0bjJNa0RrTnhBbzNROFJlOXAxT2s3emx3ci1iS0RBTVhUb1ZOanNkeUdsd2NPTGc2SkhhTTNYdjVUX0tOcUFXWFhKMzFPa0NfRjBfaDVCZzlzSTExNzlMQlQzRFpHNnRsM2RjM3pFeEh5TXVTWTRaQllnNERReXJzY0lIQjM?oc=5",
+   "utc": "2026-11-08T11:35:26Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -118,7 +140,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.7,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -129,18 +151,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.4,
    "airspace": false
   },
   {
-   "title": "FPL Gameweek 10: Saturday’s goals, assists, bonus + DefCon points",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjRNRWk4R24zcy03RzVKSlFTS2pJQzE2eWx2Z0g3cV9TcDYxcEx5bWNMb0ZFM25KcU9rX0JLYjh4anlYWjZwaWFuODVxMklDNFlLNEVkbl9XX3I0b1JSMFhlekc4NmNoR0gwcmptQWNiZ191c1dVelJfNmF1RGZEbjI2UXo3ZkxGb0huVDZ4clNZNE1LMTNfYkMtNXNBTW1RekdBXzQ2Nmg4TWFMVDBTa1VB?oc=5",
-   "utc": "2026-11-07T23:17:37Z",
+   "title": "London Bridge station evacuated over fire alert",
+   "source": "Yahoo News UK",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNenE2U2RxVTAwcHljYWdlZEkyak5wLW9rQm5mZTFObkFyVTVDQllYdEk1VE40bngwSFRSOGhTZWFTaWUxVWJyUkNTUlhMSkd4SWhvdW5veEVjQWR4QXFob1UtX2VRWkY0SVFFYzR3YUpISEMzWTJVYzJpTmpzLUN4UXVOMA?oc=5",
+   "utc": "2026-11-07T19:17:46Z",
    "tags": [
     "NUKE"
    ],
-   "score": 4.7,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -151,18 +173,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
    "title": "Residents of Oleshky began seeking help with evacuation following the humanitarian mission, — Lubinets",
    "source": "NikVesti",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONk8zR0hTV1NvaldhbGw1MlIwZ3luSU56MVZPMk1FNTRja0Q4aUhmeG91RGZtLUJ1LUlGUklwNHd3eHM2OVFOOThsTWNpZ3J5UHp1cHI5Yjk2SmdldGRFRzcwYnd1aVozQW1wd3JLdC1FNUdFakhXOExYZGgzenBMd2hkdmNuNDRGSUdiWklSUWhsSklpTndpRE5rY1lpRG8xYTQ0RmYyX0RvMkttRlVid1ZRSdIBuAFBVV95cUxOSS1JSUJJNGQzVTRiMXRySHZYTXo4M2dpRGU2c21TdFZyYlREbzIzM01jOHBEYW5SUDhjaDBXY0dSZllzVW9SSklCNkExc1oxZGs5aWdpamFGZDE1RWhFMWM0cEcyVWx4ZXdsVGdrNUl1TWVmak9NQTd4U01ZTDhEWUNKencxVDJiSm9icEJNaTkzSUFNRXRSRE9OY2h6RXA3VTJELXhTYVhZTUNPcV9IeUZKTmxRQkNa?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSS1JSUJJNGQzVTRiMXRySHZYTXo4M2dpRGU2c21TdFZyYlREbzIzM01jOHBEYW5SUDhjaDBXY0dSZllzVW9SSklCNkExc1oxZGs5aWdpamFGZDE1RWhFMWM0cEcyVWx4ZXdsVGdrNUl1TWVmak9NQTd4U01ZTDhEWUNKencxVDJiSm9icEJNaTkzSUFNRXRSRE9OY2h6RXA3VTJELXhTYVhZTUNPcV9IeUZKTmxRQkNa0gG4AUFVX3lxTE5JLUlJQkk0ZDNVNGIxdHJIdlhNejgzZ2lEZTZzbVN0VnJiVERvMjMzTWM4cERhblJQOGNoMFdjR1JmWXNVb1JKSUI2QTFzWjFkazlpZ2lqYUZkMTVFaEUxYzRwRzJVbHhld2xUZ2s1SXVNZWZqT01BN3hTTVlMOERZQ0p6dzFUMmJKb2JwQk1pOTNJQU1FdFJET05jaHpFcDdVMkQteFNhWFlNQ09xX0h5RkpObFFCQ1o?oc=5",
    "utc": "2026-11-07T18:02:49Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -173,7 +195,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -184,36 +206,14 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.8,
+   "score": 4.5,
    "airspace": false
-  },
-  {
-   "title": "Nuclear alert in Iran: Iodine distributed to the population",
-   "source": "TodayPress.tv",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUZhdDZob1o2NUtULVZpWlJLOE9pLWxodEQ1ZVQxQXdIVngtc2drU0dQV3RKVFJMeS00VFRacmxyQ2pwd2VoaDlrMi1TUDFlNHNZNlMwYjBTV0FNX3drQjlKeUFzcUZOM2gxc0NTdnRtTkpmTU1TUlpXX3p5NG1LdnZWWk85am5EOS1HYVlzdWhfekk?oc=5",
-   "utc": "2026-11-06T23:45:00Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "Iraqi government denies nationwide airspace closure despite civil aviation alert",
-   "source": "The New Arab",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGl4REEtdm95eEJpSWtIUEtEckVyLUxrSlpYUm1vdmxtWDNKQTNLMXJNY0hza0J3aTE3MzF6UUpRMlB5cWVOLVVJREpuTDJ3OHZqdmpxa0RHaWF1aEg4V0xTcGlTbURoci1SVWtod3BNc3pXcFc2Z0g2ZzE0d2F4RmNGajl4Y28?oc=5",
-   "utc": "2026-11-06T18:03:23Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.4,
-   "airspace": true
   }
  ],
  "mil": {
-  "count": 7,
-  "global": 70,
-  "baseline": 1.5,
+  "count": 1,
+  "global": 141,
+  "baseline": 1.7,
   "samples": 32,
   "hist": [
    [
@@ -583,6 +583,10 @@
    [
     "2026-11-08T07:27:34Z",
     7
+   ],
+   [
+    "2026-11-08T15:19:20Z",
+    1
    ]
   ],
   "box": [

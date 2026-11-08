@@ -57,7 +57,7 @@ footer{text-align:center;color:var(--m);font-size:12px;padding:20px 10px 30px}
 .prov{font-size:11px;color:#6b756f}
 </style>
 </head><body>
-<nav class="pnav" aria-label="Dashboard pages"><div class="pnav-in"><a class="pn" href="../malee-dashboard/" data-pn="1"><b>1</b> Promo &amp; prices</a><a class="pn on" aria-current="page" href="../malee-shelf-comparison/" data-pn="2"><b>2</b> Shelf-price comparison</a><a class="pn" href="../malee-shelf-photos/" data-pn="3"><b>3</b> Shelf photos</a></div></nav>
+<nav class="pnav" aria-label="Dashboard pages"><div class="pnav-in"><a class="pn on" aria-current="page" href="../malee-shelf-comparison/">Malee dashboard</a><a class="pn" href="../malee-shelf-photos/">Shelf photos</a></div></nav>
 <header><h1>Malee vs competitors · มาลี เทียบคู่แข่ง</h1>
 <p>Same segment, 8 Nov 2026, 09:47–10:12 ICT. Bars use today's selling price per 100 ml. Shorter is cheaper. Default is tier A+B (Big C leaflet and Lotus's). Not Big C Online.</p></header>
 <main>
@@ -87,7 +87,7 @@ function kpis(){
   const k=[[G.length,'Malee rows in this view',''],[compUrls.size,'Competitor rows','o'],[new Set(G.map(g=>g.cat)).size,'Categories','']];
   document.getElementById('kpis').innerHTML=k.map(([n,l,c])=>`<div class="kpi ${c}"><b>${n}</b><span>${l}</span></div>`).join('');
   document.getElementById('scope-note').textContent = tier==='AB'
-    ? 'Default view: tier A+B only. Index on page 1 is the median 101.5 of 28 comparisons. Big C contributes one leaflet comparison, not a three-retailer average. The bar uses the selling price seen on 8 Nov. A multi-buy is written in the offer line and is not the bar.'
+    ? 'Default view: tier A+B only. Median index 101.5 of 28 comparisons. Big C contributes one leaflet comparison, not a three-retailer average. The bar uses the selling price seen on 8 Nov. A multi-buy is written in the offer line and is not the bar.'
     : 'Optional view: 7-Eleven All Online only (tier C). Median index 102.47 of 8 comparisons, computed on its own. Not part of the 101.5. These are online multipacks, not the 7-Eleven store leaflet.';
 }
 function chips(){

@@ -18,7 +18,7 @@ button:disabled{opacity:.45;cursor:not-allowed}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(104px,1fr));gap:8px}
 .card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:6px}
 .card img{width:100%;height:96px;object-fit:cover;border-radius:6px;background:#eee}
-.card button{width:100%;margin-top:6px;min-height:36px;background:#fff;color:#b91c1c;border-color:#e8eaed;font-size:13px}
+.card button{width:100%;margin-top:6px;min-height:36px;background:#fff;color:#374151;border-color:var(--g);font-size:13px}
 #status{margin-top:12px;font-size:14px}
 .bar{height:8px;background:#e5e7eb;border-radius:99px;overflow:hidden;margin-top:8px}
 .bar i{display:block;height:100%;background:var(--g);width:0}
@@ -159,7 +159,9 @@ function postBatch(batch){
     xhr.upload.onprogress=function(ev){ if(ev.lengthComputable){ bar.hidden=false; bari.style.width=Math.round(ev.loaded/ev.total*100)+"%"; } };
     xhr.onload=function(){
       var j=null; try{ j=JSON.parse(xhr.responseText||""); }catch(e){}
-      if(xhr.status===200 && j && j.ok) resolve(j);
+      var sid=j && typeof j.submission_id==="string" ? j.submission_id.trim() : "";
+      if(xhr.status===200 && j && j.ok && sid) resolve(j);
+      else if(xhr.status===200 && j && j.ok) reject({error_en:"Server did not return a submission id.", error_th:"เซิร์ฟเวอร์ไม่ได้ส่งรหัสรายการ"});
       else reject(j||{error_en:"Upload failed ("+xhr.status+")."});
     };
     xhr.onerror=function(){ reject({offline:true}); };

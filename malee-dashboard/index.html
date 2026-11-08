@@ -305,6 +305,8 @@ footer li{margin-bottom:5px}
 #promocal .pc-bar.pc-cl{border-top-left-radius:0;border-bottom-left-radius:0;margin-left:0}#promocal .pc-bar.pc-cr{border-top-right-radius:0;border-bottom-right-radius:0;margin-right:0}
 #promocal .pc-bar:hover,#promocal .pc-bar:focus-visible{outline:2px solid var(--ink);outline-offset:1px;z-index:2}
 #promocal .pc-empty{padding:26px;text-align:center;color:var(--mut);border:1px dashed var(--line);border-radius:6px}
+#promocal .pc-empty-strong{text-align:left;background:var(--accent-soft);border:1px solid #bfe0cc;color:var(--ink);font-size:14px;margin:0 0 12px}
+#promocal .pc-nd-inline{margin-top:4px}
 #promocal .pc-strips{margin-top:34px;border-top:1px solid var(--line);padding-top:26px}
 #promocal .pc-nd-head{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:baseline;margin-bottom:10px}
 #promocal .pc-nd-head h2{margin:0}
@@ -445,24 +447,17 @@ footer li{margin-bottom:5px}
 
 .pnav{background:#fff;border-bottom:1px solid var(--line)}.pnav-in{max-width:1240px;margin:0 auto;padding:0 40px;display:flex;flex-wrap:wrap;column-gap:24px;row-gap:0}.pnav .pn{display:inline-block;padding:12px 0 10px;font-size:13.5px;font-weight:550;color:var(--mut);text-decoration:none;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}.pnav .pn b{font-weight:650;margin-right:4px}.pnav .pn:hover{color:var(--ink)}.pnav .pn.on{color:var(--ink);border-bottom-color:var(--accent)}.pnav .pn.on b{color:var(--accent)}@media(max-width:560px){.pnav-in{padding:0 20px;column-gap:18px}.pnav .pn{font-size:13px}}
 
-.viz{margin:18px 0 8px}
-.viz h3{font-size:15px;font-weight:650;margin:0 0 4px}
-.viz .cap{font-size:12.5px;color:var(--ink2);margin:0 0 12px;max-width:880px}
-.vlegend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--ink2);margin:0 0 8px}
-.vlegend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:middle}
-.vlegend .me{background:var(--accent)}.vlegend .rv{background:#d1d5db}.vlegend .mk{background:#111;width:2px;height:12px;border-radius:0}
-.vrow{display:grid;grid-template-columns:minmax(0,190px) minmax(0,1fr) auto;gap:8px 10px;align-items:center;margin:7px 0}
-.vlab{font-size:13px;min-width:0}
-.vtrack{position:relative;height:12px;background:#f3f4f6;border-radius:6px}
-.vfill{display:block;height:100%;border-radius:6px;background:#d1d5db}
-.vfill.me{background:var(--accent)}
-.vmark{position:absolute;top:-3px;bottom:-3px;width:2px;background:#111;left:83.333%;border-radius:1px}
-.vval{font-size:13px;font-variant-numeric:tabular-nums;white-space:nowrap;color:var(--ink)}
-.vchips{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 8px}
-@media(max-width:700px){
- .vrow{grid-template-columns:minmax(0,1fr) auto}
- .vtrack{grid-column:1/-1}
-}
+
+.vchart{margin:12px 0 16px;overflow-x:auto;-webkit-overflow-scrolling:touch;max-width:100%}
+.vchart .cap{font-size:12.5px;color:var(--ink2);margin:0 0 8px;max-width:920px}
+.vplot{display:flex;align-items:flex-end;gap:6px;height:168px;border-bottom:2px solid var(--ink);min-width:100%}
+.vcol{flex:1 0 64px;max-width:140px;height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center}
+.vnum{font-size:11px;line-height:1.15;text-align:center;color:var(--ink);margin-bottom:3px;white-space:nowrap}
+.vbar{width:28px;border-radius:3px 3px 0 0;background:#d1d5db;min-height:2px}
+.vbar.me{background:var(--accent)}
+.vnames{display:flex;gap:6px;margin-top:6px;min-width:100%}
+.vnames span{flex:1 0 64px;max-width:140px;font-size:11px;line-height:1.25;text-align:center;color:var(--ink2);overflow-wrap:break-word}
+.vnames span.me{color:var(--accent);font-weight:650}
 </style></head><body>
 <nav class="pnav" aria-label="Dashboard pages"><div class="pnav-in"><a class="pn on" aria-current="page" href="../malee-dashboard/" data-pn="1"><b>1</b> Promo &amp; prices</a><a class="pn" href="../malee-shelf-comparison/" data-pn="2"><b>2</b> Shelf-price comparison</a><a class="pn" href="../malee-shelf-photos/" data-pn="3"><b>3</b> Shelf photos</a></div></nav><div class="wrap">
 <header>
@@ -536,9 +531,17 @@ const SHOW_FIRST=Date.UTC(MONTHS[0][0],MONTHS[0][1],1)/864e5,SHOW_LAST=Date.UTC(
 const RET=[["Lotus's","LT","LT"],["Big C","BC","BC"],["7-Eleven","7E","SE"]];
 const RCODE=Object.fromEntries(RET.map(r=>[r[0],r[1]]));const RVAR=Object.fromEntries(RET.map(r=>[r[0],'var(--pc-'+r[2]+')']));
 const KINDS=[["M","Malee"],["C","Competitors"],["X","Retailer-wide"]];
-const state={ret:new Set(RET.map(r=>r[0])),kind:new Set(['M','C','X']),view:'cal'};
+const state={ret:'all',kind:new Set(['M','C','X']),view:'cal'};
 ITEMS.forEach(it=>{it.segs.forEach(s=>{s.a=dn(s.s);s.b=dn(s.e)})});
-const vis=()=>ITEMS.filter(i=>state.ret.has(i.retailer)&&state.kind.has(i.kind));
+const vis=()=>ITEMS.filter(i=>(state.ret==='all'||i.retailer===state.ret)&&state.kind.has(i.kind));
+const undatedCards=list=>list.map(i=>`<button type="button" class="pc-nd pc-${i.kind}" ${rs(i)} data-id="${i.id}"><span class="pc-tab"></span>${thumb(i,'pc-nth')}<span class="pc-b"><b>${esc(i.brand)}</b> · ${esc(i.mech)} · ${esc(i.price)}<small>${i.rows.length} SKU${i.rows.length>1?'s':''} · No dates published · ${esc(i.retailer)}</small></span></button>`).join('');
+const noDateNote=v=>{
+ const unk=v.filter(i=>i.typ==='unknown');
+ const sku=unk.reduce((n,i)=>n+(i.rows||[]).length,0);
+ const who=state.ret==='all'?'The selected retailers':state.ret;
+ if(!unk.length) return `<div class="pc-empty pc-empty-strong"><b>No dated promo matches this filter.</b> Nothing in this selection has both a start and an end on the source.</div>`;
+ return `<div class="pc-empty pc-empty-strong"><b>${esc(who)} has offers. None of them publish both a start and an end date, so they are not drawn on a day.</b> This is not “no promotion”. ${unk.length} group${unk.length>1?'s':''} (${sku} SKU${sku===1?'':'s'}) are listed here under No dates published.</div><div class="pc-ndgrid pc-nd-inline">${undatedCards(unk)}</div>`;
+};
 const rs=i=>`style="--rc:${RVAR[i.retailer]}"`;
 const span=i=>i.segs.length?[Math.min(...i.segs.map(s=>s.a)),Math.max(...i.segs.map(s=>s.b))]:null;
 const rangeTxt=i=>i.typ==='ends'?'ends '+fd(i.segs[0].b)+' · start not published':i.segs.map(s=>(s.t?s.t+' ':'')+(s.a===s.b?fd(s.a):fd(s.a)+' – '+fd(s.b))).join(' · ');
@@ -571,7 +574,8 @@ function header(){
 }
 function controls(){
  const fr=$('pc-fr'),fk=$('pc-fk');
- RET.forEach(r=>{const b=document.createElement('button');b.type='button';b.className='pc-chip';b.setAttribute('aria-pressed','true');b.style.setProperty('--c','var(--pc-'+r[2]+')');b.innerHTML=`<span class="pc-sw"></span>${esc(r[0])}`;b.onclick=()=>{state.ret.has(r[0])?state.ret.delete(r[0]):state.ret.add(r[0]);render()};b.dataset.r=r[0];fr.appendChild(b)});
+ const allB=document.createElement('button');allB.type='button';allB.className='pc-chip';allB.dataset.r='all';allB.textContent='All';allB.onclick=()=>{state.ret='all';render()};fr.appendChild(allB);
+ RET.forEach(r=>{const b=document.createElement('button');b.type='button';b.className='pc-chip';b.style.setProperty('--c','var(--pc-'+r[2]+')');b.innerHTML=`<span class="pc-sw"></span>${esc(r[0])}`;b.onclick=()=>{state.ret=r[0];render()};b.dataset.r=r[0];fr.appendChild(b)});
  KINDS.forEach(k=>{const b=document.createElement('button');b.type='button';b.className='pc-chip pc-k'+k[0];b.setAttribute('aria-pressed','true');b.innerHTML=`<span class="pc-sw"></span>${k[1]}`;b.onclick=()=>{state.kind.has(k[0])?state.kind.delete(k[0]):state.kind.add(k[0]);render()};b.dataset.k=k[0];fk.appendChild(b)});
  $('pc-vcal').onclick=()=>setView('cal');$('pc-vag').onclick=()=>setView('ag');
 }
@@ -608,9 +612,9 @@ function month(y,m){
  return h+'</div>';
 }
 function calendar(){
- const v=vis();let h='';
- if(!v.some(i=>i.segs.length))h+='<div class="pc-empty">No dated promos match these filters. Dated promos are the only ones placed on the calendar; others are listed under the calendar.</div>';
- MONTHS.forEach(m=>{h+=month(m[0],m[1])});
+ const v=vis();
+ if(!v.some(i=>i.segs.length)){$('pc-cal').innerHTML=noDateNote(v);return;}
+ let h='';MONTHS.forEach(m=>{h+=month(m[0],m[1])});
  $('pc-cal').innerHTML=h;
 }
 function agenda(){
@@ -624,8 +628,8 @@ function agenda(){
   return `<button type="button" class="pc-ag" data-id="${i.id}" ${rs(i)}><div class="pc-dt">${when}<small>${i.typ==='ends'?'start not published · ':''}${left}</small></div>${thumb(i,'pc-md')}<div class="pc-ti"><div class="pc-l"><span class="pc-rt">${RCODE[i.retailer]}</span><b>${esc(i.label)}</b></div><small>${esc(i.retailer)} · ${kindName(i.kind)}${i.flagged?' · not in index':''}</small></div><span class="pc-badge${i.kind==='M'?' pc-m':''}">${kindName(i.kind)}</span></button>`};
  const grp=(t,a)=>a.length?`<div class="pc-grp"><h2>${t}</h2>${a.map(row).join('')}</div>`:'';
  let h=grp('Running now · ending soonest first',run)+grp('Starting later · by start date',later)+grp('Ended',past);
- if(!h)h='<div class="pc-empty">No dated promos match these filters.</div>';
- h+='<p class="pc-none">Promos without published dates are not in this list; see the “No dates published” strip below.</p>';
+ if(!h)h=noDateNote(vis());
+ else h+='<p class="pc-none">Promos without published dates are not in this list; see the “No dates published” strip below.</p>';
  $('pc-agenda').innerHTML=h;
 }
 function events(){
@@ -647,7 +651,7 @@ function strips(){
  const v=vis(),unk=v.filter(i=>i.typ==='unknown'),rol=v.filter(i=>i.typ==='rolling');
  const allUnk=ITEMS.filter(i=>i.typ==='unknown');
  $('pc-ndtext').innerHTML=`<b>${unk.length}${unk.length!==allUnk.length?' of '+allUnk.length:''} promo groups</b> were seen live on ${esc(CAP)} but the retailer publishes <b>no start or end date</b>, so they are <b>not on any day</b> of the calendar. Click one for price, shelf price, source and time seen.`;
- $('pc-ndgrid').innerHTML=RET.filter(r=>state.ret.has(r[0])).map(r=>{
+ $('pc-ndgrid').innerHTML=RET.filter(r=>state.ret==='all'||state.ret===r[0]).map(r=>{
   const a=unk.filter(i=>i.retailer===r[0]);
   const rollAll=r[0]==='7-Eleven'&&!a.length&&ITEMS.some(i=>i.typ==='rolling'&&i.retailer===r[0]);
   return `<div class="pc-ndcol" style="--rc:var(--pc-${r[2]})"><h4><i>${r[1]}</i>${esc(r[0])} <span style="color:var(--mut);font-weight:400">· ${a.length}</span></h4>${a.length?a.map(i=>`<button type="button" class="pc-nd pc-${i.kind}" ${rs(i)} data-id="${i.id}"><span class="pc-tab"></span>${thumb(i,'pc-nth')}<span class="pc-b"><b>${esc(i.brand)}</b> · ${esc(i.mech)} · ${esc(i.price)}<small>${i.rows.length} SKU${i.rows.length>1?'s':''} · ${kindName(i.kind)}${i.flagged?' · not in index':''}</small></span></button>`).join(''):'<div class="pc-none">'+(rollAll?'none: its online prices all roll daily (see below)':'none')+'</div>'}</div>`}).join('')||'<div class="pc-none">No retailer selected.</div>';
@@ -695,7 +699,7 @@ ROOT.addEventListener('click',e=>{
 ROOT.addEventListener('error',e=>{const im=e.target;if(!im||im.tagName!=='IMG')return;const t=im.closest('.pc-th,.pc-hero,.pc-pick');if(t){t.classList.add('pc-ph');t.innerHTML='<b>'+(t.dataset.ini||'?')+'</b>'}},true);
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&$('pc-ov').classList.contains('pc-on'))closeD()});
 function render(){
- ROOT.querySelectorAll('#pc-fr .pc-chip').forEach(b=>b.setAttribute('aria-pressed',state.ret.has(b.dataset.r)));
+ ROOT.querySelectorAll('#pc-fr .pc-chip').forEach(b=>b.setAttribute('aria-pressed',b.dataset.r==='all'?state.ret==='all':state.ret===b.dataset.r));
  ROOT.querySelectorAll('#pc-fk .pc-chip').forEach(b=>b.setAttribute('aria-pressed',state.kind.has(b.dataset.k)));
  calendar();agenda();events();strips();
 }
@@ -719,39 +723,6 @@ setView(window.matchMedia('(max-width:700px)').matches?'ag':'cal');
  <div class="t5-audit"><b>What the three links actually contained.</b> Strict promo placement (tier A only): Lotus's weekly list, 1,590 items, <b>0 Malee</b>. 7-Eleven store leaflet, <b>0 Malee</b> (one Shinsun 250 ml orange). Big C leaflet, <b>1 Malee</b> (Signature 1 L) against two other 1 L juices, index 102.89. That single Big C cell is not parity across the three retailers. Tier B adds Lotus's own product pages, which are not on the weekly list, and brings the index to n=28, median 101.5.</div>
  <p class="lead">Sources, quoted for what was opened, not as a full-store census: <a href="https://corporate.bigc.co.th/promotions-bigc" target="_blank" rel="noopener">corporate.bigc.co.th/promotions-bigc</a> (leaflets read, not Big C Online); <a href="https://www.lotuss.com/th/category/weekly-promotion" target="_blank" rel="noopener">lotuss.com weekly promotion</a>; <a href="https://www.7eleven.co.th/promotion" target="_blank" rel="noopener">7eleven.co.th/promotion</a>. Big C online and one corporate page returned 403 and were not used. Big C page-2 catalogs were not scanned. Lotus's shows no promo end dates.</p>
  
-<div class="viz" id="viz">
- <h3>Five flagship indexes</h3>
- <p class="cap">Malee price per ml ÷ peer median × 100. 100 means the same price as matched peers at Lotus's. Scale starts at 0 and runs to 120. Black line is 100. Seen 8 Nov 2026, 09:47–10:12 ICT. Tier A+B only. Not a sales rank.</p>
- <div class="vlegend"><span><i class="me"></i>Malee</span><span><i class="mk"></i>Peer median 100</span></div>
- <div class="vrow"><span class="vlab">Apple 1 L</span><span class="vtrack"><span class="vfill me" style="width:77.4167%"></span><span class="vmark"></span></span><span class="vval">92.9</span></div>
- <div class="vrow"><span class="vlab">Coco 350 ml</span><span class="vtrack"><span class="vfill me" style="width:80%"></span><span class="vmark"></span></span><span class="vval">96</span></div>
- <div class="vrow"><span class="vlab">Orange 200 ml ×3</span><span class="vtrack"><span class="vfill me" style="width:82.0333%"></span><span class="vmark"></span></span><span class="vval">98.44</span></div>
- <div class="vrow"><span class="vlab">Coco 1 L</span><span class="vtrack"><span class="vfill me" style="width:85.0583%"></span><span class="vmark"></span></span><span class="vval">102.07</span></div>
- <div class="vrow"><span class="vlab">Orange 1 L</span><span class="vtrack"><span class="vfill me" style="width:88.5417%"></span><span class="vmark"></span></span><span class="vval">106.25</span></div>
-</div>
-<div class="viz" id="viz-price">
- <h3>Same pack, ฿ per 100 ml</h3>
- <p class="cap">Lotus's online only, today's selling price, zero at the left. Each chart is one pack, so sizes are not mixed. Multi-buy deals are not in the bar. 7-Eleven All Online is not included. Coco 1 L, orange 200 ml ×3 and Coco 350 ml stay in the tables so this view stays small. Chabaa 310 ml is a peer of Coco 350 ml but a different pack, so it is not drawn here.</p>
- <div class="vchips" role="group" aria-label="Choose a same-pack comparison">
-  <button type="button" class="pc-chip on" data-viz="apple" aria-pressed="true">Apple 1 L</button>
-  <button type="button" class="pc-chip" data-viz="orange" aria-pressed="false">Orange 1 L</button>
- </div>
- <div id="viz-apple">
-  <p class="cap">100% apple juice, 1 L × 1, Lotus's. Scale 0–12 baht per 100 ml.</p>
-  <div class="vlegend"><span><i class="me"></i>Malee</span><span><i class="rv"></i>Competitor</span></div>
-  <div class="vrow"><span class="vlab">Chabaa</span><span class="vtrack"><span class="vfill" style="width:68.3333%"></span></span><span class="vval">฿8.20</span></div>
-  <div class="vrow"><span class="vlab"><b>Malee</b></span><span class="vtrack"><span class="vfill me" style="width:70.8333%"></span></span><span class="vval">฿8.50</span></div>
-  <div class="vrow"><span class="vlab">Tipco</span><span class="vtrack"><span class="vfill" style="width:84.1667%"></span></span><span class="vval">฿10.10</span></div>
- </div>
- <div id="viz-orange" hidden>
-  <p class="cap">Orange-family 1 L × 1, Lotus's. Tipco is six SKUs, all ฿8.00. Two Chabaa SKUs are ฿8.50 and the เขียวหวาน Chabaa is ฿8.70. Scale 0–10 baht per 100 ml.</p>
-  <div class="vlegend"><span><i class="me"></i>Malee</span><span><i class="rv"></i>Competitor</span></div>
-  <div class="vrow"><span class="vlab">Tipco · 6 SKUs</span><span class="vtrack"><span class="vfill" style="width:80%"></span></span><span class="vval">฿8.00</span></div>
-  <div class="vrow"><span class="vlab"><b>Malee</b></span><span class="vtrack"><span class="vfill me" style="width:85%"></span></span><span class="vval">฿8.50</span></div>
-  <div class="vrow"><span class="vlab">Chabaa · 2 SKUs</span><span class="vtrack"><span class="vfill" style="width:85%"></span></span><span class="vval">฿8.50</span></div>
-  <div class="vrow"><span class="vlab">Chabaa เขียวหวาน</span><span class="vtrack"><span class="vfill" style="width:87%"></span></span><span class="vval">฿8.70</span></div>
- </div>
-</div>
 <p><button type="button" class="pc-chip" id="show-c" aria-pressed="false">Show optional 7-Eleven All Online index (tier C, not in the 101.5)</button></p>
  <div id="tier-c" hidden>
   <p class="t5-note"><b>Supplemental only.</b> Computed on its own from 7-Eleven All Online multipacks. n=8, median 102.47. It is not part of the three promotion links and is not folded into 101.5. Store leaflets and All Online are different channels.</p>
@@ -762,6 +733,7 @@ setView(window.matchMedia('(max-width:700px)').matches?'ag':'cal');
  
 <div class="t5-blk">
  <h3>Orange 1 L · มาลี น้ำส้มเขียวหวานผสมน้ำผักผลไม้ 1 ลิตร</h3>
+<div class="vchart" id="chart-orange-1l" data-scale="10"><p class="cap">Orange-family 1 L at Lotus's. Six Tipco bars are each ฿8.00. Chabaa rows are on the weekly list. Scale 0–10. Seen 8 Nov 2026, 09:47–10:12 ICT. Lotus's only. The column is today's selling price per 100 ml. A buy-2 price stays in the table and is not the column.</p><div class="vplot"><div class="vcol" data-baht="8.50"><span class="vnum">฿8.50</span><span class="vbar me" style="height:85.0%"></span></div><div class="vcol" data-baht="8.50"><span class="vnum">฿8.50</span><span class="vbar" style="height:85.0%"></span></div><div class="vcol" data-baht="8.70"><span class="vnum">฿8.70</span><span class="vbar" style="height:87.0%"></span></div><div class="vcol" data-baht="8.50"><span class="vnum">฿8.50</span><span class="vbar" style="height:85.0%"></span></div><div class="vcol" data-baht="8.00"><span class="vnum">฿8.00</span><span class="vbar" style="height:80.0%"></span></div><div class="vcol" data-baht="8.00"><span class="vnum">฿8.00</span><span class="vbar" style="height:80.0%"></span></div><div class="vcol" data-baht="8.00"><span class="vnum">฿8.00</span><span class="vbar" style="height:80.0%"></span></div><div class="vcol" data-baht="8.00"><span class="vnum">฿8.00</span><span class="vbar" style="height:80.0%"></span></div><div class="vcol" data-baht="8.00"><span class="vnum">฿8.00</span><span class="vbar" style="height:80.0%"></span></div><div class="vcol" data-baht="8.00"><span class="vnum">฿8.00</span><span class="vbar" style="height:80.0%"></span></div></div><div class="vnames"><span class="me">Malee</span><span class="">Chabaa Valencia · weekly</span><span class="">Chabaa เขียวหวาน · weekly</span><span class="">Chabaa mandarin · weekly</span><span class="">Tipco เขียวหวาน</span><span class="">Tipco สายน้ำผึ้ง</span><span class="">Tipco mandarin</span><span class="">Tipco shogun</span><span class="">Tipco Valencia</span><span class="">Tipco สีทอง</span></div></div>
  <p class="lead">เขียวหวาน veg-blend 1 L at Lotus&#x27;s. Same-flavour peers are in this file. The dearer pulp orange 1 L is a different SKU and is not this one. Index 106.25 · High: same segment and same flavour family · peers in tier A+B: 9.</p>
  <div class="t5-scroll"><table class="t5-t t5-det"><thead><tr><th></th><th>Product</th><th class="n">Price</th><th class="n">฿/ml</th><th class="n">฿/100 ml</th><th>Offer</th><th>Source</th></tr></thead><tbody>
  <tr class="mal"><td><img src="img/LO-ON-75736178.webp" width="48" height="48" alt=""></td>
@@ -784,6 +756,7 @@ setView(window.matchMedia('(max-width:700px)').matches?'ag':'cal');
 </div>
 <div class="t5-blk">
  <h3>Apple 1 L · มาลีน้ำแอปเปิ้ล100% 1000มล.</h3>
+<div class="vchart" id="chart-apple-1l" data-scale="12"><p class="cap">100% apple juice, 1 L × 1, at Lotus's. Chabaa is on the weekly list; Tipco is the product-page price. Scale 0–12. Seen 8 Nov 2026, 09:47–10:12 ICT. Lotus's only. The column is today's selling price per 100 ml. A buy-2 price stays in the table and is not the column.</p><div class="vplot"><div class="vcol" data-baht="8.50"><span class="vnum">฿8.50</span><span class="vbar me" style="height:70.8333%"></span></div><div class="vcol" data-baht="8.20"><span class="vnum">฿8.20</span><span class="vbar" style="height:68.3333%"></span></div><div class="vcol" data-baht="10.10"><span class="vnum">฿10.10</span><span class="vbar" style="height:84.1667%"></span></div></div><div class="vnames"><span class="me">Malee</span><span class="">Chabaa · weekly</span><span class="">Tipco</span></div></div>
  <p class="lead">The 100% apple 1 L at Lotus&#x27;s, with same-flavour peers. Index 92.9 · High: same segment and same flavour family · peers in tier A+B: 2.</p>
  <div class="t5-scroll"><table class="t5-t t5-det"><thead><tr><th></th><th>Product</th><th class="n">Price</th><th class="n">฿/ml</th><th class="n">฿/100 ml</th><th>Offer</th><th>Source</th></tr></thead><tbody>
  <tr class="mal"><td><img src="img/LO-ON-875201.webp" width="48" height="48" alt=""></td>
@@ -799,6 +772,7 @@ setView(window.matchMedia('(max-width:700px)').matches?'ag':'cal');
 </div>
 <div class="t5-blk">
  <h3>Coco 1 L · มาลีโคโค่ น้ำมะพร้าว 100% 1ล.</h3>
+<div class="vchart" id="chart-coco-1l" data-scale="10"><p class="cap">Coconut water, 1 L × 1, at Lotus's product pages. No buy-2 on these rows. Scale 0–10. Seen 8 Nov 2026, 09:47–10:12 ICT. Lotus's only. The column is today's selling price per 100 ml. A buy-2 price stays in the table and is not the column.</p><div class="vplot"><div class="vcol" data-baht="7.40"><span class="vnum">฿7.40</span><span class="vbar me" style="height:74.0%"></span></div><div class="vcol" data-baht="6.90"><span class="vnum">฿6.90</span><span class="vbar" style="height:69.0%"></span></div><div class="vcol" data-baht="8.10"><span class="vnum">฿8.10</span><span class="vbar" style="height:81.0%"></span></div><div class="vcol" data-baht="7.90"><span class="vnum">฿7.90</span><span class="vbar" style="height:79.0%"></span></div><div class="vcol" data-baht="7.40"><span class="vnum">฿7.40</span><span class="vbar" style="height:74.0%"></span></div><div class="vcol" data-baht="7.10"><span class="vnum">฿7.10</span><span class="vbar" style="height:71.0%"></span></div><div class="vcol" data-baht="7.00"><span class="vnum">฿7.00</span><span class="vbar" style="height:70.0%"></span></div></div><div class="vnames"><span class="me">Malee</span><span class="">Chabaa</span><span class="">Tipco season</span><span class="">Tipco</span><span class="">UFC</span><span class="">Unif 99%</span><span class="">IF</span></div></div>
  <p class="lead">Plain Malee Coco 100% coconut water 1 L at Lotus&#x27;s, with same-flavour peers. Index 102.07 · High: same segment and same flavour family · peers in tier A+B: 6.</p>
  <div class="t5-scroll"><table class="t5-t t5-det"><thead><tr><th></th><th>Product</th><th class="n">Price</th><th class="n">฿/ml</th><th class="n">฿/100 ml</th><th>Offer</th><th>Source</th></tr></thead><tbody>
  <tr class="mal"><td><img src="img/LO-ON-74257218.webp" width="48" height="48" alt=""></td>
@@ -818,6 +792,7 @@ setView(window.matchMedia('(max-width:700px)').matches?'ag':'cal');
 </div>
 <div class="t5-blk">
  <h3>Orange 200 ml ×3 · มาลี น้ำส้มเขียวหวาน 200 มล แพ็ค 3</h3>
+<div class="vchart" id="chart-orange-200" data-scale="12"><p class="cap">Orange-family 200 ml × 3 at Lotus's. Unif is carrot-orange, the matched peer in this section, same pack. Weekly Tipco rows also have a buy-2 that is not drawn. Scale 0–12. Seen 8 Nov 2026, 09:47–10:12 ICT. Lotus's only. The column is today's selling price per 100 ml. A buy-2 price stays in the table and is not the column.</p><div class="vplot"><div class="vcol" data-baht="10.50"><span class="vnum">฿10.50</span><span class="vbar me" style="height:87.5%"></span></div><div class="vcol" data-baht="11.00"><span class="vnum">฿11.00</span><span class="vbar" style="height:91.6667%"></span></div><div class="vcol" data-baht="11.00"><span class="vnum">฿11.00</span><span class="vbar" style="height:91.6667%"></span></div><div class="vcol" data-baht="10.67"><span class="vnum">฿10.67</span><span class="vbar" style="height:88.9167%"></span></div><div class="vcol" data-baht="10.67"><span class="vnum">฿10.67</span><span class="vbar" style="height:88.9167%"></span></div><div class="vcol" data-baht="10.67"><span class="vnum">฿10.67</span><span class="vbar" style="height:88.9167%"></span></div><div class="vcol" data-baht="10.67"><span class="vnum">฿10.67</span><span class="vbar" style="height:88.9167%"></span></div><div class="vcol" data-baht="9.50"><span class="vnum">฿9.50</span><span class="vbar" style="height:79.1667%"></span></div></div><div class="vnames"><span class="me">Malee</span><span class="">Tipco mandarin · weekly</span><span class="">Tipco shogun · weekly</span><span class="">Tipco สายน้ำผึ้ง</span><span class="">Tipco สายน้ำผึ้ง · weekly</span><span class="">Tipco เขียวหวาน · weekly</span><span class="">Tipco เขียวหวาน</span><span class="">Unif carrot</span></div></div>
  <p class="lead">เขียวหวาน 200 ml three-pack at Lotus&#x27;s. Not the All Online 200 ml ×6 listing. Index 98.44 · High: same segment and same flavour family · peers in tier A+B: 7.</p>
  <div class="t5-scroll"><table class="t5-t t5-det"><thead><tr><th></th><th>Product</th><th class="n">Price</th><th class="n">฿/ml</th><th class="n">฿/100 ml</th><th>Offer</th><th>Source</th></tr></thead><tbody>
  <tr class="mal"><td><img src="img/LO-ON-171465794.webp" width="48" height="48" alt=""></td>
@@ -838,6 +813,7 @@ setView(window.matchMedia('(max-width:700px)').matches?'ag':'cal');
 </div>
 <div class="t5-blk">
  <h3>Coco 350 ml · มาลี น้ำมะพร้าว 100% 350 มล.</h3>
+<div class="vchart" id="chart-coco-350" data-scale="8"><p class="cap">Coconut water at Lotus's. Chabaa is 310 ml, not 350 ml; the column is still per 100 ml. The other three are 350 ml. Scale 0–8. Seen 8 Nov 2026, 09:47–10:12 ICT. Lotus's only. The column is today's selling price per 100 ml. A buy-2 price stays in the table and is not the column.</p><div class="vplot"><div class="vcol" data-baht="6.86"><span class="vnum">฿6.86</span><span class="vbar me" style="height:85.75%"></span></div><div class="vcol" data-baht="7.43"><span class="vnum">฿7.43</span><span class="vbar" style="height:92.875%"></span></div><div class="vcol" data-baht="6.45"><span class="vnum">฿6.45</span><span class="vbar" style="height:80.625%"></span></div><div class="vcol" data-baht="7.14"><span class="vnum">฿7.14</span><span class="vbar" style="height:89.25%"></span></div></div><div class="vnames"><span class="me">Malee 350 ml</span><span class="">Cocomax 350 ml</span><span class="">Chabaa 310 ml</span><span class="">IF 350 ml</span></div></div>
  <p class="lead">The 350 ml single at Lotus&#x27;s, not the 330 ml carton and not a case of 24. Index 96 · High: same segment and same flavour family · peers in tier A+B: 3.</p>
  <div class="t5-scroll"><table class="t5-t t5-det"><thead><tr><th></th><th>Product</th><th class="n">Price</th><th class="n">฿/ml</th><th class="n">฿/100 ml</th><th>Offer</th><th>Source</th></tr></thead><tbody>
  <tr class="mal"><td><img src="img/LO-ON-52147784.webp" width="48" height="48" alt=""></td>
@@ -878,12 +854,6 @@ setView(window.matchMedia('(max-width:700px)').matches?'ag':'cal');
 
 </div>
 <script>
-document.querySelectorAll('[data-viz]').forEach(function(b){b.addEventListener('click',function(){
-  var id=b.getAttribute('data-viz');
-  document.querySelectorAll('[data-viz]').forEach(function(x){var on=x===b;x.classList.toggle('on',on);x.setAttribute('aria-pressed',on?'true':'false');});
-  document.getElementById('viz-apple').hidden=id!=='apple';
-  document.getElementById('viz-orange').hidden=id!=='orange';
-});});
 document.getElementById('show-c').addEventListener('click',function(){
   var box=document.getElementById('tier-c');
   var on=box.hidden;

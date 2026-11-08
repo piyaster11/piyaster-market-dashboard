@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:17:37Z",
+ "updated": "2026-11-08T00:06:10Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   36,
+   33,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -103,7 +103,7 @@
    "title": "FPL Gameweek 10: Saturday’s goals, assists, bonus + DefCon points",
    "source": "Fantasy Football Scout",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjRNRWk4R24zcy03RzVKSlFTS2pJQzE2eWx2Z0g3cV9TcDYxcEx5bWNMb0ZFM25KcU9rX0JLYjh4anlYWjZwaWFuODVxMklDNFlLNEVkbl9XX3I0b1JSMFhlekc4NmNoR0gwcmptQWNiZ191c1dVelJfNmF1RGZEbjI2UXo3ZkxGb0huVDZ4clNZNE1LMTNfYkMtNXNBTW1RekdBXzQ2Nmg4TWFMVDBTa1VB?oc=5",
-   "utc": "2026-11-07T20:05:35Z",
+   "utc": "2026-11-07T23:15:00Z",
    "tags": [
     "NUKE"
    ],
@@ -113,12 +113,12 @@
   {
    "title": "Palestinian families in Belgium seek evacuation of relatives stranded in flood-hit Gaza",
    "source": "Middle East Monitor",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLTctdEJOeVBadnpaeFdCLUt5Y05SNGJycTlCdkNpZnF3Y0xURzh5U0hURkJBcDN1MTY1Q281dndWNzBpODFHWm1WaG9telJKcWVXVUk2T2dXUGdpSlE2N0VCZGI3bGZkNkg2R1Y4T1RRZkNMMGFPSzZyNUw3dV9QU0huYWVHdnB2eUt3U2FnTkpEcG9icVhMOWYwLW5EakNiSzJBY2x3aExwRUgyckE1SU16RlpLVUl2TDlIVG5aYzZLaHU0RVpoREhOVdIB0AFBVV95cUxQc0pnSjdKUmNPM0NhZXYtUjhncjZKWGJKUXF0emI5WU9XcWNOc3FySlpHVUFNVUc2WHZpb1hEMF9aRDJ6ZEVmQk5iU3JOVjJ2aFljQU5mUnpXZWlTT2FZTUZiTXJ4VHRKTUhjSkVScm5OLU1WZjRBUERjTmpSQV96cEhoQm9kOWRvMXJaNVNiWHoxLTNFTEVVNkx5MEhfWjJQOEw1cV8xSGFaUTFQdWpzU3RZZDFDOXc5aVhZOFJWa2tDSTZjb2xqUDhraF9mSzhX?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLTctdEJOeVBadnpaeFdCLUt5Y05SNGJycTlCdkNpZnF3Y0xURzh5U0hURkJBcDN1MTY1Q281dndWNzBpODFHWm1WaG9telJKcWVXVUk2T2dXUGdpSlE2N0VCZGI3bGZkNkg2R1Y4T1RRZkNMMGFPSzZyNUw3dV9QU0huYWVHdnB2eUt3U2FnTkpEcG9icVhMOWYwLW5EakNiSzJBY2x3aExwRUgyckE1SU16RlpLVUl2TDlIVG5aYzZLaHU0RVpoREhOVQ?oc=5",
    "utc": "2026-11-07T18:09:00Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -129,7 +129,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -140,7 +140,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.4,
+   "airspace": false
+  },
+  {
+   "title": "NAF boosts aeromedical evacuation response for counter-terrorism operations through USAF training in Ohio",
+   "source": "National Accord Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeE43bFNsRHRELXVDSXNGbDl6UWd3djh6V3kwb1J3N18ycTdMYllfU2ZfVkZBV0ttaWp0SWpDbFZkRXVyT1lNQ1pDSFZPMGlycEpiVFBDc25hcnZxb09ObWppNUxKdy1aclFhNGZVa2YyWnl4QTAtaldXa3lJWl9EM3gzY1p2eVoxM2YxRHdCSXhOVG9sbVJKWlk4eV9rWGdXMVZrM282QlpaZlZrTl9pbkl6cG55VC1iWHpRbzQ2cUUyWnlZeEozS1BvNUltTG9ZNU5BMGZHZ0Ywdw?oc=5",
+   "utc": "2026-11-07T03:02:50Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -151,7 +162,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.1,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -162,19 +173,8 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": true
-  },
-  {
-   "title": "Security alert over threats against European media: Buildings evacuated, authorities on high alert",
-   "source": "TodayPress.tv",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVVpKSm1yMVBvWHNnc0F2UmRGaGFWY2paZ2VjTjlzcVJ3TnpCNDdFQzVhWV9LTm83SUN6SW1KUG1sSFh2LWUzMU1FLWdBSnIwTFNHMGg1NWk1eWlFdnR1Y2xWMk5ZanNCaktYVUZfZlhFR3ozTDY1OGVSZFM5aldjLVVKaUdrVFNMY0U1bEhuYlhWdDMzOUZGWHJaVlpQd29HRDVSSlJ0MUFSenVkdnFNeW5JY2xEUXBLSkhqYzNzbTBLWXBzR3c?oc=5",
-   "utc": "2026-11-06T16:28:00Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.8,
-   "airspace": false
   },
   {
    "title": "Shafaq News..Iraqi government denies nationwide airspace closure",
@@ -184,7 +184,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.7,
+   "score": 4.5,
    "airspace": true
   },
   {
@@ -195,7 +195,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.7,
+   "score": 4.5,
    "airspace": true
   },
   {
@@ -206,15 +206,15 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.6,
+   "score": 4.5,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 148,
-  "baseline": 1.5,
-  "samples": 32,
+  "count": 1,
+  "global": 90,
+  "baseline": 1.6,
+  "samples": 31,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -571,6 +571,10 @@
    [
     "2026-11-07T20:17:37Z",
     0
+   ],
+   [
+    "2026-11-08T00:06:10Z",
+    1
    ]
   ],
   "box": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:19:06Z",
+ "updated": "2026-11-08T20:32:03Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (15)"
+  "Nikkei Asia": "ok (16)"
  },
  "items": [
   {
-   "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-   "utc": "2026-11-08T15:16:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Business, Politics, Economy and Tech News & Analysis",
+   "title": "The unrest on Europe's streets should worry global investors",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43OGZkbXJEM0NHMkhTVXE5WDNGYmZHdjNTWk95ZTRfWUxjdVpyY1NGelZHSjlTUHVtZ2NfckdQNldJTmxBUzJCd1FXdllyU1dxa1hWN1paS21HZVBpN3NkcVJSc0lFUQ?oc=5",
-   "utc": "2026-11-08T15:13:55Z",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNakkyX2wwVURWV3FvMVBDSnpKamlYcC1LVV8tTHJDYXJzZ2l0Qkc1TWoxeVd2Zzhyb21LOEswLTRPcVpnOVNkZHRtV2IyMXpaZ2RBSjlYckNWYmczWkNWRjcyVXRscExCUS1WOHBUam5rdmpfR1dBU2pwaFk2TGdUX1RPbW44MGZLZVp2Y1ROcHNzZFpJbmZN?oc=5",
+   "utc": "2026-11-08T20:05:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Can Europe Afford Its Welfare State?",
+   "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-08/can-europe-afford-its-welfare-state-video",
-   "utc": "2026-11-08T15:02:58Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
+   "utc": "2026-11-08T20:00:00Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "The Global Race to Harness Solar Power From Space",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/The-Global-Race-to-Harness-Solar-Power-From-Space.html",
+   "utc": "2026-11-08T20:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-   "utc": "2026-11-08T15:00:00Z",
-   "tag": "STOCKS",
+   "title": "Japan headlight king Koito tears down Chinese rivals' lamps for bright ideas",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEFmeExHeTQtLVlpcVNDWk9xVkRfbmhRTjVnNmJidTJyWkZPNW9jSVprNEcxZVdSci1zZXJKMTl3dTgxVlZidlAzSWpKc0E5Y3VGdktCVmdBdGFKMHhkQWVlSEFpTXgyaVBEa2ZUM1JZdlBHVlZHVENlYnQ2cExRcHNNbzNna0lSbTZFS0lCNUpHenNyRkppd040czFqYlJseEYtX2xHdjB4QVFEd0pyRE5TZHhMc2YxSzVieg?oc=5",
+   "utc": "2026-11-08T19:55:00Z",
+   "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "New House Democrats Set Their Priorities",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video",
-   "utc": "2026-11-08T14:58:22Z",
-   "tag": "MARKETS",
-   "breaking": true
+   "title": "What the election results mean for crypto: State of Crypto",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+   "utc": "2026-11-08T19:30:00Z",
+   "tag": "BTC",
+   "breaking": false
   },
   {
-   "title": "Luxury Gyms Turn Fitness Into a Family Affair",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video",
-   "utc": "2026-11-08T14:40:27Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html",
-   "utc": "2026-11-08T14:30:30Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Seattle and Las Vegas Make Their NBA Pitch",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-08/seattle-and-las-vegas-make-their-nba-pitch-video",
-   "utc": "2026-11-08T14:28:18Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
+   "title": "‘Trump has cost us’: After midterm losses, MAGA asks if it’s over",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
-   "utc": "2026-11-08T14:26:27Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html",
-   "utc": "2026-11-08T14:23:16Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-   "utc": "2026-11-08T14:15:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTdYU2RDRkZwOVM0SXV4d2VCdExubk1wWngyTG5LOFNRVC1MWUU5NnVkS1FseU0zTlhwRXBRdW1OR2haNHNZcFM5cmVzNWI4cEhadmpDVzdVM2h4YmtuTU1TWFdtRTNMbjdnWGRQaGh2QTZrcnd6U0phWENkTVVNbFJUSWhEZXV2WVU4RWMtV0Vwc2dzQy05Ylp1cjFTZkhoZFVtY3pSTms?oc=5",
+   "utc": "2026-11-08T19:22:54Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-   "utc": "2026-11-08T14:14:11Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-   "utc": "2026-11-08T14:13:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Ukraine Peace Push Returns to Abu Dhabi",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-08/ukraine-peace-push-returns-to-abu-dhabi-video",
-   "utc": "2026-11-08T14:05:13Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
-   "utc": "2026-11-08T14:00:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
-   "utc": "2026-11-08T14:00:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
-   "utc": "2026-11-08T14:00:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "At least 21 dead after migrant boat sinks off Senegal coast, government says",
+   "title": "Train collision in Egypt kills at least 7, injures dozens, health ministry says",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWEyY01QZXphanRHT21PZUR2UVdNcEQzUVdRSW44Z2oxb1hfanV3TE00ZXhkMDJnZVdXYnF6OTdsZ3Jwd0lqamgxYlpTS2h3NjBjaTVaNC1nQXM0RXFNX2phMWItS1Q4UldFdzN3WFlocExfUElZZEJwQ2hVX1YzRmlDQnpDMEhrTC1oNk5VYmVCQ2pLc090LUlfbFY5VXk3YTFhTlg4NUJSTXk1WDVVTXdNYkp1RmF3TW02bDZR?oc=5",
-   "utc": "2026-11-08T13:35:48Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5",
+   "utc": "2026-11-08T19:18:30Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
+   "title": "Stablecoin growth has stalled. The payments boom hasn't",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+   "utc": "2026-11-08T19:16:42Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVVxWlAwOFI0ZGd4TUdTNFozbzE5TXN5UGx3R0NnX0JRdExfcVhSb21iYklFOXJ2QUpncXdoSFB3eE1NS0FFeHljZXQxeWlEVTNKVWd1eFVLWTZmbVpsSUs5Q3NqNUk2b1JYQVNxSFIyTTMxZERFdDBWVUFfUFZ2MkFtOUlIYm5VbE9kQ2kzVmdUTV9pZHFxNWNvUVFhYkI1WHc5LTZSS0JMR1Nka3gwSjgzWWFZZXN6OFFTRHB5Rzk1THIz?oc=5",
+   "utc": "2026-11-08T19:01:43Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Trump says he is highly unlikely to order Iran strikes if talks progress",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
+   "utc": "2026-11-08T18:58:48Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/08/scott-colom-and-blacks-on-cusp-of-history-as-mississippi-votes-are-counted.html",
-   "utc": "2026-11-08T13:30:48Z",
+   "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+   "utc": "2026-11-08T18:57:56Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Democratic Sweep Tests Trump-Linked Trades Across Latin America",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-08/democratic-sweep-tests-trump-linked-trades-across-latin-america",
-   "utc": "2026-11-08T13:30:00Z",
+   "title": "Netanyahu rival Eisenkot seeks 'wide' government, path to power uncertain",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVNiU3dTc0tOR1prcE94ZFJ0Y3FtTE5kYmtXRnp0SVpQWUlrYVFNQ3NMcWpmcFhaU2VDM0t0Q184cDNCVnFOSFhHVjFYbVJOa1ZMbG9vc3JJQ19fWTdJNHR5dlVGb19fNlBIazJubEFCcjJNeE11M0x3SnVOWGExRnZtdjVWdmpyeUV4enhLaUFPd2pfZkY3SGx0OXpkNi0wZmVDLWlR?oc=5",
+   "utc": "2026-11-08T18:43:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Democrats plan probes of Musk, Miller, corporate America after midterm rout",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5",
+   "utc": "2026-11-08T18:36:34Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Poland mourns victims of Krakow shooting amid security fears",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjUxVkw1TWRaU0FNWjdiZlUyUk9KcmFRMjlobjltclhvd2xEMFZic2QyLVJ1U2M4WEtOVWJ0S3J6WHdkT19pcUJwQml5Z3UyLV9PalUtQWV5X1J0dzJVMnFyc2pDQllBWTNKNTh2dVNkUVFMQWZ0OWlnUFp0Tm5LZmt0YXItSUprX09QVE93dElVd082LXpyck04QU0xemMySklEV0xSVDZRcWx5LVdUWA?oc=5",
+   "utc": "2026-11-08T18:24:36Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+   "utc": "2026-11-08T18:18:30Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "South Africa's ANC takes a beating in municipal vote, setting up tough coalition talks",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWgtMk9QU2tBNWhzbzUwRWFhUGFmeXFEZkRsVlBaVjk1U2hGVlRIUzhuUkhCRlE5OFNzcWwzT1QwbFAyTzdtc1J2eDh6Mzl0OVJkZFI5OUVoSU41N3JvSUM5dmsxYmFoOWl2dldEQ2J4THlmWFhkQWxvcHVnTEZLQ1Nvc0t1Q3MzMkkwSGgxRWhjSktRX1I2N201SGhMYWNJQ1NsM0lkZ1FrZGcyRUFVTm1qZHhRaTcxb3pQdVNNQQ?oc=5",
+   "utc": "2026-11-08T18:08:40Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trump says he is unlikely to order Iran attack if talks progress, CNN reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5",
+   "utc": "2026-11-08T18:00:09Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+   "utc": "2026-11-08T18:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "How Big Oil Became the AI Industry's Favorite Customer",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html",
+   "utc": "2026-11-08T18:00:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Netanyahu rival Eisenkot seeks 'wide' government but path to power uncertain",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejJnOTcwYVNEbnpEdVN4M0cwM3BsNEVBbXBpd21YUEcyM3RfX0FKUWsxaHk2dDVmc2NZZXR5cmNZY1NyY0o2MzlMSzU3SW1oVFpadFRLWjlTWHlWY3UxN2FXbUNQeFB4TlZrNlRyRW5jal9zQ2NaQWE2aGNfbHQxb1Zxb3VHcjRxcnNFaDZpdEw0Vm14eHNPLTVhM2l1ejJiYkMyQU51YzZRWEZSdm51ck5HOUh2NFNaQW5ONnhn?oc=5",
+   "utc": "2026-11-08T17:40:21Z",
    "tag": "MARKETS",
    "breaking": false
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T00:05:55Z",
+ "updated": "2026-11-08T00:43:07Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,14 +9,30 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (18)"
+  "Nikkei Asia": "ok (17)"
  },
  "items": [
+  {
+   "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+   "utc": "2026-11-08T00:00:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
   {
    "title": "Wars May Spur Faster Electrification",
    "source": "OilPrice",
    "link": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
    "utc": "2026-11-08T00:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
+   "utc": "2026-11-07T23:54:25Z",
    "tag": "MARKETS",
    "breaking": true
   },
@@ -34,7 +50,7 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
    "utc": "2026-11-07T23:34:21Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Trump offers UFC chief Dana White press secretary job",
@@ -42,7 +58,15 @@
    "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
    "utc": "2026-11-07T23:13:38Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Poland in shock after six die in Krakow mass shooting",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+   "utc": "2026-11-07T22:57:43Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "Japan tourism industry steps up push to draw Indian visitors",
@@ -125,14 +149,6 @@
    "breaking": false
   },
   {
-   "title": "Poland in shock after six die in Krakow mass shooting",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
-   "utc": "2026-11-07T22:16:54Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
    "title": "Indonesia's art deco hot spot, a century on",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXhGR29JVHZZVERGSTFtSFp0ckpBMWpZRXpiNGx5SUlBWlNNaW5vd2JlaDJ6QmlpM1BvWjRFamtPUmhlVnptSHdHdkJBalB0YVdXQ25wYjJ2ZHNVNG1MTVZKVjZycEZfYzVVZVFyN0dJcElHc0gyVDRISGxOcG9OTmRuaEZQN2lWcVlqM29ibDFoMF9jV09oSE9R?oc=5",
@@ -141,34 +157,18 @@
    "breaking": false
   },
   {
-   "title": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html",
-   "utc": "2026-11-07T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-   "utc": "2026-11-07T21:59:10Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Explosions heard in areas in southern Iran, Iranian media report",
+   "title": "Microsoft Corporation (MSFT.O) | Stock Price & Latest News",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
-   "utc": "2026-11-07T21:57:14Z",
-   "tag": "WAR",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mc1U3MkxiZ00yS0FLaXVrTG1GRkFVdFRNTVRBV2cxQm1vSGl4bThaMXdGRHI2Q09oUkpsTE5mcElfN2ppbnlkcTQ2eE5jYlZETzBnNTdCN2lUNDluNkE?oc=5",
+   "utc": "2026-11-07T22:07:50Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "- Nikkei Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sd2VmWnZPVUZ2VFA2T09EQmtMUTFWLXBUMnJxc3h4dFFaTFpmRGJRSUcyblVhRzhHbUZXbVlJYXc3Y0FaclBka2RUMFdCTExmQmlBLUwzdDRTSnRYRUg2aHA2ek00Qmc?oc=5",
-   "utc": "2026-11-07T21:56:02Z",
+   "title": "Police officer's home in France destroyed by fire, interior minister says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHZQM3Zvc21OMXdXcEo3LUhQQXRGdXhLaFk1elFXbjZNQkQ3UjIweHByaTFBM2ZfWlhZd25uQ0M1NzB6TFU4MkNHenRNSDA2Z1FrSXBIMEotblZGVGZFdnN6d0RMc2sybHU5dmQ5QUo4aXQ3UWROQUU5RW5ac3N6VlN2NnJhb3QxMlBwNTN3ZlVhNVVPcmFPdHAwNE1TVnN6SEd1ay12WEtQS1RFcG80?oc=5",
+   "utc": "2026-11-07T22:06:52Z",
    "tag": "MARKETS",
    "breaking": false
   }

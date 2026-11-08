@@ -444,6 +444,25 @@ footer li{margin-bottom:5px}
 }
 
 .pnav{background:#fff;border-bottom:1px solid var(--line)}.pnav-in{max-width:1240px;margin:0 auto;padding:0 40px;display:flex;flex-wrap:wrap;column-gap:24px;row-gap:0}.pnav .pn{display:inline-block;padding:12px 0 10px;font-size:13.5px;font-weight:550;color:var(--mut);text-decoration:none;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}.pnav .pn b{font-weight:650;margin-right:4px}.pnav .pn:hover{color:var(--ink)}.pnav .pn.on{color:var(--ink);border-bottom-color:var(--accent)}.pnav .pn.on b{color:var(--accent)}@media(max-width:560px){.pnav-in{padding:0 20px;column-gap:18px}.pnav .pn{font-size:13px}}
+
+.viz{margin:18px 0 8px}
+.viz h3{font-size:15px;font-weight:650;margin:0 0 4px}
+.viz .cap{font-size:12.5px;color:var(--ink2);margin:0 0 12px;max-width:880px}
+.vlegend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--ink2);margin:0 0 8px}
+.vlegend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:middle}
+.vlegend .me{background:var(--accent)}.vlegend .rv{background:#d1d5db}.vlegend .mk{background:#111;width:2px;height:12px;border-radius:0}
+.vrow{display:grid;grid-template-columns:minmax(0,190px) minmax(0,1fr) auto;gap:8px 10px;align-items:center;margin:7px 0}
+.vlab{font-size:13px;min-width:0}
+.vtrack{position:relative;height:12px;background:#f3f4f6;border-radius:6px}
+.vfill{display:block;height:100%;border-radius:6px;background:#d1d5db}
+.vfill.me{background:var(--accent)}
+.vmark{position:absolute;top:-3px;bottom:-3px;width:2px;background:#111;left:83.333%;border-radius:1px}
+.vval{font-size:13px;font-variant-numeric:tabular-nums;white-space:nowrap;color:var(--ink)}
+.vchips{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 8px}
+@media(max-width:700px){
+ .vrow{grid-template-columns:minmax(0,1fr) auto}
+ .vtrack{grid-column:1/-1}
+}
 </style></head><body>
 <nav class="pnav" aria-label="Dashboard pages"><div class="pnav-in"><a class="pn on" aria-current="page" href="../malee-dashboard/" data-pn="1"><b>1</b> Promo &amp; prices</a><a class="pn" href="../malee-shelf-comparison/" data-pn="2"><b>2</b> Shelf-price comparison</a><a class="pn" href="../malee-shelf-photos/" data-pn="3"><b>3</b> Shelf photos</a></div></nav><div class="wrap">
 <header>
@@ -699,7 +718,41 @@ setView(window.matchMedia('(max-width:700px)').matches?'ag':'cal');
  <p class="t5-note"><b>Selected 5 flagship SKUs — not sales-ranked.</b> Orange 1 L, apple 1 L, Coco 1 L, orange 200 ml ×3 and Coco 350 ml are the standard packs in this capture, each with same-flavour peers. There is no sales data. The default index above is the median of all 28 tier A+B comparisons, not an average of these five.</p>
  <div class="t5-audit"><b>What the three links actually contained.</b> Strict promo placement (tier A only): Lotus's weekly list, 1,590 items, <b>0 Malee</b>. 7-Eleven store leaflet, <b>0 Malee</b> (one Shinsun 250 ml orange). Big C leaflet, <b>1 Malee</b> (Signature 1 L) against two other 1 L juices, index 102.89. That single Big C cell is not parity across the three retailers. Tier B adds Lotus's own product pages, which are not on the weekly list, and brings the index to n=28, median 101.5.</div>
  <p class="lead">Sources, quoted for what was opened, not as a full-store census: <a href="https://corporate.bigc.co.th/promotions-bigc" target="_blank" rel="noopener">corporate.bigc.co.th/promotions-bigc</a> (leaflets read, not Big C Online); <a href="https://www.lotuss.com/th/category/weekly-promotion" target="_blank" rel="noopener">lotuss.com weekly promotion</a>; <a href="https://www.7eleven.co.th/promotion" target="_blank" rel="noopener">7eleven.co.th/promotion</a>. Big C online and one corporate page returned 403 and were not used. Big C page-2 catalogs were not scanned. Lotus's shows no promo end dates.</p>
- <p><button type="button" class="pc-chip" id="show-c" aria-pressed="false">Show optional 7-Eleven All Online index (tier C, not in the 101.5)</button></p>
+ 
+<div class="viz" id="viz">
+ <h3>Five flagship indexes</h3>
+ <p class="cap">Malee price per ml ÷ peer median × 100. 100 means the same price as matched peers at Lotus's. Scale starts at 0 and runs to 120. Black line is 100. Seen 8 Nov 2026, 09:47–10:12 ICT. Tier A+B only. Not a sales rank.</p>
+ <div class="vlegend"><span><i class="me"></i>Malee</span><span><i class="mk"></i>Peer median 100</span></div>
+ <div class="vrow"><span class="vlab">Apple 1 L</span><span class="vtrack"><span class="vfill me" style="width:77.4167%"></span><span class="vmark"></span></span><span class="vval">92.9</span></div>
+ <div class="vrow"><span class="vlab">Coco 350 ml</span><span class="vtrack"><span class="vfill me" style="width:80%"></span><span class="vmark"></span></span><span class="vval">96</span></div>
+ <div class="vrow"><span class="vlab">Orange 200 ml ×3</span><span class="vtrack"><span class="vfill me" style="width:82.0333%"></span><span class="vmark"></span></span><span class="vval">98.44</span></div>
+ <div class="vrow"><span class="vlab">Coco 1 L</span><span class="vtrack"><span class="vfill me" style="width:85.0583%"></span><span class="vmark"></span></span><span class="vval">102.07</span></div>
+ <div class="vrow"><span class="vlab">Orange 1 L</span><span class="vtrack"><span class="vfill me" style="width:88.5417%"></span><span class="vmark"></span></span><span class="vval">106.25</span></div>
+</div>
+<div class="viz" id="viz-price">
+ <h3>Same pack, ฿ per 100 ml</h3>
+ <p class="cap">Lotus's online only, today's selling price, zero at the left. Each chart is one pack, so sizes are not mixed. Multi-buy deals are not in the bar. 7-Eleven All Online is not included. Coco 1 L, orange 200 ml ×3 and Coco 350 ml stay in the tables so this view stays small. Chabaa 310 ml is a peer of Coco 350 ml but a different pack, so it is not drawn here.</p>
+ <div class="vchips" role="group" aria-label="Choose a same-pack comparison">
+  <button type="button" class="pc-chip on" data-viz="apple" aria-pressed="true">Apple 1 L</button>
+  <button type="button" class="pc-chip" data-viz="orange" aria-pressed="false">Orange 1 L</button>
+ </div>
+ <div id="viz-apple">
+  <p class="cap">100% apple juice, 1 L × 1, Lotus's. Scale 0–12 baht per 100 ml.</p>
+  <div class="vlegend"><span><i class="me"></i>Malee</span><span><i class="rv"></i>Competitor</span></div>
+  <div class="vrow"><span class="vlab">Chabaa</span><span class="vtrack"><span class="vfill" style="width:68.3333%"></span></span><span class="vval">฿8.20</span></div>
+  <div class="vrow"><span class="vlab"><b>Malee</b></span><span class="vtrack"><span class="vfill me" style="width:70.8333%"></span></span><span class="vval">฿8.50</span></div>
+  <div class="vrow"><span class="vlab">Tipco</span><span class="vtrack"><span class="vfill" style="width:84.1667%"></span></span><span class="vval">฿10.10</span></div>
+ </div>
+ <div id="viz-orange" hidden>
+  <p class="cap">Orange-family 1 L × 1, Lotus's. Tipco is six SKUs, all ฿8.00. Two Chabaa SKUs are ฿8.50 and the เขียวหวาน Chabaa is ฿8.70. Scale 0–10 baht per 100 ml.</p>
+  <div class="vlegend"><span><i class="me"></i>Malee</span><span><i class="rv"></i>Competitor</span></div>
+  <div class="vrow"><span class="vlab">Tipco · 6 SKUs</span><span class="vtrack"><span class="vfill" style="width:80%"></span></span><span class="vval">฿8.00</span></div>
+  <div class="vrow"><span class="vlab"><b>Malee</b></span><span class="vtrack"><span class="vfill me" style="width:85%"></span></span><span class="vval">฿8.50</span></div>
+  <div class="vrow"><span class="vlab">Chabaa · 2 SKUs</span><span class="vtrack"><span class="vfill" style="width:85%"></span></span><span class="vval">฿8.50</span></div>
+  <div class="vrow"><span class="vlab">Chabaa เขียวหวาน</span><span class="vtrack"><span class="vfill" style="width:87%"></span></span><span class="vval">฿8.70</span></div>
+ </div>
+</div>
+<p><button type="button" class="pc-chip" id="show-c" aria-pressed="false">Show optional 7-Eleven All Online index (tier C, not in the 101.5)</button></p>
  <div id="tier-c" hidden>
   <p class="t5-note"><b>Supplemental only.</b> Computed on its own from 7-Eleven All Online multipacks. n=8, median 102.47. It is not part of the three promotion links and is not folded into 101.5. Store leaflets and All Online are different channels.</p>
   <div class="t5-scroll"><table class="t5-t"><thead><tr><th>Malee All Online SKU</th><th>Pack</th><th class="n">Index</th><th class="n">฿/100 ml</th><th>Channel</th></tr></thead><tbody>
@@ -825,6 +878,12 @@ setView(window.matchMedia('(max-width:700px)').matches?'ag':'cal');
 
 </div>
 <script>
+document.querySelectorAll('[data-viz]').forEach(function(b){b.addEventListener('click',function(){
+  var id=b.getAttribute('data-viz');
+  document.querySelectorAll('[data-viz]').forEach(function(x){var on=x===b;x.classList.toggle('on',on);x.setAttribute('aria-pressed',on?'true':'false');});
+  document.getElementById('viz-apple').hidden=id!=='apple';
+  document.getElementById('viz-orange').hidden=id!=='orange';
+});});
 document.getElementById('show-c').addEventListener('click',function(){
   var box=document.getElementById('tier-c');
   var on=box.hidden;

@@ -1,0 +1,195 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Malee shelf photos</title>
+<style>
+:root{--g:#1f8a4c;--ink:#111827;--mut:#6b7280;--line:#e8eaed}
+*{box-sizing:border-box}body{margin:0;font:16px/1.45 system-ui,-apple-system,"Segoe UI","Noto Sans Thai",sans-serif;color:var(--ink);background:#f6f8f6}
+.pnav{background:#fff;border-bottom:1px solid var(--line)}
+.pnav-in{max-width:880px;margin:0 auto;padding:0 16px;display:flex;gap:18px;flex-wrap:wrap}
+.pnav a{display:inline-block;padding:12px 0;color:var(--mut);text-decoration:none;border-bottom:2px solid transparent}
+.pnav a.on{color:var(--ink);border-bottom-color:var(--g);font-weight:650}
+main{max-width:880px;margin:0 auto;padding:18px 16px 48px}
+h1{font-size:22px;margin:8px 0}
+.note{font-size:14px;color:#374151;background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px}
+button,label.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:10px 14px;border-radius:10px;border:1px solid var(--g);background:var(--g);color:#fff;font:650 15px inherit;cursor:pointer}
+label.alt{background:#fff;color:var(--g)}
+button:disabled{opacity:.45;cursor:not-allowed}
+.row{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(104px,1fr));gap:8px}
+.card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:6px}
+.card img{width:100%;height:96px;object-fit:cover;border-radius:6px;background:#eee}
+.card button{width:100%;margin-top:6px;min-height:36px;background:#fff;color:#b91c1c;border-color:#e8eaed;font-size:13px}
+#status{margin-top:12px;font-size:14px}
+.bar{height:8px;background:#e5e7eb;border-radius:99px;overflow:hidden;margin-top:8px}
+.bar i{display:block;height:100%;background:var(--g);width:0}
+</style></head><body>
+<nav class="pnav" aria-label="Dashboard pages"><div class="pnav-in">
+<a href="../malee-dashboard/"><b>1</b> Promo &amp; prices</a>
+<a href="../malee-shelf-comparison/"><b>2</b> Shelf-price comparison</a>
+<a class="on" href="../malee-shelf-photos/" aria-current="page"><b>3</b> Shelf photos</a>
+</div></nav>
+<main>
+<h1>Shelf photos</h1>
+<p class="note" id="need">This page needs the private link from the team. Photos stay on this phone until the server accepts them. They are not saved in this public site.</p>
+<p class="note">Use the private link you were given. It is not stored in this page. Photos go only to the team's existing server, and only after you press upload. Store shelves may show other brands; do not include anything you would not hand to the team.</p>
+<div class="row">
+<label class="btn">Take shelf photo<input id="cam" type="file" accept="image/*" capture="environment" multiple hidden></label>
+<label class="btn alt">Choose existing photos<input id="gal" type="file" accept="image/*" multiple hidden></label>
+</div>
+<div class="grid" id="grid"></div>
+<div class="row"><button type="button" id="send" disabled>Upload</button></div>
+<div class="bar" id="bar" hidden><i id="bar-i"></i></div>
+<div id="status" role="status"></div>
+</main>
+<script>
+(function(){
+var ENDPOINT="https://waviness-empirical-acting.ngrok-free.dev/api/shelf-upload";
+var opened=Date.now();
+var key="", rep="";
+var files=[];
+var need=document.getElementById("need");
+var send=document.getElementById("send");
+var grid=document.getElementById("grid");
+var statusEl=document.getElementById("status");
+var bar=document.getElementById("bar");
+var bari=document.getElementById("bar-i");
+function takeFragment(){
+  var raw=location.hash.charAt(0)==="#" ? location.hash.slice(1) : "";
+  if(!raw) return;
+  var q=new URLSearchParams(raw);
+  var k=q.get("k")||"";
+  if(k) key=k;
+  var r=q.get("rep")||"";
+  if(/^[A-Za-z0-9_.\-]{1,40}$/.test(r)) rep=r;
+  history.replaceState(null,"",location.href.split("#")[0]);
+  if(key){
+    need.textContent="Private link accepted on this phone. It is not kept in the address bar. Photos are sent only when you press upload.";
+    send.disabled=false;
+  }
+}
+takeFragment();
+window.addEventListener("hashchange", takeFragment);
+if(!key) send.disabled=true;
+function say(t){statusEl.textContent=t;}
+function draw(){
+  grid.innerHTML="";
+  files.forEach(function(f,i){
+    var card=document.createElement("div");
+    card.className="card";
+    var img=document.createElement("img");
+    img.alt="";
+    if(f.preview) img.src=f.preview;
+    var btn=document.createElement("button");
+    btn.type="button";
+    btn.textContent="Remove";
+    btn.onclick=function(){ if(f.preview) URL.revokeObjectURL(f.preview); files.splice(i,1); draw(); };
+    card.appendChild(img); card.appendChild(btn); grid.appendChild(card);
+  });
+}
+function extractApp1(buf){
+  var u=new Uint8Array(buf);
+  if(u.length<4||u[0]!==0xFF||u[1]!==0xD8) return null;
+  var i=2, parts=[];
+  while(i+4<u.length && u[i]===0xFF){
+    var marker=u[i+1];
+    if(marker===0xDA||marker===0xD9) break;
+    var len=(u[i+2]<<8)+u[i+3];
+    if(len<2||i+2+len>u.length) break;
+    if(marker===0xE1) parts.push(u.slice(i,i+2+len));
+    i+=2+len;
+  }
+  if(!parts.length) return null;
+  var n=0; parts.forEach(function(p){n+=p.length});
+  var out=new Uint8Array(n), o=0;
+  parts.forEach(function(p){out.set(p,o); o+=p.length});
+  return out;
+}
+function insertApp1(jpeg, app1){
+  var u=new Uint8Array(jpeg);
+  var out=new Uint8Array(u.length+app1.length);
+  out.set(u.subarray(0,2),0);
+  out.set(app1,2);
+  out.set(u.subarray(2),2+app1.length);
+  return out;
+}
+function prep(file){
+  return file.arrayBuffer().then(function(buf){
+    var app1=extractApp1(buf);
+    return createImageBitmap(file).then(function(bmp){
+      var max=2000, scale=Math.min(1, max/Math.max(bmp.width,bmp.height));
+      var w=Math.max(1,Math.round(bmp.width*scale)), h=Math.max(1,Math.round(bmp.height*scale));
+      var c=document.createElement("canvas"); c.width=w; c.height=h;
+      c.getContext("2d").drawImage(bmp,0,0,w,h);
+      return new Promise(function(res){ c.toBlob(function(blob){ res({blob:blob, scale:scale}); }, "image/jpeg", 0.85); });
+    }).then(function(got){
+      return got.blob.arrayBuffer().then(function(jb){
+        var bytes=new Uint8Array(jb);
+        if(app1 && got.scale<1) bytes=insertApp1(bytes, app1);
+        var out=new Blob([bytes],{type:"image/jpeg"});
+        return {blob:out, downscaled:got.scale<1, original_name:file.name||"photo.jpg", last_modified:file.lastModified||0, original_bytes:file.size, preview:URL.createObjectURL(out)};
+      });
+    });
+  }).catch(function(){
+    return {blob:file, downscaled:false, original_name:file.name||"photo", last_modified:file.lastModified||0, original_bytes:file.size, preview:URL.createObjectURL(file)};
+  });
+}
+function addList(list){
+  var arr=[].slice.call(list||[]);
+  var seq=Promise.resolve();
+  arr.forEach(function(f){ seq=seq.then(function(){ return prep(f).then(function(item){ files.push(item); draw(); }); }); });
+  return seq;
+}
+document.getElementById("cam").addEventListener("change",function(){ var l=this.files; this.value=""; addList(l); });
+document.getElementById("gal").addEventListener("change",function(){ var l=this.files; this.value=""; addList(l); });
+function postBatch(batch){
+  return new Promise(function(resolve,reject){
+    var fd=new FormData();
+    var meta={files:[], geo_status:"not requested on the public page", page_opened_ms:opened};
+    batch.forEach(function(f){
+      fd.append("photos", f.blob, (f.original_name||"photo").replace(/\.[^.]+$/,"")+".jpg");
+      meta.files.push({original_name:f.original_name, last_modified:f.last_modified, original_bytes:f.original_bytes, downscaled:!!f.downscaled});
+    });
+    fd.append("meta", JSON.stringify(meta));
+    if(rep) fd.append("rep", rep);
+    var xhr=new XMLHttpRequest();
+    xhr.open("POST", ENDPOINT);
+    xhr.timeout=300000;
+    xhr.setRequestHeader("X-Shelf-Key", key);
+    xhr.setRequestHeader("ngrok-skip-browser-warning","1");
+    xhr.upload.onprogress=function(ev){ if(ev.lengthComputable){ bar.hidden=false; bari.style.width=Math.round(ev.loaded/ev.total*100)+"%"; } };
+    xhr.onload=function(){
+      var j=null; try{ j=JSON.parse(xhr.responseText||""); }catch(e){}
+      if(xhr.status===200 && j && j.ok) resolve(j);
+      else reject(j||{error_en:"Upload failed ("+xhr.status+")."});
+    };
+    xhr.onerror=function(){ reject({offline:true}); };
+    xhr.ontimeout=function(){ reject({offline:true}); };
+    xhr.send(fd);
+  });
+}
+send.addEventListener("click",function(){
+  if(!key){ say("This page needs the private link from the team."); return; }
+  if(!files.length){ say("Choose or take a photo first."); return; }
+  send.disabled=true; say("Uploading…");
+  var pending=files.slice();
+  var batches=[];
+  while(pending.length) batches.push(pending.splice(0,20));
+  var done=0, ids=[];
+  var chain=Promise.resolve();
+  batches.forEach(function(batch){
+    chain=chain.then(function(){ return postBatch(batch).then(function(j){ done+=j.count||batch.length; if(j.submission_id) ids.push(j.submission_id); }); });
+  });
+  chain.then(function(){
+    files.forEach(function(f){ if(f.preview) URL.revokeObjectURL(f.preview); });
+    files=[]; draw(); bar.hidden=true;
+    say("Uploaded "+done+" photo"+(done===1?"":"s")+(ids.length?" · "+ids.join(", "):"")+".");
+    send.disabled=false;
+  }).catch(function(err){
+    bar.hidden=true; send.disabled=false;
+    if(err&&err.offline) say("Server offline (box must be on). Photos are still here.");
+    else say(((err&&err.error_th)||"")+(err&&err.error_th&&err.error_en?" · ":"")+((err&&err.error_en)||"Upload failed.")+" Photos are still here.");
+  });
+});
+})();
+</script>
+</body></html>

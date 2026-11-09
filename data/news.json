@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T00:58:20Z",
+ "updated": "2026-11-09T08:03:37Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (20)"
+  "Nikkei Asia": "ok (24)"
  },
  "items": [
   {
-   "title": "Trump says he thinks he'll meet with Xi and Putin at China APEC summit",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2xUYnk2ZlhRQzFhQXBYRWVHZ0FEbEozd3k4TzJiYmpZb0NIWlc4eld2bE42OFFIeEl0b2FjVXo2SDdSUUxWc2xKcjlxUzR5dno3dm9rWHpubUNjMXZiOHlkeTJKZDM2OUNjQVBSNW9XcHFta2d0VUZMZF9STC11NXNnR2Q4MWJVcTZjS1hxdjZVcnFRQWdEQllKXzQtbDNPWml1WmZVTGJ5RWhQZ25LQ0RWb0ptbE9qYVBRWmg0RkUwZ0FNM1E?oc=5",
-   "utc": "2026-11-09T00:46:00Z",
+   "title": "China Cuts LNG Imports as Cheap Domestic Gas Undercuts Global Prices",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Cuts-LNG-Imports-as-Cheap-Domestic-Gas-Undercuts-Global-Prices.html",
+   "utc": "2026-11-09T08:00:00Z",
    "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-   "utc": "2026-11-09T00:40:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-   "utc": "2026-11-09T00:30:00Z",
+   "title": "Japan's ANA and Vietnam Airlines to launch revenue-sharing pact",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDItN191M1B6a3dTU3YtRjBNbE51ODV2MUxQcGVqMm5vSlk2SE9kTm5SWGMwM0RUeU5mb0h3amJwdXJIcndpRWxvQVZoMGVMUVpCMzl2YlpILWp6UjlMNFg5SmFmVGpQSktTOVVYS0lqU293eW1uMy1vOW5vV0ZRMmpWcHh2R25JNFMtOEppZ2hlZ2EyZlJSdGM4ZVFRTlpxZXVlQ0trLV9BWlh3aHB0NQ?oc=5",
+   "utc": "2026-11-09T07:55:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates",
+   "title": "Access Considers Foreign-Asset Exit to Meet Nigeria Bank Rules",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/access-considers-foreign-asset-exit-to-meet-nigeria-bank-rules",
+   "utc": "2026-11-09T07:34:45Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures climb as investors eye AI trade, brace for more data and earnings: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
-   "utc": "2026-11-09T00:27:40Z",
+   "utc": "2026-11-09T07:33:51Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "UK employers report weaker hiring but stronger pay growth in October",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVG1wVjhveFh3VDlqWmRtRUtlZTR0cnl2VzBfVTRvcExjeE5hamRfRFdaZlRWTjhWcDczS2lpSTcyRFhQZUc3Wk9oeUdWNFhiQ0ktb016WWV0QjNaSTVrRFhVd3d3UEdld0VSV3dDaV9VWUdFNHBVVVVZb0ptWk0zN0Q2VFJrSkVfbFVXWUxFdFNmUDhyV0RZbS1hdWxjbE5tSmktT1Z2NmRTZw?oc=5",
-   "utc": "2026-11-09T00:06:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-   "utc": "2026-11-09T00:02:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-   "utc": "2026-11-09T00:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Iraqs-5-Million-Bpd-Oil-Claim-Complicates-Its-OPEC-Quota-Push.html",
-   "utc": "2026-11-09T00:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Japan FX intervention data underscores challenge of reversing weak yen",
+   "title": "Japan's private-share market gathers pace with new trading platform",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzZJWDNjU0Z5RjdaQlk0Yy1fTlY0VzhPdlRCZTB3aS1IeVFFenJ6TzVTbDJpemdOSDFxSy1jRHNhVzVqY3Q3eUI4M01kdGZqMVJhYVpJcFhreWtpcV94QVkzczRjeGpkZHBKdzJSUWxhRFYzYWo3RVREQjNqU0s5ZERMdEJiRkZ5UWhqY2hlSkdmcUIySGFRUC1CRVd1VzV3R3ZqM2xrZTRTRVZwRG4xNlVIS3d0ODhLUks3Wko4aw?oc=5",
-   "utc": "2026-11-09T00:00:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmhSeXZ5eGRwZThPWWxZdzBZSnU5ajFHdGhUZ2FIa2lSLWhUdnVhWUsyQ0doNzRmZ3JrWkJydXNLRUxfaG5QYnZyTjhjT0thVmlrX3R2M2t1eWdCb0FITTFxSG1nbUk3NUJna0pwU09JYzVrVDl0QTJKc3F3cl9hV1RzajJDdU9jLUREQTFMVUZOWHBVSkF2R1RSY3hDSTJJNXhDNU9rZF9uOGZYalE?oc=5",
+   "utc": "2026-11-09T07:32:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "COMMENTARY: Gold's short-term volatility contrasts with long-term bullishness",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPckFmSmFBN0lNeTlPeWtKck51aVVZVW5qeXEwVXRxT1Z1MHV1NjYxa0F1ekZPeWxWUHNydG1JU2ZKZzQyazFidjlrc25wVHY0TVZkWFk2eFJDSDNaOTNiQkNlVXdmUEF1QzNSeHliUm1pcmstRW9vZXNqNVAweGpMWnBaTlZWSFBmX2pxTVdwdzlJbmczZFpIeko4RWVNVlE0QUVOUHZYTVgyOWdBdUFxR3BiWko2cEtpOEowZDhkWlo3Q1RaUGFFend2bHdHUQ?oc=5",
-   "utc": "2026-11-08T23:59:50Z",
-   "tag": "GOLD",
+   "title": "The FTSE 100 Is Riding an Anti-AI Wave",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-09/the-ftse-100-is-riding-an-anti-ai-wave",
+   "utc": "2026-11-09T07:27:32Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Sudden Distress at Top-Rated Firm Tests China’s Rating Crackdown",
+   "title": "TPG-Backed Yoco Gets Private-Credit Deal With $3.6 Billion Firm",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-08/sudden-distress-at-top-rated-firm-tests-china-s-rating-crackdown",
-   "utc": "2026-11-08T23:52:21Z",
-   "tag": "CHINA",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/tpg-backed-yoco-gets-private-credit-deal-with-3-6-billion-firm",
+   "utc": "2026-11-09T07:19:04Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
-   "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
+   "title": "Tech Stock Rout Exposes Market Risks From AI Bets and Political Uncertainty",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/market-vulnerability-has-been-exposed-for-good-taking-stock",
+   "utc": "2026-11-09T07:15:06Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "RBI Said to Query Bank Valuations of Some Bond Derivative Trades",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades",
+   "utc": "2026-11-09T07:12:50Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "COMMENTARY: Middle East oil price war heralds post-conflict glut",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
-   "utc": "2026-11-08T23:51:43Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWdUbTZOMkxOdnRzOHBPdHRWSFBmNG1jZnFISWQ0MVFaWEc1MUlkTjRuNlhSQzdMQWQxaXQzYTBOTGtBd0NkYnRNTFNHaDlNZ0xwVU1JODVSMFdLZnREeGttWWlEdmE3ZnJwODdnMG5iQnJwRlZBbDZvOEU5UjczRC1UcGo5S0p4U01KZWMzcVBjNEdnWW42clRaR1U5QXpoMHh1bnE0T2phU1I1OEpUVFJJUHN2LThoMFd3WGJR?oc=5",
+   "utc": "2026-11-09T07:00:00Z",
    "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-   "utc": "2026-11-08T23:50:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-   "utc": "2026-11-08T23:49:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
+   "title": "FTSE 100 Set to Outperform as Global Stocks Rebound",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
-   "utc": "2026-11-08T23:40:10Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-   "utc": "2026-11-08T23:35:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump says 'only kidding' about naming UFC CEO as White House press secretary",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHBjVXFsTFJMVmJ1dU5zSUlnVktsU3cwcnc1R29xd0dWYVhuSkxhQmt1NENoZHNUeEE3T2VGLV9oZnVScVpScnNIRlNMemJPSUxnaUhWTFFFSjFzLVY4NnZCSXRGUjBWWFFQQmZaQ1Y1Y0F6V2cxdDR5czdfcE9XWnY5UzF5NW02di10N2Iwa0RqdFBDLVJOeHhPcVZQTG1fbUNpNElwVndVZ1c3alJIVC1WLXRSdw?oc=5",
-   "utc": "2026-11-08T23:34:13Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nvidia Probes Huang Affair Amid Spying Controversy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-08/nvidia-probes-huang-affair-amid-spying-controversy-video",
-   "utc": "2026-11-08T23:22:53Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "You follow the rules for smart stock trading. But are they the right rules?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
-   "utc": "2026-11-08T23:15:00Z",
+   "link": "https://www.bloomberg.com/news/live-blog/2026-11-09/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today-mw8ws1iv",
+   "utc": "2026-11-09T06:57:09Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "COMMENTARY: Why Taiwan’s AI moat trumps South Korea's memory bet",
+   "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+   "utc": "2026-11-09T06:54:41Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Krakow mass shooting assailant died in hospital, Polish police say",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMG9ZSF95MkFYS3QybktRMUpCSUhTQlhqa1otQWpTRWg4YWpaWFNnbDV0SDZ5bTY4SHh1cXN4cF9xdTl6R05iV0p3OFBxSi1ONHBpU010d3g0ZlpwZlUyRzZPT0Jac3FrTXVZU1RoZHlNZ1g5azZ3ZGE3TDBJVWdmMHJ3blN5UEo1U3hxeHRmUGoxdkg5UEphOWJpcFVXVnNmcHhDcHYyOVdpZFo5dmp0aUVrZ0ZEMjFpbk1BbkdCVnEwd0FZQm1HSHZIYlV0TzBMUjJJQ190cw?oc=5",
-   "utc": "2026-11-08T23:06:56Z",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2JCSWlLOUNwYXJVdFZDNkd6QndqWm4tVGxvT2piU202T3NWeXV5VkxEcjVIclV3cG9aa1Yxa1BMUmlSeHVuV1lvc0FYVzRZQXBrVE16Q19uVXJPNWZPbTRKdjcwNWIwNFhxeXRCS19wSEVPU2xoWk51dGdmU0p3U1VZeWRDUFFxUi1ZcmxUenBFdE05cm5iQU5hWjJhLWRDZFkydU9rRlZGNG1qbFhOag?oc=5",
+   "utc": "2026-11-09T06:38:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Alphabet Mulls Asia Bond Sale as AI Fears Fuel Volatility",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/alphabet-mulls-asia-bond-sale-as-ai-fears-fuel-global-volatility",
+   "utc": "2026-11-09T06:37:30Z",
    "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+   "utc": "2026-11-09T06:36:45Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Russian diesel deal with US could offer Moscow a chance to mend business ties, Russian diplomat says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORnI1RWxpRmJkTGNYTWxMQmtjckhIYWRqQWZ5czdfSW9FVTV3T183THpyR0NuMWRpVzVCbWhwcVd2THNadHM1aHJ6YnNwLVAxRDZCakQwU2dsU200VFBiLUF3bWdCVGtWZWwxR0UzTFc4bVo2Wkw3Z0lPanZKVjJtRDJxT1dmY0JBYXNNUml6MzRwNDRNZEVEYkFTV1NKTW5hX1pLdjl0QlBkNnJQTUN1YUw2NHNvR1g2X0dfTjQ1VVM0Z2c?oc=5",
+   "utc": "2026-11-09T06:36:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Ali Yasin: Iran War Forces GCC Firms to Rethink IPOs",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-09/ali-yasin-iran-war-forces-gcc-firms-to-rethink-ipos-video",
+   "utc": "2026-11-09T06:28:07Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Greece recovers 12 dead migrants from boat off of Crete, coast guard says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnhNN1ZhTWV2ZXc0OUVWN211NkdwRnlWcXU4VEhzYnFTWENxb3k2VS1RdHlwR2ttZEhKM2F3MlkxVXNFdmo5SFVTZE8xRTV2NXpVdFdWQlMyUVNxbmtXWGFjczRxbXJERXNBZ3l0WWczZ0xBR29nc0tHSXlsZVBTR1duR3Zhci10Q0g0QlUyLTZleHhta0JnOEJHa0owbDAwZFlNOXZSekxRbnA5alhuRldGWQ?oc=5",
+   "utc": "2026-11-09T06:28:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Gunman in Polish Mass Shooting Dies in Hospital, Police Say",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/krakow-mass-shooter-dies-in-the-hospital-polish-police-says",
+   "utc": "2026-11-09T06:22:55Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trump says deportation policy 'might have been too tough'",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWlQT0xIbU9QM1laMTNfTWJfTk1TWmtTQXM5YmpEWVJTdEJqQnlmRzhLTlFyQlpOT3lGWlZiek5zWE9QTkZpQ1FjS2ZhY25MY1JKZE9mT2RReWxVcWpwN2wwcmhqUmVQUUVvczFfV1N0UUZJVHNicG9uME5sWVRSWEhrS0o3WVhVazMtZVpvaGY3c0tDampiUlNSQ2ZZYUNIc1ltRklIZS1kUEZvS2pR?oc=5",
+   "utc": "2026-11-09T06:19:00Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

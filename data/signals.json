@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T00:00:02Z",
- "level": 28,
+ "updated": "2026-11-09T00:58:44Z",
+ "level": 33,
  "band": "Watch",
  "components": [
   [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   19,
-   28,
+   20,
+   30,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   0,
-   0,
+   1,
+   3,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -100,6 +100,28 @@
  ],
  "headlines": [
   {
+   "title": "FPL Gameweek 10: Sunday’s goals, assists, bonus + DefCon points",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1JWenB5LXhJWGxxLUh1MldISXpQNXl6VHBnQlBYc3FGa29uOF9JN0h3amlFa1pFREpNeWdHWnRxWTdWQU1XWXdRdXpNdUFRS0tCWlk3Rm1OdGxYb2Zjamo2LXZyTWUtcDJKSE5BV0xvWV9mSjEwWDVyakx5bm5scEZPN0Z6S05aMVRPMmNWMDdtbm55UTR6RmdjTGZvV0FOc2ZnMlpTZUN3c05I?oc=5",
+   "utc": "2026-11-09T00:42:58Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "Air India Direct Flights Suspended: Chicago, Newark & NYC Routes Face Disruption| Indians In U.S. Granville Bridge Closure (mwK7wyaqkx)",
+   "source": "Unisba Media",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWTRHLU1VNmJVN1VURlhuOVFYd2JuWEZMUnJYNW5CSzZYakJ5QTUtS2s0WERmdkk5V0REdXJLOWtJNnI1MUpwT3JxR1BKTnhfUEJsRmM0VFUza252WEZFSTZJUHZxR3NrY1BwNmZJbHU5eFhMWE5STG1UU2VVWGd2SWx3?oc=5",
+   "utc": "2026-11-08T23:50:22Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.0,
+   "airspace": true
+  },
+  {
    "title": "19 Indian seafarers evacuated from Yemen, on way back home",
    "source": "India Today",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXNyLU51OHdfdEhiUE1IaWc2ZTdBNDdqZjlEaTFXQU5UYjlqTDZXNWhmaU9US2g1anZDY05wRUpqTV8zUlFEWFpJRklQMk1CSTE5c0doWUxOVjE0VDNkQVdlaDNnUFpPQTdwRWtNeVVGTGRrUzBHQ05SUTdrR0lWaDRXNGFXdXpTZUE4cXRoVmRwWW1IRUxWSWdlR3M1ZTR3dHlIUkNmUkhsZ9IBrwFBVV95cUxPXzNMWVlxaEVJRlJVd0VTY0M1MDhtNDBQM3RXNkxDOF9GZjBiVVF3c2gzUHBET0czall4MVdBQnJSZVVSaVFtOGhwWjJSZFNEVE5WbFNqQ0Z4VnNnODQzQU5EZEdTcG12dmRKZ0s5blcxX3pDLWI4Ymt0VFp3a0xFTmY0S0czdU9VdkR4OVJEdTdpMmphOTNKemU5ZnRENWp0YjU5ZEgtTkpOenFaajdB?oc=5",
@@ -107,18 +129,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.0,
-   "airspace": false
-  },
-  {
-   "title": "FPL Gameweek 10: Sunday’s goals, assists, bonus + DefCon points",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1JWenB5LXhJWGxxLUh1MldISXpQNXl6VHBnQlBYc3FGa29uOF9JN0h3amlFa1pFREpNeWdHWnRxWTdWQU1XWXdRdXpNdUFRS0tCWlk3Rm1OdGxYb2Zjamo2LXZyTWUtcDJKSE5BV0xvWV9mSjEwWDVyakx5bm5scEZPN0Z6S05aMVRPMmNWMDdtbm55UTR6RmdjTGZvV0FOc2ZnMlpTZUN3c05I?oc=5",
-   "utc": "2026-11-08T22:13:34Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.9,
+   "score": 5.9,
    "airspace": false
   },
   {
@@ -151,7 +162,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "IRGC Spokesman Hossein Mohebbi Warns Strait Of Hormuz Violators Of Drifting Mines: 7 outlets compared",
+   "source": "NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYU5nUEtyZ08zTi1IWG5ERWc2S3R5WlFNZmFPaEozQkt4S193YUQwNG12R2xMdHc0QXk0UGtsMGtoZEhnTE5aQzR2aE12NUlocGUzYkxvNHFNRlg3YVNMQnZpQ1NzbG96U2xrME1wSFJrTDlLWExBN3Y5WkgzM0ZhcTFwcHhhbHY2SmhEd1hnMFZDcUJXeVY1dTlsZ1NzMk9RWUQwVWJ2amFCcEVpTDk3UVhiRFFWNGVtaGlJbWpWVWprM190ZmlyNmRMWWQyd3hDbHpLd3dFMTdGY0hpOHd1REc5SlRRTUxlVXc?oc=5",
+   "utc": "2026-11-08T17:23:06Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -162,29 +184,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 11.6,
-   "airspace": false
-  },
-  {
-   "title": "Qatar becomes largest buyer of US LNG amid Hormuz crisis",
-   "source": "Daily Sun",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzdxZHZuSy1fekg4aVh1NjBhYXlIVy01blNhaGxzMzBTR2RhWl83OGhKNWtGX25ZLUpNZGVrZ19YSEtRTElCOGhyMTFVVHROTkJZb3FYOFhwNWIzSVJ6UFBmQ0dScjhDUF9rRjR5RmhyMXBVRm1neHFoeXgxMkk3MU01TzVIRHNPSTFkV2hiX19wY01wQzN5d2ZiWQ?oc=5",
-   "utc": "2026-11-08T12:58:04Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.5,
-   "airspace": false
-  },
-  {
-   "title": "Straits of Hormuz closure and housing freeze pose risks, Will Hutton warns",
-   "source": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUpWbnE1X2w4Z2l0bjJNa0RrTnhBbzNROFJlOXAxT2s3emx3ci1iS0RBTVhUb1ZOanNkeUdsd2NPTGc2SkhhTTNYdjVUX0tOcUFXWFhKMzFPa0NfRjBfaDVCZzlzSTExNzlMQlQzRFpHNnRsM2RjM3pFeEh5TXVTWTRaQllnNERReXJzY0lIQjM?oc=5",
-   "utc": "2026-11-08T11:35:26Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.5,
+   "score": 11.5,
    "airspace": false
   },
   {
@@ -195,7 +195,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.1,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -211,10 +211,10 @@
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 123,
+  "count": 1,
+  "global": 137,
   "baseline": 1.7,
-  "samples": 32,
+  "samples": 31,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -595,6 +595,10 @@
    [
     "2026-11-09T00:00:02Z",
     0
+   ],
+   [
+    "2026-11-09T00:58:44Z",
+    1
    ]
   ],
   "box": [

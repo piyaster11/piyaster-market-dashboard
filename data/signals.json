@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T20:32:25Z",
- "level": 30,
+ "updated": "2026-11-09T00:00:02Z",
+ "level": 28,
  "band": "Watch",
  "components": [
   [
@@ -12,8 +12,8 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   20,
-   30,
+   19,
+   28,
    35,
    "1.5 pts per headline"
   ],
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   0,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -100,10 +100,10 @@
  ],
  "headlines": [
   {
-   "title": "19 Indian seafarers stranded in Yemen safely evacuated, Embassy says",
-   "source": "ANI News",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXBKNDF4dEM1TXFVR0VIZHBQQ0YtWUVTSTFMajQ4V0hNMVdUMTlLcGpEWVQ3Nk9FMXRSbG5OSTdlS1J4UDZadnNuZlNrV1NCb3A3Vi1ESzhGZzduTkEwdXpYN0JzUDJ6T2tQQ1N0ZlJMMGNtdXdDaDloSnVCZjN0Y1pvMm1uM2p1X052aGRZN2pNdlA5YVlta20yYkJFOVIyb2k1alFQX1ZFaGRRVUh1aDM4YzlIN0ZSaHVTRk1NQ0ZoWVdBY1E?oc=5",
-   "utc": "2026-11-08T19:58:00Z",
+   "title": "19 Indian seafarers evacuated from Yemen, on way back home",
+   "source": "India Today",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXNyLU51OHdfdEhiUE1IaWc2ZTdBNDdqZjlEaTFXQU5UYjlqTDZXNWhmaU9US2g1anZDY05wRUpqTV8zUlFEWFpJRklQMk1CSTE5c0doWUxOVjE0VDNkQVdlaDNnUFpPQTdwRWtNeVVGTGRrUzBHQ05SUTdrR0lWaDRXNGFXdXpTZUE4cXRoVmRwWW1IRUxWSWdlR3M1ZTR3dHlIUkNmUkhsZ9IBrwFBVV95cUxPXzNMWVlxaEVJRlJVd0VTY0M1MDhtNDBQM3RXNkxDOF9GZjBiVVF3c2gzUHBET0czall4MVdBQnJSZVVSaVFtOGhwWjJSZFNEVE5WbFNqQ0Z4VnNnODQzQU5EZEdTcG12dmRKZ0s5blcxX3pDLWI4Ymt0VFp3a0xFTmY0S0czdU9VdkR4OVJEdTdpMmphOTNKemU5ZnRENWp0YjU5ZEgtTkpOenFaajdB?oc=5",
+   "utc": "2026-11-08T23:06:04Z",
    "tags": [
     "EVAC"
    ],
@@ -114,11 +114,22 @@
    "title": "FPL Gameweek 10: Sunday’s goals, assists, bonus + DefCon points",
    "source": "Fantasy Football Scout",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1JWenB5LXhJWGxxLUh1MldISXpQNXl6VHBnQlBYc3FGa29uOF9JN0h3amlFa1pFREpNeWdHWnRxWTdWQU1XWXdRdXpNdUFRS0tCWlk3Rm1OdGxYb2Zjamo2LXZyTWUtcDJKSE5BV0xvWV9mSjEwWDVyakx5bm5scEZPN0Z6S05aMVRPMmNWMDdtbm55UTR6RmdjTGZvV0FOc2ZnMlpTZUN3c05I?oc=5",
-   "utc": "2026-11-08T19:35:16Z",
+   "utc": "2026-11-08T22:13:34Z",
    "tags": [
     "NUKE"
    ],
-   "score": 5.0,
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "19 Indian seafarers stranded in Yemen safely evacuated, Embassy says",
+   "source": "ANI News",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXBKNDF4dEM1TXFVR0VIZHBQQ0YtWUVTSTFMajQ4V0hNMVdUMTlLcGpEWVQ3Nk9FMXRSbG5OSTdlS1J4UDZadnNuZlNrV1NCb3A3Vi1ESzhGZzduTkEwdXpYN0JzUDJ6T2tQQ1N0ZlJMMGNtdXdDaDloSnVCZjN0Y1pvMm1uM2p1X052aGRZN2pNdlA5YVlta20yYkJFOVIyb2k1alFQX1ZFaGRRVUh1aDM4YzlIN0ZSaHVTRk1NQ0ZoWVdBY1E?oc=5",
+   "utc": "2026-11-08T19:58:00Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -129,7 +140,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -140,7 +151,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -151,7 +162,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 11.7,
+   "score": 11.6,
    "airspace": false
   },
   {
@@ -162,7 +173,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -173,18 +184,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
+   "score": 4.5,
    "airspace": false
   },
   {
-   "title": "M’sia diaspora in Qatar conducts evacuation drills for war threats",
-   "source": "The Star",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBRYlJWNjlsVFBsbGlmVjFObmxzRHJ0VEtmeHNQX1VuWnYtN3VCcVRKcERxM2ptYVI2dEEzZXlNNC05VWdSSGx5dHBUcGFYV3h5Wmc4MjJoczZsT18xZXM5QTFSZ25NLWh6QVRkMjJHdnozMExIejhoYVB1YUVPVUVXUlVrT2oyRVhrYjVac05jUkl2c1llWXFHUVBpMVc4YU5Bamx0QWcxN19EaEl3OUJrRFk1UQ?oc=5",
-   "utc": "2026-11-08T00:43:00Z",
+   "title": "IRGC Says 2 Tankers Hit Mines as US Disables M/V Huda Near Hormuz",
+   "source": "https://houseofsaud.com/",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ta0s1S2d6U1I2VWttU1B0M3REX21DeVE4ODI4OVNtQjVnT2RVZkFhSVRwSTdTSGdtUWRNd3VySngyZ2JaTVFTQU9MMXhLRENhRjBnTzd1bHE3M0E3aTlON0RTQ3JRQQ?oc=5",
+   "utc": "2026-11-08T01:25:51Z",
    "tags": [
-    "EVAC"
+    "HORMUZ"
    ],
-   "score": 5.2,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -195,24 +206,13 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Palestinian families in Belgium seek evacuation of relatives stranded in flood-hit Gaza",
-   "source": "Middle East Monitor",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLTctdEJOeVBadnpaeFdCLUt5Y05SNGJycTlCdkNpZnF3Y0xURzh5U0hURkJBcDN1MTY1Q281dndWNzBpODFHWm1WaG9telJKcWVXVUk2T2dXUGdpSlE2N0VCZGI3bGZkNkg2R1Y4T1RRZkNMMGFPSzZyNUw3dV9QU0huYWVHdnB2eUt3U2FnTkpEcG9icVhMOWYwLW5EakNiSzJBY2x3aExwRUgyckE1SU16RlpLVUl2TDlIVG5aYzZLaHU0RVpoREhOVQ?oc=5",
-   "utc": "2026-11-07T18:09:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 141,
+  "count": 0,
+  "global": 123,
   "baseline": 1.7,
   "samples": 32,
   "hist": [
@@ -591,6 +591,10 @@
    [
     "2026-11-08T20:32:25Z",
     1
+   ],
+   [
+    "2026-11-09T00:00:02Z",
+    0
    ]
   ],
   "box": [

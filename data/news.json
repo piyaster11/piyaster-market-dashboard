@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:03:37Z",
+ "updated": "2026-11-09T18:52:51Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (24)"
+  "Nikkei Asia": "ok (29)"
  },
  "items": [
   {
-   "title": "China Cuts LNG Imports as Cheap Domestic Gas Undercuts Global Prices",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Cuts-LNG-Imports-as-Cheap-Domestic-Gas-Undercuts-Global-Prices.html",
-   "utc": "2026-11-09T08:00:00Z",
-   "tag": "CHINA",
+   "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+   "source": "CNBC Markets",
+   "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+   "utc": "2026-11-09T18:46:01Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Japan's ANA and Vietnam Airlines to launch revenue-sharing pact",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDItN191M1B6a3dTU3YtRjBNbE51ODV2MUxQcGVqMm5vSlk2SE9kTm5SWGMwM0RUeU5mb0h3amJwdXJIcndpRWxvQVZoMGVMUVpCMzl2YlpILWp6UjlMNFg5SmFmVGpQSktTOVVYS0lqU293eW1uMy1vOW5vV0ZRMmpWcHh2R25JNFMtOEppZ2hlZ2EyZlJSdGM4ZVFRTlpxZXVlQ0trLV9BWlh3aHB0NQ?oc=5",
-   "utc": "2026-11-09T07:55:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Access Considers Foreign-Asset Exit to Meet Nigeria Bank Rules",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/access-considers-foreign-asset-exit-to-meet-nigeria-bank-rules",
-   "utc": "2026-11-09T07:34:45Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stock futures climb as investors eye AI trade, brace for more data and earnings: Live updates",
+   "title": "Dow rallies 1,100 points, Nasdaq jumps 2% as stocks climb out of postelection slump: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
-   "utc": "2026-11-09T07:33:51Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Japan's private-share market gathers pace with new trading platform",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmhSeXZ5eGRwZThPWWxZdzBZSnU5ajFHdGhUZ2FIa2lSLWhUdnVhWUsyQ0doNzRmZ3JrWkJydXNLRUxfaG5QYnZyTjhjT0thVmlrX3R2M2t1eWdCb0FITTFxSG1nbUk3NUJna0pwU09JYzVrVDl0QTJKc3F3cl9hV1RzajJDdU9jLUREQTFMVUZOWHBVSkF2R1RSY3hDSTJJNXhDNU9rZF9uOGZYalE?oc=5",
-   "utc": "2026-11-09T07:32:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "The FTSE 100 Is Riding an Anti-AI Wave",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-09/the-ftse-100-is-riding-an-anti-ai-wave",
-   "utc": "2026-11-09T07:27:32Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "TPG-Backed Yoco Gets Private-Credit Deal With $3.6 Billion Firm",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/tpg-backed-yoco-gets-private-credit-deal-with-3-6-billion-firm",
-   "utc": "2026-11-09T07:19:04Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Tech Stock Rout Exposes Market Risks From AI Bets and Political Uncertainty",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/market-vulnerability-has-been-exposed-for-good-taking-stock",
-   "utc": "2026-11-09T07:15:06Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "RBI Said to Query Bank Valuations of Some Bond Derivative Trades",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades",
-   "utc": "2026-11-09T07:12:50Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "COMMENTARY: Middle East oil price war heralds post-conflict glut",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWdUbTZOMkxOdnRzOHBPdHRWSFBmNG1jZnFISWQ0MVFaWEc1MUlkTjRuNlhSQzdMQWQxaXQzYTBOTGtBd0NkYnRNTFNHaDlNZ0xwVU1JODVSMFdLZnREeGttWWlEdmE3ZnJwODdnMG5iQnJwRlZBbDZvOEU5UjczRC1UcGo5S0p4U01KZWMzcVBjNEdnWW42clRaR1U5QXpoMHh1bnE0T2phU1I1OEpUVFJJUHN2LThoMFd3WGJR?oc=5",
-   "utc": "2026-11-09T07:00:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "FTSE 100 Set to Outperform as Global Stocks Rebound",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/live-blog/2026-11-09/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today-mw8ws1iv",
-   "utc": "2026-11-09T06:57:09Z",
+   "utc": "2026-11-09T18:45:51Z",
    "tag": "STOCKS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-   "utc": "2026-11-09T06:54:41Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "Krakow mass shooting assailant died in hospital, Polish police say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2JCSWlLOUNwYXJVdFZDNkd6QndqWm4tVGxvT2piU202T3NWeXV5VkxEcjVIclV3cG9aa1Yxa1BMUmlSeHVuV1lvc0FYVzRZQXBrVE16Q19uVXJPNWZPbTRKdjcwNWIwNFhxeXRCS19wSEVPU2xoWk51dGdmU0p3U1VZeWRDUFFxUi1ZcmxUenBFdE05cm5iQU5hWjJhLWRDZFkydU9rRlZGNG1qbFhOag?oc=5",
-   "utc": "2026-11-09T06:38:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Alphabet Mulls Asia Bond Sale as AI Fears Fuel Volatility",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/alphabet-mulls-asia-bond-sale-as-ai-fears-fuel-global-volatility",
-   "utc": "2026-11-09T06:37:30Z",
+   "title": "A massive trade in Nvidia just went off – here are the details",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
+   "utc": "2026-11-09T18:37:59Z",
    "tag": "AI",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
-   "utc": "2026-11-09T06:36:45Z",
+   "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+   "utc": "2026-11-09T18:33:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Think the bond market is broken? History says a massive turnaround could be coming.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/think-the-bond-market-is-broken-history-says-a-massive-turnaround-could-be-coming-dfaae450?mod=mw_rss_topstories",
+   "utc": "2026-11-09T18:26:00Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Russian diesel deal with US could offer Moscow a chance to mend business ties, Russian diplomat says",
+   "title": "Paraguay names Schreiner as central bank chief following Ueno collapse",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORnI1RWxpRmJkTGNYTWxMQmtjckhIYWRqQWZ5czdfSW9FVTV3T183THpyR0NuMWRpVzVCbWhwcVd2THNadHM1aHJ6YnNwLVAxRDZCakQwU2dsU200VFBiLUF3bWdCVGtWZWwxR0UzTFc4bVo2Wkw3Z0lPanZKVjJtRDJxT1dmY0JBYXNNUml6MzRwNDRNZEVEYkFTV1NKTW5hX1pLdjl0QlBkNnJQTUN1YUw2NHNvR1g2X0dfTjQ1VVM0Z2c?oc=5",
-   "utc": "2026-11-09T06:36:00Z",
-   "tag": "OIL",
-   "breaking": false
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1BOVNiOG9QbVF1Z0wtbHdUcF9tRFhOcGxLZlpPQXVKX0FjM0k5MmhfRlZTa1Q2d3lDdXlCdW9tdm1yVEViLVM1aFdIY1R3YzBQcWUzUEF0TWZqc2lFWmd1UEFzcU9QTlZKcDVmYVV4UmFsdTVJbm9oZTY3d2otNUVuQmRUeUFUNXprRzByQXNuZWJ5YmlZV0hQRUtPUzhvQm5ieF9lOA?oc=5",
+   "utc": "2026-11-09T18:24:03Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
-   "title": "Ali Yasin: Iran War Forces GCC Firms to Rethink IPOs",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-09/ali-yasin-iran-war-forces-gcc-firms-to-rethink-ipos-video",
-   "utc": "2026-11-09T06:28:07Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Greece recovers 12 dead migrants from boat off of Crete, coast guard says",
+   "title": "Steel plant blast kills 16 in western Turkey",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnhNN1ZhTWV2ZXc0OUVWN211NkdwRnlWcXU4VEhzYnFTWENxb3k2VS1RdHlwR2ttZEhKM2F3MlkxVXNFdmo5SFVTZE8xRTV2NXpVdFdWQlMyUVNxbmtXWGFjczRxbXJERXNBZ3l0WWczZ0xBR29nc0tHSXlsZVBTR1duR3Zhci10Q0g0QlUyLTZleHhta0JnOEJHa0owbDAwZFlNOXZSekxRbnA5alhuRldGWQ?oc=5",
-   "utc": "2026-11-09T06:28:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaklVUVlCdlJqUWJRWHNPMER0X1VWQkhLTkdvU2RhaExRSTFlVHJPVEg2MTBKYzRQN0JtSlQ5VWpyNWxxU0dtQ2NkYURUZ3BYekM3N1VfVkZFTHNkMk5QakVpbi1PckoyeGc1MU9MdnFYc2ZRaE95YVkyOTBrM1VSc1lsdVZub0ZoQXVMdWlObUI3bUFEbFZyQTB3TVRpZjU4MGc?oc=5",
+   "utc": "2026-11-09T18:17:43Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Gunman in Polish Mass Shooting Dies in Hospital, Police Say",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/krakow-mass-shooter-dies-in-the-hospital-polish-police-says",
-   "utc": "2026-11-09T06:22:55Z",
+   "title": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+   "utc": "2026-11-09T18:16:37Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Trump says deportation policy 'might have been too tough'",
+   "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+   "utc": "2026-11-09T18:16:00Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas governor's race",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
+   "utc": "2026-11-09T18:15:41Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+   "utc": "2026-11-09T18:14:47Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+   "utc": "2026-11-09T18:11:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan trading house backs Vietnam tungsten miner that has drawn US investment",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWlQT0xIbU9QM1laMTNfTWJfTk1TWmtTQXM5YmpEWVJTdEJqQnlmRzhLTlFyQlpOT3lGWlZiek5zWE9QTkZpQ1FjS2ZhY25MY1JKZE9mT2RReWxVcWpwN2wwcmhqUmVQUUVvczFfV1N0UUZJVHNicG9uME5sWVRSWEhrS0o3WVhVazMtZVpvaGY3c0tDampiUlNSQ2ZZYUNIc1ltRklIZS1kUEZvS2pR?oc=5",
-   "utc": "2026-11-09T06:19:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGt0bWVIY3Y0S25PVEdDbTJFTDBPZkk0QzlycURMTnllM3IwOGFDNmZWLUpaZFlHVmo2bVpHU2ZFa2NQVDBwb3c5QjZCZHN0akVDVHhiQ2dNbUtjbDhxWUgxaThfVTlhSUlCaEMycUd2NERzaXhBUGpJQ191bjZzR2xXNVJOd0pVa0NxbndwWWtOOFRQNW1ubmFDVkZRR3BOdkpoQjMzVmtTMzlzd0dWRzdGLUpPWHN5ZVdvaA?oc=5",
+   "utc": "2026-11-09T18:10:00Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
+  },
+  {
+   "title": "His, mine or ours? I’m 53 and not sure how to handle merging finances with my long-term partner.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
+   "utc": "2026-11-09T18:08:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+   "utc": "2026-11-09T18:05:14Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "LG-backed Japanese startup eyes mass production of new OLED material",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVRKZW5JQmZSNlJqVVZidGZaU2ptdFd0cGpEaC1hZE5xbjU1YVdWUnoxYW15UGFnR0ZGTHowZU8tRGNaLUQ3UTRCQXB5ZkpuQnB0Mm1wdV8yTmJHMmJZMmxMcDI0UjFONEkwaGhWMlNpZDZubDA3YXYzSXNJYzhhVWJIbWJqNUNXUjhKT2dfTHN4V0hpdUF6NXdTdnYzVFNtejNXQzRlMlMtalg3VTRCbFlDMA?oc=5",
+   "utc": "2026-11-09T18:05:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trump questions midterm election results, revives voting-machine conspiracy",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+   "utc": "2026-11-09T18:02:48Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Australia Watchdog Probes Bathla as Private Credit Flaws Persist",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/australia-watchdog-probes-bathla-as-private-credit-flaws-persist",
+   "utc": "2026-11-09T18:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+   "utc": "2026-11-09T18:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "The AI Power Grab That Could Upend America's Electricity Industry",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/The-AI-Power-Grab-That-Could-Upend-Americas-Electricity-Industry.html",
+   "utc": "2026-11-09T18:00:00Z",
+   "tag": "AI",
+   "breaking": true
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T17:55:20Z",
+ "updated": "2026-11-10T23:27:58Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (42)"
+  "Nikkei Asia": "ok (39)"
  },
  "items": [
   {
-   "title": "Microsoft shares drop after Anthropic unveils tools that could compete with Office",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
-   "utc": "2026-11-10T17:52:40Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-   "utc": "2026-11-10T17:49:39Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-   "utc": "2026-11-10T17:48:47Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Japan to include denial defense in revised security documents",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRktKbFl5c2ptY1R0eTBNMUFEYS1Md085SW1jdU9SSS1abTgyTkpoS0ZRTkpIeVpWSkFUcHlfcG9tTllhT2ZmMXZGRHoxSUdPeVRyZkpwRE5QY2hXXzZTb2k5QnVYUnBZX0QwNW5nNHZva3hfcFhaMHA5c0Jld09QbnVuM09aUmFRSTlfVHMtOTJpLVVrbkQzbWR1MTBVT3A1TkhBLQ?oc=5",
-   "utc": "2026-11-10T17:46:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+   "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-   "utc": "2026-11-10T17:45:00Z",
+   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+   "utc": "2026-11-10T23:25:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "S&P 500 falls after hot CPI ignites inflation concerns: Live updates",
+   "title": "Stock futures rise slightly as market tries to recover from Nvidia-led decline: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-   "utc": "2026-11-10T17:43:53Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Dollar Set for Best Day Since September as CPI Lifts Hike Bets",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/dollar-set-for-best-day-since-september-as-cpi-lifts-hike-bets",
-   "utc": "2026-11-10T17:43:37Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stocks fall as the 10-year Treasury yield reclaims 5%",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-   "utc": "2026-11-10T17:34:00Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-   "utc": "2026-11-10T17:33:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
-   "utc": "2026-11-10T17:32:22Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Trump administration moves to cut food stamps for 6.3 million people",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/trump-administration-moves-to-cut-food-stamps-for-6point3-million-people.html",
-   "utc": "2026-11-10T17:27:51Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "CEO Pay Disclosures Set for ‘Ozempic Diet’ as SEC Eases Rules",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/ceo-pay-disclosures-set-for-ozempic-diet-as-sec-eases-rules",
-   "utc": "2026-11-10T17:24:05Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Boeing jet deliveries drop 14% in October",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/boeing-jet-deliveries-drop-14percent-in-october.html",
-   "utc": "2026-11-10T17:21:53Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Wall Street’s only Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
-   "utc": "2026-11-10T17:19:00Z",
+   "link": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+   "utc": "2026-11-10T23:19:30Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Eyeing China, Japan to push for trade transparency at APEC summit",
+   "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+   "utc": "2026-11-10T23:16:15Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "TSMC, Microsoft executives debate AI's impact on Day 2 of Nikkei Dialogue",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnJuUkRiYXlRbHV3SXc2azhjYjRzX25sSTV3cXN1T2N6QXY4S19qZWxYZVIzeGdiODZESE05U0djUm1CckNiSU5zeDBvSVV0aEhIUG43S0JrcjNVNTMxYktvdHV2SjJoU1BBVlNEeEJxejdvdU9yU2tONzhKWDFud3ZKUGszcXU2VGctVEw1ZnktMjhpa2pOYlRKY2t6QTRqbE9NVWdiVjVTdnN5N3VSMklxa1pCV2dNd0ZGTGlR?oc=5",
-   "utc": "2026-11-10T17:17:00Z",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNekJsR0FLY0FRek5NZnFjeEtIczZvY2ZoWVhtNVlHZjFScmJqVVlMTm9OQUJsMTZIcHdYRjFHTFJXSmFyWnRsdUdTNUVPWlhIRGVjNTlVZFlXWHQwRDhaNEtBQllDQ1AtWDRLUG9uQjV2WXpSUU1CMzdyOHZfbnJyT2xtNXBhOFBlVmxHX0NqSEdheFRRTGZ1d20yLWNJUC1IT3NvM0pLekJJdXhDWGZ0YTh4RWptNU9uQVozWU1uZloxc3I2ZFg5Sl9EamN0OEtyLUVpZVlwNGxTeUl6YnBPU2hhdkw4OE14S0YyLTh6NTBibWlZa2w3WQ?oc=5",
+   "utc": "2026-11-10T23:15:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Hegseth impeachment effort torpedoed in House",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+   "utc": "2026-11-10T23:14:09Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+   "utc": "2026-11-10T23:11:34Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Macquarie to Pay Fine on Marketing Failure as New CEO Arrives",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/macquarie-to-pay-fine-on-marketing-failure-as-new-ceo-arrives",
+   "utc": "2026-11-10T23:02:12Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "At China’s Big Import Fair, Sellers Try to Crack a Tough Market",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/at-china-s-big-import-fair-sellers-try-to-crack-a-tough-market",
+   "utc": "2026-11-10T23:00:00Z",
    "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+   "title": "Midterm Results Could Trip Trump’s Energy Independence Plans",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Midterm-Results-Could-Trip-Trumps-Energy-Independence-Plans.html",
+   "utc": "2026-11-10T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "One reason Children’s Place is going bankrupt? Not enough children.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+   "utc": "2026-11-10T22:56:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "House Nears Test Vote on Hegseth Impeachment",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-10/house-nears-test-vote-on-hegseth-impeachment-video",
+   "utc": "2026-11-10T22:51:03Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "KBank targets current clients for growth",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3352635/kbank-targets-current-clients-for-growth",
+   "utc": "2026-11-10T22:43:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
-   "utc": "2026-11-10T17:16:18Z",
-   "tag": "FED",
+   "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+   "utc": "2026-11-10T22:39:30Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Nvidia heads for $470 billion two-day wipeout as CEO affair fallout deepens",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
-   "utc": "2026-11-10T17:14:39Z",
-   "tag": "AI",
+   "title": "OpenTable CEO on 2027 Dining Trends Report",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-10/opentable-ceo-on-2027-dining-trends-report-video",
+   "utc": "2026-11-10T22:39:23Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-   "source": "CNBC Markets",
-   "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-   "utc": "2026-11-10T17:13:44Z",
-   "tag": "FED",
+   "title": "Anthropic IPO Explained: Nasdaq Listing and Key Risks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-ipo-explained-nasdaq-listing-and-key-risks",
+   "utc": "2026-11-10T22:37:59Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
-   "utc": "2026-11-10T17:07:22Z",
+   "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+   "utc": "2026-11-10T22:37:00Z",
    "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
+   "title": "FTI welcomes pickup trade-in scheme",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/motoring/3352520/fti-welcomes-pickup-tradein-scheme",
+   "utc": "2026-11-10T22:37:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/us-raises-forecasts-for-2027-gasoline-and-diesel-prices",
-   "utc": "2026-11-10T17:07:15Z",
-   "tag": "OIL",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail",
+   "utc": "2026-11-10T22:35:28Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+   "utc": "2026-11-10T22:32:05Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+   "utc": "2026-11-10T22:30:00Z",
+   "tag": "AI",
    "breaking": true
   }
  ]

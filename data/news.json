@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:58:11Z",
+ "updated": "2026-11-10T17:55:20Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (40)"
+  "Nikkei Asia": "ok (42)"
  },
  "items": [
   {
-   "title": "China's goods surplus tops $1 trillion for second year amid calls for Beijing to rebalance trade",
+   "title": "Microsoft shares drop after Anthropic unveils tools that could compete with Office",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-   "utc": "2026-11-10T09:51:54Z",
-   "tag": "CHINA",
+   "link": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+   "utc": "2026-11-10T17:52:40Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+   "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
-   "utc": "2026-11-10T09:48:09Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Fed’s Waller puts half-point rate hike into the mix for December",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
-   "utc": "2026-11-10T09:45:00Z",
+   "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+   "utc": "2026-11-10T17:49:39Z",
    "tag": "FED",
    "breaking": true
   },
   {
-   "title": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
+   "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-   "utc": "2026-11-10T09:37:38Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Can China Upend Commercial Aviation? Emirates Says Be Prepared",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/can-china-upend-commercial-aviation-emirates-says-be-prepared",
-   "utc": "2026-11-10T09:35:44Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
-   "utc": "2026-11-10T09:34:24Z",
+   "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+   "utc": "2026-11-10T17:48:47Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Gas-Posts-Stunning-Profit-Recovery-as-Energy-Exports-Rebound.html",
-   "utc": "2026-11-10T09:30:00Z",
+   "title": "Japan to include denial defense in revised security documents",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRktKbFl5c2ptY1R0eTBNMUFEYS1Md085SW1jdU9SSS1abTgyTkpoS0ZRTkpIeVpWSkFUcHlfcG9tTllhT2ZmMXZGRHoxSUdPeVRyZkpwRE5QY2hXXzZTb2k5QnVYUnBZX0QwNW5nNHZva3hfcFhaMHA5c0Jld09QbnVuM09aUmFRSTlfVHMtOTJpLVVrbkQzbWR1MTBVT3A1TkhBLQ?oc=5",
+   "utc": "2026-11-10T17:46:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Nvidia stock edges higher as pressure mounts following alleged China spy links",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
-   "utc": "2026-11-10T09:29:20Z",
-   "tag": "AI",
+   "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+   "utc": "2026-11-10T17:45:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
-   "utc": "2026-11-10T09:14:30Z",
+   "title": "S&P 500 falls after hot CPI ignites inflation concerns: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+   "utc": "2026-11-10T17:43:53Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Explore global perspectives on sustainability at SX GLOBAL FORUM!",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3352231/explore-global-perspectives-on-sustainability-at-sx-global-forum",
-   "utc": "2026-11-10T09:03:00Z",
+   "title": "Dollar Set for Best Day Since September as CPI Lifts Hike Bets",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/dollar-set-for-best-day-since-september-as-cpi-lifts-hike-bets",
+   "utc": "2026-11-10T17:43:37Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline",
+   "title": "Stocks fall as the 10-year Treasury yield reclaims 5%",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+   "utc": "2026-11-10T17:34:00Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+   "utc": "2026-11-10T17:33:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+   "utc": "2026-11-10T17:32:22Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Trump administration moves to cut food stamps for 6.3 million people",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
-   "utc": "2026-11-10T09:01:37Z",
+   "link": "https://www.cnbc.com/2026/11/10/trump-administration-moves-to-cut-food-stamps-for-6point3-million-people.html",
+   "utc": "2026-11-10T17:27:51Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "CEO Pay Disclosures Set for ‘Ozempic Diet’ as SEC Eases Rules",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/ceo-pay-disclosures-set-for-ozempic-diet-as-sec-eases-rules",
+   "utc": "2026-11-10T17:24:05Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Boeing jet deliveries drop 14% in October",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/boeing-jet-deliveries-drop-14percent-in-october.html",
+   "utc": "2026-11-10T17:21:53Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Wall Street’s only Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
+   "utc": "2026-11-10T17:19:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Eyeing China, Japan to push for trade transparency at APEC summit",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnJuUkRiYXlRbHV3SXc2azhjYjRzX25sSTV3cXN1T2N6QXY4S19qZWxYZVIzeGdiODZESE05U0djUm1CckNiSU5zeDBvSVV0aEhIUG43S0JrcjNVNTMxYktvdHV2SjJoU1BBVlNEeEJxejdvdU9yU2tONzhKWDFud3ZKUGszcXU2VGctVEw1ZnktMjhpa2pOYlRKY2t6QTRqbE9NVWdiVjVTdnN5N3VSMklxa1pCV2dNd0ZGTGlR?oc=5",
+   "utc": "2026-11-10T17:17:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
+   "utc": "2026-11-10T17:16:18Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia heads for $470 billion two-day wipeout as CEO affair fallout deepens",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+   "utc": "2026-11-10T17:14:39Z",
    "tag": "AI",
    "breaking": true
   },
   {
    "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-   "source": "CNBC",
+   "source": "CNBC Markets",
    "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-   "utc": "2026-11-10T09:00:01Z",
+   "utc": "2026-11-10T17:13:44Z",
    "tag": "FED",
    "breaking": true
   },
   {
-   "title": "Fed’s Waller Backs December Rate Hike, Says Open to Larger Move",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
-   "utc": "2026-11-10T09:00:00Z",
-   "tag": "FED",
+   "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+   "utc": "2026-11-10T17:07:22Z",
+   "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "Lane Says ECB Shouldn't Deploy Tools to Ease France Woes",
+   "title": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-10/lane-says-ecb-shouldn-t-deploy-tools-to-ease-france-woes-video",
-   "utc": "2026-11-10T08:45:20Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "US Gasoline Prices Drop Below $4 a Gallon After Months of Pain",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/us-gasoline-prices-drop-below-4-a-gallon-after-months-of-pain",
-   "utc": "2026-11-10T08:39:50Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/us-raises-forecasts-for-2027-gasoline-and-diesel-prices",
+   "utc": "2026-11-10T17:07:15Z",
    "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Great for Investors, Tough for Traders: Market Analysis",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-10/great-for-investors-tough-for-traders-3-minutes-mliv-video",
-   "utc": "2026-11-10T08:36:02Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Italy’s Open Fiber Said to Start Planning €8 Billion Refinancing",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/italy-s-open-fiber-said-to-start-planning-8-billion-refinancing",
-   "utc": "2026-11-10T08:32:41Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "UK’s Top Rolex Retailer Improves Outlook After US Sales Jump",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/uk-s-top-rolex-retailer-improves-outlook-after-us-sales-jump",
-   "utc": "2026-11-10T08:25:44Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "SoftBank Group shares surge 14% as Asian tech stocks track Wall Street rebound",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-   "utc": "2026-11-10T08:06:29Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "US midterms expose costs of East Asia's Trump diplomacy",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUG9tZk5nLWZ6b3lYeUM1V0lJaXczQXkxX2MwSlJkdlliajBlemNkVHhveW43OFpwVXcyMzQyWnQ2UFNjY3FISWVQSFF6eW5KUW9YdkNZa3QwQXZOaHNkakpBNVNsenplYmJVX0VPbFBQblU0bkJEclpCNkVuTHB6S3M4TDlNNmFFQU53VXFpSFg?oc=5",
-   "utc": "2026-11-10T08:05:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   }
  ]
 }

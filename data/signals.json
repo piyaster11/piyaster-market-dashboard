@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T18:53:08Z",
- "level": 38,
+ "updated": "2026-11-10T00:01:12Z",
+ "level": 39,
  "band": "Watch",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   30,
+   27,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
+   2,
    1,
-   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "[9119.T FY2026 Q2 Earnings Call] Iino Kaiun Kaisha Raises Full-Year Profit Forecast and Lifts Annual Dividend to ¥60; ¥1.6 Billion Chemical Tanker Profit Decline Offset by Other Businesses",
+   "source": "finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50MWJHWGJxRmxadzZfd2MtajlYX3lzTXFEXzZKQUtiUDJnc3BNSjJqVFNxU3pTaGpHZURDNGVoV25xTkp6dUZFUWROS0dtNzIyTmt5LTVkamVGQmpXellzVw?oc=5",
+   "utc": "2026-11-09T23:24:00Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
    "title": "West Asia Conflict: 19 Indian seafarers evacuated from Yemen; Embassy confirms safe return amid soaring Houthis attack",
    "source": "Organiser",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZndQSk0tWmF1VEFFVXZTVnB2YTBmSlpkVHlWSV95a0RKeVZJblMzdUFwdE9pOFNUa2stTEZnRTktc0hKZkVFUE5yTFl0T2lQTUxRdldubHR4Vm03MzdhSmVMaVQwY1V3OWhnSUhXUzVvRkZCSGxHWWtULWdIUFozci1WajJkUzBrZml4TUpLSEhkdTJrQV9OZVlMblBmUXN4OE5rMnZUc0F1RW1tUVJBejd1am9DRVdRanNPbFhSX2VhUDlmUzRwSFRzNDJGWnpTdGlaWUdYdVctVDdab3MydFBLYkY2WVNjRkE3cHQ4STltNEdscEHSAfsBQVVfeXFMTzdlWVpQSHMtRG9zal9KNDV1OXhVeE4tX2cxNGNkdVBBektid016bkRDZ1IyRlFhQlJaUE9yWEFjbklMTzVvX3ZzclNNUjNzR2pvQl83dldtMWx1QW1SZVNENkFFdFFlTVd1b3hyMER0RGVjMDFFd3FocTMyTVVvMmhIekphM3JVNlpKd1YyRnhvR2lkNTJsNFFzcms4Wk01VU1tNEQ4OWp5NW45RTIwdGVRYnJBVi0zLS1ER25fMXgxeXBBQWtoZzF0Mjk4UFlOVzZTcWVuYlRCU0x0N2JWdjZzUHg4RnNZLTJ4WldGaTRqYnNhdXducEotMFE?oc=5",
@@ -97,7 +108,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -108,7 +119,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -119,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -130,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -141,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 8.4,
+   "score": 8.2,
    "airspace": false
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -185,25 +196,14 @@
    "tags": [
     "NUKE"
    ],
-   "score": 7.5,
-   "airspace": false
-  },
-  {
-   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
-   "utc": "2026-11-08T04:13:50Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 7.4,
+   "score": 7.2,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 355,
-  "baseline": 1.7,
+  "count": 2,
+  "global": 243,
+  "baseline": 1.8,
   "samples": 31,
   "hist": [
    [
@@ -597,6 +597,10 @@
    [
     "2026-11-09T18:53:08Z",
     1
+   ],
+   [
+    "2026-11-10T00:01:12Z",
+    2
    ]
   ],
   "box": [

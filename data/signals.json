@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T02:12:43Z",
- "level": 38,
+ "updated": "2026-11-10T09:58:42Z",
+ "level": 45,
  "band": "Watch",
  "components": [
   [
@@ -19,15 +19,15 @@
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   1,
-   3,
+   0,
+   0,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
-   0,
+   4,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,14 +90,36 @@
  ],
  "headlines": [
   {
-   "title": "[9119.T FY2026 Q2 Earnings Call] Iino Kaiun Kaisha Raises Full-Year Profit Forecast and Lifts Annual Dividend to ¥60; ¥1.6 Billion Chemical Tanker Profit Decline Offset by Other Businesses",
-   "source": "finance.biggo.com",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50MWJHWGJxRmxadzZfd2MtajlYX3lzTXFEXzZKQUtiUDJnc3BNSjJqVFNxU3pTaGpHZURDNGVoV25xTkp6dUZFUWROS0dtNzIyTmt5LTVkamVGQmpXellzVw?oc=5",
-   "utc": "2026-11-09T23:24:00Z",
+   "title": "Why unrest in the Strait of Hormuz is leading to rising oil and gasoline prices",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYV9hZVVCdEgxZVc0S1QzNGtXQmYxN25zTGp2eWFPQU5JNHFMZ3dDTENuYkQwRE1EUm9VRnVPTi1QN2hyU240YnZyeHd6allSczV2WUpIdlAzTHBTNkg3aDJmejc0Z2wycGZYRkZ2aEIxYnY1VlYtdTFxTExRNTBrTWtRWEtMWUo4VkxDRjVJUVBVWVNhektsaHpqcnZvTjJkSndLR1lR0gGrAUFVX3lxTE9aZDdiY0E0V1NsYjdYQlZaY3ZQdjR0QVA5QVoxa0tNTTlvMEE2QTJFRTU3X2lwVklxSXdJUGxEVl9iaU9VLW1PdW4xa0FoeHEwbXFVelVJcTBiU0lRd3N3NG82Y01PRFNmb1MtbDk3REdQOFhUSnFCZ1RqRDc0cEtpX0kzbmtiWTFUeDRjaTNDRzd5TWdQWGJIUXJLZnByTlJHYUg4YlRuUnUzUQ?oc=5",
+   "utc": "2026-11-10T08:25:14Z",
    "tags": [
     "HORMUZ"
    ],
    "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Strait of Hormuz Disruption Chokes Trade and Aid Routes to Afghanistan",
+   "source": "thekabultribune.com",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02Wmc0b2N0ejJBdFp0VnhtbUo4ak5BY0FVQXROd0FMa0dlcnVkNVNHWmJlakhnZXFlZ3Vrc2RXWTItQjI4cUQ4NjRiRWpsYXlzTHR1Vg?oc=5",
+   "utc": "2026-11-10T05:01:14Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDZGV213b2dwYWhTaHVHT2x3d1RjbkJ0dTMwdWFiUTlJbnRueS01SXlfaXJUVnV1RGUzUU9JZXpUOFItSUJWTWFVSFJ6MDN4VXRFRW9GazhKRDFUR0lzRS03dDN0Z2o3ZXFhc2hTTUtPSWdFX2pIa2tmdFVmNC1UMXlDTWtvZWtPbXZTaTIxTVc5aDJ1RzNDLVVZcXlCdFg1YjFzYXRtTzFfSXR5U3AtdEVTLUdsalNNbDJBZjI0dklYY19vLW5FOUtRODdxMVFUcU9XeW1TUnAydEZEQmdkUmcwWkF5a2wtSnc?oc=5",
+   "utc": "2026-11-09T17:04:00Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -108,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -119,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -130,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -141,18 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
-   "airspace": false
-  },
-  {
-   "title": "19 Indian seafarers stranded in Yemen evacuated, embassy says",
-   "source": "ET Government",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM05JNG9WRzlHTVhjVEprbWdGZDFYeS1mazhESTFzVkpTVlhrT3NNaFBZREM0OGJQd3ZERU0tTEczVEFON3NCVGstcWh1OHZMRHcta3ZHSDlqS0pEd0dqa0U1ZFJsMm9mRXFMSlBXbDdvazVacG50SmFyY3FSb1JzS0hCUTFERjlCNm9ydmNNSGJSMWhObDlBUUtYVHYzMFdjRTJfUjltVWUwZFVoLV9Jb19TUlQ5ZHVlMTEzaURKeWFiN0lSUGx1TlhVT1dSemp0M3g40gHTAUFVX3lxTE8zTkk0b1ZHOUdNWGNUSmttZ0ZkMVh5LWZrOERJMXNWSlNWWGtPc01oUFlEQzQ4YlB3dkRFTS1MRzNUQU43c0JUay1xaHU4dkxEdy1rdkdIOWpLSkR3R2prRTVkUmwyb2ZFcUxKUFdsN29rNVpwbnRKYXJjcVJvUnNLSEJRMURGOUI2b3J2Y01IYlIxaE5sOUFRS1hUdjMwV2NFMl9SOW1VZTBkVWgtX0lvX1NSVDlkdWUxMTNpREp5YWI3SVJQbHVOWFVPV1J6anQzeDg?oc=5",
-   "utc": "2026-11-09T04:53:01Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 8.1,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.0,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -174,36 +185,25 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.0,
+   "score": 4.7,
    "airspace": false
   },
   {
-   "title": "19 Indian Seafarers Stranded in Yemen Safely Evacuated",
-   "source": "Deccan Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFJtcWRvLTYzMl9SNVd0dkRFSUdtZkFzbWJub1pKak9FSEdEU3ZISE01UTlxMzVLTjhvMHZiUkR2T3VPQTVWZE9PS2pVZWtFcjQwOUUwd3N6Y3ZneG5QNll6QUlRamtQWVFwZlVJbWRCelhVV1J0ekl1aWhVUVVjNWhGR2xZd3g0SVBkZ0RoV21RVXhNSVNoVDc5UEdGMGNQazhoaU92eHZHbUXSAbABQVVfeXFMTXhBek94UFpCTDJxVDA1T2hSZ3JQVUJRMHVkdnNaaEhwa2FRMmVKVnFmelEwUDdCaG8zNXpTX01BdW92OFNPYVRUU2l4aE8xbkFLdmNmZmVmV3BfSGk4a3JCbXNhRUFvZ1NBam5VZi1zcWptaUpBbm5xbXdmQmlneS1WMThXRzJVaW45ZjlaQ0dLcXlzdlp1ZmNQU1h0UkdhSmIzTFM0UTNTX3N4Q2d0WHo?oc=5",
-   "utc": "2026-11-09T00:38:37Z",
+   "title": "19 Indian seafarers stranded in Yemen evacuated, Embassy says",
+   "source": "The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcE9mVFhIMjhzZVdubHV4Smh6VWFLX2c4emtGcURxX1pqRFFVNEU0WnhRU3ZLbG02WEN0MHdlV0JqeHZMZXhNU29zUjdpSl9OOEJXazF1VEowVEt2aFh5b093bnlzUDdsUVhUeGU3dllqaF8zNm1naTJ5bUloU3V1WnV1REtIS0NrdHJGSmp1N2YxUDlTWEZ6UGViNTF1QWxMR3B3WFd30gGsAUFVX3lxTE9UZmUyaFRPbmRtN0tVTFA5dzc1OE0yZ0dqXzFVUXFJdXp6LWZhbXF0S04xMU9KbmV4NVAyVXpCeUpSMGFPai1jVVVSNmVhNXl5WXpLYjJ1WjVPRG1RTmZES0E5MVIzR05SOHM0a1pfemRxdFRKWGhOS3dRUzhya2oxM2w4SW9URTNhdjUwS0pYTHcyWW85THgxbWFTZE1QV1pKY0xXRWFOR3phdHA?oc=5",
+   "utc": "2026-11-08T19:13:37Z",
    "tags": [
     "EVAC"
    ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
-   "source": "The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDZGV213b2dwYWhTaHVHT2x3d1RjbkJ0dTMwdWFiUTlJbnRueS01SXlfaXJUVnV1RGUzUU9JZXpUOFItSUJWTWFVSFJ6MDN4VXRFRW9GazhKRDFUR0lzRS03dDN0Z2o3ZXFhc2hTTUtPSWdFX2pIa2tmdFVmNC1UMXlDTWtvZWtPbXZTaTIxTVc5aDJ1RzNDLVVZcXlCdFg1YjFzYXRtTzFfSXR5U3AtdEVTLUdsalNNbDJBZjI0dklYY19vLW5FOUtRODdxMVFUcU9XeW1TUnAydEZEQmdkUmcwWkF5a2wtSnc?oc=5",
-   "utc": "2026-11-08T06:00:00Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 7.2,
+   "score": 7.4,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 229,
-  "baseline": 1.8,
+  "count": 4,
+  "global": 204,
+  "baseline": 1.6,
   "samples": 31,
   "hist": [
    [
@@ -605,6 +605,10 @@
    [
     "2026-11-10T02:12:43Z",
     0
+   ],
+   [
+    "2026-11-10T09:58:42Z",
+    4
    ]
   ],
   "box": [

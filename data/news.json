@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T02:12:29Z",
+ "updated": "2026-11-10T09:58:11Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (30)"
+  "Nikkei Asia": "ok (40)"
  },
  "items": [
   {
-   "title": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/kioxia-leveraged-product-debuts-in-hk-after-one-year-hiatus",
-   "utc": "2026-11-10T01:59:09Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "India's electronics firms face PCB squeeze as AI demand drives up costs",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVJWS0JPdkNQNGZlV1h1cGRzU2VYalpfV05lYTNpU0lBdVpBZ3lzOUl0RzNKWGRwZTJiYWZJTVBXa3p5NmRlWktVeDFSWUtiVkVmbW1tV29wYmdrS3J6MTE2YnFISk9DWTVMeWUxa2IyX2xHSXNOMENGVHR5QWFxck5BSmJmaU1aQUFKUEJJeWpoTUNDaG8xMWpQMVhyRk5XMVFHMDlkMUk0WXVfWHlla2llV3lBWms?oc=5",
-   "utc": "2026-11-10T01:56:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+   "title": "China's goods surplus tops $1 trillion for second year amid calls for Beijing to rebalance trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-   "utc": "2026-11-10T01:50:57Z",
-   "tag": "STOCKS",
+   "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+   "utc": "2026-11-10T09:51:54Z",
+   "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+   "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
-   "utc": "2026-11-10T01:43:47Z",
+   "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+   "utc": "2026-11-10T09:48:09Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "EXCLUSIVE: Anthropic aims to raise up to $69.3 billion in blockbuster IPO",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5",
-   "utc": "2026-11-10T01:22:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Singapore’s Interbank Rate Climbs to Highest in More Than a Year",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-interbank-rate-climbs-to-highest-in-more-than-a-year",
-   "utc": "2026-11-10T01:21:22Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/berkshire-tests-wider-yen-spreads-in-latest-japan-bond-deal",
-   "utc": "2026-11-10T01:16:38Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Indonesia Markets Second Panda Bond Offering Despite MSCI Threat",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/indonesia-markets-second-panda-bond-offering-despite-msci-threat",
-   "utc": "2026-11-10T01:02:37Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Survey finds Thais keen on AI use",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3351879/survey-finds-thais-keen-on-ai-use",
-   "utc": "2026-11-10T01:02:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "U.S. Traders Weigh the Cost of Taking Trump’s Russian Diesel",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/US-Traders-Weigh-the-Cost-of-Taking-Trumps-Russian-Diesel.html",
-   "utc": "2026-11-10T01:00:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+   "title": "Fed’s Waller puts half-point rate hike into the mix for December",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
-   "utc": "2026-11-10T00:48:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/inflation-data-to-test-limits-of-treasury-rally-after-haven-bid",
-   "utc": "2026-11-10T00:46:46Z",
+   "link": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
+   "utc": "2026-11-10T09:45:00Z",
    "tag": "FED",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Japan September household spending slumps during rainy day streak",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjh5b0ZDLWZLb2hPajIxaWV5N2J5cGxwLUpqbVFpcmZlXzF3SS1hWXlnUU9meXBHcTBRZTNVbkVLNHNPLWlLbFNzekFzSXhIclJUNEI4eTJUQ3RwbHpLZHhsdm9XUjZ3VzlYbWVVUTgyZVhqSUhVYkFQSGZ6WTBCU252bGd1LThldkxnSUxRWHh4R1VIdVkyTThXeDFZQQ?oc=5",
-   "utc": "2026-11-10T00:40:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Dollar sellers hit pause for US inflation data",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3JzaUt6cC05eXdxeTNvcFBPX2JGZmFka29UbGZvQzQyTFVTc2dUM3dyX0FUVkk5SngyWGs1SW80ckQ1Qk5Pb0laLU11MDM1MUtsOEptTmJiSERHdEdsR2tVanR1em5scXpGb1NuQzg2NmU3V0tXWm82aWlkeXpDQmZaMkQzQnl0eHc3WkFMZGNWdlZwblp0V0drdG9xQQ?oc=5",
-   "utc": "2026-11-10T00:38:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
+   "title": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-   "utc": "2026-11-10T00:12:51Z",
+   "utc": "2026-11-10T09:37:38Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Can China Upend Commercial Aviation? Emirates Says Be Prepared",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/can-china-upend-commercial-aviation-emirates-says-be-prepared",
+   "utc": "2026-11-10T09:35:44Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+   "utc": "2026-11-10T09:34:24Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Gas-Posts-Stunning-Profit-Recovery-as-Energy-Exports-Rebound.html",
+   "utc": "2026-11-10T09:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia stock edges higher as pressure mounts following alleged China spy links",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+   "utc": "2026-11-10T09:29:20Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+   "utc": "2026-11-10T09:14:30Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Explore global perspectives on sustainability at SX GLOBAL FORUM!",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3352231/explore-global-perspectives-on-sustainability-at-sx-global-forum",
+   "utc": "2026-11-10T09:03:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+   "utc": "2026-11-10T09:01:37Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+   "utc": "2026-11-10T09:00:01Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Fed’s Waller Backs December Rate Hike, Says Open to Larger Move",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
+   "utc": "2026-11-10T09:00:00Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Lane Says ECB Shouldn't Deploy Tools to Ease France Woes",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-10/lane-says-ecb-shouldn-t-deploy-tools-to-ease-france-woes-video",
+   "utc": "2026-11-10T08:45:20Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "US Gasoline Prices Drop Below $4 a Gallon After Months of Pain",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/us-gasoline-prices-drop-below-4-a-gallon-after-months-of-pain",
+   "utc": "2026-11-10T08:39:50Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Great for Investors, Tough for Traders: Market Analysis",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-10/great-for-investors-tough-for-traders-3-minutes-mliv-video",
+   "utc": "2026-11-10T08:36:02Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Italy’s Open Fiber Said to Start Planning €8 Billion Refinancing",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/italy-s-open-fiber-said-to-start-planning-8-billion-refinancing",
+   "utc": "2026-11-10T08:32:41Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "UK’s Top Rolex Retailer Improves Outlook After US Sales Jump",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/uk-s-top-rolex-retailer-improves-outlook-after-us-sales-jump",
+   "utc": "2026-11-10T08:25:44Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "SoftBank Group shares surge 14% as Asian tech stocks track Wall Street rebound",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+   "utc": "2026-11-10T08:06:29Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "South Korean Stocks Jump as Chipmakers Roar Back on Dip Buying",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/south-korean-stocks-jump-as-chipmakers-roar-back-on-dip-buying",
-   "utc": "2026-11-10T00:09:22Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
-   "utc": "2026-11-10T00:04:12Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Central Pattana revenue rises 2% in Q3",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3351839/central-pattana-revenue-rises-2-in-q3",
-   "utc": "2026-11-10T00:03:00Z",
+   "title": "US midterms expose costs of East Asia's Trump diplomacy",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUG9tZk5nLWZ6b3lYeUM1V0lJaXczQXkxX2MwSlJkdlliajBlemNkVHhveW43OFpwVXcyMzQyWnQ2UFNjY3FISWVQSFF6eW5KUW9YdkNZa3QwQXZOaHNkakpBNVNsenplYmJVX0VPbFBQblU0bkJEclpCNkVuTHB6S3M4TDlNNmFFQU53VXFpSFg?oc=5",
+   "utc": "2026-11-10T08:05:00Z",
    "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "ExxonMobil Signs Deal in Step Toward Re-Entering Venezuela",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/exxonmobil-signs-deal-in-step-toward-re-entering-venezuela",
-   "utc": "2026-11-10T00:01:34Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Baltic Exchange's Oil Benchmark TD3C Described as `Complete Nonsense'",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-10/baltic-exchange-s-oil-benchmark-td3c-described-as-complete-nonsense",
-   "utc": "2026-11-10T00:01:02Z",
-   "tag": "OIL",
    "breaking": false
   }
  ]

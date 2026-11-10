@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:00:49Z",
+ "updated": "2026-11-10T02:12:29Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (29)"
+  "Nikkei Asia": "ok (30)"
  },
  "items": [
   {
-   "title": "China to Spend $940B on Energy Transition in 2026",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/China-to-Spend-940B-on-Energy-Transition-in-2026.html",
-   "utc": "2026-11-10T00:00:00Z",
-   "tag": "CHINA",
+   "title": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/kioxia-leveraged-product-debuts-in-hk-after-one-year-hiatus",
+   "utc": "2026-11-10T01:59:09Z",
+   "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "India's electronics firms face PCB squeeze as AI demand drives up costs",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVJWS0JPdkNQNGZlV1h1cGRzU2VYalpfV05lYTNpU0lBdVpBZ3lzOUl0RzNKWGRwZTJiYWZJTVBXa3p5NmRlWktVeDFSWUtiVkVmbW1tV29wYmdrS3J6MTE2YnFISk9DWTVMeWUxa2IyX2xHSXNOMENGVHR5QWFxck5BSmJmaU1aQUFKUEJJeWpoTUNDaG8xMWpQMVhyRk5XMVFHMDlkMUk0WXVfWHlla2llV3lBWms?oc=5",
+   "utc": "2026-11-10T01:56:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+   "utc": "2026-11-10T01:50:57Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+   "utc": "2026-11-10T01:43:47Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "EXCLUSIVE: Anthropic aims to raise up to $69.3 billion in blockbuster IPO",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5",
+   "utc": "2026-11-10T01:22:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Singapore’s Interbank Rate Climbs to Highest in More Than a Year",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-interbank-rate-climbs-to-highest-in-more-than-a-year",
+   "utc": "2026-11-10T01:21:22Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/berkshire-tests-wider-yen-spreads-in-latest-japan-bond-deal",
+   "utc": "2026-11-10T01:16:38Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Indonesia Markets Second Panda Bond Offering Despite MSCI Threat",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/indonesia-markets-second-panda-bond-offering-despite-msci-threat",
+   "utc": "2026-11-10T01:02:37Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Survey finds Thais keen on AI use",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3351879/survey-finds-thais-keen-on-ai-use",
+   "utc": "2026-11-10T01:02:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "U.S. Traders Weigh the Cost of Taking Trump’s Russian Diesel",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Crude-Oil/US-Traders-Weigh-the-Cost-of-Taking-Trumps-Russian-Diesel.html",
+   "utc": "2026-11-10T01:00:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+   "utc": "2026-11-10T00:48:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/inflation-data-to-test-limits-of-treasury-rally-after-haven-bid",
+   "utc": "2026-11-10T00:46:46Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "Japan September household spending slumps during rainy day streak",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObjh5b0ZDLWZLb2hPajIxaWV5N2J5cGxwLUpqbVFpcmZlXzF3SS1hWXlnUU9meXBHcTBRZTNVbkVLNHNPLWlLbFNzekFzSXhIclJUNEI4eTJUQ3RwbHpLZHhsdm9XUjZ3VzlYbWVVUTgyZVhqSUhVYkFQSGZ6WTBCU252bGd1LThldkxnSUxRWHh4R1VIdVkyTThXeDFZQQ?oc=5",
+   "utc": "2026-11-10T00:40:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Dollar sellers hit pause for US inflation data",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3JzaUt6cC05eXdxeTNvcFBPX2JGZmFka29UbGZvQzQyTFVTc2dUM3dyX0FUVkk5SngyWGs1SW80ckQ1Qk5Pb0laLU11MDM1MUtsOEptTmJiSERHdEdsR2tVanR1em5scXpGb1NuQzg2NmU3V0tXWm82aWlkeXpDQmZaMkQzQnl0eHc3WkFMZGNWdlZwblp0V0drdG9xQQ?oc=5",
+   "utc": "2026-11-10T00:38:00Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-   "utc": "2026-11-09T23:55:42Z",
+   "utc": "2026-11-10T00:12:51Z",
    "tag": "STOCKS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
-   "utc": "2026-11-09T23:54:21Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-   "utc": "2026-11-09T23:52:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japan Household Outlays Fall Most Since Pandemic",
+   "title": "South Korean Stocks Jump as Chipmakers Roar Back on Dip Buying",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/japan-household-outlays-fall-for-10th-month-as-inflation-lingers",
-   "utc": "2026-11-09T23:34:15Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves after hours: Trade Desk, Sanmina, Securitize & more — Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/09/stock-market-movers-live-updates.html",
-   "utc": "2026-11-09T23:33:51Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-   "utc": "2026-11-09T23:31:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Australia’s Consumer Confidence Slumps on Cost-of-Living Fears",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/australia-s-consumer-confidence-slumps-on-cost-of-living-fears",
-   "utc": "2026-11-09T23:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nikkei's Global Management Dialogue to explore AI's new paths to growth",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSlQ0YTVEWDZDUkZKbm1Mbi1VYndOQkdHOEFFMDh1aktMSUNSdG5PMTNUellMd3dMcG5qTUxXQVc1VGlWM3BlOVFUd09sMko5cWIwUTFCVnV3ZXloUlE4S1Z3XzdiNzlqczcwMjJTYUUxdkYxT0NWZDlGZG8xRGthYjJwQnFsY1lkeWlhSzA0dDBYd0JJOW9td3NWYmYxcS1JdER1c19UZFUyaG1qYlotenFnSWZnRlRwTDRjb1ZQSU5DQ1k1STg0a3lTeHRrajJzR29EUHdnVDdaQ1kyYXMwMTNxd0diaGxWOFVFcDJzMS1ITUNpZVVN?oc=5",
-   "utc": "2026-11-09T23:30:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/south-korean-stocks-jump-as-chipmakers-roar-back-on-dip-buying",
+   "utc": "2026-11-10T00:09:22Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Trump says FBI probing Nvidia CEO Huang as China controversy deepens",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUVlREFfdFVvdmk1OXFEamNOcFVZTGJFX1gxZkhjYjhXNTFnZkJqUmpLLTliVmRCZUNtRGdHSDZ2cVBvRXlLdldZSG1rVmFfMFk5M1dKNnBnVnNnUzZ1NmVSNkRWakkyNktBZmhGbzJwYkh5YTZBekVPY3pyUU9lTXY1WGt4TkhLcHVPTldJb1k3MGVPdzBLcTIyVzNuRUpyRGt5cDJpMV91QzdjcWFtQy1MekMwU3lkRlNXUFNn?oc=5",
-   "utc": "2026-11-09T23:18:43Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5",
-   "utc": "2026-11-09T23:15:43Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
-   "utc": "2026-11-09T23:14:38Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Colombian Inflation Accelerates Less Than Forecast to 6.30%",
+   "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/colombian-inflation-accelerates-less-than-forecast-to-6-30",
-   "utc": "2026-11-09T23:11:49Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3pwXzVncjFkZFl3THF5NjBkQmFOMmpMc3RvR2ZmNmw4WnRtTHBhNkQzWlR0eE1yWW84ZnI5ZzlWSWlBRU41RkZUR2hJakpsS29VVHdhS3ZGR2NYdmg0UEtXblA3ajN1dFY2ZEJ1eGQtTG9kRDU4Sl9lcFhIMGpfUFNWYWNSUFJ0UE1SemM0ODhZRF9UUUVQZF9rdjZEMEFKQmh0MEZXdHFMRlhtSlBV?oc=5",
-   "utc": "2026-11-09T23:10:14Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "New platform rules put out to consultation",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3351889/new-platform-rules-put-out-to-consultation",
-   "utc": "2026-11-09T23:10:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-   "utc": "2026-11-09T23:05:53Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Latest Oil Market News and Analysis for Nov. 10",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
-   "utc": "2026-11-09T23:01:44Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
+   "utc": "2026-11-10T00:04:12Z",
    "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
-   "utc": "2026-11-09T23:00:02Z",
-   "tag": "CHINA",
    "breaking": false
   },
   {
-   "title": "Faltering Philippine Growth Spurs Calls for State Action, Pause in Rate Hikes",
+   "title": "Central Pattana revenue rises 2% in Q3",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3351839/central-pattana-revenue-rises-2-in-q3",
+   "utc": "2026-11-10T00:03:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "ExxonMobil Signs Deal in Step Toward Re-Entering Venezuela",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/faltering-philippine-growth-spurs-calls-for-state-action-pause-in-rate-hikes",
-   "utc": "2026-11-09T23:00:00Z",
-   "tag": "FED",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/exxonmobil-signs-deal-in-step-toward-re-entering-venezuela",
+   "utc": "2026-11-10T00:01:34Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Scientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Scientists-Develop-Cheap-Filter-That-Could-Slash-Oil-Refining-Energy-Use-by-32.html",
-   "utc": "2026-11-09T23:00:00Z",
+   "title": "Baltic Exchange's Oil Benchmark TD3C Described as `Complete Nonsense'",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/baltic-exchange-s-oil-benchmark-td3c-described-as-complete-nonsense",
+   "utc": "2026-11-10T00:01:02Z",
    "tag": "OIL",
    "breaking": false
   }

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T00:03:16Z",
- "level": 41,
+ "updated": "2026-11-11T06:37:46Z",
+ "level": 40,
  "band": "Watch",
  "components": [
   [
@@ -12,8 +12,8 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   27,
-   35,
+   23,
+   34,
    35,
    "1.5 pts per headline"
   ],
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,6 +90,39 @@
  ],
  "headlines": [
   {
+   "title": "Four crew members injured as projectile strikes oil tanker in Persian Gulf",
+   "source": "Daijiworld",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90VVhJN1c1V25KclA3T0kxWXZMQjRqNFRYbm02RTk5eF9vUzRZa0VzaTFLS3o3SDRMT2ZtZHFLVnd3Rk9fakZBRHNXNGJERzR6TUtSVGZtUUhObzAyYmotQ19SN2RPYlFPTFE?oc=5",
+   "utc": "2026-11-11T06:30:00Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 6.0,
+   "airspace": false
+  },
+  {
+   "title": "DP World shifts 1m teu through alternative corridors amid Hormuz closure",
+   "source": "Seatrade Maritime News",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNldZSS00MHBXMUN4eWV5RllnbHJVSVEwRVJSUDk4NnVoS3NHNmVpMG1ZaHVYN1VHWGV3ZU9PUURfSXRkRkZDR0xIa0MtdGV5R3lrUTNYS0JMVU9wXzFfck5NaGZlLVBmNHpEemp1V1dQSmRybzZRY05iMnFCd3d1RVZvUzFSZVNUMnFLZTc1bmFiREpja2stb0hTQTJaSHp2QUFhelVqcWlISUxLSHhCQUZPbko0YVpVQmYzZjdaZw?oc=5",
+   "utc": "2026-11-11T00:45:45Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-10T23:00:37Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
    "title": "QT Imaging (QTI) Faces Delivery Challenges Amid Strait of Hormuz Closure",
    "source": "GuruFocus",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPamJ4RlNtc21BUzNYUGlTeU5KbDAyakRMZWw4djN3NURJMTBITmVYb01iQkx4bXFmN29VTG80RGZYemZGdmtpcjFwbjNkdVFTdWxBUnNocXVlRGNZMHNPVXVyUVJDNFVidGJsTGF6VmJGSTJXYkRMNkhVXzdPQmpOOVlkd3dEVkR5S1k4Y3NFN2g1QldpcjRPRWswdzRzaXNucHphYnRBZDJKQWFVeHc?oc=5",
@@ -97,7 +130,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.6,
+   "airspace": false
+  },
+  {
+   "title": "Spot Crude Premiums Ease From Record Highs Despite Hormuz Closure",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzdSMlprV3F6U21zaVhVZDJIeDZuN0xoU1JKUmNGZ0M3UEgwVk5FSUpLOTZRcmhQc3p1MVRaM0V1ejNwUHl1RnlKSGszRU5kQk04VV9KR3luSE50T1ZqbXVkWjNJUGJ3LWNiVTh3bTNqZm9hbGpsZHFkaDRzN1l5VldIYmVGWm5NeVZwazlPNjhkUHNiYkJRcTJkaw?oc=5",
+   "utc": "2026-11-10T21:01:21Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -108,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -119,30 +163,8 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.8,
+   "score": 4.5,
    "airspace": true
-  },
-  {
-   "title": "Middle East Oil Exports Drop at Least 60% as Hormuz Stays Mostly Closed, Data Shows",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFpxOE81X2xtUmRpYzlreEtocU9VY0ZkeVp5UE9BYlFpNmFEMzRKTVcxNHhPeXR2UmFhVThXRk5iVTgwaXc4R01JeVNCQkNVUzkxN1NDeXdCcHk2YW1xelpiUF9lcGpnT1prUzJWTzlxSkNPRHc4dXprWElreXNxeHdmUDFGLXJMRDE2c2VBc1JnSkQ2SmVuaV84VjZleVR6YWJHSnF0WjJUTmxTOThIUTFB?oc=5",
-   "utc": "2026-11-10T16:39:53Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-10T16:39:25Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
-   "airspace": false
   },
   {
    "title": "IAF Prepares For Air Exercise Close To LAC; NOTAM Issued",
@@ -152,29 +174,18 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.7,
+   "score": 5.4,
    "airspace": true
-  },
-  {
-   "title": "War In Iran And A Closed Strait Of Hormuz Reshape The Stakes At COP31 Climate Talks In Turkey",
-   "source": "Foreign Policy Journal",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQWh1Q09tQ0ZEZDhNZFdWUGZGVG5zQTAyRjlxTm5rb0YxUFNSenVzU3FoZ0E1OEI3VnFpLWdiR1ZLZU43ckNNN2JzdTU0Q0VoODZ0cllsRFdLSkQzYjJkT2g4R2JiSXZMWk51emFFV3ZVdnkwZGNSd21pVlJ1LXE1YVM5Rm15WnZCNG8tT3E0dTUtSFV2R3hiRmZNRk9xaUhHUlJSRWlxSGx6VDEwUzVpQm5GTnExdDdVLUFpMUNSbUhYVkRhOGlaSVFGRElhb21vaHZtLTBUWjFpUQ?oc=5",
-   "utc": "2026-11-10T14:36:00Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.6,
-   "airspace": false
   },
   {
    "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
-   "utc": "2026-11-09T23:07:49Z",
+   "utc": "2026-11-09T23:56:29Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.0,
+   "score": 7.7,
    "airspace": false
   },
   {
@@ -185,24 +196,13 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "19 Indian seafarers stranded in Yemen evacuated, embassy says",
-   "source": "ET Government",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM05JNG9WRzlHTVhjVEprbWdGZDFYeS1mazhESTFzVkpTVlhrT3NNaFBZREM0OGJQd3ZERU0tTEczVEFON3NCVGstcWh1OHZMRHcta3ZHSDlqS0pEd0dqa0U1ZFJsMm9mRXFMSlBXbDdvazVacG50SmFyY3FSb1JzS0hCUTFERjlCNm9ydmNNSGJSMWhObDlBUUtYVHYzMFdjRTJfUjltVWUwZFVoLV9Jb19TUlQ5ZHVlMTEzaURKeWFiN0lSUGx1TlhVT1dSemp0M3g40gHTAUFVX3lxTE8zTkk0b1ZHOUdNWGNUSmttZ0ZkMVh5LWZrOERJMXNWSlNWWGtPc01oUFlEQzQ4YlB3dkRFTS1MRzNUQU43c0JUay1xaHU4dkxEdy1rdkdIOWpLSkR3R2prRTVkUmwyb2ZFcUxKUFdsN29rNVpwbnRKYXJjcVJvUnNLSEJRMURGOUI2b3J2Y01IYlIxaE5sOUFRS1hUdjMwV2NFMl9SOW1VZTBkVWgtX0lvX1NSVDlkdWUxMTNpREp5YWI3SVJQbHVOWFVPV1J6anQzeDg?oc=5",
-   "utc": "2026-11-09T04:53:01Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 7.2,
+   "score": 4.4,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 262,
+  "count": 1,
+  "global": 137,
   "baseline": 1.7,
   "samples": 31,
   "hist": [
@@ -621,6 +621,10 @@
    [
     "2026-11-11T00:03:16Z",
     0
+   ],
+   [
+    "2026-11-11T06:37:46Z",
+    1
    ]
   ],
   "box": [

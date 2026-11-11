@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:37:22Z",
+ "updated": "2026-11-11T15:20:16Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (34)"
+  "Nikkei Asia": "ok (28)"
  },
  "items": [
   {
-   "title": "Stock futures rise slightly as market tries to recover from Nvidia-led decline: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-   "utc": "2026-11-11T06:30:47Z",
+   "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+   "utc": "2026-11-11T15:15:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "ABN Amro Profit Jumps as Acquisition, Interest Rates Lift Income",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/abn-amro-profit-jumps-as-acquisition-interest-rates-lift-income",
-   "utc": "2026-11-11T06:23:59Z",
+   "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+   "utc": "2026-11-11T15:14:53Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Dubai’s DIP Rises as Much as 6% in UAE’s First IPO Since War",
+   "title": "Inflation Report Doesn't Warrant 50 Bps Fed Rate Hike, David Rosenberg Says",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/dubai-s-dip-rises-as-much-as-6-after-uae-s-first-post-war-ipo",
-   "utc": "2026-11-11T06:08:28Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-11/cpi-report-doesn-t-warrant-50-bps-hike-david-rosenberg-video",
+   "utc": "2026-11-11T15:13:42Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+   "utc": "2026-11-11T15:13:39Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Sudden Screwworm Resurgence Finds Catalyst in Ideal Fly Weather",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/sudden-screwworm-resurgence-finds-catalyst-in-ideal-fly-weather",
+   "utc": "2026-11-11T15:13:17Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
+   "utc": "2026-11-11T15:08:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+   "utc": "2026-11-11T15:00:02Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Iran War Breathes New Life Into Turkmenistan’s $10 Billion Pipeline Dream",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Breathes-New-Life-Into-Turkmenistans-10-Billion-Pipeline-Dream.html",
+   "utc": "2026-11-11T15:00:00Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+   "title": "Nasdaq surges as CoreWeave leads tech rebound: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
-   "utc": "2026-11-11T06:00:01Z",
+   "link": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+   "utc": "2026-11-11T14:58:13Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Luxury Watch Platform Subdial Raises $20 Million for Its US Push",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/luxury-watch-platform-subdial-raises-20-million-for-its-us-push",
-   "utc": "2026-11-11T06:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "IHI to mass-produce dual-use satellites in Japan",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVpGYzBpOTBGdUlsbEZxUzR4UDJVanMwS0RzaHhaWldCRERBOFhMWlVMREJXcW4ydVN4R2ZmOHVtdUJjbkwtZGF6X2VVVUNMaGo0TWxzR1dvbGV2R2FSUDNuemZFbHpzSFpmUFltVWZQLTFLZ3UxRzJMbEdKbnlyWEFtdUU3by04UHVZOGU1aU1HcVIwR2ROWk5CZTE0Y2xKaktUSmt2TEtaV0k5UXFr?oc=5",
-   "utc": "2026-11-11T05:53:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Microsoft says tech firms must 'prove' AI data centers benefit locals",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdTdMTWxnZHVyUzhEbkV6Rkx5TU42Xy1jdzJuNEV4aHJnZWVVM01XTUd2aXNWd1VPOHhfSFJHdHB2RjdfRXRXWjUxWnZfZ2FWdkE5QXNUeF9zTzR5SlFCV1hUczZMdzExR2FFcmI4LXpDamlSamFzc0g3amM1T0VvRjdGb1d6X0RHdEU5bXlRZ1A1cmF6dWFGVVlCVi16eW0zRnhLQTRxZ1I1ckJsdHlqQS1vclFXdThrSG03SHFyUjhRZUhlbnF1ZDJNU251bDN4dF9mUzBDNEVZajE1LXVQQmJEb1F1RHpIY2wzUlBQSEhRQQ?oc=5",
-   "utc": "2026-11-11T05:51:00Z",
+   "title": "Stocks making the biggest moves Wednesday: CoreWeave, Nvidia, NextNav & more",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
+   "utc": "2026-11-11T14:54:44Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Oil Prices Rise as Iran Peace Optimism Fades",
+   "title": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+   "utc": "2026-11-11T14:52:03Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
+   "utc": "2026-11-11T14:49:16Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Big investors are buying the dip. Retail traders are not",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/retail-traders-buying-the-dip.html",
+   "utc": "2026-11-11T14:48:12Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Capri Holdings names longtime Estee Lauder executive Justin Boxford new CEO",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/capri-holdings-names-estee-lauder-executive-justin-boxford-new-ceo.html",
+   "utc": "2026-11-11T14:39:27Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "PODCAST: The trillion-dollar question",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0w3eC1kVlV0d3RqTnNnU1g5QVgtVUY0emFKb0taZVVUS19WOXU0aVFfbFROY1lxaHd2REZZeHVNaDJXX19iVDl6UzlpeVVodkJpMkYxUVVOYUw3Rk11ZDVhZEVmMVVyUTk0OGxfSW8zM2NLbzZkbVBpb1ZKcVdOc2tKZmJNdWlyWXhqRzBMeWl1YVk?oc=5",
+   "utc": "2026-11-11T14:37:11Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+   "utc": "2026-11-11T14:35:23Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "India Approves $7.3 Billion High-Capacity Power Link to Back Renewables",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Iran-Peace-Optimism-Fades.html",
-   "utc": "2026-11-11T05:45:00Z",
-   "tag": "OIL",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Approves-73-Billion-High-Capacity-Power-Link-to-Back-Renewables.html",
+   "utc": "2026-11-11T14:30:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Japan Government Bond Yields Jump, Tracking Treasury Selloff",
+   "title": "Bloomberg Invest Dallas 2026 Highlights",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/japan-government-bond-yields-jump-tracking-treasury-selloff",
-   "utc": "2026-11-11T05:33:25Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-invest-dallas-2026-highlights-video",
+   "utc": "2026-11-11T14:26:54Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+   "utc": "2026-11-11T14:24:28Z",
    "tag": "FED",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Everyone loves CoreWeave",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWVBqU0M4YXZZT3dWTVI3RG5Sam1aMkl3dW1XRlVfcVdKdTFMdFltVDdqZFp1LXhxM0RfczhSOXppa3FreS1LNHktV3Y5M25UbFRpRWViaEk2WDlFRU1BWVNsaEtoLXh4blRtdndJNnpEMVBKOUNQRVZFVnQweUw1TlRfZUZ3TUJYaFpLN1Z3?oc=5",
-   "utc": "2026-11-11T05:32:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SUmhDNVlpb2JEM0UxSUxaY185clNiYTU2aDdVbkFKM3k1dTgyTm1FQWZiaTBPSUNaQjhxOFJ2UDZtaHYxV3kw?oc=5",
-   "utc": "2026-11-11T05:26:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Chinese Lithium Giant Says Price Swings Have Turned More Extreme",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/chinese-lithium-giant-says-price-swings-have-turned-more-extreme",
-   "utc": "2026-11-11T05:24:58Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
-   "utc": "2026-11-11T05:15:50Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "EXCLUSIVE: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
-   "utc": "2026-11-11T05:13:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "IIFL: Can Sustain 25-30% Lending Growth For 3-4 Years",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-11/iifl-can-sustain-25-30-lending-growth-for-3-4-years-video",
-   "utc": "2026-11-11T05:02:04Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Former Pakistan PM Imran Khan back in jail after medical treatment, sources say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZTdadHlSb3QzZ2dscjRVVDF2Sl8yYUIxV1oyMGRDMVpHSHUxWk80TmlmOEtJNXYtUWlocWRVbWkxNE9jZGtIeGEzZTBSTWVGMU93UWRvaXRUczlGZGxIM0tpdUZxWTBOLVpfZTVtaFpqQ29SWXg4T3l1c2dIVVc3bHRlaXctR000V2lPRmZCTU1QVkZ6ejFjN1BXXzBvWlp5RkdOaXQ5X29ydUtJZU9VaHk5SkRXTjlzQUpyYzhHTG1KVlV1VEhLUHdtV3A?oc=5",
-   "utc": "2026-11-11T04:51:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3RMMlNiR2NMZ0QxZTJrT0kxbnExMlo3S3R4djVYZVhEdXJuanAzQkpQSWZReEpXRUR2TUdwcTJkWERCb2VlWEVUeWRIWDRMSzZfc042WnVYcE9XbFJIN1FpbUdueVZDTTl0a1hlazBFMTJEM0VBTVl4MnpCcUpCTHVpbG5ZZmRuUG5rMk9vdnJnTmpIXy1PQUlVcDUta0Frc3RreFVEMkhzNWI0T1JZNUJyQzhZZmh6ME90WEcyUWZWY1Q0Y0NhZlhCdFNUZFNIWXFXbTlHWFA?oc=5",
-   "utc": "2026-11-11T04:50:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Singapore Air Plans More Room for Premium Seats",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-11/singapore-air-plans-more-room-for-premium-seats-video",
-   "utc": "2026-11-11T04:27:13Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "AZ-VC's Selby on Why Anthropic's IPO Puzzles Him",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-11/az-vc-s-selby-on-why-anthropic-s-ipo-puzzles-him-video",
-   "utc": "2026-11-11T04:08:19Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Bessent reportedly moved to military base over Iranian threats on his life",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-   "utc": "2026-11-11T04:06:47Z",
-   "tag": "WAR",
-   "breaking": false
+   "title": "My friend hates her job but shuts down when I give her advice. How can I help her?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
+   "utc": "2026-11-11T14:24:00Z",
+   "tag": "STOCKS",
+   "breaking": true
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:20:16Z",
+ "updated": "2026-11-11T22:44:51Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (28)"
+  "Nikkei Asia": "ok (23)"
  },
  "items": [
   {
-   "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
-   "utc": "2026-11-11T15:15:00Z",
+   "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks further",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+   "utc": "2026-11-11T22:42:05Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
+   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
-   "utc": "2026-11-11T15:14:53Z",
+   "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+   "utc": "2026-11-11T22:30:57Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Inflation Report Doesn't Warrant 50 Bps Fed Rate Hike, David Rosenberg Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-11/cpi-report-doesn-t-warrant-50-bps-hike-david-rosenberg-video",
-   "utc": "2026-11-11T15:13:42Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-   "utc": "2026-11-11T15:13:39Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Sudden Screwworm Resurgence Finds Catalyst in Ideal Fly Weather",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/sudden-screwworm-resurgence-finds-catalyst-in-ideal-fly-weather",
-   "utc": "2026-11-11T15:13:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
+   "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
-   "utc": "2026-11-11T15:08:00Z",
+   "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+   "utc": "2026-11-11T22:30:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-   "utc": "2026-11-11T15:00:02Z",
-   "tag": "MARKETS",
+   "title": "Nissan's Ivan Espinosa on China, US, Japan Markets and Company Outlook",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-11/nissan-s-ivan-espinosa-on-china-us-japan-markets-video",
+   "utc": "2026-11-11T22:29:28Z",
+   "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Iran War Breathes New Life Into Turkmenistan’s $10 Billion Pipeline Dream",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Breathes-New-Life-Into-Turkmenistans-10-Billion-Pipeline-Dream.html",
-   "utc": "2026-11-11T15:00:00Z",
+   "title": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
+   "utc": "2026-11-11T22:28:23Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "Nasdaq surges as CoreWeave leads tech rebound: Live updates",
+   "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-   "utc": "2026-11-11T14:58:13Z",
-   "tag": "STOCKS",
+   "link": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+   "utc": "2026-11-11T22:20:58Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Stocks making the biggest moves Wednesday: CoreWeave, Nvidia, NextNav & more",
+   "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-11T14:54:44Z",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+   "utc": "2026-11-11T22:14:02Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
+   "title": "JetBlue unveils new first-class seats to bring back profits",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-   "utc": "2026-11-11T14:52:03Z",
+   "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+   "utc": "2026-11-11T22:10:50Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
-   "utc": "2026-11-11T14:49:16Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Big investors are buying the dip. Retail traders are not",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/retail-traders-buying-the-dip.html",
-   "utc": "2026-11-11T14:48:12Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Capri Holdings names longtime Estee Lauder executive Justin Boxford new CEO",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/capri-holdings-names-estee-lauder-executive-justin-boxford-new-ceo.html",
-   "utc": "2026-11-11T14:39:27Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "PODCAST: The trillion-dollar question",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0w3eC1kVlV0d3RqTnNnU1g5QVgtVUY0emFKb0taZVVUS19WOXU0aVFfbFROY1lxaHd2REZZeHVNaDJXX19iVDl6UzlpeVVodkJpMkYxUVVOYUw3Rk11ZDVhZEVmMVVyUTk0OGxfSW8zM2NLbzZkbVBpb1ZKcVdOc2tKZmJNdWlyWXhqRzBMeWl1YVk?oc=5",
-   "utc": "2026-11-11T14:37:11Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-   "utc": "2026-11-11T14:35:23Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "India Approves $7.3 Billion High-Capacity Power Link to Back Renewables",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Approves-73-Billion-High-Capacity-Power-Link-to-Back-Renewables.html",
-   "utc": "2026-11-11T14:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Bloomberg Invest Dallas 2026 Highlights",
+   "title": "Asian Stocks Set to Gain on Renewed US Tech Rally: Markets Wrap",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-invest-dallas-2026-highlights-video",
-   "utc": "2026-11-11T14:26:54Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
+   "utc": "2026-11-11T22:08:05Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+   "utc": "2026-11-11T22:05:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "BC Partners to Buy Investcorp BDC Amid Private Credit Shakeout",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/bc-partners-to-buy-investcorp-bdc-amid-private-credit-shakeout",
+   "utc": "2026-11-11T22:03:25Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-   "utc": "2026-11-11T14:24:28Z",
-   "tag": "FED",
+   "title": "Quantum Computing Is Being Pitched as the Fix for AI's Runaway Power Appetite",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Is-Being-Pitched-as-the-Fix-for-AIs-Runaway-Power-Appetite.html",
+   "utc": "2026-11-11T22:00:00Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "My friend hates her job but shuts down when I give her advice. How can I help her?",
+   "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
-   "utc": "2026-11-11T14:24:00Z",
-   "tag": "STOCKS",
+   "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+   "utc": "2026-11-11T21:55:00Z",
+   "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "BHP Names Adrian Wood as CFO to Succeed Vandita Pant",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/bhp-names-adrian-wood-as-cfo-to-succeed-vandita-pant-mwcnk5t7",
+   "utc": "2026-11-11T21:50:10Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "It’s Good to Be #ComputeBlessed",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/it-s-good-to-be-computeblessed",
+   "utc": "2026-11-11T21:46:12Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Paraguay on Watch for Downgrade at Fitch After Bank Collapse",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/paraguay-on-watch-for-downgrade-at-fitch-after-bank-collapse",
+   "utc": "2026-11-11T21:43:21Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
+   "utc": "2026-11-11T21:42:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
+   "utc": "2026-11-11T21:40:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Lula Unveils Plan to Curb Spending Growth in Bid to Calm Fiscal Worries",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/lula-unveils-plan-to-curb-spending-growth-in-bid-to-calm-fiscal-worries",
+   "utc": "2026-11-11T21:34:24Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+   "utc": "2026-11-11T21:33:17Z",
+   "tag": "MARKETS",
+   "breaking": false
   }
  ]
 }

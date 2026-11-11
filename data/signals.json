@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T15:20:43Z",
- "level": 58,
+ "updated": "2026-11-11T22:45:14Z",
+ "level": 52,
  "band": "Alert",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   33,
+   39,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   8,
+   2,
+   2,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,10 +90,21 @@
  ],
  "headlines": [
   {
-   "title": "Strait of Hormuz Crisis Impact on Global Energy Market",
-   "source": "Kings Research",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUl5U01HbjQ1SFVpRDQ2US05NUpWQlE1RDZwQ2lIaDZVX1lLU0xMc3AxVG50eERMSmZSXzc5TW1uemtVRHRlblEtdF8tUWx5bUc2SnRwdndIX2JpZzhTVDJwVDc3ZEFaNEhHQlJ6VWM2QTNTT0tOQ0l0clhRazNlRlpJVGZJZ19K?oc=5",
-   "utc": "2026-11-11T13:44:25Z",
+   "title": "‘DEFCON 1’: SA’s escalating aged care crisis",
+   "source": "theageingagenda.com.au",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEJXWWc1ZGlyX1VMZ3lINUFxWjFsZDhwaTdmZVp6cThXNkFvVXFYQzRraVVUYVZqVUJTUGdGZjRkLWhlVGRhbjNDRjZOekJCSXBxTFQtTEZ4QzYtT2FPMUd3Wi1FZy0zOU5uQWp3UXE1aWk5eFlJXzJ2WVctczEteTlkQW5Ec20tRzhrWUt6UXgySzg?oc=5",
+   "utc": "2026-11-11T22:14:43Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "Minister of State for International Cooperation takes part in Paris Peace Forum session on impact of Strait of Hormuz closure",
+   "source": "The Peninsula Qatar",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPazRUSVV3VEJCbUhMWUg0amhLX1dnZHhzdTdUOW55eGpuVWZERVhoMHRxa3d1a3lzTklwNTRDSHBCcnJXZHY4UVl6aURXV3pXNk1DZFB0SnpNbjc1cFl5dU8zcjdEN1F2bWExNU9USVA0bDZ0S2hqY0laeFhvUzN0WDI1a2hkSEdlaXQzcU9Jd2lkYzJOaEpSTWtCVWZKaGRyOV9FamJ3a1IyekhaS01rNTBienU1NmJkQklSNUN3eTRCclA2Ykt3dlNCNDl2UlF2WVdEaUctUGd4R0UxZ3g0cjc4akRIdmpGQWMtM2pubk4zQ2pWeGdIMFlyNHJfNU8yUWFHRw?oc=5",
+   "utc": "2026-11-11T21:04:39Z",
    "tags": [
     "HORMUZ"
    ],
@@ -101,47 +112,47 @@
    "airspace": false
   },
   {
-   "title": "Iran Rejects US Talks Reports, Says Hormuz Will Remain Closed Until Demands Are Met",
-   "source": "www.nationpathindia.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHQ1aFN5U1o3ekhnR1l2eUVPeUxKdWZoMFZKMEZrQk02QzRaVDlsXzBRYlM4OUk0NElZb3BVVlBnY25uTkNOZ0ZPVlRsbVlKdV9sRHYtdW0tUHF0WWlLMFRlaVFyYmpZa3J1dUdJRUJlVml5S3hUWTh5a29TWnhPOS1vMU82b3RmNjZkc3NB?oc=5",
-   "utc": "2026-11-11T13:37:33Z",
+   "title": "Iran Firm: Enriched Nuclear Material Stays, Hormuz Strait Closure Looms Until Demands Met",
+   "source": "Lokmat Times",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUk9jR0k4ZnhvWGk2cVE3eDJzTm1ObndFNThZSmJPUlZ5ZGpJY0RJZHc0azlCc0pIS0dFb1o4bWItUDZsSGtwZTFFVDk3am45eFRNTkVrb3FHTkJWODVROHhrZVVKMEFpdW90N2kzbmItNTBVSVhTMHBrUEYyNXphRmNmZXk1aXhJRHAxSFRTcmcxVUtFSDFrWEhieF9ja3ZnR2U5QTQ2VjlOYXJ6aDBWeEZRYUJ1RkFGOU84cUQxM09ySGdkdGlFTERwaWpTUTZRU3VLX0xUMk9nUGvSAdsBQVVfeXFMTlJPY0dJOGZ4b1hpNnFRN3gyc05tTm53RTU4WUpiT1JWeWRqSWNESWR3NGs5QnNKSEtHRW9aOG1iLVA2bEhrcGUxRVQ5N2puOXhUTU5Fa29xR05CVjg1UTh4a2VVSjBBaXVvdDdpM25iLTUwVUlYUzBwa1BGMjV6YUZjZmV5NWl4SURwMUhUU3JnMVVLRUgxa1hIYnhfY2t2Z0dlOUE0NlY5TmFyemgwVnhGUWFCdUZBRjlPOHFEMTNPckhnZHRpRUxEcGlqU1E2UVN1S19MVDJPZ1Br?oc=5",
+   "utc": "2026-11-11T18:04:12Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
-   "title": "Dhaka-Riyadh flights suspended until Nov 30",
-   "source": "Dhaka Tribune",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTFfZG1OYmVVLXNybG8zY2s4QjJDSktmUjZnR0FTX1ROR3JMOTNTWGR5emVPZkZiVEpRTTlORWNrQ1dlSld6RXhYRUg5Y3U5SWdiRkhNT0lESVp5akI5Tm4wMU5WNVZwYllyTVY4MC02bWVjWEVWYm9iRGlEX08ycVV0UXNfWDVFZlZjaEhMd0l4V1JqangwUGZBTdIBoAFBVV95cUxPQnNpbUdheTk2WmlXS3lQcmt0ejlUSW1Pd3V2RUgwSzFUSkdpbVJEdTQyRWtLbV9XWEUwR1ljNktkSHA0cERZYlg3LTRFN2JxQ1FWUkR3TXR6bFhEb2xiV3VRSEtKLVN3bFRYdVhST0dlVnBKMHlwcXk5S2YxTkhzQjBEWF8tS3Q1MjVxZHhMTFVMMmlxUGJJQ1RzdmFQSnNw?oc=5",
-   "utc": "2026-11-11T13:06:04Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.9,
-   "airspace": true
-  },
-  {
-   "title": "DP World reroutes a million containers to bypass Hormuz",
-   "source": "Arabian Gulf Business Insight | AGBI",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcjk5aGt6SFUwMkdzQWhVWVdGN2hEYks3SFkxZURzUTRSM2o2WmNtRUQ1N0ZUd0gxOHZmbXlOY2ZYb0xiVDR1M0dZVFpNT214bUhKdjZ5WEk3ZE5VWXRkNHByUlpBNFpFQ0F3OWx1TWZGLXVQcUI0cFI1SnRiZXBfcjdLX3VzM256d3VrU3FXNlFMai1IZlU2TG8tZw?oc=5",
-   "utc": "2026-11-11T12:44:09Z",
+   "title": "World at ‘global tipping point’ as Hormuz energy disruption shakes markets, climate targets at risk: EU",
+   "source": "Middle East Monitor",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcWl0RUhyR1l2Q256M1NhQW8tcXVzMzlCLUlyaGxqQUpzZ0RFWGJaR3ZmV3JOVHdIQ0ZZUVdfSE9UQVhkLUNDVWw4Y2wyY3VDUC1XdmZ6Nk9pYzZnZU1NazA3SlBZbjhyWkVUM21NNV9KYlVGZmdXVFhMYktXdnVFVHJmY1g1Y1QwRnMyejZIeXVDaXdENkt4N1V0U3h6REJSZnNpaWQydEpMa01vT0dOYUNoSHVfcElRQlBjNWJBdmdoV1g4ZmRhVVA4SE5MOTZqWVoyM013d0dLbWfSAeABQVVfeXFMTjNrd1FaZEpodVRRbkxyaTRLbV90dEIyYm1Pb1Y3WDNaSE5qVXMta19oM1lLT1ZERGk0N1hvd2wwMERVQjZCWGlDY2h3UlU0Zlh0Zm90NzBTTkZmTTRHeTVuczVfZ3FrQzBvU25HZElVb3ljc3RKa2NQeXlRQTZ6OGFNd1dNQWVMcEhPRUd6LVVUNzRoYmlxbHZsOFpRLVl1ZE5DTzItSjJKTEVXZjc3ZnFFSm4wNTgwV2p6SEVxNWxBUFdXd2hGZ0lVQXA2OTFuZW10d2h1aGtYWnd4NFM1bjk?oc=5",
+   "utc": "2026-11-11T17:38:00Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
-   "title": "Hormuz crisis caught even prepared organisations off guard, says DSV CFO",
-   "source": "Khaleej Times",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTFFMUHdXZGFoQVJQWkF1ZUlrUWdYbUlKOFhtN1ljREdrQzBTcFl5UlI5aGl5VjNtUG0wdWJGUWI1RWZXQTdvYW5Pb2lmTzdUM3diYXJuRUNTWUgyeXZKZmdpaWtFQ2dVWTFhcklmWmlfMlo5MFpiN2NQaDlWRDdaeE1EaWdiVTlseUxFWWc3VVNwOVJfS1pUc2V2Z1c4V3NmVHlFYXZ2UUNLV3EwQnfSAbYBQVVfeXFMTS1SU2ZzczBGR3BnRy03X19vQmFiZ05FaThvUFNlZVVwd1k5a21nNFVMZVQyenpNV1FWNlZ1NlVQcllFZnFjMm1QdzFGaGZCdzNKZ1NkOVVlaGEwSFlxRDhUcGRIa2FWQl9oMW42RXhmVHRoMTRqMEVOQ3Z6ckFBUnhqQXREX1d6Qi1QLWloSlRjMW5hcHNiSUg0aDA0MGNkZk43dzV5ZzEyR1l6OFlXdVh3ekVHZkE?oc=5",
-   "utc": "2026-11-11T12:32:35Z",
+   "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+   "source": "AOL.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVBoRFRnN29ZYU41Q1pWOFljVEpHbGFvY3piR2dzcHBWYUJDRWJnTVo0ald4NXN3VUR3OEF4bGt3Xzh4YXR4a05zRS16VEdrSTRGX1ZnS1dHeWdjaVhTMkRGRlhBd09ueloxd24yRW9GdlJvdWtnY01tbTJYRjRKRnJR?oc=5",
+   "utc": "2026-11-11T17:26:27Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "FM Participates in Paris Peace Forum, Highlights Impact of Strait of Hormuz Closure on Global Energy Security",
+   "source": "وزارة الخارجية العراقية",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5DRTZUU2xxNk9hbHExLUhwNXBIdlZEdXlIaG91dDNhMmlXa1N5SElHaS0zMjE1eFhtWVRLdEFNUkxWeGt5ZGc?oc=5",
+   "utc": "2026-11-11T16:54:52Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -152,18 +163,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.5,
    "airspace": false
   },
   {
    "title": "Four crew members injured as projectile strikes oil tanker in Persian Gulf",
    "source": "Daijiworld",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4NkRnYlVDcmoxaElPdzRCNjNkaGdCT3NRWEdjMlpab19hQ2RyZnZPbFhZNXcyNUlGSW9STV9Pc1dxdXUxUVY2YThYVVBiS2NCQTVHN1l1bHVtSnhJQzdTanZydS16UTRMU2JVVldSSUZkSHY0SWtj?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5OEw0cmlScHQxZXFfc2tiQjM0dVhsdUd5Slhqeld1Z29WNktlaEJxaE5sVld1TlI4V293WDFIYVI1alR4d3ZldGxzQzlJaWhNQU82Y3Nibzg5Q0JYbGVPbmN3V28?oc=5",
    "utc": "2026-11-11T06:30:00Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -174,19 +185,8 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": false
-  },
-  {
-   "title": "IAF Prepares For Air Exercise Close To LAC; NOTAM Issued",
-   "source": "News18",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTFiZk90QTVHaFRuUWR4RjBfOEQwVkV5SHZzOTlZUlRkeU1SVkFrUThTT193azNfMUxaMXU5cDVzRmZTbUJGMEJBdzg0Y29rWnlBYUFBbGxVSWpJTV8zb21mZFhnOW0yZm02bjhCMlVjNWhKX2h3MnlNZVZFVUh1WU13UkpIOWhXckNvazJKd0tYUGd2N25LbmpQM2FUUlR0RTRtMlRabEg1SzTSAasBQVVfeXFMTkUxYmZPdEE1R2hUblFkeEYwXzhEMFZFeUh2czk5WVJUZHlNUlZBa1E4U09fd2szXzFMWjF1OXA1c0ZmU21CRjBCQXc4NGNva1p5QWFBQWxsVUlqSU1fM29tZmRYZzltMmZtNm44QjJVYzVoSl9odzJ5TWVWRVVIdVlNd1JKSDloV3JDb2sySndLWFBndjduS25qUDNhVFJUdEU0bTJUWmxINUs0?oc=5",
-   "utc": "2026-11-10T16:14:19Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 5.0,
-   "airspace": true
   },
   {
    "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.4,
+   "score": 7.0,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 215,
+  "count": 2,
+  "global": 109,
   "baseline": 1.7,
-  "samples": 32,
+  "samples": 31,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -629,6 +629,10 @@
    [
     "2026-11-11T15:20:43Z",
     3
+   ],
+   [
+    "2026-11-11T22:45:14Z",
+    2
    ]
   ],
   "box": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:28:17Z",
+ "updated": "2026-11-11T00:03:16Z",
  "level": 41,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   28,
+   27,
    35,
    35,
    "1.5 pts per headline"
@@ -108,18 +108,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Foreign Minister Discusses in Paris Impact of Strait of Hormuz Closure on Global Energy Security » Iraqi News Agency",
-   "source": "وكالة الانباء العراقية (واع)",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZVhfb0dDaFRKN3VfZUJWeHlRSzMwcWU3cy1RMC14UE5RZTRWRWVnOVFLQjM2a3piNFVHYUdkaEFkWXp5N1RpRlJDZGctT29vUTFwMGVTZ1Itd3Y4eGVNZ1dsWVJpMWt0cEVYeW9ESjRveVlPWGZmWjV2MjJJRDAzcERZQXZfdE9zazY3aFJUVWJaanFOMkFxYXUxTGliNUwzZVNsWC01d3d6RlRiSlB5OGxaZGxYNF94RnhlOGtmMFVGQnVfNGt3bER2WXIta3c?oc=5",
-   "utc": "2026-11-10T20:06:20Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -178,6 +167,17 @@
    "airspace": false
   },
   {
+   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
+   "utc": "2026-11-09T23:07:49Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
    "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
    "source": "The Guardian",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDZGV213b2dwYWhTaHVHT2x3d1RjbkJ0dTMwdWFiUTlJbnRueS01SXlfaXJUVnV1RGUzUU9JZXpUOFItSUJWTWFVSFJ6MDN4VXRFRW9GazhKRDFUR0lzRS03dDN0Z2o3ZXFhc2hTTUtPSWdFX2pIa2tmdFVmNC1UMXlDTWtvZWtPbXZTaTIxTVc5aDJ1RzNDLVVZcXlCdFg1YjFzYXRtTzFfSXR5U3AtdEVTLUdsalNNbDJBZjI0dklYY19vLW5FOUtRODdxMVFUcU9XeW1TUnAydEZEQmdkUmcwWkF5a2wtSnc?oc=5",
@@ -202,9 +202,9 @@
  ],
  "mil": {
   "count": 0,
-  "global": 249,
+  "global": 262,
   "baseline": 1.7,
-  "samples": 32,
+  "samples": 31,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -616,6 +616,10 @@
    ],
    [
     "2026-11-10T23:28:17Z",
+    0
+   ],
+   [
+    "2026-11-11T00:03:16Z",
     0
    ]
   ],

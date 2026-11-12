@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:44:51Z",
+ "updated": "2026-11-12T00:05:27Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,158 +9,158 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (23)"
+  "Nikkei Asia": "ok (21)"
  },
  "items": [
   {
-   "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks further",
+   "title": "The $150 Billion Catch in US Shipbuilding",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-12/opinion-the-150-billion-us-shipbuilding-catch-video",
+   "utc": "2026-11-12T00:00:59Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Global Power Grid Expansion Surges 50% to Record High",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Global-Power-Grid-Expansion-Surges-50-to-Record-High.html",
+   "utc": "2026-11-12T00:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
+   "utc": "2026-11-11T23:57:38Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Jensen Huang scandal sends ripples through tech",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWlkRjdqYkZsbXVWeXZpQW5YaUNmSDNVOS04WFl3bzlGS2UwZWlpNzF2Y1E0dUw3UW92WjZGSmpHT19EVEpkcGRXa2dqRzRLNHRmU1I3VWlxRV8tVVZpOU4tT19kNERTZktfcmoyX05VQ01pRERObVQ4T0tqczVrZE5kbmQzWHlQV185N3hVMmItOFhYd2NWaTEtdXkyX0U2UWNITDRqZ0FmU3Q4Zmc?oc=5",
+   "utc": "2026-11-11T23:56:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Pivotal Advisors CEO: Investors Should See AI as Part of Portfolio",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-11/mcghee-investors-should-see-ai-as-part-of-portfolio-video",
+   "utc": "2026-11-11T23:48:05Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Dana Telsey on the Future of Department Stores",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-11/dana-telsey-on-the-future-of-department-stores-video",
+   "utc": "2026-11-11T23:35:13Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+   "utc": "2026-11-11T23:31:37Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+   "utc": "2026-11-11T23:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-   "utc": "2026-11-11T22:42:05Z",
+   "utc": "2026-11-11T23:28:11Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-   "utc": "2026-11-11T22:30:57Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-   "utc": "2026-11-11T22:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nissan's Ivan Espinosa on China, US, Japan Markets and Company Outlook",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-11/nissan-s-ivan-espinosa-on-china-us-japan-markets-video",
-   "utc": "2026-11-11T22:29:28Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks",
+   "title": "Instant View: Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
-   "utc": "2026-11-11T22:28:23Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
-   "utc": "2026-11-11T22:20:58Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-   "utc": "2026-11-11T22:14:02Z",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVJVTG1XNEk2Rm4xZFpXdXh2czIzSnZpdXMzaEpWN1RsZFJpRy1TeFNXZHBzei0tRGNSZ2JSd2ZtTnN1N3A2Q0IzTHNrelNxS2NOWVNSbjhWTlNfc012cHRHc3g0U2gzOXJ4MjRKWjNuWm9NaGt2S2ZhbHp6dmtjenFGTWstWllrYmdLcG8tOXR4b0FCcHR1Zjd2RU52REVFM2E2YmZkX0N0QQ?oc=5",
+   "utc": "2026-11-11T23:23:59Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "JetBlue unveils new first-class seats to bring back profits",
+   "title": "Thailand ranks 43rd in global digital and AI competitiveness",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3352979/thailand-ranks-43rd-in-global-digital-and-ai-competitiveness",
+   "utc": "2026-11-11T23:20:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Ministry questions Apple over iPhone notifications",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3352974/ministry-questions-apple-over-iphone-notifications",
+   "utc": "2026-11-11T23:17:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "United Airlines moves to block AI agents from its platform over security concerns",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-   "utc": "2026-11-11T22:10:50Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Asian Stocks Set to Gain on Renewed US Tech Rally: Markets Wrap",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
-   "utc": "2026-11-11T22:08:05Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-   "utc": "2026-11-11T22:05:00Z",
+   "link": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html",
+   "utc": "2026-11-11T23:16:15Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "BC Partners to Buy Investcorp BDC Amid Private Credit Shakeout",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/bc-partners-to-buy-investcorp-bdc-amid-private-credit-shakeout",
-   "utc": "2026-11-11T22:03:25Z",
+   "title": "Consumer confidence falls in October",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3353049/consumer-confidence-falls-in-october",
+   "utc": "2026-11-11T23:14:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Quantum Computing Is Being Pitched as the Fix for AI's Runaway Power Appetite",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Is-Being-Pitched-as-the-Fix-for-AIs-Runaway-Power-Appetite.html",
-   "utc": "2026-11-11T22:00:00Z",
+   "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+   "utc": "2026-11-11T23:08:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-   "utc": "2026-11-11T21:55:00Z",
+   "title": "Reports of river pollution hit Chiang Rai tourism prospects",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3353064/reports-of-river-pollution-hit-chiang-rai-tourism-prospects",
+   "utc": "2026-11-11T23:08:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "BHP Names Adrian Wood as CFO to Succeed Vandita Pant",
+   "title": "Latest Oil Market News and Analysis for Nov. 12",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/bhp-names-adrian-wood-as-cfo-to-succeed-vandita-pant-mwcnk5t7",
-   "utc": "2026-11-11T21:50:10Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "It’s Good to Be #ComputeBlessed",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/it-s-good-to-be-computeblessed",
-   "utc": "2026-11-11T21:46:12Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Paraguay on Watch for Downgrade at Fitch After Bank Collapse",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/paraguay-on-watch-for-downgrade-at-fitch-after-bank-collapse",
-   "utc": "2026-11-11T21:43:21Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
-   "utc": "2026-11-11T21:42:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/latest-oil-market-news-and-analysis-for-nov-12",
+   "utc": "2026-11-11T23:04:06Z",
    "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
-   "utc": "2026-11-11T21:40:00Z",
-   "tag": "STOCKS",
+   "title": "Government pledges to speed up investment",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/investment/3353094/government-pledges-to-speed-up-investment",
+   "utc": "2026-11-11T23:01:00Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Lula Unveils Plan to Curb Spending Growth in Bid to Calm Fiscal Worries",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/lula-unveils-plan-to-curb-spending-growth-in-bid-to-calm-fiscal-worries",
-   "utc": "2026-11-11T21:34:24Z",
+   "title": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fusions-Next-Race-Is-Over-Superconducting-Tape-Not-Plasma.html",
+   "utc": "2026-11-11T23:00:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
@@ -168,7 +168,7 @@
    "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-   "utc": "2026-11-11T21:33:17Z",
+   "utc": "2026-11-11T22:58:11Z",
    "tag": "MARKETS",
    "breaking": false
   }

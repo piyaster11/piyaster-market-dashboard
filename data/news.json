@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:51:56Z",
+ "updated": "2026-11-12T12:51:26Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (22)"
+  "Nikkei Asia": "ok (26)"
  },
  "items": [
   {
-   "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
+   "title": "Nebius falls 10% as company expects increased 2026 capex spend, issues weak outlook",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-   "utc": "2026-11-12T03:46:56Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "The world's super-rich are piling into alternative investments. Here's why",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-   "utc": "2026-11-12T03:36:44Z",
+   "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+   "utc": "2026-11-12T12:50:19Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Why Bernstein Downgraded Nvidia Stock",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-12/why-bernstein-downgraded-nvidia-stock-video",
-   "utc": "2026-11-12T03:34:15Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
-   "utc": "2026-11-12T03:25:05Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "utc": "2026-11-12T03:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nasdaq-100 futures slide, dragged lower as Nvidia sell-off resumes: Live updates",
+   "title": "Nasdaq-100 futures slide as Nvidia sell-off resumes: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-   "utc": "2026-11-12T03:13:25Z",
+   "utc": "2026-11-12T12:47:18Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-   "utc": "2026-11-12T03:10:00Z",
+   "title": "Italy seeks to curb impact of hoax bomb alerts as more threats received",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFJJaFJoR2JHVWdTZmVzdkw2MDhTc29qU0pDRmdmaXpwWjN2Q3VyYjlFUWJkRmJHTmlaNFFYdWIxdTFHR3p5VGlTaGExYzFwZ3BTRjV6dTJuQWdibllJN1lwd3E1RThuUEU2ekpfbU1GSUJwU2tyMkd5a3daSEkwNm5YU19zUEIxLWpSNjNDS0lzT1NCd2ZQRG1COA?oc=5",
+   "utc": "2026-11-12T12:46:02Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Ukraine defense tech unicorn cultivates Taiwan and Japan supply chain ties",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVWUtcVBiVktsSEVoVEdWbUJHUXhrbUdWVVhrbFlqZ0hCaDhNQW11NXAxWXc3bGdTLU1Pc1ZSczhxczM5Zlg4YWFqeDVzc1BScHRLeDBOVGdxTUlReV9pNy1aWjlVdDEtaTlLc1RoaW8zbnBYRW9aZzB2bnVVV3RwdXVBdHd2aEV0YU95S1cxZVFxUmhTNS1Jb3NCV0J4UGlDSkNuT3N2MzRMdjFxRVFTTjkzRUVhMHRyenhhWEowSWM3ZndfcFhxam1qZTRocnItT3c?oc=5",
-   "utc": "2026-11-12T03:03:00Z",
+   "title": "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Hits-OPEC-Oil-Production-Quota-for-Sixth-Straight-Month.html",
+   "utc": "2026-11-12T12:30:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c?mod=mw_rss_topstories",
+   "utc": "2026-11-12T12:29:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Ukraine Says It Hit Russia’s Biggest Oil Refinery in Siberia",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/ukraine-says-it-hit-russia-s-biggest-oil-refinery-in-siberia",
+   "utc": "2026-11-12T12:27:07Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "COMMENTARY: Just like the US, Iran has squandered its good options to end the war",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNkU1dtRi1ZR0lyQmplWGZON1QwakF5Wk82UzhRSzR6ZlJfVFlpTkJLWEVBdGFsc21GbEVNMURkRDhaWm9tRHhwZGhUclFxXzdzUlZUU0VUYi10U1MtVzF5djhHNFVCSEhUa1dMN0pvWjktV2JQVGJTa01lSl9lM1RkY1RGdmJmOWVGUkd6MUw2WjBDZ0NPQ3pfYzh2ZXkwNDF3YXppNlBIcEhIUWlQcVhoZXpEOUZpNXYzZHVrdlVybVYz?oc=5",
+   "utc": "2026-11-12T12:25:09Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+   "title": "Bitcoin weakness erases September's bullish signal",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+   "utc": "2026-11-12T12:15:00Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia stock falls 8% as investors await Jensen Huang’s fate",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-   "utc": "2026-11-12T03:02:03Z",
+   "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+   "utc": "2026-11-12T12:05:42Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Nvidia Turmoil Lifts AMD, Broadcom on Bets for Business Gains",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-turmoil-lifts-amd-broadcom-on-bets-for-business-gains",
-   "utc": "2026-11-12T02:56:15Z",
-   "tag": "AI",
+   "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+   "utc": "2026-11-12T12:04:42Z",
+   "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-   "utc": "2026-11-12T02:52:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-   "utc": "2026-11-12T02:45:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
+   "title": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
-   "utc": "2026-11-12T02:43:09Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+   "utc": "2026-11-12T12:03:39Z",
+   "tag": "AI",
+   "breaking": true
   },
   {
-   "title": "Taiwan Drafts Plans for Wealth Fund, Aims for Bill by Year-End",
+   "title": "Nvidia Board Meets to Consider Replacing Jensen Huang",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-12/taiwan-drafts-plans-for-wealth-fund-aims-for-bill-by-year-end",
-   "utc": "2026-11-12T02:40:18Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/videos/2026-11-12/the-opening-trade-11-12-2026-video",
+   "utc": "2026-11-12T11:59:18Z",
+   "tag": "AI",
+   "breaking": true
   },
   {
-   "title": "Chief Future Officer: Eimear Bonner, Chevron | Patience Sustains Progress",
+   "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
+   "utc": "2026-11-12T11:57:14Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Benin Ships First Crude Cargo for Decades From Revived Oil Field",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-12/chief-future-officer-eimear-bonner-chevron-video",
-   "utc": "2026-11-12T02:36:30Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-   "utc": "2026-11-12T02:31:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "India Reclaims Spot Among World’s Five Biggest Stock Markets as Rally Extends",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-12/india-reclaims-spot-among-world-s-five-biggest-stock-markets-as-rally-extends",
-   "utc": "2026-11-12T02:30:33Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "How Chevron Is Maintaining Prominence in the Permian Basin",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-12/how-chevron-is-maintaining-prominence-in-the-permian-video",
-   "utc": "2026-11-12T02:30:29Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "IDR/USD: Indonesian Rupiah Drops to Record Amid MSCI Concerns, Oil Risks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-12/idr-usd-indonesian-rupiah-drops-to-record-amid-msci-concerns-oil-risks",
-   "utc": "2026-11-12T02:06:49Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/benin-ships-first-crude-cargo-for-decades-from-revived-oil-field",
+   "utc": "2026-11-12T11:46:51Z",
    "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "Asian stocks fragile, Nvidia plummets as board to decide CEO's fate",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ODl5LXpyQ0RZanVjSnZGS1NjS1ljMjZvdW9xY3ZSSUxvNkY2Z3dCMThiSjdKNHI1TFRCZnBIRHdYY0UxTGh0QjRZX3Y2S25sY0k4M0dKN3VZdGNMSGk5N0tPUmVJa3ozWXRCcmluOWxVVjVfblRLdmttMA?oc=5",
-   "utc": "2026-11-12T01:53:00Z",
-   "tag": "AI",
+   "title": "Buyers of $22 Billion Bank Securities Are Trapped in Losing Bet",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/buyers-of-22-billion-bank-securities-are-trapped-in-losing-bet",
+   "utc": "2026-11-12T11:45:46Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+   "utc": "2026-11-12T11:43:41Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
+   "utc": "2026-11-12T11:34:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+   "utc": "2026-11-12T11:30:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+   "utc": "2026-11-12T11:30:00Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "India Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Boosts-Gulf-Oil-Imports-as-Russian-Crude-Loses-Its-Price-Advantage.html",
+   "utc": "2026-11-12T11:30:00Z",
+   "tag": "OIL",
    "breaking": false
   }
  ]

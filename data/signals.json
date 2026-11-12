@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:05:52Z",
+ "updated": "2026-11-12T03:52:12Z",
  "level": 51,
  "band": "Alert",
  "components": [
@@ -97,7 +97,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -108,7 +108,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -119,7 +119,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -130,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -141,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -152,7 +152,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.7,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -163,18 +163,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.5,
    "airspace": false
   },
   {
    "title": "Civil war in the US over the Persian Gulf, Bessent evacuated: Russia's line on Iran, \"hardliners\" want a nuclear bomb",
-   "source": "Bankingnews",
+   "source": "bankingnews.gr",
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVWZYS2l4bFZDNnVRYWlGSlpnQnd5VGtrOENkZDdJcFhzQWQ4aU1KNm4ta1JrT3RxcWd3WTRvMVJja2Vqd21QVWotcHg2aDdoS0R1US1yVmh1WFljTm4xNGpBNVMzZkNUUF9rR0NmM3NqZ0hnZ1FwV0NDdkRtV0JkTHpPWk14NHhrdkstaGRQTzk3aXZnb3Z3V21xTGU1MVpXNVZJcTVia1g5TTFNZGlSTVFjSTNtNkc2a2VaRDRoZEYwMHkyRkNYUkExaHBOS2hVajFfWTlOOW1nZXJOTVFFQUJ4XzZMajlHbkZRQW1DTWJsQWk4RXNNR1pGeXVuVjNDQ28wY3lnTDZVQ25JWE5kYTZRQ18?oc=5",
    "utc": "2026-11-11T11:44:34Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -185,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": false
   }
  ],
  "mil": {
   "count": 2,
-  "global": 129,
-  "baseline": 1.8,
-  "samples": 32,
+  "global": 141,
+  "baseline": 1.9,
+  "samples": 31,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -636,6 +636,10 @@
    ],
    [
     "2026-11-12T00:05:52Z",
+    2
+   ],
+   [
+    "2026-11-12T03:52:12Z",
     2
    ]
   ],

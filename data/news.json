@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T01:54:01Z",
+ "updated": "2026-11-13T09:39:15Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (35)"
+  "Nikkei Asia": "ok (34)"
  },
  "items": [
   {
-   "title": "Stock futures rise after market dips amid Nvidia woes: Live updates",
+   "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-   "utc": "2026-11-13T01:41:28Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia's Jensen problem set to become one for AI supply chain",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVE3dUtnQ2JldXV3bEtEM0xoT3I1TlZiTjBqRzhWZVR1XzkzZ3pYRG5yVUJpaDhXSU8yc3BNZ240blJ1bDZoTlg4Y2RkelkxZE11N25yQXdQbDJRN0VkLUFGOVdrdVpEY0ZPU2RzM3VZTlZOTExFcm1rb25SSXFNSXlqN0R4UDJNWVQ3VUZYSUh0OGZyV2dENVByY2ZVeE1HSDhzNnlEaDJqejB5SDhzeERpeEc?oc=5",
-   "utc": "2026-11-13T01:40:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
-   "utc": "2026-11-13T01:22:38Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "North America",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fNlg4dUJFcERfdGdITnhINEsyd1JMT1Myd09acFJmSFh2MGJTckF0aThNdlhuck9UUW1nRUVnc1NiNzRvcnZld2JpN0daTnVXRTBHOTMtNlJ5RmluUVJIT0dSWG03Ykp3dmp2WXBtVEdkUQ?oc=5",
-   "utc": "2026-11-13T01:02:27Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "India Equity Surge Brightens Outlook for Exchanges, Brokerages",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/india-equity-surge-brightens-outlook-for-exchanges-brokerages",
-   "utc": "2026-11-13T01:00:00Z",
+   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "utc": "2026-11-13T09:38:44Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
+   "title": "Stock futures fall after markets slide amid Nvidia woes: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+   "utc": "2026-11-13T09:21:03Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+   "utc": "2026-11-13T09:19:49Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Indonesian Stocks Set for Best Week Since June on Foreign Buying",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-stocks-set-for-best-week-since-june-on-foreign-buying",
+   "utc": "2026-11-13T09:17:11Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+   "utc": "2026-11-13T09:16:58Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "ICTSI: Keen to Expand in Southern, Western Africa",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/ictsi-keen-to-expand-in-southern-western-africa-video",
+   "utc": "2026-11-13T09:13:12Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "China’s Credit Growth Disappoints Despite Greater Policy Support",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/china-s-credit-growth-disappoints-despite-greater-policy-support",
+   "utc": "2026-11-13T09:12:53Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
+   "utc": "2026-11-13T09:09:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/iraq-october-oil-output-jumps-to-highest-since-2019-iea-says",
+   "utc": "2026-11-13T09:05:30Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Why a $2 Billion Law Firm Suddenly Collapsed",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/why-a-2-billion-law-firm-suddenly-collapsed",
+   "utc": "2026-11-13T09:00:02Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Odd Lots: Why a $2 Billion Law Firm Suddenly Collapsed (Podcast)",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/audio/2026-11-13/odd-lots-why-a-2-billion-law-firm-suddenly-collapsed-podcast",
+   "utc": "2026-11-13T09:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Global Oil Market Swings to Surplus on Gulf Exports, IEA Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/global-oil-market-swings-to-surplus-on-gulf-exports-iea-says",
+   "utc": "2026-11-13T09:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Tech Tries to Soldier On Without Huang: Market Analysis",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/tech-tries-to-soldier-on-without-huang-3-minutes-mliv-video",
+   "utc": "2026-11-13T08:55:57Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Treasury yields rise as traders strengthen Fed rate hike bets",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+   "utc": "2026-11-13T08:50:43Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Asian Airlines Face a $148-a-Barrel Fuel Gamble",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Rare-Earth-Wars-US-General-Sounds-Alarm-Over-Chinas-Military-Leverage.html",
-   "utc": "2026-11-13T01:00:00Z",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Airlines-Face-a-148-a-Barrel-Fuel-Gamble.html",
+   "utc": "2026-11-13T08:50:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "China’s AI Sector Caught in the Crossfire After Nvidia Ousts Huang",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/insight-with-haslinda-amin-11-13-2026-video",
+   "utc": "2026-11-13T08:44:29Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Second car bomb to hit Russia in two days targets exiled Ukrainian political aide, media report",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVI2bjBWdjllV2NjNmRKS3dFemNKemhlSnFXWEJGQjU4dkhJcHJlWEZKMVdPVE1PWGw0R3JjNXdLenR5OEZ5ODZMZkN6am5UNVdtdHM5LUhUdldZMVAtUVQzOVQ4X0p3Yk1odW5wc250MENjNUZfeXM1TXJTaUV1M01keXM2RmNzeE5TUmJKNGJsNmdiRjhyN3owWS1pWWlTcWoxN2gzQ3d6LWtfSmRvREphZklMNG9V?oc=5",
+   "utc": "2026-11-13T08:41:05Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "New World Suspends Trading as Investors Watch for Next Steps",
+   "title": "Hong Kong Turns Even More Bullish on Economy With Growth Upgrade",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/new-world-suspends-trading-as-investors-watch-for-next-steps",
-   "utc": "2026-11-13T00:57:36Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Advent Again Seeks to Sell Singapore Tutor-Chain Learning Lab",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/singapore-tuition-center-learning-lab-tll-buyout-advent-seeks-sell",
-   "utc": "2026-11-13T00:54:07Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Singtel Says ‘Fairly Insulated’ From Nvidia, Raises Guidance",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/singtel-raises-profit-outlook-as-overseas-businesses-gain-ground",
-   "utc": "2026-11-13T00:45:59Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Silver Market Set for Deficit Even as Solar Makers Cut Back",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/silver-market-set-for-deficit-even-as-solar-makers-cut-back",
-   "utc": "2026-11-13T00:30:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/hong-kong-lifts-gdp-growth-outlook-again-as-ai-boom-spurs-export",
+   "utc": "2026-11-13T08:34:47Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Australia Bond Yield Falls Below US Peer as Rate Paths Diverge",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/australia-bond-yield-falls-below-us-peer-as-rate-paths-diverge",
-   "utc": "2026-11-13T00:24:14Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Stocks Fall as Huang Resigns, Nvidia Turns to CFO",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-12-2026-video",
-   "utc": "2026-11-13T00:23:37Z",
+   "title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+   "utc": "2026-11-13T08:27:07Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Nvidia Is Not a Normal Company Having a CEO Issue: Everson",
+   "title": "European Shares Pull Back From Record High After Four-Day Rally",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvda-is-not-a-normal-company-having-a-ceo-issue-everson-video",
-   "utc": "2026-11-13T00:19:02Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Charles Elson on Nvidia’s Corporate Governance Structure",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-13/charles-elson-on-nvidia-s-corporate-governance-structure-video",
-   "utc": "2026-11-13T00:13:57Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Roblox uses Japan playbook to grow in Asia-Pacific gaming market",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdmZ1U0JsZ3NFcE9rOEtyNlRxbmpMUC1UMUlJN0lxV1hHWU82RHhrVzhxdFlqTWJjSHRmSWpnTjRMSmpvQWJBMi14UGdGZmhXV0tYV2tZdnh0MHptMW5Hb0NWQi12NFd1WExXQUVLNXRhb1FtdkxFdVdadXIwdEpsR0ZSWWtTeUhEbnBYZEFGWkZmM0RfMXZZNFN2Q1lQUkp6TS02ZEdfNzRLLXNkaTRtaHVmcHY0eFVnX3N3cWVmQm9YdWdTdWhsdDktQWVFUGdURkNMUF9NcG1xbWZld2tBcEZfM0Rmb3JGM1dZU2Zn?oc=5",
-   "utc": "2026-11-13T00:13:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China Internet Stock Gains Face Reality Check in Nvidia Fallout",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/china-internet-stock-gains-face-reality-check-in-nvidia-fallout",
-   "utc": "2026-11-13T00:07:02Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-   "source": "CNBC Markets",
-   "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-   "utc": "2026-11-13T00:01:19Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
-   "utc": "2026-11-13T00:00:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
-   "utc": "2026-11-12T23:58:45Z",
-   "tag": "GOLD",
-   "breaking": false
-  },
-  {
-   "title": "Kalshi in talks to raise funds at $65 billion valuation for compute futures platform, source says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3FRODh0M0R5ZWUyTFE3eGh4RGlYS082NzBSTWJMU2pfT2xDTm1DQlBGWElzMzdjanMzcDB0TXlKUWJmYXJVMGhuWkJ4dU0ydi1ZVVJUNVZVaHliUW4xdTBtSEZpRXp2M2RuZzN3NGdUaGdHVGVQSnlUOUZQbGZ5NHFnVXk1aVpLQzNjUUpqcnprWVZzUkdmX0p4MnpSalVscURlWEtnVlVXRUVWel93X25nYXRWSVFjVGZFb0NB?oc=5",
-   "utc": "2026-11-12T23:56:50Z",
-   "tag": "MARKETS",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/european-shares-pull-back-from-record-high-after-four-day-rally",
+   "utc": "2026-11-13T08:22:26Z",
+   "tag": "STOCKS",
    "breaking": false
   }
  ]

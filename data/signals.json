@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T23:39:17Z",
- "level": 36,
+ "updated": "2026-11-13T23:59:53Z",
+ "level": 39,
  "band": "Watch",
  "components": [
   [
@@ -19,14 +19,14 @@
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   2,
-   6,
+   3,
+   9,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,9 +90,20 @@
  ],
  "headlines": [
   {
+   "title": "Flights suspended at airports across the US amid air traffic control communication disruptions",
+   "source": "WPLG Local 10",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlVVTGNSd0NETlhTelV2bUNjZjZPaWlHcnJ4eE5mRVVWME1tSk9SZm5Ra1FDSXpDMW5Wd2lWdS1BTFNkTkVETGNHb3I1Vjc4bWhoWFBTZW0wS3dQSjFPNlZyeUNleUg4SW5IOHN4REFhODFFVHpxUVdxd1FiSEtxY3FzLW50ZzMtVi1jOXkzMW5vOEJiNG04RDBjN0d4UnlBa1ZuSTJ4bVctOGk5N3V4SmNVX01xZ1FoSjVJcFB4QTh2TXpNaU9DVFhBczNPSXlKMmZFTHFHTVA?oc=5",
+   "utc": "2026-11-13T23:39:47Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.0,
+   "airspace": true
+  },
+  {
    "title": "All Flights Suspended Across US",
    "source": "ProPakistani",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fMkhrQk5nVkVLSURsOHdQYlZXdUM4WG0wVDdoWWpjbjE2bmVQdGhNOFBLXzdOa0xDS1loci1aWjFSMzk1MnpzM3BHeVlzWEhtUHhpVGZqSkhPRERKU1dUYXltVzZCV0Y3RE9aaVRCeUZ6Y0V2bkHSAXtBVV95cUxQc1g0RUsyZjM3VklUOHNlR0l6bmhQVHh5dWxQVDRQVVBUeFRWaXRUd3VjMDl4YXZ5Ni1FT1dONHBUb2sxMWpzOFBiZUZxNTlTZmNpamx1VXJOWWg1Mm1VN3VCclJ3Z1YzWWszYzV0WEVuWElqTXh3T2FaQnc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NZEFoV1pMUjg4bkNxWDhzWlJnam5iRUJFNjNyekVpTWdodzg0V0pmZU5STU5hbXJYWU05c09ia1h5dWl6SVJuQURB0gF7QVVfeXFMUHNYNEVLMmYzN1ZJVDhzZUdJem5oUFR4eXVsUFQ0UFVQVHhUVml0VHd1YzA5eGF2eTYtRU9XTjRwVG9rMTFqczhQYmVGcTU5U2ZjaWpsdVVyTlloNTJtVTd1QnJSd2dWM1lrM2M1dFhFblhJak14d09hWkJ3?oc=5",
    "utc": "2026-11-13T21:24:56Z",
    "tags": [
     "AIRSPACE"
@@ -108,18 +119,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFVlTm10RkhxQTRfZ2ltRnNpTUhqQTJLa0VmMHphSjZBWWFwdmZtNU8tcFgtOWlRR19MUWdlVzRObUV0SlViTUpYUG85eHRLaEVtUDFQUWNtTGFtd1FRbF9fR3kzNnJwZmJmZUEyMktkR3ZKdkhmQzcwcjVVWkZjblJHTGNvOHRJa056cjA1ZUpoUEJZU1JhSFNHY3hMSnFQRnN3ZmZDMmE1UVJUSEpIbg?oc=5",
-   "utc": "2026-11-13T17:53:18Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -130,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.8,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -201,10 +201,10 @@
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 86,
-  "baseline": 1.9,
-  "samples": 31,
+  "count": 1,
+  "global": 74,
+  "baseline": 1.8,
+  "samples": 32,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -669,6 +669,10 @@
    [
     "2026-11-13T23:39:17Z",
     0
+   ],
+   [
+    "2026-11-13T23:59:53Z",
+    1
    ]
   ],
   "box": [

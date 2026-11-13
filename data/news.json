@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:49:27Z",
+ "updated": "2026-11-13T23:38:58Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (31)"
+  "Nikkei Asia": "ok (39)"
  },
  "items": [
   {
-   "title": "Stocks making the biggest moves Friday: Nvidia, Cisco Systems, AMD, Steris, Modine & more",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-13T17:48:49Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Everyone's fighting for your wallet — but this premium travel card stands above the rest",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/select/amex-platinum-best-premium-travel-card/",
-   "utc": "2026-11-13T17:44:07Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-   "utc": "2026-11-13T17:39:48Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-   "utc": "2026-11-13T17:36:49Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Indonesian Billionaire’s LNG Plant Gets $140 Million From Canada",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-billionaire-s-lng-plant-gets-140-million-from-canada",
-   "utc": "2026-11-13T17:30:09Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
-   "utc": "2026-11-13T17:30:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Swiss Respiratory Biotech Windward Up 7.9% in US Trading Debut",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/swiss-respiratory-biotech-windward-up-7-9-in-us-trading-debut",
-   "utc": "2026-11-13T17:25:01Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
-   "utc": "2026-11-13T17:19:01Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-   "utc": "2026-11-13T17:16:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Uranium price hits record as AI demand prompts nuclear comeback",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUG5jOXdjT2ZMOXNJT0FnSlNUT2p5enFSQWZVWVVFdTFsb3ZqdUloa0ZsaVN1R1lwVWRrLVFxU1A2R3BxZFpQRnFLZjd0anVwYmlTQUN1enJiTUVtWUhHZldWZTBsNlBmU1NWM1FOWURRWU5nb3VsNkY4TlA3bmw2bkpKaTg2MmpfWHJjWUQ3VFlSQzNzUmI3R2NsX1Fsc1V3UGxWb3lwNUVCbk1HUE10d25DY041Q00?oc=5",
-   "utc": "2026-11-13T17:16:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "This drug wholesaler's transformation is paying off. Here's why the stock still looks attractive",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/mckesson-stock-specialty-growth-valuation.html",
-   "utc": "2026-11-13T17:12:37Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "SEC Moves to Rein In Executive Pay Disclosures to Investors",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors",
-   "utc": "2026-11-13T17:11:50Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "How low does Nvidia’s stock need to go before it’s a screaming bargain?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed?mod=mw_rss_topstories",
-   "utc": "2026-11-13T17:07:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-   "utc": "2026-11-13T17:06:57Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-   "utc": "2026-11-13T17:05:43Z",
-   "tag": "MARKETS",
+   "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+   "utc": "2026-11-13T23:30:00Z",
+   "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "Cameron says Brexit did not cause UK's problems",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-13/cameron-says-brexit-did-not-cause-uk-s-problems-video",
-   "utc": "2026-11-13T17:04:51Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "How US tech pain is European stock markets' gain",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5",
-   "utc": "2026-11-13T17:03:44Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "West African Oil Just Got $64 a Barrel Cheaper for Some Buyers",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/west-african-oil-just-got-64-a-barrel-cheaper-for-some-buyers",
-   "utc": "2026-11-13T17:02:34Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+   "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
-   "utc": "2026-11-13T17:01:26Z",
+   "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+   "utc": "2026-11-13T23:28:31Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Carrie Underwood on Her New Wellness Brand, HiNote",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video",
+   "utc": "2026-11-13T23:20:22Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia’s Board Failed Jensen Huang: Randall Peterson",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video",
+   "utc": "2026-11-13T23:20:08Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "If you could change one thing about caregiving, what would it be?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
-   "utc": "2026-11-13T17:01:00Z",
+   "title": "Did we really see a black hole? Australian team says 'yes'",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWVSV0NhZ2I4eXVJRU5GYXA3bGRzSXBzcUNDTExDSjZWN0ExWFNaTWQ4Y2NaS3QwenE4eTFHb3ZWa29DVVBiRXVTUmRSYnZ2NzFjd0xTQnBpRDdoWkdZQWhZVkUtSTRzSXRmRTNSaktoVFNyNG9MVV9sZk1jcktHRXNUZ3lfV3ZtcHVjTkxuenZxTXJ5SWVMVmlkWks?oc=5",
+   "utc": "2026-11-13T23:17:00Z",
    "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "Can Social Security reforms save the fund?",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3354430/can-social-security-reforms-save-the-fund",
+   "utc": "2026-11-13T23:14:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "utc": "2026-11-13T23:12:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia approaches Arm CEO Haas as employees seek Huang's return, reports say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
+   "utc": "2026-11-13T23:11:55Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "In Indonesia, runners for hire do the legwork",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOHBHaE1DWUdhMzNZcUR4cTR6eHk5MTVhOTk0dHFydE8zLXg3dE5YVm1mdEJNOEJJWjNHS19uZnpPSGhSekZwNDQ3NmQ1TGhOc0pXVlM2Y1hBQ1ZSUzdCVlFHYmtGWmJLS1ZzWGlzRUdET0JKcHUwc2xYTG5UX24tZnRYVW9vTWdldy1J?oc=5",
+   "utc": "2026-11-13T23:11:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "PODCAST: FAA issues ground stop, Nvidia and Microsoft latest, Pope returns home in Peru (Updated)",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWJ3V2hTUXNWcFdGRV9VLUt5WjFuYjV2T1g4QVJKbmVmNXYxSXZnV0tDWWh6RWdpVnJVa0tjMGJ3UHJOaXg3T2diS1J1RTBMQTVhV2lENG40WDZPRzA4S3B2YWxBTW92Y3VqQ28tZTJsTUpLcW5mbVNWZ1JmQW9oNHE3bDFRaFVlOElVRVNjb3hDQk5fSEU4SFhDem9SSnVmcElxSQ?oc=5",
+   "utc": "2026-11-13T23:09:58Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "No grass, no problem: Playing sand golf in the Australian outback",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT29Vd25ybDM1QTRDOFZFTm1wQkpNaDB4Tk0yNlg0azROQ1BCZ3BWWWp4bnl4d2VIUjY0ZE5yaG03amVmZGN3cmd4Rk1VNHkxZ292NUFMV1NGamw0SUZWWHJEMzl3MW9wZ3M4MFRmbUdIZTFDN0lweEtISWVmN2dEZ1NIYUFrMHhBZVNKM3JFSkcyMld3SFZsYjRDSVBKNlFNbWNzcw?oc=5",
+   "utc": "2026-11-13T23:01:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Iran Braces for a Budget Without Oil Revenue",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html",
+   "utc": "2026-11-13T23:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Exemplar Luxury Group CEO on the Company’s Second Life",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
+   "utc": "2026-11-13T22:59:58Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Big Take: The Climate Is Changing in Ways Models Couldn’t Predict",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-climate-is-changing-in-ways-models-couldn-t-predict-video",
+   "utc": "2026-11-13T22:52:42Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Jeff Currie Says He’s Bearish on Copper Due to China",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video",
+   "utc": "2026-11-13T22:51:59Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "4 expert tips for signing up for Medicare",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+   "utc": "2026-11-13T22:45:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+   "utc": "2026-11-13T22:44:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Rent the Runway CEO Paige Thomas on Her Company Vision",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/rent-the-runway-ceo-paige-thomas-on-her-company-vision-video",
+   "utc": "2026-11-13T22:41:52Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Tanker Hits Cruise Ship in New Orleans, Triggering Rescue",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/tanker-hits-cruise-ship-in-new-orleans-prompting-rescue-video",
+   "utc": "2026-11-13T22:33:48Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Flights Grounded Across US Over Air Traffic Control Problems",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/flights-grounded-across-us-video",
+   "utc": "2026-11-13T22:33:32Z",
+   "tag": "MARKETS",
+   "breaking": false
   }
  ]
 }

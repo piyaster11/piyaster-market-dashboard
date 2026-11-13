@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:53:00Z",
+ "updated": "2026-11-13T00:04:19Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (33)"
+  "Nikkei Asia": "ok (36)"
  },
  "items": [
   {
-   "title": "Nasdaq falters as Nvidia shares fall on CEO exit, oil prices rise: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-   "utc": "2026-11-12T20:51:28Z",
+   "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+   "source": "CNBC Markets",
+   "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+   "utc": "2026-11-13T00:01:19Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "The bond market now has an even bigger fear than AI fallout",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-   "utc": "2026-11-12T20:44:00Z",
+   "title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
+   "utc": "2026-11-13T00:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures inch higher after market dips amid Nvidia woes: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+   "utc": "2026-11-12T23:53:33Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Nvidia live updates: Jensen Huang had ‘intimate relationship’ with second employee, Reuters reports",
+   "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
-   "utc": "2026-11-12T20:36:19Z",
+   "utc": "2026-11-12T23:49:18Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-   "utc": "2026-11-12T20:34:54Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Trump says ‘we don’t need a deal with Iran’",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-   "utc": "2026-11-12T20:34:31Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Lula Eyes Measures to Boost Fiscal Adjustment to $14 Billion",
+   "title": "Congress Could Have Prevented Megaspeed Access: McGuire",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-12/lula-eyes-measures-to-boost-fiscal-adjustment-to-14-billion",
-   "utc": "2026-11-12T20:33:14Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-12/congress-could-have-prevented-megaspeed-access-mcguire-video",
+   "utc": "2026-11-12T23:36:51Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-   "utc": "2026-11-12T20:32:21Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "$7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/7-Billion-in-Oil-Debt-Has-Nigerian-Banks-Holding-Back-Lending.html",
-   "utc": "2026-11-12T20:30:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "The Ultrafast Fall of Jensen Huang",
+   "title": "Braskem Misses Estimates as Weaker Spreads Offset Sales",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-12/the-ultrafast-fall-of-jensen-huang",
-   "utc": "2026-11-12T20:29:52Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/braskem-misses-estimates-as-weaker-spreads-offset-sales",
+   "utc": "2026-11-12T23:36:50Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Jensen Exits, AI Debt Under Review, Treasuries Slide",
+   "title": "Swiss Biotech Windward Raises $225 Million in US IPO, Placement",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-12/real-yield-11-12-2026-video",
-   "utc": "2026-11-12T20:24:22Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
-   "utc": "2026-11-12T20:17:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/swiss-biotech-windward-raises-225-million-in-us-ipo-placement",
+   "utc": "2026-11-12T23:32:55Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
-   "utc": "2026-11-12T20:06:07Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Pfizer offshoot Zoetis lines up 'potential blockbuster' pet meds for Japan",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTZCM1RsczVDVUYyTDRRWDhybGlTQjRoMDRhalFvU2ZHWGNWN2VtR0R4SXJ3b1FEOUU1a2NQem1aSWsyNWZCRWl3dXVoaF91cUUwVEp0ZllNb2ROVTJZY01MY1VEbkxhcHhweXEyRG95S3FPWlgtOXh0R2Q2MlE5THBCT1l2VXNGZUpxeWRPeFBtRS1wVVM4bEpSbXR1a2NmaHpHbnRDSWRxMF9OU25ZMHBvRktCdFd1QWtrVF93?oc=5",
-   "utc": "2026-11-12T20:06:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "US and ASEAN accept Myanmar's 'elected' government with few concessions",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZl9XaGdMNHJBNTVxcTNBOG1TWW5iRlllRmExM0o5Y2VCT0llS1ZuZGxRV1lZcTNDUGQyMjFQSlhYajQwNUxVQ0xRSldHU3NzRjdDdmFjMm9sdUlVMm1pN2NxM19zZkVaT1hzMlJETVF4R0tEZlF0MkFVV0I5T0I0WEo1c0wyZGEtaVZub2dOMXRqYmV2ekdnMUp2alZCT3FuMHcw?oc=5",
-   "utc": "2026-11-12T20:05:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
-   "utc": "2026-11-12T20:03:57Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
-   "utc": "2026-11-12T20:01:29Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html",
-   "utc": "2026-11-12T20:00:42Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "BofA Traders See Short Sellers Pile Into Rate-Sensitive Stocks",
+   "title": "Wild Price Swings Expose Stress in Hong Kong Stocks, Study Shows",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-12/bofa-traders-see-short-sellers-pile-into-rate-sensitive-stocks",
-   "utc": "2026-11-12T20:00:15Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/wild-price-swings-expose-stress-in-hong-kong-stocks-study-shows",
+   "utc": "2026-11-12T23:30:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Central Asia’s B20 Message to Washington: Let’s Make Deals",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Geopolitics/International/Central-Asias-B20-Message-to-Washington-Lets-Make-Deals.html",
-   "utc": "2026-11-12T20:00:00Z",
+   "title": "Electronic waste challenge looms",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3353619/electronic-waste-challenge-looms",
+   "utc": "2026-11-12T23:25:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+   "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-   "utc": "2026-11-12T19:58:11Z",
+   "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
+   "utc": "2026-11-12T23:14:56Z",
    "tag": "AI",
    "breaking": true
+  },
+  {
+   "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+   "utc": "2026-11-12T23:08:50Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Zelenskyy Hails Progress after Witkoff, Kushner Meet Putin",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/zelenskyy-hails-progress-after-witkoff-kushner-meet-putin",
+   "utc": "2026-11-12T23:06:39Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Peru Lifts Interest Rate for First Time in Nearly Four Years",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/peru-raises-interest-rates-for-first-time-in-nearly-four-years",
+   "utc": "2026-11-12T23:04:02Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Nov. 13",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
+   "utc": "2026-11-12T23:02:09Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Jokowi Era Fades in Indonesia With Son Forced Out as Prabowo’s Vice President",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/jokowi-era-fades-in-indonesia-with-son-forced-out-as-prabowo-s-vice-president",
+   "utc": "2026-11-12T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Ex-Malaysia Digital Star That Built PM’s Avatar Is Mired in Debt",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/ex-malaysia-digital-star-that-built-pm-s-avatar-is-mired-in-debt",
+   "utc": "2026-11-12T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Venezuela-Ends-19-Year-Power-Monopoly-With-Oil-Fields-First-in-Line.html",
+   "utc": "2026-11-12T23:00:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+   "utc": "2026-11-12T22:57:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "EXCLUSIVE: Kalshi says it ended Donald Trump Jr's advisory contract over Polymarket conflict",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYlQ3N0FyWHE3WUp4cHZOWWJRVUFVWFJuT1Jic05nVVBBWFNsYkFzbk1zeWRTbDA5c2k1Wk55UGFVdDBYeF9CY1U2YjhNV1pKd1h3aThoSm1jVEpmcEZtRDE5RldpeHhZaEphT1VfREFGd2Y1NG5BWVBiWFdQREFHeHQ4UjEtT2w4ZksyVldLNkpTRGpfYkdTZXpTblZFdEpNbGUta25VM2RpbDYzb0NWSkdCV3h2ZUhPamJBXy1iYzA?oc=5",
+   "utc": "2026-11-12T22:56:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+   "utc": "2026-11-12T22:55:52Z",
+   "tag": "BTC",
+   "breaking": false
   }
  ]
 }

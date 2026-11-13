@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:04:34Z",
+ "updated": "2026-11-13T01:54:33Z",
  "ok": 9,
  "q": {
   "spx": {
@@ -35,25 +35,25 @@
    "stale": false
   },
   "wti": {
-   "v": 88.79,
-   "chg": 2.61,
-   "t": "2026-11-12T23:53:38Z",
+   "v": 88.26,
+   "chg": 2.0,
+   "t": "2026-11-13T01:44:26Z",
    "prev": 86.53,
    "src": "Yahoo Finance CL=F",
    "stale": false
   },
   "brent": {
-   "v": 95.78,
-   "chg": 3.26,
-   "t": "2026-11-12T23:46:39Z",
+   "v": 95.24,
+   "chg": 2.67,
+   "t": "2026-11-13T01:41:32Z",
    "prev": 92.76,
    "src": "Yahoo Finance BZ=F",
    "stale": false
   },
   "gold": {
-   "v": 3885.3,
-   "chg": -2.88,
-   "t": "2026-11-12T23:54:24Z",
+   "v": 3912.5,
+   "chg": -2.2,
+   "t": "2026-11-13T01:44:22Z",
    "prev": 4000.5,
    "src": "Yahoo Finance GC=F",
    "stale": false
@@ -67,9 +67,9 @@
    "stale": false
   },
   "thb": {
-   "v": 33.85,
-   "chg": 0.34,
-   "t": "2026-11-13T00:04:29Z",
+   "v": 33.86,
+   "chg": 0.37,
+   "t": "2026-11-13T01:54:31Z",
    "prev": 33.736,
    "src": "Yahoo Finance THB=X",
    "stale": false

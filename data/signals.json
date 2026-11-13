@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:04:34Z",
+ "updated": "2026-11-13T01:54:33Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   30,
+   29,
    35,
    35,
    "1.5 pts per headline"
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-12T22:50:31Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
    "title": "Japan oil companies keep profits growing despite Hormuz closure",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVhLdm5JM2QzbjgxMVNxQ2w3Tm53UWtNdHRjQUVrcE12bFhCb3RTVnRRMjItaVNlNjVhWm1CaTBPcVlTVVVQQTVWS2R2a1RvZ1lrVF9tN0I2Q3ZVaTZtRk0ycExxcndqcllMWWY2WVBSNDYtTVNWRUR5ZUVPeER1OXR0c3dtYWdTOFBOamEtN2tJQVRnNG5FXzdqM0tjcllvRGhIUkZB?oc=5",
@@ -97,7 +108,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -112,17 +123,6 @@
    "airspace": false
   },
   {
-   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-12T12:02:20Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.5,
-   "airspace": false
-  },
-  {
    "title": "Fuel Prices Could Keep Rising for Months After Hormuz Reopens, US EIA Says",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXMxOTdGVzVOLUhfa3hkbXliUU40aGNWanZ1RFRPMktrQVFZTW82UGhoOXpkR0k2cTZxQS1OYlR3NVM4MDZ2dTBOSHVPYXpOdnZpSXNCOWVHYXFKUWdxV2NPVzdfdUl0NXhlcnY3SWdxMjdkMGQ2ZlZOS3U3dkZtYVRQaDFvQXJQcGNBdVB6UFlhY3RDSzd1bW1Hd3V3b0FTaEVSeUNiUQ?oc=5",
@@ -130,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.5,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -163,7 +163,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -174,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -196,13 +196,13 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.3,
+   "score": 4.2,
    "airspace": false
   }
  ],
  "mil": {
   "count": 0,
-  "global": 260,
+  "global": 279,
   "baseline": 2.0,
   "samples": 31,
   "hist": [
@@ -652,6 +652,10 @@
    ],
    [
     "2026-11-13T00:04:34Z",
+    0
+   ],
+   [
+    "2026-11-13T01:54:33Z",
     0
    ]
   ],

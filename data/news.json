@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:59:31Z",
+ "updated": "2026-11-14T06:36:36Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (40)"
+  "Nikkei Asia": "ok (33)"
  },
  "items": [
   {
-   "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
+   "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-   "utc": "2026-11-13T23:56:10Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-   "utc": "2026-11-13T23:54:36Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-   "utc": "2026-11-13T23:54:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-   "utc": "2026-11-13T23:42:18Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Troubled Sherritt Misses Payment as Liquidity Crisis Deepens",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/troubled-sherritt-misses-payment-as-liquidity-crisis-deepens",
-   "utc": "2026-11-13T23:39:03Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-   "utc": "2026-11-13T23:30:00Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Carrie Underwood on Her New Wellness Brand, HiNote",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video",
-   "utc": "2026-11-13T23:20:22Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia’s Board Failed Jensen Huang: Randall Peterson",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video",
-   "utc": "2026-11-13T23:20:08Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Did we really see a black hole? Australian team says 'yes'",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWVSV0NhZ2I4eXVJRU5GYXA3bGRzSXBzcUNDTExDSjZWN0ExWFNaTWQ4Y2NaS3QwenE4eTFHb3ZWa29DVVBiRXVTUmRSYnZ2NzFjd0xTQnBpRDdoWkdZQWhZVkUtSTRzSXRmRTNSaktoVFNyNG9MVV9sZk1jcktHRXNUZ3lfV3ZtcHVjTkxuenZxTXJ5SWVMVmlkWks?oc=5",
-   "utc": "2026-11-13T23:17:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Can Social Security reforms save the fund?",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3354430/can-social-security-reforms-save-the-fund",
-   "utc": "2026-11-13T23:14:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "utc": "2026-11-13T23:12:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia approaches Arm CEO Haas as employees seek Huang's return, reports say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMW5kZ01Wbk9TVFVaV1BrRXYwZEs0RmNORjJySnlqTDR5V2E2dlcwcVFFdHBVbG9nQjBPaXFWUjFpX2ZpR0gwUWE0N1ZBODl0VjFWdVBYLUJUYkFWZThNRmJEenhjbnVKTzA4Tkt6T1lPN1NzcTJPTFVDRFV2VFNrWWJ3ei14Q2JPQmZKd19jSUo2MHlIdVZhR3plaWtnNERYdG0yTi1XZThxLTZoZ0xzZUJ0dmN3OHJERlRuN0ZXSQ?oc=5",
-   "utc": "2026-11-13T23:11:55Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "In Indonesia, runners for hire do the legwork",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOHBHaE1DWUdhMzNZcUR4cTR6eHk5MTVhOTk0dHFydE8zLXg3dE5YVm1mdEJNOEJJWjNHS19uZnpPSGhSekZwNDQ3NmQ1TGhOc0pXVlM2Y1hBQ1ZSUzdCVlFHYmtGWmJLS1ZzWGlzRUdET0JKcHUwc2xYTG5UX24tZnRYVW9vTWdldy1J?oc=5",
-   "utc": "2026-11-13T23:11:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "PODCAST: FAA issues ground stop, Nvidia and Microsoft latest, Pope returns home in Peru (Updated)",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWJ3V2hTUXNWcFdGRV9VLUt5WjFuYjV2T1g4QVJKbmVmNXYxSXZnV0tDWWh6RWdpVnJVa0tjMGJ3UHJOaXg3T2diS1J1RTBMQTVhV2lENG40WDZPRzA4S3B2YWxBTW92Y3VqQ28tZTJsTUpLcW5mbVNWZ1JmQW9oNHE3bDFRaFVlOElVRVNjb3hDQk5fSEU4SFhDem9SSnVmcElxSQ?oc=5",
-   "utc": "2026-11-13T23:09:58Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "No grass, no problem: Playing sand golf in the Australian outback",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT29Vd25ybDM1QTRDOFZFTm1wQkpNaDB4Tk0yNlg0azROQ1BCZ3BWWWp4bnl4d2VIUjY0ZE5yaG03amVmZGN3cmd4Rk1VNHkxZ292NUFMV1NGamw0SUZWWHJEMzl3MW9wZ3M4MFRmbUdIZTFDN0lweEtISWVmN2dEZ1NIYUFrMHhBZVNKM3JFSkcyMld3SFZsYjRDSVBKNlFNbWNzcw?oc=5",
-   "utc": "2026-11-13T23:01:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Iran Braces for a Budget Without Oil Revenue",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html",
-   "utc": "2026-11-13T23:00:00Z",
+   "link": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+   "utc": "2026-11-14T06:00:01Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Exemplar Luxury Group CEO on the Company’s Second Life",
+   "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
-   "utc": "2026-11-13T22:59:58Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Big Take: The Climate Is Changing in Ways Models Couldn’t Predict",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-climate-is-changing-in-ways-models-couldn-t-predict-video",
-   "utc": "2026-11-13T22:52:42Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Jeff Currie Says He’s Bearish on Copper Due to China",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video",
-   "utc": "2026-11-13T22:51:59Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+   "utc": "2026-11-14T05:20:13Z",
    "tag": "CHINA",
    "breaking": false
   },
   {
-   "title": "4 expert tips for signing up for Medicare",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-   "utc": "2026-11-13T22:45:00Z",
+   "title": "Chinese makers flock to Africa as trade gives way to local production",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1pKSm5GemFBVTJUMFliOURkcElQY1k2NUt5VnNSc0NfSVRHX2hlY1ZiVlF0Mnh1MXp6U0ZUZTR5dEJqbGRKaXZ2cnJxcEdsODJqNm5hSndNamJYVDU3ZkxkSzNhN2M0TTlzcXRiUXljeXVBMThJcWloeHBad2tiLXJrZHB6cjNoLVNrdGNuamJtbzQxYTVPYWdXZUhjUU9Sa0l0TERtYnFzY291Tkd3?oc=5",
+   "utc": "2026-11-14T05:09:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+   "utc": "2026-11-14T05:08:24Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "South Korea should not fear China's rise, foreign minister says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc?oc=5",
+   "utc": "2026-11-14T04:49:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+   "utc": "2026-11-14T04:30:00Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "- Nikkei Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43U1otemwzVjRPMk5PS1FyMU9QTGdIS25iNVhrV1k1R3NreUUxcjRyWnhDajJrNkE5WUxqeUpCSURzXzRY?oc=5",
+   "utc": "2026-11-14T04:28:08Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "AKITO TANAKA",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wNUdOaVkwZnd3blNzUVRSdndrYmJFcUdyczh4TkpPX0ZjVUE5XzhiLU1VV3ZtbFZ2NjZpMlgwWHZfRTBILUU3TEJkejZzcG5ZelhzaVBCMGFTbU92Tks0aVRJcGVKbF9Pa3oyV2RWd0E?oc=5",
+   "utc": "2026-11-14T04:13:31Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
+   "utc": "2026-11-14T04:05:34Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-11-14T03:59:35Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
+   "utc": "2026-11-14T03:44:05Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Osaka landmark to be centerpiece of area's redevelopment",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDFENExxQlN6dUFfc0dUU2JaWmNHZUt1Sm1ZT2RvSUphRWhwVkc2amJfUk5ZdnYxSnpXWjNlei0xaWZGQzF6UXhsbkdQQXdsaGtDTnpmbnJuTU10ZmlLVG9oTjY4YUxucDc1SWhmb2xMM0RpU2ppOWZxWlRsdEtPVUp6b1lnd3FfZDZyMUZ5VEZIbGlReG9ab3d2bFlkbEdmOWtpYmVCdw?oc=5",
+   "utc": "2026-11-14T02:56:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+   "utc": "2026-11-14T02:42:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Line Man flags pricing concerns",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3354230/line-man-flags-pricing-concerns",
+   "utc": "2026-11-14T02:30:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "US lifts nationwide flight shutdown caused by communications failure",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUpwbHZWd0Z4cm9SVTR6eW1NQ1RGd1Q3SldzMkNuVmZBbW1QZnZoQk5DN0pzWDJMV05rVVRoVk92MkM4Wmk4N3RjaVBSa1JFTEdnM2ppM184SlJua0hCWVlsSkFUaUt3azQ1c1NBMDlNb2MwcjRCejhjVWdsUllqUDIwWEV1UkJHOTh2VHZOeC1MeHVQUFp0V1h0OHRoZjlZYklVYVdxcGgyczNGcml0cEIzeDJ2dms?oc=5",
+   "utc": "2026-11-14T02:13:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
+   "utc": "2026-11-14T02:04:53Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "14 dividend stocks selected for long-term growth",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+   "utc": "2026-11-14T01:58:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "- 日本経済新聞",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OVjhMQUViLWtJakpmdm9EVUt2RWNfeHlXT19rOWk2SlZFaEVzamxBZzVRdVp5dnZ6elZlT0xKcTlpTHVaUTB5R2NpLS1feTBZNWhsbzJ5RnpmUXptcm1mWUY5bXBlQ1pkWkZXZFhUY21IOTNYQmJmcGQwbw?oc=5",
+   "utc": "2026-11-14T01:39:50Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+   "utc": "2026-11-14T01:34:11Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Stocks steady as investors look beyond Nvidia",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3354310/stocks-steady-as-investors-look-beyond-nvidia",
+   "utc": "2026-11-14T01:32:00Z",
+   "tag": "AI",
    "breaking": false
   }
  ]

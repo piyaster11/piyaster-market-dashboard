@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T23:59:53Z",
- "level": 39,
- "band": "Watch",
+ "updated": "2026-11-14T06:37:03Z",
+ "level": 50,
+ "band": "Alert",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,15 +12,15 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   20,
-   30,
+   29,
+   35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   3,
-   9,
+   6,
+   15,
    15,
    "3 pts each"
   ],
@@ -90,21 +90,10 @@
  ],
  "headlines": [
   {
-   "title": "Flights suspended at airports across the US amid air traffic control communication disruptions",
-   "source": "WPLG Local 10",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlVVTGNSd0NETlhTelV2bUNjZjZPaWlHcnJ4eE5mRVVWME1tSk9SZm5Ra1FDSXpDMW5Wd2lWdS1BTFNkTkVETGNHb3I1Vjc4bWhoWFBTZW0wS3dQSjFPNlZyeUNleUg4SW5IOHN4REFhODFFVHpxUVdxd1FiSEtxY3FzLW50ZzMtVi1jOXkzMW5vOEJiNG04RDBjN0d4UnlBa1ZuSTJ4bVctOGk5N3V4SmNVX01xZ1FoSjVJcFB4QTh2TXpNaU9DVFhBczNPSXlKMmZFTHFHTVA?oc=5",
-   "utc": "2026-11-13T23:39:47Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 5.0,
-   "airspace": true
-  },
-  {
-   "title": "All Flights Suspended Across US",
-   "source": "ProPakistani",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NZEFoV1pMUjg4bkNxWDhzWlJnam5iRUJFNjNyekVpTWdodzg0V0pmZU5STU5hbXJYWU05c09ia1h5dWl6SVJuQURB0gF7QVVfeXFMUHNYNEVLMmYzN1ZJVDhzZUdJem5oUFR4eXVsUFQ0UFVQVHhUVml0VHd1YzA5eGF2eTYtRU9XTjRwVG9rMTFqczhQYmVGcTU5U2ZjaWpsdVVyTlloNTJtVTd1QnJSd2dWM1lrM2M1dFhFblhJak14d09hWkJ3?oc=5",
-   "utc": "2026-11-13T21:24:56Z",
+   "title": "Big airlines 'shut down' as Europe to US flights suspended in ground stop chaos",
+   "source": "The Mirror US",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1kxTzcySXd0STNCQ1hzc01lSUZYRE5LOEQ0RXpNRk9RWGEyR3Jzb0VqOUVBSzJSeGdyZ0w4LVdhekhGWTZaZzdFSHZXRk5wMU9EX2NXTjVUVldYZm1aVmJtRDBEXzNiamFPMXhMZE9fOS1pd2RNd29GZmkzYVp6RWJn0gGHAUFVX3lxTE03OXNoMk92NEFsalJwdEI5UnJpTFFaNnQ4NkdnNHkzVVZDNGdZQnFrWFVYbmdyckszbEV6Slo4NWRIZE5YTi1GOVdQdEl0aWhMMVJxNHlqWktrOWtha1A1NDdLS2h2RGxzd0Q0UjYyajJxWjFhZWtCVTM2ZWpRakoyXzdNN0ZOaw?oc=5",
+   "utc": "2026-11-14T03:02:00Z",
    "tags": [
     "AIRSPACE"
    ],
@@ -112,15 +101,26 @@
    "airspace": true
   },
   {
-   "title": "Brace for a Flood of Oil as Soon as Hormuz Reopens",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOelUyU2ZzNVlHdGNFTDQwMHJSTDVTN2w0eFJGY08wSUhOS0pvYi1EM3lFQWIzNDBHdHBkbGlLTEJvWHFVbjJ1ZVQ1ZnVCQjF1ck9aUXdJR2sxTXVoUGdkdno3cEZoSTBZRWNmWlBlbDlyQmZCYzN5SXNQY09qUFd1S2hTVms1NDA?oc=5",
-   "utc": "2026-11-13T17:54:57Z",
+   "title": "Strait of Hormuz is closed once again: Iran",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NVNuS3BtZVBRYXZNdGFxRTl2UURCamRKUWxSTHROY2RfMDMwOVdzczhsSEVScUcwaUpIU3U0NTRIQUtLR05IM2t2MkRlODZJNnZJUnZGMlRyeThERmR6aHo5SE1JZGJGdEhDeE1UdjJMWWZXVjVz?oc=5",
+   "utc": "2026-11-14T00:34:24Z",
    "tags": [
     "HORMUZ"
    ],
    "score": 4.7,
    "airspace": false
+  },
+  {
+   "title": "Flights suspended at airports across the US amid air traffic control communication disruptions",
+   "source": "WPLG Local 10",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlVVTGNSd0NETlhTelV2bUNjZjZPaWlHcnJ4eE5mRVVWME1tSk9SZm5Ra1FDSXpDMW5Wd2lWdS1BTFNkTkVETGNHb3I1Vjc4bWhoWFBTZW0wS3dQSjFPNlZyeUNleUg4SW5IOHN4REFhODFFVHpxUVdxd1FiSEtxY3FzLW50ZzMtVi1jOXkzMW5vOEJiNG04RDBjN0d4UnlBa1ZuSTJ4bVctOGk5N3V4SmNVX01xZ1FoSjVJcFB4QTh2TXpNaU9DVFhBczNPSXlKMmZFTHFHTVA?oc=5",
+   "utc": "2026-11-13T23:39:47Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.7,
+   "airspace": true
   },
   {
    "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
@@ -130,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -141,7 +141,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": true
   },
   {
@@ -152,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -163,7 +163,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.1,
+   "airspace": false
+  },
+  {
+   "title": "The Strait of Hormuz was the biggest game changer for markets in 2026",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWEFRbWdwR1hxczhhWndWaTktQlV6X0hYWE0tVXJST3VEcVpVbU1meloxVmllTkpJUnQ0dlhqZEd3ZTFCT29YN2lBbjdqbUR3WW9XYVgtczd2UDJyZ3RLUVFvSTI2ZVF2dGlVMjl1TnlQczJDeVhNdnVEcmszRHZ4TnhEV0JNUVZPbXUtMmU2ZDU4ZjZrUDVJeGs2NmpUVEJ1cjlEWl80WFJETUhrX3Ezc1Q1SGczWjJWTzRrTC1hREdQT3Mx?oc=5",
+   "utc": "2026-11-13T05:32:00Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 6.0,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -185,26 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "The Strait of Hormuz was the biggest game changer for markets in 2026",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWEFRbWdwR1hxczhhWndWaTktQlV6X0hYWE0tVXJST3VEcVpVbU1meloxVmllTkpJUnQ0dlhqZEd3ZTFCT29YN2lBbjdqbUR3WW9XYVgtczd2UDJyZ3RLUVFvSTI2ZVF2dGlVMjl1TnlQczJDeVhNdnVEcmszRHZ4TnhEV0JNUVZPbXUtMmU2ZDU4ZjZrUDVJeGs2NmpUVEJ1cjlEWl80WFJETUhrX3Ezc1Q1SGczWjJWTzRrTC1hREdQT3Mx?oc=5",
-   "utc": "2026-11-12T12:00:00Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.5,
+   "score": 4.8,
    "airspace": false
   }
  ],
  "mil": {
   "count": 1,
-  "global": 74,
+  "global": 64,
   "baseline": 1.8,
-  "samples": 32,
+  "samples": 31,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -672,6 +672,10 @@
    ],
    [
     "2026-11-13T23:59:53Z",
+    1
+   ],
+   [
+    "2026-11-14T06:37:03Z",
     1
    ]
   ],

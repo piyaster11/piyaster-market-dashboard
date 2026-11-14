@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:37:03Z",
+ "updated": "2026-11-14T14:14:35Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -19,7 +19,7 @@
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   6,
+   8,
    15,
    15,
    "3 pts each"
@@ -90,6 +90,50 @@
  ],
  "headlines": [
   {
+   "title": "Europe’s Borrowed Energy Security: How the Hormuz Crisis Turned Diversification into Dependence",
+   "source": "Modern Diplomacy",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNndObFlaTV9LMmc2aDhOLVBhZUlpa1BhUWdCNXRHSXBTeG5hRzV1OG1RMFV0ZVZ3cFgxbXNMU0Q5T0xuZ2gyX1FNTUN1Wl9GdFdQVWktbDM0SWVfdGlXd29lcGQ2VVdRckoxSGVVUGhLQ1pKQi1WRGZqcEQzaVRCeEJiRDdzNnJiOGhHN3MyZnRSWWFaT0dtZ3hQazMyel9VMnlpSklodl9PSkN3ZVdMTG9zZm9yd0llT3J0bGxQazEwbURJWGJMMFltWU8?oc=5",
+   "utc": "2026-11-14T10:40:00Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "US: chaos in the skies – flights suspended for four hours, thousands of cancellations",
+   "source": "Il Foglio",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3V5Q0JPcDFKY3I2Z0dCVFNwNDRCMk9WZVUxb1VvZDdoYl9YVm83bzRJSEFKZE9RcHA0d0dMbk5LQ2czTjdHYkp5NmRrTHAwR1NRWVJrMUpkQ2FXZnl4ZUY4Vk05NW1BTzUtUlQzX1JvM0xFSFBEdmVJYXA5aW0wVVp0NkJOX1hEUFZZV3FhNzJUdjJJNkJkOFdNNDVYZmMzR2ZVR2xJYVVmT1pybGdZNDdFRHhGYVJ0TWx6RkdyeTZrbk1WNGlSVG9WTFZGcVN1eDFCRw?oc=5",
+   "utc": "2026-11-14T08:56:00Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.8,
+   "airspace": true
+  },
+  {
+   "title": "Chaos in the US: what happened and why were all flights suspended for 4 hours?",
+   "source": "Diario AS",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb21FbGFHcUVsSDM1TFNVeUtDa0dmR0tJODBsQWVpejdLQnN4dFFwSTBpNGFHQUlsSlB2NjBPNkRYcGROTGtRdlpGMU5BdVl3RWQ1NUlaTlRmVFB4Yll5WFZSUk5Ka3Q4SmNCS1hIdFloUXloWGpUVDNHcVdoc0dJVGNzTkJTQVRkNWN3bUYtdC1naFN6Uy1DWU9uS2ZsUUN2eW1ScTM2WWJqb0hmbjhEbWVScXUtRncz0gHMAUFVX3lxTE53Nm9HNVZWNXdzTmdWVzhIcDlpd2h3RlpHU1NuWU01empnZXU2MEFSVzFubVkxLUdzNlY5czNzV1lqbkMtUkY2QjFCSUlpMUFEZDZQWlFtM2RLYlM1QTE1TGROZHFGNDUzSGtLckE5RFk1MHJUbkFRdTRTZlhXTFZzeWF5RHl4Q3ZZUzltOGxfMm1xTmQwei12TDFpNk9hVVhEY3RIUl9lb1ZiY3I0WEJ2TnFxTDhYd2RwR2NDLXdaOG5kalRBRzZyTnpJMw?oc=5",
+   "utc": "2026-11-14T08:15:07Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.8,
+   "airspace": true
+  },
+  {
+   "title": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13",
+   "source": "https://houseofsaud.com/",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySzYzbjEyZVhzSkpIZDJpWDR3b2J3bEFOU2dUQmVKRnVDNmRqSWZDOGFKclV4WjZPam1Sa0xYVmxPWTN0ZXRTdlNpa3NqNFpaZkpqQUdyWWFTZHJXOUJhVHAwTE0xd3EzQWFTVzRsOTlxTnR4?oc=5",
+   "utc": "2026-11-14T07:58:28Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
    "title": "Big airlines 'shut down' as Europe to US flights suspended in ground stop chaos",
    "source": "The Mirror US",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1kxTzcySXd0STNCQ1hzc01lSUZYRE5LOEQ0RXpNRk9RWGEyR3Jzb0VqOUVBSzJSeGdyZ0w4LVdhekhGWTZaZzdFSHZXRk5wMU9EX2NXTjVUVldYZm1aVmJtRDBEXzNiamFPMXhMZE9fOS1pd2RNd29GZmkzYVp6RWJn0gGHAUFVX3lxTE03OXNoMk92NEFsalJwdEI5UnJpTFFaNnQ4NkdnNHkzVVZDNGdZQnFrWFVYbmdyckszbEV6Slo4NWRIZE5YTi1GOVdQdEl0aWhMMVJxNHlqWktrOWtha1A1NDdLS2h2RGxzd0Q0UjYyajJxWjFhZWtCVTM2ZWpRakoyXzdNN0ZOaw?oc=5",
@@ -97,29 +141,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
-   "airspace": true
-  },
-  {
-   "title": "Strait of Hormuz is closed once again: Iran",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NVNuS3BtZVBRYXZNdGFxRTl2UURCamRKUWxSTHROY2RfMDMwOVdzczhsSEVScUcwaUpIU3U0NTRIQUtLR05IM2t2MkRlODZJNnZJUnZGMlRyeThERmR6aHo5SE1JZGJGdEhDeE1UdjJMWWZXVjVz?oc=5",
-   "utc": "2026-11-14T00:34:24Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "Flights suspended at airports across the US amid air traffic control communication disruptions",
-   "source": "WPLG Local 10",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlVVTGNSd0NETlhTelV2bUNjZjZPaWlHcnJ4eE5mRVVWME1tSk9SZm5Ra1FDSXpDMW5Wd2lWdS1BTFNkTkVETGNHb3I1Vjc4bWhoWFBTZW0wS3dQSjFPNlZyeUNleUg4SW5IOHN4REFhODFFVHpxUVdxd1FiSEtxY3FzLW50ZzMtVi1jOXkzMW5vOEJiNG04RDBjN0d4UnlBa1ZuSTJ4bVctOGk5N3V4SmNVX01xZ1FoSjVJcFB4QTh2TXpNaU9DVFhBczNPSXlKMmZFTHFHTVA?oc=5",
-   "utc": "2026-11-13T23:39:47Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.7,
+   "score": 4.5,
    "airspace": true
   },
   {
@@ -130,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -141,7 +163,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.3,
+   "score": 5.0,
    "airspace": true
   },
   {
@@ -152,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -163,18 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "The Strait of Hormuz was the biggest game changer for markets in 2026",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWEFRbWdwR1hxczhhWndWaTktQlV6X0hYWE0tVXJST3VEcVpVbU1meloxVmllTkpJUnQ0dlhqZEd3ZTFCT29YN2lBbjdqbUR3WW9XYVgtczd2UDJyZ3RLUVFvSTI2ZVF2dGlVMjl1TnlQczJDeVhNdnVEcmszRHZ4TnhEV0JNUVZPbXUtMmU2ZDU4ZjZrUDVJeGs2NmpUVEJ1cjlEWl80WFJETUhrX3Ezc1Q1SGczWjJWTzRrTC1hREdQT3Mx?oc=5",
-   "utc": "2026-11-13T05:32:00Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 6.0,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -185,24 +196,13 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Wisma Putra prepares evacuation plans for citizens amid Houthi attacks",
-   "source": "The Vibes",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHAtZDdaLW9WeHFDTW1xOEppTEwxRmRZaUl6ODM3eUFETVJyU25pa05jbE0zakZueURGd3pKaTZDd2YzYm5nTXIxdWgtallWZEF0NFpsdFdpNHBFQk9MMU9iUHpRSmF2bDB4Q3VPMnNlcGNGcEdxRERrcHdRS29tT0xvclFzOFg4eC1JXzF3aFBHV29yTXRCd3FCUnVKc3VnZGM2Q3J1SWh0Q1oxVVFGR1RBUW51cm8?oc=5",
-   "utc": "2026-11-13T02:18:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.8,
+   "score": 4.5,
    "airspace": false
   }
  ],
  "mil": {
   "count": 1,
-  "global": 64,
+  "global": 110,
   "baseline": 1.8,
   "samples": 31,
   "hist": [
@@ -676,6 +676,10 @@
    ],
    [
     "2026-11-14T06:37:03Z",
+    1
+   ],
+   [
+    "2026-11-14T14:14:35Z",
     1
    ]
   ],

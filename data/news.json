@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:36:36Z",
+ "updated": "2026-11-14T14:14:19Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (33)"
+  "Nikkei Asia": "ok (30)"
  },
  "items": [
   {
-   "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+   "title": "How Canadian stocks could be big winners of U.S. midterms",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
-   "utc": "2026-11-14T06:00:01Z",
-   "tag": "OIL",
+   "link": "https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html",
+   "utc": "2026-11-14T14:11:48Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
-   "utc": "2026-11-14T05:20:13Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Chinese makers flock to Africa as trade gives way to local production",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1pKSm5GemFBVTJUMFliOURkcElQY1k2NUt5VnNSc0NfSVRHX2hlY1ZiVlF0Mnh1MXp6U0ZUZTR5dEJqbGRKaXZ2cnJxcEdsODJqNm5hSndNamJYVDU3ZkxkSzNhN2M0TTlzcXRiUXljeXVBMThJcWloeHBad2tiLXJrZHB6cjNoLVNrdGNuamJtbzQxYTVPYWdXZUhjUU9Sa0l0TERtYnFzY291Tkd3?oc=5",
-   "utc": "2026-11-14T05:09:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
+   "title": "Juice your growth and save on taxes in this workplace investment account",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-   "utc": "2026-11-14T05:08:24Z",
+   "link": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html",
+   "utc": "2026-11-14T14:08:17Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "South Korea should not fear China's rise, foreign minister says",
+   "title": "U.S. air travel could take days to recover after FAA’s lifting of rare nationwide ground stop",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+   "utc": "2026-11-14T14:04:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
+   "utc": "2026-11-14T14:02:39Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+   "utc": "2026-11-14T14:01:19Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "How Rockstar's 'GTA IV' release could reshape gaming, streaming and even paid time off",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+   "utc": "2026-11-14T14:00:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "What’s the most tax-efficient way to donate to charity?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+   "utc": "2026-11-14T14:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Photos from airports after FAA grounds flights nationwide",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc?oc=5",
-   "utc": "2026-11-14T04:49:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-   "utc": "2026-11-14T04:30:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "- Nikkei Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE43U1otemwzVjRPMk5PS1FyMU9QTGdIS25iNVhrV1k1R3NreUUxcjRyWnhDajJrNkE5WUxqeUpCSURzXzRY?oc=5",
-   "utc": "2026-11-14T04:28:08Z",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzBhVVlrM3VvX3JkUnJPNkFvMENScTQ5UHl2RmVtOHlKN2VzTUpHRnVNaFFDNmtHdG1iYkJtM3FKTDhlQ0oxR3ZObG9oWnN4Qk1YUE9JdC1wWGp5YV9MbXBrM05ENlZxREg1eFlOTzVxWXpPbjFXQTFqcVRlQi1FWW9JY25NQ0NxUGdIZG0tLXVfMl9mLVFlMGFXcWk4UQ?oc=5",
+   "utc": "2026-11-14T13:53:24Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "AKITO TANAKA",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wNUdOaVkwZnd3blNzUVRSdndrYmJFcUdyczh4TkpPX0ZjVUE5XzhiLU1VV3ZtbFZ2NjZpMlgwWHZfRTBILUU3TEJkejZzcG5ZelhzaVBCMGFTbU92Tks0aVRJcGVKbF9Pa3oyV2RWd0E?oc=5",
-   "utc": "2026-11-14T04:13:31Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
+   "title": "David Cameron Sees Hope in Alzheimer’s Research",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
-   "utc": "2026-11-14T04:05:34Z",
-   "tag": "CHINA",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/videos/2026-11-14/david-cameron-sees-hope-in-alzheimer-s-research-video",
+   "utc": "2026-11-14T13:48:34Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Italy fines Meta $887 million over Android users' data access",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
+   "utc": "2026-11-14T13:38:23Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Ukraine Peace Push Turns to NATO and Donbas",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video",
+   "utc": "2026-11-14T13:30:12Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Miller’s White House Ascent Rattles Mexico Trade Negotiators",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators",
+   "utc": "2026-11-14T13:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Washington can start delivering on affordability by rejecting Trump’s tariffs",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
+   "utc": "2026-11-14T13:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Air Travel Chaos Puts FAA Systems in Focus",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video",
+   "utc": "2026-11-14T13:21:26Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
    "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-14T03:59:35Z",
+   "utc": "2026-11-14T13:00:09Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
-   "utc": "2026-11-14T03:44:05Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Osaka landmark to be centerpiece of area's redevelopment",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDFENExxQlN6dUFfc0dUU2JaWmNHZUt1Sm1ZT2RvSUphRWhwVkc2amJfUk5ZdnYxSnpXWjNlei0xaWZGQzF6UXhsbkdQQXdsaGtDTnpmbnJuTU10ZmlLVG9oTjY4YUxucDc1SWhmb2xMM0RpU2ppOWZxWlRsdEtPVUp6b1lnd3FfZDZyMUZ5VEZIbGlReG9ab3d2bFlkbEdmOWtpYmVCdw?oc=5",
-   "utc": "2026-11-14T02:56:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-   "utc": "2026-11-14T02:42:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Line Man flags pricing concerns",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3354230/line-man-flags-pricing-concerns",
-   "utc": "2026-11-14T02:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "US lifts nationwide flight shutdown caused by communications failure",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUpwbHZWd0Z4cm9SVTR6eW1NQ1RGd1Q3SldzMkNuVmZBbW1QZnZoQk5DN0pzWDJMV05rVVRoVk92MkM4Wmk4N3RjaVBSa1JFTEdnM2ppM184SlJua0hCWVlsSkFUaUt3azQ1c1NBMDlNb2MwcjRCejhjVWdsUllqUDIwWEV1UkJHOTh2VHZOeC1MeHVQUFp0V1h0OHRoZjlZYklVYVdxcGgyczNGcml0cEIzeDJ2dms?oc=5",
-   "utc": "2026-11-14T02:13:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
-   "utc": "2026-11-14T02:04:53Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "14 dividend stocks selected for long-term growth",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-   "utc": "2026-11-14T01:58:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "- 日本経済新聞",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OVjhMQUViLWtJakpmdm9EVUt2RWNfeHlXT19rOWk2SlZFaEVzamxBZzVRdVp5dnZ6elZlT0xKcTlpTHVaUTB5R2NpLS1feTBZNWhsbzJ5RnpmUXptcm1mWUY5bXBlQ1pkWkZXZFhUY21IOTNYQmJmcGQwbw?oc=5",
-   "utc": "2026-11-14T01:39:50Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+   "title": "Retailers are turning to entertainment to win shoppers’ attention",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-   "utc": "2026-11-14T01:34:11Z",
+   "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
+   "utc": "2026-11-14T13:00:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "These 6 battered AI stocks could bounce back big, an analyst says",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
+   "utc": "2026-11-14T13:00:00Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Stocks steady as investors look beyond Nvidia",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3354310/stocks-steady-as-investors-look-beyond-nvidia",
-   "utc": "2026-11-14T01:32:00Z",
-   "tag": "AI",
+   "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+   "utc": "2026-11-14T13:00:00Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+   "utc": "2026-11-14T12:57:00Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "U.S. floated idea of Ukraine ceding Donbas for NATO membership, Zelenskyy says",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/14/zelenskyy-us-ukraine-donbas-nato-membership.html",
+   "utc": "2026-11-14T12:44:27Z",
+   "tag": "WAR",
    "breaking": false
   }
  ]

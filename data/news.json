@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:14:43Z",
+ "updated": "2026-11-14T23:05:48Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,158 +9,102 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (23)"
+  "Nikkei Asia": "ok (17)"
  },
  "items": [
   {
-   "title": "Italy fines Meta $887 million over Android users' data access",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
-   "utc": "2026-11-14T18:49:11Z",
+   "title": "US air travel problems to persist into Sunday, with thousands of flights affected",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnJvSEZyMEpBS0lPYXZRZmcxX1B4bXlwdE9vZklIaE5yMUZQbktwaFR5dDZpNjBhRjFyaktkaHU3aEhWc3RyZnpxelU3MUpfTHpXYlhsN3FxS2xmb2h6eElZdzdYVWowQ3NGdHBKUXNvMUNJcGNjakdfYkJsZVNEREJ1MVIwQ2MxMTNSWld5R3BGVmwyT3V4RUkxMEJIMExJeWU4UWpQTXp1dWZ4VkFQNEIzX0tia21MWGhFVzY0SVJRdWp4QUhn?oc=5",
+   "utc": "2026-11-14T22:42:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+   "title": "$180 million Van Gogh tests the art market and collector confidence",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
-   "utc": "2026-11-14T18:48:39Z",
-   "tag": "AI",
+   "link": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
+   "utc": "2026-11-14T22:34:07Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Thousands of US flights canceled, delayed as air travel system slowly recovers from shutdown",
+   "title": "(Digital) SpaceX Catches Starship in Novel Landing",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
+   "utc": "2026-11-14T22:25:41Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan to require online authorization for some transit passengers",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1RWSjBzWmczUExIcDlGWmFvdDlWSDBzb1MtTFozUjRPZWNJdllmTmZ2aVhVNThMMTFheDA3NGJ5bGVUZ3diZWpxSzBtSENXRTZLVC1QamZlbS13Z1FPd3FsZUpzcVZSMEVNRVpSMzhISUJfTDJFbHFIUDAyMDFRLUxpUWNkb1FsSUw0UFRGWHRZUmxseTNaUW9tMVZXWE8zOTJqUkxCM3h4ZDA5SFlmc0R3Q2RQT3It?oc=5",
+   "utc": "2026-11-14T22:24:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+   "utc": "2026-11-14T22:10:59Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-11-14T22:00:46Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html",
+   "utc": "2026-11-14T22:00:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "SpaceX catches upper stage of Starship rocket in historic first",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+   "utc": "2026-11-14T21:52:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Air travel issues to persist well into Sunday, officials say, with thousands of flights affected",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5",
-   "utc": "2026-11-14T18:45:32Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-   "utc": "2026-11-14T18:32:47Z",
+   "utc": "2026-11-14T21:47:37Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/cruise-ship-tanker-crash-new-orleans.html",
-   "utc": "2026-11-14T18:31:24Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+   "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-   "utc": "2026-11-14T18:30:00Z",
-   "tag": "STOCKS",
-   "breaking": true
+   "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+   "utc": "2026-11-14T21:31:00Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
-   "title": "SpaceX's Starship nears end of 15th test flight and return-landing attempt",
+   "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ25xZHF6NVM2ekhIVmRFejZfdVZ4MVRwMTQ1QjBFeFFQQkN2LTh6eHRVeDF2QzhxMmlzdFg2M1drVm9Sc0lCeWJBZDhwUjV1Vm91TzF4ZzgxczY4RlppNGc0WVJxU0t4dFV3OHIyNWJoREpaWGNweGVoY25XNzBzQWUxUk13RDJkSDZzZXVtVVRKU09admlYMmt0RGFyV3ljbHl3elp5TV9NMmo0ZEVMUENvQTFSTkh0ZHF6U2c2LVpWdE05YlJ4Xw?oc=5",
-   "utc": "2026-11-14T18:03:17Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
+   "utc": "2026-11-14T21:19:16Z",
+   "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-   "utc": "2026-11-14T18:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
-   "utc": "2026-11-14T18:00:00Z",
-   "tag": "GOLD",
-   "breaking": false
-  },
-  {
-   "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-   "utc": "2026-11-14T17:50:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "The trillion-dollar mistake corporate America is making about retirement",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-   "utc": "2026-11-14T17:50:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
-   "utc": "2026-11-14T17:50:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
-   "utc": "2026-11-14T17:50:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-   "utc": "2026-11-14T17:50:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
-   "utc": "2026-11-14T17:50:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "4 expert tips for signing up for Medicare",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-   "utc": "2026-11-14T17:50:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-   "utc": "2026-11-14T17:50:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-   "utc": "2026-11-14T17:46:06Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Eyeing his legacy, Trump seizes chance for arms talks with Xi and Putin",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTRwYVFuRUs0QkR2dDFkOEtCd3NlbHpTQlpMaTZjTWd5ZUNodXZCUl9JNEQ0OW5ZS2FBcG1yQjluZ0tjTS1ZYThCNE1PcmZZQS0xTTVBMzJnLTRyMi1zN2w0LTd6YjNNYjZLWWV2amVMR21BV0VpOTdDOEl3X25hcU9OemZscTBnRVB2NXpwQmVQcVRJY3BXZjZiTnVMcjM3aWhVRTNTcndRVWVYUm5JRU03YUlSQ3JuMi12R0tSMTdCUDhpLXc?oc=5",
-   "utc": "2026-11-14T17:36:00Z",
+   "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTdyR0NNX2ZWTnc5Z3d1VG94TVlaVXhLbzIxaGUydzU4bmpEdTg4bGJ4VWtPSE5rVDdPSDNRYlo0V2xUaFpyX2xJYThLY2lCT0pvSWprdXk0aXR4d3d3MjNfUHh5a2tWUS0zTUVpQV9jUmc4bTQ3b3Uzd1dJYV9uS2V3dElDV3BkeTNJbHEzX3ZnbEIwZmdiZmNaY2FXcURYU2FVUzkyajJJUWxvRlZkdw?oc=5",
+   "utc": "2026-11-14T21:18:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
@@ -168,8 +112,64 @@
    "title": "At the Supreme Court, Trump aims to cut the power of judges again",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VIZWp1ZnhpQ09VVEdDSjhteU9qNzdxWEYtZ1d2aEs3cjZ4SUtEUVlxanBWTHlMX1JTbGdMd3A5UkZrMHFVc1ppTUVka1RTTEctN0toYkFualFicnFDNVBaSjhESmd4dlBVMDdCNERsNThVc0duRkJTc3BNdzFyVS1iczc4LXM1UzlXczlvdGlocWZjWTdMczlYak1GS1N6OWc?oc=5",
-   "utc": "2026-11-14T17:27:58Z",
+   "utc": "2026-11-14T21:17:39Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Photos from airports after FAA grounds flights nationwide",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzBhVVlrM3VvX3JkUnJPNkFvMENScTQ5UHl2RmVtOHlKN2VzTUpHRnVNaFFDNmtHdG1iYkJtM3FKTDhlQ0oxR3ZObG9oWnN4Qk1YUE9JdC1wWGp5YV9MbXBrM05ENlZxREg1eFlOTzVxWXpPbjFXQTFqcVRlQi1FWW9JY25NQ0NxUGdIZG0tLXVfMl9mLVFlMGFXcWk4UQ?oc=5",
+   "utc": "2026-11-14T21:05:28Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+   "utc": "2026-11-14T21:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Law enforcement searches Illinois plant after 'credible threat' of explosive device",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWd2dWN5WmZWVFV3UFVQcU40U2lkY3B3Z3FRVFlHWDg1RGtodEt0T2d3QnQxSWxsXzFRWWV0anZqcW8xb2wxelg0UFZkODlQM3BTbENTaVdOSEZUM3NYblVESUdzTk14Rk9wcGlnWmJUdGxaTG5sM1Fsa0t3SHpxdkxMd3VPdEdkY1cxVDZoM1FfUW5BTGdzTVlCdG9Sc19JUzYzeUN1VFhzYm9jRDh1dVo0WjFVQk9TSTUyM2hTRE4?oc=5",
+   "utc": "2026-11-14T20:40:09Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+   "utc": "2026-11-14T20:23:56Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "US aviation shutdown blamed on L3 Harris installed router",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEQ1ckJVbXlQSHI5ZHU4VEppWVVZbXBYa0ZRWjdDdFNGWWxSdHF5bEtwR1Q2OHRxN2plYXctMm5lTU5TV0hzb2xQazg4U09MNDhyRnpOalhGYXJWN01mak9NR0dXWG0yR0k5WUtycmNhdkdZZkpYcXp5N2w0N2RQSUxEX1F5aEY1TGhDTzV5ZXl3dWR6QmdabDduOFBBWTNPdXBvVVY1VlAwVW1XYnIyQ2FwU2ZOeW5x?oc=5",
+   "utc": "2026-11-14T20:17:19Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Foreign workers need a place in Japanese society, not just its economy",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkY0bm1teVNDaDBRQm84WUNJR3pHOVhveDFId19COHhtQ3p5LXVBZ3QwNjdvaXh4QlJSaVpfTnkzR2FUOHNXeExmcGJDRHhTZy1GTkdEd1VwT3ZzdkJNb1lVOUlGem9jN0pIenJfd1R1R3R1eUhyMjZRNmpyM29NdWVVcXRfNXRWdHM4U0UxRkd6YWhzc2c5blJsazhyV0Vud293?oc=5",
+   "utc": "2026-11-14T20:05:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "2632.HK - | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xQXZxSzdyeVNHNnBWZklNVTJjYk93WE5vVjJvOUljWlQ2YUQ3VGxTNEdMY1NpeW51NG5waU9hRWxGX2tQNHpZQ2EyT2NLdWFLcGE5N1RONzlBNjVmQklST1ZnWnFDelRZclA0X0NOQmdsNFVJUUhF?oc=5",
+   "utc": "2026-11-14T20:04:23Z",
+   "tag": "STOCKS",
    "breaking": false
   }
  ]

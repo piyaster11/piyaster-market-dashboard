@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T19:15:07Z",
- "level": 51,
+ "updated": "2026-11-14T23:06:13Z",
+ "level": 50,
  "band": "Alert",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   30,
+   31,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
    1,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "Strait Of Hormuz Has Now Closed Down More Times Than This Local Persian Rug Store",
+   "source": "The Betoota Advocate",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWoycUZMM2V3YXh0bF9COHM4V3h6c0hDOFBTT0xGWG1rYmJkNmJWTEl4bDlRaFRKUU80Sm5TaWZMY1FXdGl0OEFsd0htRTdTLURfYktKOGlZX24zT0doSGJ2dF9KNUs0R0VkTXRrSW1ZTzdWQ01ZWXk2TGlfQlZXRzFvSzBUTjkyQkJzeGZHb1lYNHVrajJucV9XNm5oY212UWxRTUhfQjU4ZFVJQzU1YUxtMjI?oc=5",
+   "utc": "2026-11-14T22:06:49Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
    "title": "Oil Tanker On Fire After Hitting Mine In Hormuz",
    "source": "gCaptain",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tcGhyWWhpb0VoYzc0V0NtNmJZbEdVOUdOTlp1SGNyeXppUWtiRzh4TS1kNThvV2xDdmdnR2xLcUV1Z3k0VEswZzFIem9sTFlCdURUdm8yQVBVN1V4ZGR4WkxfUUZkbkVFZmItelVRWEhSMFlFTy1TNQ?oc=5",
@@ -97,7 +108,29 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.8,
+   "score": 5.6,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-14T14:06:48Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
+   "airspace": false
+  },
+  {
+   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
+   "utc": "2026-11-14T13:43:41Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -108,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -119,30 +152,8 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "US: chaos in the skies – flights suspended for four hours, thousands of cancellations",
-   "source": "Il Foglio",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3V5Q0JPcDFKY3I2Z0dCVFNwNDRCMk9WZVUxb1VvZDdoYl9YVm83bzRJSEFKZE9RcHA0d0dMbk5LQ2czTjdHYkp5NmRrTHAwR1NRWVJrMUpkQ2FXZnl4ZUY4Vk05NW1BTzUtUlQzX1JvM0xFSFBEdmVJYXA5aW0wVVp0NkJOX1hEUFZZV3FhNzJUdjJJNkJkOFdNNDVYZmMzR2ZVR2xJYVVmT1pybGdZNDdFRHhGYVJ0TWx6RkdyeTZrbk1WNGlSVG9WTFZGcVN1eDFCRw?oc=5",
-   "utc": "2026-11-14T08:56:00Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.6,
-   "airspace": true
-  },
-  {
-   "title": "Chaos in the US: what happened and why were all flights suspended for 4 hours?",
-   "source": "Diario AS",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb21FbGFHcUVsSDM1TFNVeUtDa0dmR0tJODBsQWVpejdLQnN4dFFwSTBpNGFHQUlsSlB2NjBPNkRYcGROTGtRdlpGMU5BdVl3RWQ1NUlaTlRmVFB4Yll5WFZSUk5Ka3Q4SmNCS1hIdFloUXloWGpUVDNHcVdoc0dJVGNzTkJTQVRkNWN3bUYtdC1naFN6Uy1DWU9uS2ZsUUN2eW1ScTM2WWJqb0hmbjhEbWVScXUtRncz0gHMAUFVX3lxTE53Nm9HNVZWNXdzTmdWVzhIcDlpd2h3RlpHU1NuWU01empnZXU2MEFSVzFubVkxLUdzNlY5czNzV1lqbkMtUkY2QjFCSUlpMUFEZDZQWlFtM2RLYlM1QTE1TGROZHFGNDUzSGtLckE5RFk1MHJUbkFRdTRTZlhXTFZzeWF5RHl4Q3ZZUzltOGxfMm1xTmQwei12TDFpNk9hVVhEY3RIUl9lb1ZiY3I0WEJ2TnFxTDhYd2RwR2NDLXdaOG5kalRBRzZyTnpJMw?oc=5",
-   "utc": "2026-11-14T08:15:07Z",
-   "tags": [
-    "AIRSPACE"
-   ],
    "score": 4.5,
-   "airspace": true
+   "airspace": false
   },
   {
    "title": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13",
@@ -152,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": true
   },
   {
@@ -185,25 +196,14 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "Ebola scare: Swiss woman evacuated from Nigeria discharged",
-   "source": "Blueprint Newspapers",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUg3dERtQl90QWNSYWVHckcyckt4bTB0UG1HZkEyMkdqMDFyV2xvUmV4aGt6cVhUMDdyX0hxejBxcGtWLXE1YVZoNVZDeFRvMlZITXl3MjNWXzBqSXRWMzh1YkdvRTFaTlRfbFp5Wmt1Y3VoZENjRzJpdnZrWWRmM0pGWEdGQQ?oc=5",
-   "utc": "2026-11-13T08:34:09Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.6,
+   "score": 4.4,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 147,
-  "baseline": 1.8,
+  "count": 1,
+  "global": 107,
+  "baseline": 1.9,
   "samples": 31,
   "hist": [
    [
@@ -685,6 +685,10 @@
    [
     "2026-11-14T19:15:07Z",
     2
+   ],
+   [
+    "2026-11-14T23:06:13Z",
+    1
    ]
   ],
   "box": [

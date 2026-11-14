@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T14:14:35Z",
- "level": 50,
+ "updated": "2026-11-14T19:15:07Z",
+ "level": 51,
  "band": "Alert",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   29,
+   30,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
+   2,
    1,
-   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,28 @@
  ],
  "headlines": [
   {
+   "title": "Oil Tanker On Fire After Hitting Mine In Hormuz",
+   "source": "gCaptain",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tcGhyWWhpb0VoYzc0V0NtNmJZbEdVOUdOTlp1SGNyeXppUWtiRzh4TS1kNThvV2xDdmdnR2xLcUV1Z3k0VEswZzFIem9sTFlCdURUdm8yQVBVN1V4ZGR4WkxfUUZkbkVFZmItelVRWEhSMFlFTy1TNQ?oc=5",
+   "utc": "2026-11-14T14:41:03Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "UN official urges Iran, US to let fertilisers through Hormuz Strait",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XM2hwTC01bmJXbGNTNWpRaUpPUlF0bE1KUmU1QmJHYl9lcEF3dWRhZnlOV2s5YnFVNTFmWXFtVzV6S0g1VGtRcVl0N1JRcGJPaVZIVE5aZE9jSTFtdnJLWFFvTkUtZFhEV3hKeWpuTHZ0RmZDM2F4NEo3bGNSZlk?oc=5",
+   "utc": "2026-11-14T13:16:33Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
    "title": "Europe’s Borrowed Energy Security: How the Hormuz Crisis Turned Diversification into Dependence",
    "source": "Modern Diplomacy",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNndObFlaTV9LMmc2aDhOLVBhZUlpa1BhUWdCNXRHSXBTeG5hRzV1OG1RMFV0ZVZ3cFgxbXNMU0Q5T0xuZ2gyX1FNTUN1Wl9GdFdQVWktbDM0SWVfdGlXd29lcGQ2VVdRckoxSGVVUGhLQ1pKQi1WRGZqcEQzaVRCeEJiRDdzNnJiOGhHN3MyZnRSWWFaT0dtZ3hQazMyel9VMnlpSklodl9PSkN3ZVdMTG9zZm9yd0llT3J0bGxQazEwbURJWGJMMFltWU8?oc=5",
@@ -97,7 +119,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -108,7 +130,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": true
   },
   {
@@ -119,7 +141,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.8,
+   "score": 4.5,
    "airspace": true
   },
   {
@@ -130,19 +152,8 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
-  },
-  {
-   "title": "Big airlines 'shut down' as Europe to US flights suspended in ground stop chaos",
-   "source": "The Mirror US",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1kxTzcySXd0STNCQ1hzc01lSUZYRE5LOEQ0RXpNRk9RWGEyR3Jzb0VqOUVBSzJSeGdyZ0w4LVdhekhGWTZaZzdFSHZXRk5wMU9EX2NXTjVUVldYZm1aVmJtRDBEXzNiamFPMXhMZE9fOS1pd2RNd29GZmkzYVp6RWJn0gGHAUFVX3lxTE03OXNoMk92NEFsalJwdEI5UnJpTFFaNnQ4NkdnNHkzVVZDNGdZQnFrWFVYbmdyckszbEV6Slo4NWRIZE5YTi1GOVdQdEl0aWhMMVJxNHlqWktrOWtha1A1NDdLS2h2RGxzd0Q0UjYyajJxWjFhZWtCVTM2ZWpRakoyXzdNN0ZOaw?oc=5",
-   "utc": "2026-11-14T03:02:00Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.5,
-   "airspace": true
   },
   {
    "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
@@ -152,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": true
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -185,24 +196,13 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "MOFA Updates Evacuation Plans For Malaysians Overseas After Houthi Attacks",
-   "source": "BusinessToday Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcm94TVdvdlNUQjBhajZZU1NzMlhZU2pwTjVScXlGSDJKajFtRkNacEpvVUZGaTgyWHBmakN5ZXFsbFZEaFQ2ZGhaR1VFSjJXMHpmQWV1em04aXdHZHR0YVpJTTVUYnJtOXQ2MkZYSkFRd0pjRlBNVGF6MHFXcFRGcXdOYzNXaFhWUnFhRExWeVRyODZNMm9CT05LbzBMeGs1eW05c3k3SWtDLV9jdVNFYVpqd1JmaFFQVlJv?oc=5",
-   "utc": "2026-11-13T03:14:16Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.5,
+   "score": 4.6,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 110,
+  "count": 2,
+  "global": 147,
   "baseline": 1.8,
   "samples": 31,
   "hist": [
@@ -681,6 +681,10 @@
    [
     "2026-11-14T14:14:35Z",
     1
+   ],
+   [
+    "2026-11-14T19:15:07Z",
+    2
    ]
   ],
   "box": [

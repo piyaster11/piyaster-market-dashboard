@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:14:19Z",
+ "updated": "2026-11-14T19:14:43Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (30)"
+  "Nikkei Asia": "ok (23)"
  },
  "items": [
-  {
-   "title": "How Canadian stocks could be big winners of U.S. midterms",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html",
-   "utc": "2026-11-14T14:11:48Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Juice your growth and save on taxes in this workplace investment account",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html",
-   "utc": "2026-11-14T14:08:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "U.S. air travel could take days to recover after FAA’s lifting of rare nationwide ground stop",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-   "utc": "2026-11-14T14:04:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
-   "utc": "2026-11-14T14:02:39Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-   "utc": "2026-11-14T14:01:19Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "How Rockstar's 'GTA IV' release could reshape gaming, streaming and even paid time off",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-   "utc": "2026-11-14T14:00:01Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "What’s the most tax-efficient way to donate to charity?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
-   "utc": "2026-11-14T14:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Photos from airports after FAA grounds flights nationwide",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzBhVVlrM3VvX3JkUnJPNkFvMENScTQ5UHl2RmVtOHlKN2VzTUpHRnVNaFFDNmtHdG1iYkJtM3FKTDhlQ0oxR3ZObG9oWnN4Qk1YUE9JdC1wWGp5YV9MbXBrM05ENlZxREg1eFlOTzVxWXpPbjFXQTFqcVRlQi1FWW9JY25NQ0NxUGdIZG0tLXVfMl9mLVFlMGFXcWk4UQ?oc=5",
-   "utc": "2026-11-14T13:53:24Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "David Cameron Sees Hope in Alzheimer’s Research",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/david-cameron-sees-hope-in-alzheimer-s-research-video",
-   "utc": "2026-11-14T13:48:34Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
   {
    "title": "Italy fines Meta $887 million over Android users' data access",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
-   "utc": "2026-11-14T13:38:23Z",
+   "utc": "2026-11-14T18:49:11Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Ukraine Peace Push Turns to NATO and Donbas",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video",
-   "utc": "2026-11-14T13:30:12Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Miller’s White House Ascent Rattles Mexico Trade Negotiators",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators",
-   "utc": "2026-11-14T13:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Washington can start delivering on affordability by rejecting Trump’s tariffs",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
-   "utc": "2026-11-14T13:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Air Travel Chaos Puts FAA Systems in Focus",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video",
-   "utc": "2026-11-14T13:21:26Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-14T13:00:09Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Retailers are turning to entertainment to win shoppers’ attention",
+   "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
-   "utc": "2026-11-14T13:00:01Z",
+   "link": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+   "utc": "2026-11-14T18:48:39Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Thousands of US flights canceled, delayed as air travel system slowly recovers from shutdown",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5",
+   "utc": "2026-11-14T18:45:32Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+   "utc": "2026-11-14T18:32:47Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/14/cruise-ship-tanker-crash-new-orleans.html",
+   "utc": "2026-11-14T18:31:24Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+   "utc": "2026-11-14T18:30:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "SpaceX's Starship nears end of 15th test flight and return-landing attempt",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ25xZHF6NVM2ekhIVmRFejZfdVZ4MVRwMTQ1QjBFeFFQQkN2LTh6eHRVeDF2QzhxMmlzdFg2M1drVm9Sc0lCeWJBZDhwUjV1Vm91TzF4ZzgxczY4RlppNGc0WVJxU0t4dFV3OHIyNWJoREpaWGNweGVoY25XNzBzQWUxUk13RDJkSDZzZXVtVVRKU09admlYMmt0RGFyV3ljbHl3elp5TV9NMmo0ZEVMUENvQTFSTkh0ZHF6U2c2LVpWdE05YlJ4Xw?oc=5",
+   "utc": "2026-11-14T18:03:17Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "These 6 battered AI stocks could bounce back big, an analyst says",
+   "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
-   "utc": "2026-11-14T13:00:00Z",
+   "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+   "utc": "2026-11-14T18:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
+   "utc": "2026-11-14T18:00:00Z",
+   "tag": "GOLD",
+   "breaking": false
+  },
+  {
+   "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+   "utc": "2026-11-14T17:50:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "The trillion-dollar mistake corporate America is making about retirement",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+   "utc": "2026-11-14T17:50:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+   "utc": "2026-11-14T17:50:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
+   "utc": "2026-11-14T17:50:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+   "utc": "2026-11-14T17:50:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+   "utc": "2026-11-14T17:50:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "4 expert tips for signing up for Medicare",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+   "utc": "2026-11-14T17:50:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+   "utc": "2026-11-14T17:50:00Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
-   "utc": "2026-11-14T13:00:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-   "utc": "2026-11-14T12:57:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "U.S. floated idea of Ukraine ceding Donbas for NATO membership, Zelenskyy says",
+   "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/zelenskyy-us-ukraine-donbas-nato-membership.html",
-   "utc": "2026-11-14T12:44:27Z",
-   "tag": "WAR",
+   "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+   "utc": "2026-11-14T17:46:06Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Eyeing his legacy, Trump seizes chance for arms talks with Xi and Putin",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTRwYVFuRUs0QkR2dDFkOEtCd3NlbHpTQlpMaTZjTWd5ZUNodXZCUl9JNEQ0OW5ZS2FBcG1yQjluZ0tjTS1ZYThCNE1PcmZZQS0xTTVBMzJnLTRyMi1zN2w0LTd6YjNNYjZLWWV2amVMR21BV0VpOTdDOEl3X25hcU9OemZscTBnRVB2NXpwQmVQcVRJY3BXZjZiTnVMcjM3aWhVRTNTcndRVWVYUm5JRU03YUlSQ3JuMi12R0tSMTdCUDhpLXc?oc=5",
+   "utc": "2026-11-14T17:36:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "At the Supreme Court, Trump aims to cut the power of judges again",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VIZWp1ZnhpQ09VVEdDSjhteU9qNzdxWEYtZ1d2aEs3cjZ4SUtEUVlxanBWTHlMX1JTbGdMd3A5UkZrMHFVc1ppTUVka1RTTEctN0toYkFualFicnFDNVBaSjhESmd4dlBVMDdCNERsNThVc0duRkJTc3BNdzFyVS1iczc4LXM1UzlXczlvdGlocWZjWTdMczlYak1GS1N6OWc?oc=5",
+   "utc": "2026-11-14T17:27:58Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

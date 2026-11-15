@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T17:47:48Z",
- "level": 50,
- "band": "Alert",
+ "updated": "2026-11-15T22:55:16Z",
+ "level": 40,
+ "band": "Watch",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
+   19,
    28,
-   35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   7,
-   15,
+   4,
+   12,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,6 +90,39 @@
  ],
  "headlines": [
   {
+   "title": "‘Iran Will Be the One to End It’: Tehran Warns against New Attack, Reports Supertanker Sinking",
+   "source": "Palestine Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3FfWlhSN25pVjVjYXpfQVVibTFvN0tvNTBXdkFIdkVYckM2RFFjTVBBS0dqUko3SV9lSXZ0Q2dkc2hTLUhfTXBWQWxEdkxSdVUwMXJjam1xdVE4cUk4alFLcnhRVUZ5SlpzTVpEMTE0cnFNRmpNeElGN2JXTEE4U2ZSTGhRNE5vMk9oT25GaFlaeF82cXpDc0lvdXNnOFZ3bjIyNXBiUW9GazFRTXVBUF9VTGs3UWdUbG5ac1RHekVMRzlE?oc=5",
+   "utc": "2026-11-15T19:50:01Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Bomb Threat at Illinois Ethanol Plant Prompts Evacuation After ‘Suspicious Package’ Found",
+   "source": "People.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVm5oRHdmVWhrdkYzSTBqQTQ0a2V3a21ORFFEbjdKVXo3VHY3Rzg4aGFGSXd5ZDRNMC03cFR1Wk1kZ182VXh2ak9nOHZmOFJFNHZxR0ZqTVZNdGFmN1ZueTYxejFldHNQVG5kaFNodTdBendIU0xxTDR2bDhYOTR0eVMwc0wxbW9iQlRScWJLaFRsQWIzMDV6djBvaWhGcmdIOEZ5cUllZUpPcnFvVjYxcUw2Q3J3QQ?oc=5",
+   "utc": "2026-11-15T15:04:00Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-15T13:08:45Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
+   "airspace": false
+  },
+  {
    "title": "Iran Says Six Drones Hit US Radar Site in Bahrain, Reaffirms Hormuz Closure",
    "source": "Palestine Chronicle",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSnNuZE5DekZDY1ExbUo3b1RJdXRsc0JlLUYxdXJ2RXdPMFVpeHgxV0N4RU5wcXVWUXpLamw2MVBYVzU0dVpQSnY4aXVVMHcxZkZBRVJFUnBLRElUQTQxcEJiRElaMjRQanNtVUEwdGYtckhlMEx3d01rTU9jV09sZHA5NldnVF9aUldLTDJZZld6d1BTNGhYV3JIaTI2dUpES19KVkRIMVdNM0JTemxn?oc=5",
@@ -97,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -108,7 +141,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -119,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.2,
+   "score": 4.0,
    "airspace": false
   },
   {
@@ -130,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -141,7 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 3.8,
+   "score": 3.6,
    "airspace": false
   },
   {
@@ -152,29 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 3.8,
-   "airspace": false
-  },
-  {
-   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
-   "utc": "2026-11-14T13:43:41Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 3.8,
-   "airspace": false
-  },
-  {
-   "title": "Stranded Oil Is Streaming Out of Hormuz as Deal Takes Effect",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXpUQjhXaVdNSFRSRTZ2RTdkcGZVSENTeEhFOHN6aGlELWV5ZVlERTV1QWt0eE1paTE1OFpCXzEtTGo4YXBUejRCMjNmcGktMUFSZmw3Rm9DNkRldmQxXzZKUW83dWE3dVVaOUIxMDIyRTg1ZGhuOWRKbHZHbV8wREc2M0V3SnVqb095Q0pvRzN0TjdwQWc?oc=5",
-   "utc": "2026-11-14T13:32:49Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 3.8,
+   "score": 3.6,
    "airspace": false
   },
   {
@@ -185,25 +196,14 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-11-13T17:53:07Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.0,
+   "score": 4.4,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 141,
-  "baseline": 1.9,
+  "count": 1,
+  "global": 92,
+  "baseline": 1.8,
   "samples": 31,
   "hist": [
    [
@@ -705,6 +705,10 @@
    [
     "2026-11-15T17:47:48Z",
     0
+   ],
+   [
+    "2026-11-15T22:55:16Z",
+    1
    ]
   ],
   "box": [

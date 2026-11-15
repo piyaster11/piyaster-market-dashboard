@@ -1,175 +1,175 @@
 {
- "updated": "2026-11-15T02:45:29Z",
+ "updated": "2026-11-15T11:07:03Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
   "Reuters": "ok (100)",
-  "Bloomberg": "ok (20)",
+  "Bloomberg": "ok (17)",
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (14)"
+  "Nikkei Asia": "ok (12)"
  },
  "items": [
   {
-   "title": "Philippines' Carmelle crowned first Eurovision Asia champion",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXVKVHk1WHJWX3ZKSXdGdl9ISHBaSmtBa25EbnVDSUFpNlFIWGFBTEY3enVNenAwS2NpdldRTzNXVkZyT21Kd1ZVd0I5dnRDdkU4cEhJdmNBakJoMWlkQWVRWGVVZElwSUsxd2JBUUZTN3NxdHVCSTRrQlY1MFVQTm8wRHpLbDZWaEIzWmQzWmQ0ZWd6WDRQS2FwUkFnV2YyQVl1Zy1EOUFhbjNSVVU2NGV3?oc=5",
-   "utc": "2026-11-15T02:09:00Z",
+   "title": "Turkey's Simsek says to meet MSCI, investors on market concerns, reforms in December",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSF92QjhtNXMxRnNUaWRKYVRyd2ZBSi1fLW90Uk1UV1dCLUhYNjluYmVOTWF2alhNLUVKcG9tSG1Cc1dKWVkwSDlFX2pwUXQ0eU5SWDdBTi1nZEJsWUlBVjJPNUI0R3N4OFV3T2JtQmlYWEVVZHMwemh0RmlxSGhtMDRTdUZfZ0U1dG1jdnRpa0JIb1l6QWhMWDRxR2NyQ2dRaW1OMlZ2MGliZ0k2U1JEaDJtVlNLeE9fSnRjQ2FSSmxSTkQy?oc=5",
+   "utc": "2026-11-15T10:32:09Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "China's century-old 'porcelain capital' eyes global luxury",
+   "title": "Megaspeed says Alice Huang left the company in August 2025",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGhZTlZ0MDBVVUhqYkJMZmtuTk5OazlET0NjTVN5WDZsWTZPSUJjemowSWtRN09mSUdhUmUtdHRnamVjeHp4U0g2ak1VUW51NEZfaW5hM2c0X25DVkVHeG93Q1hHcW5oUlhUMDN1RFVrSDdFZG01RjdyT1pkQmc4MjJxdzhCUnNHZFhPRE9hQ21oczRBVVl2aVpFQWo?oc=5",
+   "utc": "2026-11-15T10:25:28Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
+   "utc": "2026-11-15T10:00:42Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Nearly 1,500 migrants arrive in Canary Islands in one day",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNV80Q09DeEFLU2dxNDdvQTZZeWkyQkVmZUoxbEpNY2RHTHJhY2ZpRTRxT1N4QXFZaGNmWWdOV0thQ3ZLdml4cmpDdmZVTElvaWdGTG1JZUNnNUJFMFZuS2pDYTRDNEd0LUV3eUc5ZlVSU3ZmelZWT28yQm9OOF9zeXdKbnN5bWtrWURSNV9TSGhyOXN1c2J1RWhVV05MTV9o?oc=5",
+   "utc": "2026-11-15T09:53:43Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Jalibert returns to France squad for Argentina test",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWx5M1AzQlBVd1U5SEtDOFpMSG9QNklLZERhaEhqTVgwRmFzZEsyZmdMN3hCaU8xcW5aUlpzYUZHRkhON2tvQml5dXNhdXZ2aWVuRC12bFBHYmt4V1c2OXgtenBqVEtiQXZ0d2taNHVuZVpGT2JFMDZVVm1kazJSWDhWMWZTNVRZTjYybmJ1Qjk?oc=5",
+   "utc": "2026-11-15T09:36:09Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Yemen government forces withdraw from area near Bab el-Mandeb Strait, Houthis in control",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
+   "utc": "2026-11-15T08:40:22Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+   "utc": "2026-11-15T08:34:46Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+   "utc": "2026-11-15T08:00:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Bangladesh elect to bat in first test against South Africa",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2VTM19vQm1EUGdmcG5BcGs4WkNKdVhWTWxkZVhiNjZLSlRyRzN1RXFjLWhGelZDcG8zWUNlNlRIV1VMZ2p4UHJBc0ZRaGc2bTAyaWJPY05xeGdMem5QWjdhSjVkWDBBTHU0eE9BQU1fN1FRR3BFeHpQSzk2dUNVNjNiU2FiRllnS0JQVzZNWi1vUVBEV1hELTFWS0Iwa0MxQnU0VnNn?oc=5",
+   "utc": "2026-11-15T07:58:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnhQWmpDaWhNaTRuNTd2M0o1ckZVcll2WDVMb2F2aUYzbWxkRlY1bWIzeHY0X2ljLUM1czQzZE5fbFExRjdwSl9QNTBPbjk5LXdsaThvbWgyNklCeXRYM0U5alM1UHJUTlVJS3RxaEFMY3otdkd1eGhlMTIyTEI3NElicVBtQU82NzFXek1OdEltOVJRazk2QWpJaw?oc=5",
-   "utc": "2026-11-15T02:03:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-11-15T07:10:45Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Cape Verde votes for president with emigration in focus",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWI3OGxfWTRxVTVMY3diaEZFMWZmRlZGYnZ0dnJKSzZqYjN4U2xmMTIyMVJ4U3QxcnI1VEVSblhZck40NTZCaGVhamRFQ2l0VDZnNXhYLTRTRUNRSDNqVW9FQ2pHZXRfQzNQOUEzRG9vaU82Q094M2J0eGo4T3N3QWdadEVmQ3BJR3FPRGNHUXdmcWpWcWItVl9LVERRUQ?oc=5",
+   "utc": "2026-11-15T07:03:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Xtrackers II J.P. Morgan USD Emerging Markets Bond UCITS 2D ETF (XUEM.F) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jRF9LdmF4cjR1cnV5ODFNOEk1c2UydUhKNldCejBFRmJUcmkzWWRvQ0Z0Zkk1S2NIb2Nla0NraDRNVkZnRGVQOXBNTUVtRVVYSi1waXh3WDg?oc=5",
+   "utc": "2026-11-15T07:00:54Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Xtrackers ESG USD Emerging Markets Bond Quality Weighted UCITS 2D EUR Hedged ETF (XQUE.DE) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ocHNtVEhObDg1aHlxSDVoTmZJRGhGT3NPS3FScndmTUxteE10aGM4aGN2Q3FvdkdNS3ZMQXcxZUoxTkJVUlNwSEFjV0QwWW04Ty1yZ3ZuMkczWW1ERU44NlRLTHlPSmFLb0ZqamNlaw?oc=5",
+   "utc": "2026-11-15T06:59:25Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Hindalco's Novelis to sell two China units for $265 million",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN3BuUFUwSEZJQjBHRGRPcTZWN1ZlSGlVeklYVC04QTF1SXhkbUxwQmNGc1ZsdWZsN3AwS0ZFNjZkVUduQnNfZnNLUEN6OVJZYXBvemNtVkxOVWN2SEZrWE5MVEstZXhzd0lVY1FxSXZIbkxudkhWcllTYnZXbUp0QUtPRXFsMGNsWHE5c3EtUFdtYXBvMkQwc0xRdFlHdTg?oc=5",
+   "utc": "2026-11-15T06:37:00Z",
    "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Subaru retools boxer engine for fuel economy, with eye on hybrids",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnRjMlI5V19jcmdxci1BYWZDNWdQMmVpRmJQbHJ5Z19STGxhTGpfMFBrV1ZUcEZ4QlZoUlhxalFia3BucjVsbnNEcVo5ZXV5ejFxTkktR09EelF2dlJOaU04WUN5RlhvbFpGeGFKQWVVOFlwM1dNcjQySFdDOGRsRGJQU3k1U1dVc1gtcnNfczFHOUVCR1NiaG82YmpBOXpDQVVDVGdRbUcxcFk3NVE?oc=5",
-   "utc": "2026-11-15T01:31:00Z",
-   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand",
+   "title": "Traton SE (8TRA.DE) | Stock Price & Latest News",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnBfd2gzZE5aV1hCWkdBazd0LXN5d3RJaGF3VUQ0OWlMaWYwWWxNT2JQNUdRdm9TVklIejYwemNoM3dCM3F2MTVpc0tnX2RiSHRnbXFKRWU3X3hVUEdGV0hpVWV1Tk9aZG54aEMyQ0JUbVFIdnl0YThfOWxnU1JJazZqNEZYV0M1ZTdwSkM4UUV3b0FSckNhc05fRGpERmc3WEVEbWxIYnVkd29RQlBzRUhWbUQ0dkFHQ1E?oc=5",
-   "utc": "2026-11-15T01:22:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-   "utc": "2026-11-15T00:33:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Electrifying Ambitions Meet Tough Reality in Europe",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Electrifying-Ambitions-Meet-Tough-Reality-in-Europe.html",
-   "utc": "2026-11-15T00:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Steelers TE Pat Freiermuth (illness) questionable vs. Bengals",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalc2eG9EM3QxS3FoTDNCb0hvQV9XQlpRa1pvY3lSTFJCUDBjRmpyNzhKZE5ScmlidnZrNW1iWkRYLUpaMXI1Ul84VlpSTEpoZndMRjJOQXRCVEJXM0U0WlJQSW5pWFJVQjVtaXprVWlPMXJnSU9pS0ExWUtpSGpwVXIyV0tCazVoVVQtSmk2aWNkY1pkTEx1MUpIdENJMXkyVmYybFlrZmNSQQ?oc=5",
-   "utc": "2026-11-14T23:58:02Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Air travel issues to persist well into Sunday, officials say, with thousands of flights affected",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5",
-   "utc": "2026-11-14T23:57:44Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Colts activate DE Arden Key from injured reserve",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSFlNQnh5VE5Xd1RtWFpab2hhbDhGVUloenVZcVp2OUZ3aWU3enpTRFp5enB1bDRRUlc0ZUNDUEFyODUwQ2Z5MUZmSWd0TmJXZ1ZUMTZkMWpGNG1LUzdmS0I1RXNKeE9pNlItbnY2Q3BUMC1md1JvY0QyMXp2VHROc0Y5d19RdkpsMUx1ZGNQSjhqNjNDZ1E?oc=5",
-   "utc": "2026-11-14T23:56:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Sounders' Jackson Ragen suspended 2 matches for 'serious foul'",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHBTTUhEY1B0aVMtRlpCTVlLNW5qeVlQSzhReWZ3b29PbEx1RlZRWWhUc0oxS1dGcGROYUFrazJvZFNqa0NlaWlUbHZyVlhoN1JQUUNEMklVRE9Kd3pZV1JORXVST055bzBVdEFQYy1za3lwenIzZ2lEaFRWYXZ4VXNTWGxIRTM3OTBiNElaRWxrNG1kak9JYmxRclBVWFV5YV9Mel8zODNtUEFWLWo0?oc=5",
-   "utc": "2026-11-14T23:53:38Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Ohio State WR Jeremiah Smith sets Big Ten receiving record",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR29XbTU4dUNicklxOU5haldfVWtKa1doT29QcmdOaWpMWXBhemFYbHQ0cGNwRzZZQVd6UW9KQmtrZ1NjWGZwZjl3aVJZRzE4UHVUMUxTbmNUQk4wN0V4c09pUk5KME9zTmxRVU84dzlrYmhqbWI2ZHFzVnZWSVRRRGp4NDBleGQ1QU5pYkg4dzFxVWZSY2h6bThjSzNMMjRob3k1ME5ZSnhGQQ?oc=5",
-   "utc": "2026-11-14T23:52:17Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Footloose in Vientiane: A capital in no great hurry",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczhkajJFSEk3Y1F0a2lzU19sTEtVLVFETm1UYk5QVlhMU0o5a3RGVUlqWnVpX2d5ci00TzJiamxvZkVYZ2tlNEVCSVNnUk0wa0VqdWNxOFhvR1ZmeEs5d0dIaFZLNTlfeHh6bTBSbXc0aHo4Wk9fZHR4cE9KTDNvU1pMNFlVMTVpN0g1ZUZqcTMxVXl0aTU2NGhVVTY4UGYwbXB5bA?oc=5",
-   "utc": "2026-11-14T23:52:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Wake Forest blows past Southern Utah, led by Kevair Kennedy",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGtRTlJEUFpnQTdQbXZEWWViWm5nVkJLTTRONFl0MjF1SFJhcFpGQU1jV1QtNUZuWUNmZGlrT0gxVkI2aUI5aDdRTkEwTGxwNW1iSDB2aHRKSXFfaXdlSk5WSUZjZEhNcVZJeFJJZG5rUFlFdTU3UHA4SlM0bk5nbVNReWdzM2Q1SHotei1KVjMycGlYbXNaQUtUM2o3STZ3ZE5xazdVZDFCQll3clJCanhjeEkyaDR2?oc=5",
-   "utc": "2026-11-14T23:51:31Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Texans RB David Montgomery (groin) ruled out vs. Browns",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3JsdUlmNUpPdEVHaVlYQXhqT1FxODVqdTFueDNPMm1BaWQ3Z1dFYTJpaFdRNk8tSTV3V2RNQXgwY09xUjU0T3hucXdLaVVtZmlaMDl4cTBkc05yT1hsd2tnOGNiakpaZnJiSEpHVjNkcHptVWtYTWtpMkxSSmUyQlZEZWVNUjlOWTE3N082SkNnWU44QjZuUTc3dDJUc2JEOWc?oc=5",
-   "utc": "2026-11-14T23:51:16Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Panthers activate WR Xavier Legette from IR",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2RLeU5UU2VRV29oSnE2Q0liQlQ0MnFydnlIbURIbXdFYmE0Rnk5ZTFpcGFzalU3V21Pb3lHMUxHWThZRWdXMU8zbmlTWUZBZGxIREc2blRhc2UtcHR5OHk3QkhrYTNva0E5a1lFbHBNcTh0WUVOdndrdzhmYTJVZ2JOZ0NPX1F3dXlsamdjZw?oc=5",
-   "utc": "2026-11-14T23:50:38Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Report: Saints to activate RB Travis Etienne from IR",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPalVzcXVFd2NPek9kU2o4VUZEVFoyRURSNi1wRFRxMzF2Y05SRUpacEFlTTFCYmRWa09MZXpKQUdCaE5PYlhtLWJSSTNJUDRZdmFvUy05Zlk1bklLQUdldU1KcUlicm9EM2I0WHhGdkpjYy1HM2xudlE2eFg4bnp4N2VaQjZocFJWZ0RpRTFCN1V6WXRGQWc?oc=5",
-   "utc": "2026-11-14T23:44:09Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Chiefs RB Kenneth Walker III downgraded to out vs. Falcons",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3pfYzBqSDRJUDFGYnVRX1lvU1VRRFN0emFnUXd3b0FzU3AycXNWa0V6SlBVbW5jLW56RVF6RDcxbExFRE1XTmJYQU1QcEFHVDNRSlp2MmROUFVCazlKRGx6NnJXRjBfNjRqN045T3RvUFc0dGdXZVpycUVxTGRQT3FJNDJsZjktTkJuNFBnU0FHU1VsMHhUUmYxTVN2Y1E0NFJRaw?oc=5",
-   "utc": "2026-11-14T23:43:44Z",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
+   "utc": "2026-11-15T06:29:26Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says",
+   "title": "ASEAN reaffirms engagement with Myanmar, seeks to advance peace plan",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDVOVl84WGtvTHZ4WDdMVXE2VWQ3dGE4LXV6LWhGQ1pTZzlUWUt1QXBWOWVsUHpxMHN2LURab2RYdlhmS2xGYm9jZkRTNFhHOGlDd2phUDQyMThBQlV1V3FlUWxIZzU1enBRS1BOUm1QQUVLcnB2ZkJqdTdEdTNTclhQTmM0Z2ZfMUQ2Q0VTSTFhTzJ6QXRHNzZybVRJb292c2RtSC0wWkd5NlFJdl83TmxTVTJpMTFGa1lZ?oc=5",
-   "utc": "2026-11-14T23:43:43Z",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ2lVZFhnSzJQQnIxTUhnVXpjbGl2eDdWT0RVMEwzamtmMGJZWFVpU1V1TDlhZEQwdU1hSEFMa1E3bVMzRTg0SnREcDZuNXRLQTZnbFlMMjFvQk9rODZxYkVMUVVGS3ZRdi1nRDJKTnBpOFJybUl1MmdDMy1IbmxYb2dCUEhvTklULXhFNDNCV3BxRUNrYUpiNUJTbEFCU1pHR3hGeVdua3Bja0RCREpid0xWaGtyRFJsZGk4VU0tdFQ3WUE2Y3Nieg?oc=5",
+   "utc": "2026-11-15T06:20:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "‘I don’t know what to do’: student pilot on first solo flight caught in US shutdown",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMmdReTZrRDhpYjJTc3A1b2lnTG1iOF9mMlhvRHJBalp2WUJvdDE1QmRvX0lvWERla0cxeFdha1dVM283OTB6OEdvZS1XTHlxR2tsUWdTOHZrZTN3alNsaU5jbEF6NWViM0pjSm1veTJmSG1OMGFHVk9wSjYydlhLdlE1S054UWxNUDJLbE1xSDV6ZU94bHBLenRhNnB2OXBwcUlXNDAyUGNXcEFjWngySFlBVzB3NU1KRnlSYk5xV2VXWm1xTk9rdWZ3bm9QQQ?oc=5",
-   "utc": "2026-11-14T23:36:17Z",
-   "tag": "STOCKS",
+   "title": "Could Budapest be the next digital nomad hotspot?",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+   "utc": "2026-11-15T06:00:01Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Firms to face rising pressure: SCG",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3354875/firms-to-face-rising-pressure-scg",
-   "utc": "2026-11-14T23:26:00Z",
-   "tag": "MARKETS",
+   "title": "Rift deepens between the Philippines, China over South China Sea",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2EtbGxOOHhuLWg4RzQzeTdhcXlKbFIzU1g3S3BlOE1wMWxlRngzTUgtTzFVY0o0azIxc2tqWWdDWXNQSV9ld04wRjExVVUwbHVqbmhaQmt4NFlPZkczWUhwU05aUWtZZVlYX3dIQ3FET1lBUXJaZkVTTkFfbWhURUJGOVBxMkF1RnJWUjV1T1VuUkluM0NsNEU5ZFlRejlUUXcwM3c0MnAwYTg?oc=5",
+   "utc": "2026-11-15T05:21:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+   "utc": "2026-11-15T05:10:27Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Guatemala decrees state of emergency in two departments after lawmaker killed in attack",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnFWYmdsSmRKUWlpeVl6QVFWRTZxU3JnQWZwVVMycFBoOFZtUW5kZGVuMW9iTko0N1JVZFFYNmRZT1JFN09relJubngwX05SNUdHVmhXZ2c0bHZWUmdGWU94Y2g4MkZ4SVdndzhIX1ZDR3hLbk5QWFRfOGM0cnZQNzMzbmNsbVkwak90V29rNEktZ1ROTjAtWjZNXy13V2Y1eTdfS3pWV0JLMnVnNlJVN3hUZnRmb2NGQk9oNkdGbk1iYUpSclNTMA?oc=5",
+   "utc": "2026-11-15T05:04:00Z",
+   "tag": "WAR",
    "breaking": false
   }
  ]

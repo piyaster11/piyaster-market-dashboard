@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T02:45:52Z",
- "level": 50,
+ "updated": "2026-11-15T11:07:29Z",
+ "level": 60,
  "band": "Alert",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   29,
+   30,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
-   0,
+   5,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,28 @@
  ],
  "headlines": [
   {
+   "title": "Iran Says Six Drones Hit US Radar Site in Bahrain, Reaffirms Hormuz Closure",
+   "source": "Palestine Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSnNuZE5DekZDY1ExbUo3b1RJdXRsc0JlLUYxdXJ2RXdPMFVpeHgxV0N4RU5wcXVWUXpLamw2MVBYVzU0dVpQSnY4aXVVMHcxZkZBRVJFUnBLRElUQTQxcEJiRElaMjRQanNtVUEwdGYtckhlMEx3d01rTU9jV09sZHA5NldnVF9aUldLTDJZZld6d1BTNGhYV3JIaTI2dUpES19KVkRIMVdNM0JTemxn?oc=5",
+   "utc": "2026-11-15T09:46:20Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Chisinau International Airport evacuated passengers following a false fire alert",
+   "source": "Informat.ro",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEVrd1pXT2hMVVZxdEwtX0h0M3d2Q1hfODJ5dHpPdl8yWUNsMlB3YWVORGxmbUowenBSdk5TUVp0cGs1ekpUWU1XcjJDN3Z2S0dvLTBHcngyTV9WRWY3d0FSc1Q2bGhibFI1RXJIdUxOOU9DbEc5TlBuU2U2MWVXNDZJWTdZM1RERy1pbnpIR2dEQ3g5?oc=5",
+   "utc": "2026-11-15T07:19:57Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
    "title": "Strait Of Hormuz Has Now Closed Down More Times Than This Local Persian Rug Store",
    "source": "The Betoota Advocate",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWoycUZMM2V3YXh0bF9COHM4V3h6c0hDOFBTT0xGWG1rYmJkNmJWTEl4bDlRaFRKUU80Sm5TaWZMY1FXdGl0OEFsd0htRTdTLURfYktKOGlZX24zT0doSGJ2dF9KNUs0R0VkTXRrSW1ZTzdWQ01ZWXk2TGlfQlZXRzFvSzBUTjkyQkJzeGZHb1lYNHVrajJucV9XNm5oY212UWxRTUhfQjU4ZFVJQzU1YUxtMjI?oc=5",
@@ -97,7 +119,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -108,51 +130,40 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.1,
+   "airspace": false
+  },
+  {
+   "title": "Russia’s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDZLSFlxbEV4MzdBVjJLQjZJcGpWbzFnMVJPSlhDN2FJMjU5X1FnYVBMNXJvSWtIeElZcWhxRVBZcHBrakFJbi1QZ3hpR0VzMXBHdXQyXzlhYk5kS1cwRGlVdERoQjAxc25JMDdYTzM3Q2o2U0E2aHMyWEFVVDVSelNaalNUZ3Uzc0ZLcW92clFHTnZWbVM0ZkN3QmxZbHVlTVVIMm5WY2dNLU5ET2FLaUdB?oc=5",
+   "utc": "2026-11-14T14:04:32Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.1,
    "airspace": false
   },
   {
    "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-14T14:06:48Z",
+   "utc": "2026-11-14T13:56:45Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.5,
+   "score": 4.1,
    "airspace": false
   },
   {
-   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
-   "utc": "2026-11-14T13:43:41Z",
+   "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR05wUXRmTE5QLTNpWE9WWFpTZ2ZpeVRkdUtKdHVXM0Nxc0pnclVSQk9WSEdjcEVuMXBKdnZkYXY5anZIaUo0bmhYd3M5Z0pEQnp3TFJEay1YamxTNjJubTBqZHBUNlB6MkpuWDBfWVNBTm43RGRUeXFnNng5ZndJVFAxenhWS0x4RzJwTnZBY3ZULTdDbUE?oc=5",
+   "utc": "2026-11-14T13:44:30Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.5,
-   "airspace": false
-  },
-  {
-   "title": "UN official urges Iran, US to let fertilisers through Hormuz Strait",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XM2hwTC01bmJXbGNTNWpRaUpPUlF0bE1KUmU1QmJHYl9lcEF3dWRhZnlOV2s5YnFVNTFmWXFtVzV6S0g1VGtRcVl0N1JRcGJPaVZIVE5aZE9jSTFtdnJLWFFvTkUtZFhEV3hKeWpuTHZ0RmZDM2F4NEo3bGNSZlk?oc=5",
-   "utc": "2026-11-14T13:16:33Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Europe’s Borrowed Energy Security: How the Hormuz Crisis Turned Diversification into Dependence",
-   "source": "Modern Diplomacy",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNndObFlaTV9LMmc2aDhOLVBhZUlpa1BhUWdCNXRHSXBTeG5hRzV1OG1RMFV0ZVZ3cFgxbXNMU0Q5T0xuZ2gyX1FNTUN1Wl9GdFdQVWktbDM0SWVfdGlXd29lcGQ2VVdRckoxSGVVUGhLQ1pKQi1WRGZqcEQzaVRCeEJiRDdzNnJiOGhHN3MyZnRSWWFaT0dtZ3hQazMyel9VMnlpSklodl9PSkN3ZVdMTG9zZm9yd0llT3J0bGxQazEwbURJWGJMMFltWU8?oc=5",
-   "utc": "2026-11-14T10:40:00Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.3,
+   "score": 4.1,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -185,25 +196,14 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.5,
+   "score": 4.2,
    "airspace": true
-  },
-  {
-   "title": "Geneva Hospital Discharges Swiss Patient Evacuated From Abuja With Ebola",
-   "source": "https://streamlinefeed.co.ke/",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbC1jbGxVR2x0WnVwTXpLeWxsTXVTbnE2OENRc3BuRnl4V3NqSnZKMTJ2WG1lOHpWREJHLWhSV3BNenBMNnpCalhTX0kxckI0N0pYdk8wMXdrUFpjd2hDcGcyMHdQN2JxYml6amhXTkE5c0JoY0FMeTZRSUJ6NkdxN2EzZ2lJMGtSMzVfbjR0LV94LXRQSVB3ZXhJTjdSbXFQaGFZbHN0djhtZw?oc=5",
-   "utc": "2026-11-13T09:21:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.3,
-   "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 66,
-  "baseline": 1.9,
+  "count": 5,
+  "global": 89,
+  "baseline": 1.7,
   "samples": 31,
   "hist": [
    [
@@ -697,6 +697,10 @@
    [
     "2026-11-15T02:45:52Z",
     1
+   ],
+   [
+    "2026-11-15T11:07:29Z",
+    5
    ]
   ],
   "box": [

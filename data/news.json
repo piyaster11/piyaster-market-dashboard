@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-15T22:54:53Z",
+ "updated": "2026-11-15T23:51:48Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
-  "Reuters": "ok (100)",
+  "Reuters": "ok (99)",
   "Bloomberg": "ok (20)",
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
@@ -13,12 +13,156 @@
  },
  "items": [
   {
+   "title": "England end Spain's long unbeaten run, Italy crash out of Nations League",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3ZhSGtta2ltYVFfbXVVSC00alNLM3hwX0JOR09kbkZiQW5mQy10clVEX2lXYUhacnUtTjRPbUtYbC1SZTM4bThUNkp3WVg5RXl2VURGYlREMm5BNU14NjNic2RrNEg3bldja1liYmx5SXI0dnBsaHRidldoYmczQ3hjWnptRzFKMmlpd2w5S2RuSGJfeUZxUDlPdmZxMjJNQVc3TE1iS3hJblFCN2ZqRmJxdzFfYzBK?oc=5",
+   "utc": "2026-11-15T23:37:42Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Australia Warns China Iron Ore Push Could Breach Trade Rules",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/australia-warns-china-iron-ore-push-could-breach-trade-rules",
+   "utc": "2026-11-15T23:35:37Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+   "utc": "2026-11-15T23:31:30Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Intel sued by shareholders following 29% stock plunge",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHB2RXZCbUwzeDlxQl9pSlRsWi1UUFZ4TkNWb1JEOXlqZDJHUjFVU0pway1BWmw5dHRuclY1MGNPbERVQThaOUZQTDR3MTFqLTBJakxoYVBRNzVJZlFNOEhXakxrM0JzRllCbm8yYU9PbkJ0TEwyaWdiYU9EWng3cm11SjlhSGljbHg4WXV1NEV1bHBudWZPYmVtU0pBZw?oc=5",
+   "utc": "2026-11-15T23:31:26Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+   "utc": "2026-11-15T23:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcEhvaHpCNlJSeTFucnl4ZXZvUWVWbXl2MUtHY1hXUzJ3SEFCR3ZZUDY2VGFuTC1lek80UmRZTGlxRkItd2I4S1lrcnotSF8tVG5tTnJySnBoMlJ0NXJtcEo5bjROV1c?oc=5",
+   "utc": "2026-11-15T23:24:24Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJR2FvRjB1WmJfWk56alNqNHBwRHExSk0tdU91LV9wSUMzVm9PZEtRdHc0Y1JaMW44OVBJc3puTENpMXNBY3VmSVNjSTZIazlYRGh4aUxVaW9GdXNBamZla29sRzJnajdMdU1yQU9xekdPcUwyRXdaRzF4TXhiZXV6RDZIN21yVS15bGpNVUJFZUpnWU1ZTFJqbm94OXhjamR3SXFRV3F0YWZWSnA5ei1Gd2o4UW1PSnlrTnFtMENUb2V1VjVDc09XSFJNN0JaWXc?oc=5",
+   "utc": "2026-11-15T23:23:16Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Australia's IDP rebuffs Blackstone's third buyout attempt at $564.5 million valuation",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOGh1WlpERmNiV3UtbE5qNUVpdlk2a0QteEEzN0pTYTE0eDFWa0xrX1p6bF9PelVFV3BQYWJyUjFJNURpUnREVl9yV1NvUkVBdkFJQUpsUGZ4dVdwSnFqRGpiMUtkcW9reVNOeFJ0Uzg3MmtfRTVQMHBDdTZqOFFna3BJTW9RdGszYkoyR05DNnJMRjhMalJaTEZxb2tsWjJraENNcGJMeXRDTWJOYUtyM1hBZ0daUTVHbzlZTHBWUGZia180ODh4bkd6bHNYUQ?oc=5",
+   "utc": "2026-11-15T23:17:44Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Indonesia’s Prabowo Apologizes to Singapore, Malaysia for Haze",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/indonesia-s-prabowo-apologizes-to-singapore-malaysia-for-haze",
+   "utc": "2026-11-15T23:16:47Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Thousands of US flights canceled, delayed for third day in a row",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSC1Vbm9ZWDVxQWFoSHk3aWN6WXpKVG1vNkRBWEktdnIzUGU0V0lfQWVySGZCNEROMDhHelRDVkhscDV2cm9qVXU4Ty1kYklOWi1hTXJ6b2JVc1ZSMk0tY3FBMGxzQ2M1aGpNbmZ5RC1JVVFqNXZtbFBtTFAxV0xQRkpBbXJmN2pQYjZpdkFIREpNMjF4NmVOVDRn?oc=5",
+   "utc": "2026-11-15T23:14:06Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "I've owned this stock for a decade. AI slowdown fears gave me an opportunity to buy more",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/15/caterpillar-buy-kevin-simpson.html",
+   "utc": "2026-11-15T23:11:26Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Mexico's Guadalajara cartel founder dies in hospital aged 80",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXRlTGlzNmUtbEZnZkZNVDhBYlZmdmxOdVJqaGlSaEMzQ04wb3duRUwyY1VDUjJiamE1OFVWNHl4T1ZhYnhlTU1xRDBzWGszVzAtRmxKek42bzQwVWNfRHpadXY0RllwcGZtcWNLZ0Z6bEg2VFlTallPQjFwd191YVhoLU5YUEttRktMeWxOdkp0YVh4UjFzUHBPMmExeXU4NUZnQk5wSlVKMFVXTVg3bG5oRl9zaU5USW52NE45NVo?oc=5",
+   "utc": "2026-11-15T23:07:30Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Nov. 16",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
+   "utc": "2026-11-15T23:03:50Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "COMMENTARY: US blue wave reshapes Asia's winners and losers",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaC1aRUpzSldvNXpxeFJBbHVqYlNreDFNSEFJRWx3Y1dsQmpfQzh1c2tNckNKQVF4VWlnVlhlMG9fOUVVZEpfck80ZFdYd21Pd2JYeGFfb1c3dXNoN1V3T2laTDBqM1pkWDA5Zkpsb2ljZ0RraDF2dERCbDBMalRSLVpIWHhFOFk5THI5MHZXazkzcVdwWlVrNGpOYWNlZWNqSFdJZzFWMU83andJMmQzWTZpY2VpZ3dETnpfTTNlYXIyWk5QMkVFSVZhRDI?oc=5",
+   "utc": "2026-11-15T23:02:47Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Shenzhen’s Manufacturing Power Draws Wave of Innovators",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-15/pkg-engle-shenzhen-tech-entrepreneurs",
+   "utc": "2026-11-15T23:00:40Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Philippines’ Main Coal Mine in Limbo Puts Nation’s Energy Supply at Risk",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/philippines-main-coal-mine-in-limbo-puts-nation-s-energy-supply-at-risk",
+   "utc": "2026-11-15T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+   "utc": "2026-11-15T23:00:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Hundreds of thousands of Czechs rally against government media funding plan",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
+   "utc": "2026-11-15T22:50:27Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
    "title": "UK PM Burnham ready to confront 'obvious truth' of Brexit's costs",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3dCNkZCOUNQcTlqSktlWXBqYW8wUDcxR0FHY0xxNkNhbTdJVHZjdUR6SjZXSWRUVGthblNrZVNWalZvWFlMV3hsN05TZ1dQLU9lTngtUlk4enpmNG1uVDB4OUlMbzJXUVhmOXd2VmRfLVRZX0F2SUNmUERVSU9nVEJGdnQ4WEs2OVlzMkN6U3RhekRFdDJ4Z2ppLXkwTV9LVHlR?oc=5",
    "utc": "2026-11-15T22:36:55Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
@@ -26,150 +170,6 @@
    "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
    "utc": "2026-11-15T22:33:26Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-   "utc": "2026-11-15T22:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-   "utc": "2026-11-15T22:11:32Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Unbeaten Andreeva captures WTA Finals crown on debut",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGpZUTNSUW5rSjR0OExrWVZqM0NHZVBsTGJHUEwwSDZ1Q3lQN24yakx1WV9IS19GLXNuak5aTWRhOTl0UFphZF9aVW52VFAwSmU3T0RGanBERDJ1YThsbjl4VFEyQi1TbS1wMlBEMnFTZ3hfYWF5eDJ0dGViWTE3N0JZaFM2NEFEQ191dGxxd09pU1VSWndFWUVJcnRGdi0z?oc=5",
-   "utc": "2026-11-15T22:10:09Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Britain's Prince Harry visits war-wounded in Ukraine",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYW9nUmdzZ1RDU1hwVmQ3Z0RIWndjWWM1aFBEa0xFTmxtRm1WUHlfNXhZY2wwaWVwbHZOeERYX2NEeU93eVlFTURBLVdRT2hoYkp5QjhuSVl1dVlqQmVTaThMZWpPeGdXdm44bVE5NG51UUZsTXRqYjZZUjZGSWNnWm5aMTlDTDNHTDJEcy1FX2V5NDlJSVdtZw?oc=5",
-   "utc": "2026-11-15T22:05:44Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Retail Crowd Dump Vietnam Stocks for Near 10% Bank-Deposit Rates",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-15/retail-crowd-dump-vietnam-stocks-for-near-10-bank-deposit-rates",
-   "utc": "2026-11-15T22:00:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Asia Is Building 73% of the World's New Nuclear Capacity",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Asia-Is-Building-73-of-the-Worlds-New-Nuclear-Capacity.html",
-   "utc": "2026-11-15T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "China central bank hikes foreign reserve requirement for 1st time in 5 years",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR1hqenFpYk0zMzBnaDExcHJ1cUxGR29lSlBQQ25GWHRRRUtzallEMWVnekJfai1mWWhuR2dKZXJKcjB5RWZzYmdwS3k2V0toUExpY1VmenlqMFBhbmRpMi14azhDLW1ubkFXa1YzOVl1R1czTHlvOWdrQlpVVDljTHAta0lpSHJNUHRNSWVFSUg4b1Btd253Q0NwemFiWjZaS2NoZnVHaUVIUEU4?oc=5",
-   "utc": "2026-11-15T21:51:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Pope Leo urges stop to Amazon deforestation, decries 'murders' of tribal leaders",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdVhUQ25wVWFVVnBuNEtoNVJCMFctMUloMU9PUXJzTU9LQ3NpX1hnUnF1ZHhsOF9ud05yNThxVkJrQUxtc21zUDQ2WExaUDRabFlHaHlfSldWR0JjeE5NMXlpOUFieTJFakFURGN0aTJYd1FNdjBFaUZtMVBJRnlmXzkxZm1uWW5hVWNqd3hsZldtc1hCTVFaWUduLTBhRmI2SVhYUA?oc=5",
-   "utc": "2026-11-15T21:49:38Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Diamondback in Talks to Buy Double Eagle for About $5 Billion",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
-   "utc": "2026-11-15T21:49:10Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-   "utc": "2026-11-15T21:32:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-   "utc": "2026-11-15T21:31:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Mexico's Guadalajara cartel founder, aged 80, dies in hospital, Milenio reports",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXRlTGlzNmUtbEZnZkZNVDhBYlZmdmxOdVJqaGlSaEMzQ04wb3duRUwyY1VDUjJiamE1OFVWNHl4T1ZhYnhlTU1xRDBzWGszVzAtRmxKek42bzQwVWNfRHpadXY0RllwcGZtcWNLZ0Z6bEg2VFlTallPQjFwd191YVhoLU5YUEttRktMeWxOdkp0YVh4UjFzUHBPMmExeXU4NUZnQk5wSlVKMFVXTVg3bG5oRl9zaU5USW52NE45NVo?oc=5",
-   "utc": "2026-11-15T21:30:21Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Tanker in New Orleans ship collision suffered 'steering casualty,' NTSB says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXBEMnhoWXdETmQ4d2JPM3Q2OUw0MDByaUV2di1Nc3ZVcmJHaGJ6bnNLN1lsc3gzeG5hSGlEYnBKaHJOajU2SzlrRXp4UUZtdU5Dc0I1TlNmYlFxWThaUFZvRk11UVJSY2YyakpJSFFGNWlVbmZrMDNXTXkyLXM2MWlydzN1YWwydGc5dmM3WVZjeFVVZDlIVGR2aGFEMzZrUkE3QnRXU1hibDlpU2RWQkkwTkRyZw?oc=5",
-   "utc": "2026-11-15T21:23:43Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5",
-   "utc": "2026-11-15T21:22:37Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Mexican journalist who reported on missing people found dead in Acapulco",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa25HanoteThXd2lib2FtRlZvd3p4ZTd6VHJ6aWUyWENoTnVhbUJQbkV4UHV3aUN0eXdjWHYzNFdkTTRWeVIybWNjYmlRSHZucEl1NDZVQVFqNmVVMFpLZmkzTXhFbHNHeGRPUlJaaE9hdXRMSXVTV3BlZW92czhLNm9rclZ2RW1QQlAxMDBNMWpQaHlKLWthTTc3YUJ0azhvLU1nNEJROTJ6WGlOeDJsc2VkU2FZYU1ZdGx5VWs4enFzb2s?oc=5",
-   "utc": "2026-11-15T21:11:59Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Pictet Adds Japan Stocks in Diversification Push After Midterms",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-15/pictet-adds-japan-stocks-in-diversification-push-after-midterms",
-   "utc": "2026-11-15T21:00:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Asian investors chase indirect access to Anthropic shares amid IPO fever",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHRmdnFxRElCVVhhQ2Y0d2VkMVZyNkdaQ0J2U2h6WThfc2ZPTThmSFFTZU1VT19Pbm9aZ2xwTzI2eUdTMDhXYXBlRnA0NEdneU1Yamhqa0JCa1lfRWhaNlh3bU9GVmRIQ01Bdi1sSTM2d1B4UmM3bXZYX2o4VXA4ZGZ5SnJYQjU5eUZMNi1FRUh3U1ExcC1RTldvV3BiNDcyV1l1S1hTcG1qNUZFQmd6YWJJSlRHTWRqS25RZG80ZkpyNDdL?oc=5",
-   "utc": "2026-11-15T21:00:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Estonia to close Russian border crossings after attempted arson attack",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5",
-   "utc": "2026-11-15T20:49:24Z",
-   "tag": "WAR",
    "breaking": false
   }
  ]

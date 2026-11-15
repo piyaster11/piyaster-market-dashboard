@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:55:16Z",
- "level": 40,
+ "updated": "2026-11-15T23:52:09Z",
+ "level": 37,
  "band": "Watch",
  "components": [
   [
@@ -19,8 +19,8 @@
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   4,
-   12,
+   3,
+   9,
    15,
    "3 pts each"
   ],
@@ -97,7 +97,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -108,7 +108,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.6,
+   "airspace": false
+  },
+  {
+   "title": "Woman Is On Her Drive Home. Then She Receives An Urgent Warning From Her Cybertruck: ‘On A Dark Road... Full DEFCON 1'",
+   "source": "Motor1.com",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGNqNVZIcGEyYklXYTZXcHNWTDVUTFY0Z25WX1ZGVnZJdTNJM3hYYXhzOWkzM0F3OGJkM2ZjTVdZMm5KVVRObFE2M0pMYUVYRUhXSVpBWWlyeTAxbllkOEprYUxZSFo2dW1FOVdOOXRMZXRPY0tvcWJnZEVET1BoVjdhdk9odw?oc=5",
+   "utc": "2026-11-15T13:43:47Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -130,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.5,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -141,7 +152,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.4,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.0,
+   "score": 3.9,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -178,17 +189,6 @@
    "airspace": false
   },
   {
-   "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR05wUXRmTE5QLTNpWE9WWFpTZ2ZpeVRkdUtKdHVXM0Nxc0pnclVSQk9WSEdjcEVuMXBKdnZkYXY5anZIaUo0bmhYd3M5Z0pEQnp3TFJEay1YamxTNjJubTBqZHBUNlB6MkpuWDBfWVNBTm43RGRUeXFnNng5ZndJVFAxenhWS0x4RzJwTnZBY3ZULTdDbUE?oc=5",
-   "utc": "2026-11-14T13:44:30Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 3.6,
-   "airspace": false
-  },
-  {
    "title": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13",
    "source": "https://houseofsaud.com/",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ySzYzbjEyZVhzSkpIZDJpWDR3b2J3bEFOU2dUQmVKRnVDNmRqSWZDOGFKclV4WjZPam1Sa0xYVmxPWTN0ZXRTdlNpa3NqNFpaZkpqQUdyWWFTZHJXOUJhVHAwTE0xd3EzQWFTVzRsOTlxTnR4?oc=5",
@@ -196,15 +196,15 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.4,
+   "score": 4.3,
    "airspace": false
   }
  ],
  "mil": {
   "count": 1,
-  "global": 92,
+  "global": 108,
   "baseline": 1.8,
-  "samples": 31,
+  "samples": 32,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -708,6 +708,10 @@
    ],
    [
     "2026-11-15T22:55:16Z",
+    1
+   ],
+   [
+    "2026-11-15T23:52:09Z",
     1
    ]
   ],

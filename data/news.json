@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T23:51:58Z",
+ "updated": "2026-11-15T02:45:29Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (15)"
+  "Nikkei Asia": "ok (14)"
  },
  "items": [
   {
-   "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-   "utc": "2026-11-14T23:34:00Z",
+   "title": "Philippines' Carmelle crowned first Eurovision Asia champion",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXVKVHk1WHJWX3ZKSXdGdl9ISHBaSmtBa25EbnVDSUFpNlFIWGFBTEY3enVNenAwS2NpdldRTzNXVkZyT21Kd1ZVd0I5dnRDdkU4cEhJdmNBakJoMWlkQWVRWGVVZElwSUsxd2JBUUZTN3NxdHVCSTRrQlY1MFVQTm8wRHpLbDZWaEIzWmQzWmQ0ZWd6WDRQS2FwUkFnV2YyQVl1Zy1EOUFhbjNSVVU2NGV3?oc=5",
+   "utc": "2026-11-15T02:09:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-   "utc": "2026-11-14T23:21:21Z",
-   "tag": "MARKETS",
+   "title": "China's century-old 'porcelain capital' eyes global luxury",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnhQWmpDaWhNaTRuNTd2M0o1ckZVcll2WDVMb2F2aUYzbWxkRlY1bWIzeHY0X2ljLUM1czQzZE5fbFExRjdwSl9QNTBPbjk5LXdsaThvbWgyNklCeXRYM0U5alM1UHJUTlVJS3RxaEFMY3otdkd1eGhlMTIyTEI3NElicVBtQU82NzFXek1OdEltOVJRazk2QWpJaw?oc=5",
+   "utc": "2026-11-15T02:03:00Z",
+   "tag": "CHINA",
    "breaking": true
+  },
+  {
+   "title": "Subaru retools boxer engine for fuel economy, with eye on hybrids",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnRjMlI5V19jcmdxci1BYWZDNWdQMmVpRmJQbHJ5Z19STGxhTGpfMFBrV1ZUcEZ4QlZoUlhxalFia3BucjVsbnNEcVo5ZXV5ejFxTkktR09EelF2dlJOaU04WUN5RlhvbFpGeGFKQWVVOFlwM1dNcjQySFdDOGRsRGJQU3k1U1dVc1gtcnNfczFHOUVCR1NiaG82YmpBOXpDQVVDVGdRbUcxcFk3NVE?oc=5",
+   "utc": "2026-11-15T01:31:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnBfd2gzZE5aV1hCWkdBazd0LXN5d3RJaGF3VUQ0OWlMaWYwWWxNT2JQNUdRdm9TVklIejYwemNoM3dCM3F2MTVpc0tnX2RiSHRnbXFKRWU3X3hVUEdGV0hpVWV1Tk9aZG54aEMyQ0JUbVFIdnl0YThfOWxnU1JJazZqNEZYV0M1ZTdwSkM4UUV3b0FSckNhc05fRGpERmc3WEVEbWxIYnVkd29RQlBzRUhWbUQ0dkFHQ1E?oc=5",
+   "utc": "2026-11-15T01:22:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+   "utc": "2026-11-15T00:33:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Electrifying Ambitions Meet Tough Reality in Europe",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Electrifying-Ambitions-Meet-Tough-Reality-in-Europe.html",
+   "utc": "2026-11-15T00:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Steelers TE Pat Freiermuth (illness) questionable vs. Bengals",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalc2eG9EM3QxS3FoTDNCb0hvQV9XQlpRa1pvY3lSTFJCUDBjRmpyNzhKZE5ScmlidnZrNW1iWkRYLUpaMXI1Ul84VlpSTEpoZndMRjJOQXRCVEJXM0U0WlJQSW5pWFJVQjVtaXprVWlPMXJnSU9pS0ExWUtpSGpwVXIyV0tCazVoVVQtSmk2aWNkY1pkTEx1MUpIdENJMXkyVmYybFlrZmNSQQ?oc=5",
+   "utc": "2026-11-14T23:58:02Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "Air travel issues to persist well into Sunday, officials say, with thousands of flights affected",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5",
-   "utc": "2026-11-14T23:11:37Z",
+   "utc": "2026-11-14T23:57:44Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "SpaceX catches upper stage of Starship rocket in historic first",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-   "utc": "2026-11-14T23:10:14Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+   "title": "Colts activate DE Arden Key from injured reserve",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
-   "utc": "2026-11-14T22:54:19Z",
-   "tag": "OIL",
-   "breaking": true
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSFlNQnh5VE5Xd1RtWFpab2hhbDhGVUloenVZcVp2OUZ3aWU3enpTRFp5enB1bDRRUlc0ZUNDUEFyODUwQ2Z5MUZmSWd0TmJXZ1ZUMTZkMWpGNG1LUzdmS0I1RXNKeE9pNlItbnY2Q3BUMC1md1JvY0QyMXp2VHROc0Y5d19RdkpsMUx1ZGNQSjhqNjNDZ1E?oc=5",
+   "utc": "2026-11-14T23:56:00Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
-   "title": "US air travel problems to persist into Sunday, with thousands of flights affected",
+   "title": "Sounders' Jackson Ragen suspended 2 matches for 'serious foul'",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHBTTUhEY1B0aVMtRlpCTVlLNW5qeVlQSzhReWZ3b29PbEx1RlZRWWhUc0oxS1dGcGROYUFrazJvZFNqa0NlaWlUbHZyVlhoN1JQUUNEMklVRE9Kd3pZV1JORXVST055bzBVdEFQYy1za3lwenIzZ2lEaFRWYXZ4VXNTWGxIRTM3OTBiNElaRWxrNG1kak9JYmxRclBVWFV5YV9Mel8zODNtUEFWLWo0?oc=5",
+   "utc": "2026-11-14T23:53:38Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Ohio State WR Jeremiah Smith sets Big Ten receiving record",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR29XbTU4dUNicklxOU5haldfVWtKa1doT29QcmdOaWpMWXBhemFYbHQ0cGNwRzZZQVd6UW9KQmtrZ1NjWGZwZjl3aVJZRzE4UHVUMUxTbmNUQk4wN0V4c09pUk5KME9zTmxRVU84dzlrYmhqbWI2ZHFzVnZWSVRRRGp4NDBleGQ1QU5pYkg4dzFxVWZSY2h6bThjSzNMMjRob3k1ME5ZSnhGQQ?oc=5",
+   "utc": "2026-11-14T23:52:17Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Footloose in Vientiane: A capital in no great hurry",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnJvSEZyMEpBS0lPYXZRZmcxX1B4bXlwdE9vZklIaE5yMUZQbktwaFR5dDZpNjBhRjFyaktkaHU3aEhWc3RyZnpxelU3MUpfTHpXYlhsN3FxS2xmb2h6eElZdzdYVWowQ3NGdHBKUXNvMUNJcGNjakdfYkJsZVNEREJ1MVIwQ2MxMTNSWld5R3BGVmwyT3V4RUkxMEJIMExJeWU4UWpQTXp1dWZ4VkFQNEIzX0tia21MWGhFVzY0SVJRdWp4QUhn?oc=5",
-   "utc": "2026-11-14T22:42:00Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczhkajJFSEk3Y1F0a2lzU19sTEtVLVFETm1UYk5QVlhMU0o5a3RGVUlqWnVpX2d5ci00TzJiamxvZkVYZ2tlNEVCSVNnUk0wa0VqdWNxOFhvR1ZmeEs5d0dIaFZLNTlfeHh6bTBSbXc0aHo4Wk9fZHR4cE9KTDNvU1pMNFlVMTVpN0g1ZUZqcTMxVXl0aTU2NGhVVTY4UGYwbXB5bA?oc=5",
+   "utc": "2026-11-14T23:52:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "$180 million Van Gogh tests the art market and collector confidence",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
-   "utc": "2026-11-14T22:34:07Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "(Digital) SpaceX Catches Starship in Novel Landing",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
-   "utc": "2026-11-14T22:25:41Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan to require online authorization for some transit passengers",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1RWSjBzWmczUExIcDlGWmFvdDlWSDBzb1MtTFozUjRPZWNJdllmTmZ2aVhVNThMMTFheDA3NGJ5bGVUZ3diZWpxSzBtSENXRTZLVC1QamZlbS13Z1FPd3FsZUpzcVZSMEVNRVpSMzhISUJfTDJFbHFIUDAyMDFRLUxpUWNkb1FsSUw0UFRGWHRZUmxseTNaUW9tMVZXWE8zOTJqUkxCM3h4ZDA5SFlmc0R3Q2RQT3It?oc=5",
-   "utc": "2026-11-14T22:24:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-14T22:03:05Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html",
-   "utc": "2026-11-14T22:00:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-   "utc": "2026-11-14T21:31:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says",
+   "title": "Wake Forest blows past Southern Utah, led by Kevair Kennedy",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
-   "utc": "2026-11-14T21:19:16Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTdyR0NNX2ZWTnc5Z3d1VG94TVlaVXhLbzIxaGUydzU4bmpEdTg4bGJ4VWtPSE5rVDdPSDNRYlo0V2xUaFpyX2xJYThLY2lCT0pvSWprdXk0aXR4d3d3MjNfUHh5a2tWUS0zTUVpQV9jUmc4bTQ3b3Uzd1dJYV9uS2V3dElDV3BkeTNJbHEzX3ZnbEIwZmdiZmNaY2FXcURYU2FVUzkyajJJUWxvRlZkdw?oc=5",
-   "utc": "2026-11-14T21:18:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGtRTlJEUFpnQTdQbXZEWWViWm5nVkJLTTRONFl0MjF1SFJhcFpGQU1jV1QtNUZuWUNmZGlrT0gxVkI2aUI5aDdRTkEwTGxwNW1iSDB2aHRKSXFfaXdlSk5WSUZjZEhNcVZJeFJJZG5rUFlFdTU3UHA4SlM0bk5nbVNReWdzM2Q1SHotei1KVjMycGlYbXNaQUtUM2o3STZ3ZE5xazdVZDFCQll3clJCanhjeEkyaDR2?oc=5",
+   "utc": "2026-11-14T23:51:31Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "At the Supreme Court, Trump aims to cut the power of judges again",
+   "title": "Texans RB David Montgomery (groin) ruled out vs. Browns",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VIZWp1ZnhpQ09VVEdDSjhteU9qNzdxWEYtZ1d2aEs3cjZ4SUtEUVlxanBWTHlMX1JTbGdMd3A5UkZrMHFVc1ppTUVka1RTTEctN0toYkFualFicnFDNVBaSjhESmd4dlBVMDdCNERsNThVc0duRkJTc3BNdzFyVS1iczc4LXM1UzlXczlvdGlocWZjWTdMczlYak1GS1N6OWc?oc=5",
-   "utc": "2026-11-14T21:17:39Z",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3JsdUlmNUpPdEVHaVlYQXhqT1FxODVqdTFueDNPMm1BaWQ3Z1dFYTJpaFdRNk8tSTV3V2RNQXgwY09xUjU0T3hucXdLaVVtZmlaMDl4cTBkc05yT1hsd2tnOGNiakpaZnJiSEpHVjNkcHptVWtYTWtpMkxSSmUyQlZEZWVNUjlOWTE3N082SkNnWU44QjZuUTc3dDJUc2JEOWc?oc=5",
+   "utc": "2026-11-14T23:51:16Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-   "utc": "2026-11-14T21:00:00Z",
+   "title": "Panthers activate WR Xavier Legette from IR",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2RLeU5UU2VRV29oSnE2Q0liQlQ0MnFydnlIbURIbXdFYmE0Rnk5ZTFpcGFzalU3V21Pb3lHMUxHWThZRWdXMU8zbmlTWUZBZGxIREc2blRhc2UtcHR5OHk3QkhrYTNva0E5a1lFbHBNcTh0WUVOdndrdzhmYTJVZ2JOZ0NPX1F3dXlsamdjZw?oc=5",
+   "utc": "2026-11-14T23:50:38Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Law enforcement searches Illinois plant after 'credible threat' of explosive device",
+   "title": "Report: Saints to activate RB Travis Etienne from IR",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWd2dWN5WmZWVFV3UFVQcU40U2lkY3B3Z3FRVFlHWDg1RGtodEt0T2d3QnQxSWxsXzFRWWV0anZqcW8xb2wxelg0UFZkODlQM3BTbENTaVdOSEZUM3NYblVESUdzTk14Rk9wcGlnWmJUdGxaTG5sM1Fsa0t3SHpxdkxMd3VPdEdkY1cxVDZoM1FfUW5BTGdzTVlCdG9Sc19JUzYzeUN1VFhzYm9jRDh1dVo0WjFVQk9TSTUyM2hTRE4?oc=5",
-   "utc": "2026-11-14T20:40:09Z",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPalVzcXVFd2NPek9kU2o4VUZEVFoyRURSNi1wRFRxMzF2Y05SRUpacEFlTTFCYmRWa09MZXpKQUdCaE5PYlhtLWJSSTNJUDRZdmFvUy05Zlk1bklLQUdldU1KcUlicm9EM2I0WHhGdkpjYy1HM2xudlE2eFg4bnp4N2VaQjZocFJWZ0RpRTFCN1V6WXRGQWc?oc=5",
+   "utc": "2026-11-14T23:44:09Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
+   "title": "Chiefs RB Kenneth Walker III downgraded to out vs. Falcons",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
-   "utc": "2026-11-14T20:23:56Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "US aviation shutdown blamed on L3 Harris installed router",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEQ1ckJVbXlQSHI5ZHU4VEppWVVZbXBYa0ZRWjdDdFNGWWxSdHF5bEtwR1Q2OHRxN2plYXctMm5lTU5TV0hzb2xQazg4U09MNDhyRnpOalhGYXJWN01mak9NR0dXWG0yR0k5WUtycmNhdkdZZkpYcXp5N2w0N2RQSUxEX1F5aEY1TGhDTzV5ZXl3dWR6QmdabDduOFBBWTNPdXBvVVY1VlAwVW1XYnIyQ2FwU2ZOeW5x?oc=5",
-   "utc": "2026-11-14T20:17:19Z",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3pfYzBqSDRJUDFGYnVRX1lvU1VRRFN0emFnUXd3b0FzU3AycXNWa0V6SlBVbW5jLW56RVF6RDcxbExFRE1XTmJYQU1QcEFHVDNRSlp2MmROUFVCazlKRGx6NnJXRjBfNjRqN045T3RvUFc0dGdXZVpycUVxTGRQT3FJNDJsZjktTkJuNFBnU0FHU1VsMHhUUmYxTVN2Y1E0NFJRaw?oc=5",
+   "utc": "2026-11-14T23:43:44Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Foreign workers need a place in Japanese society, not just its economy",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkY0bm1teVNDaDBRQm84WUNJR3pHOVhveDFId19COHhtQ3p5LXVBZ3QwNjdvaXh4QlJSaVpfTnkzR2FUOHNXeExmcGJDRHhTZy1GTkdEd1VwT3ZzdkJNb1lVOUlGem9jN0pIenJfd1R1R3R1eUhyMjZRNmpyM29NdWVVcXRfNXRWdHM4U0UxRkd6YWhzc2c5blJsazhyV0Vud293?oc=5",
-   "utc": "2026-11-14T20:05:00Z",
+   "title": "Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDVOVl84WGtvTHZ4WDdMVXE2VWQ3dGE4LXV6LWhGQ1pTZzlUWUt1QXBWOWVsUHpxMHN2LURab2RYdlhmS2xGYm9jZkRTNFhHOGlDd2phUDQyMThBQlV1V3FlUWxIZzU1enBRS1BOUm1QQUVLcnB2ZkJqdTdEdTNTclhQTmM0Z2ZfMUQ2Q0VTSTFhTzJ6QXRHNzZybVRJb292c2RtSC0wWkd5NlFJdl83TmxTVTJpMTFGa1lZ?oc=5",
+   "utc": "2026-11-14T23:43:43Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "‘I don’t know what to do’: student pilot on first solo flight caught in US shutdown",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMmdReTZrRDhpYjJTc3A1b2lnTG1iOF9mMlhvRHJBalp2WUJvdDE1QmRvX0lvWERla0cxeFdha1dVM283OTB6OEdvZS1XTHlxR2tsUWdTOHZrZTN3alNsaU5jbEF6NWViM0pjSm1veTJmSG1OMGFHVk9wSjYydlhLdlE1S054UWxNUDJLbE1xSDV6ZU94bHBLenRhNnB2OXBwcUlXNDAyUGNXcEFjWngySFlBVzB3NU1KRnlSYk5xV2VXWm1xTk9rdWZ3bm9QQQ?oc=5",
+   "utc": "2026-11-14T23:36:17Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Firms to face rising pressure: SCG",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3354875/firms-to-face-rising-pressure-scg",
+   "utc": "2026-11-14T23:26:00Z",
    "tag": "MARKETS",
    "breaking": false
   }

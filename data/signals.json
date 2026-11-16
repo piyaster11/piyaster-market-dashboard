@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T11:35:42Z",
- "level": 51,
- "band": "Alert",
+ "updated": "2026-11-16T22:14:42Z",
+ "level": 38,
+ "band": "Watch",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   27,
+   25,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   2,
-   6,
+   1,
+   3,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   9,
-   10,
+   1,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,36 +90,80 @@
  ],
  "headlines": [
   {
-   "title": "Riyadh Air extends flight cancellations until November 30 and includes Madrid, although it reactivates several routes",
+   "title": "Iran announces a fourth burning oil tanker in the Strait of Hormuz in just 24 hours",
    "source": "Demócrata",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX3FNVDhjUlNSVTFtV2tNTUFUd09QSTVyUGxOTFRXaVRzdHRGVDFlZmg3UTVady1oTTVsLVZEUDRUMXJWOHdVTEJvanFBbHcwbUhBODgtYXdMT3JWM0dnbHhzYURpdlgxaHBCQXVjeUNtQkFkZGQtTG5qbWNlVzRlbWUwY0VWcHNENW0tTEkwNmQ5ajEwNkM4RUNaWE1USDdaa0tyc19iZFFnZWItTFV2anBKc1RaVmZFQ0dfUVdWT2dLeE1tbkhCeGtRN3BJZHpVMXhpbGlMWUFJZnl1X05tSVR0SUJaUGtaLU40MG5n0gHuAUFVX3lxTE9fcU1UOGNSU1JVMW1Xa01NQVR3T1BJNXJQbE5MVFdpVHN0dEZUMWVmaDdRNVp3LWhNNWwtVkRQNFQxclY4d1VMQm9qcUFsdzBtSEE4OC1hd0xPclYzR2dseHNhRGl2WDFocEJBdWN5Q21CQWRkZC1MbmptY2VXNGVtZTBjRVZwc0Q1bS1MSTA2ZDlqMTA2QzhFQ1pYTVRIN1prS3JzX2JkUWdlYi1MVXZqcEpzVFpWZkVDR19RV1ZPZ0t4TW1uSEJ4a1E3cElkelUxeGlsaUxZQUlmeXVfTm1JVHRJQlpQa1otTjQwbmc?oc=5",
-   "utc": "2026-11-16T09:54:29Z",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGlYWkZVQVg5VENNdmZSZ1NLTk9HR08wY3U5NmN3NFJkMjZCZWNraGs0ZEk4VGxuTDNqTzJfcDRYM1BsNjBpd254QWdNQUR5NWxsRWV2Q0FKdmNOTjJSSVliYzZNMW1Lb3F0X0V5MnpiLTl1aHVUbGRPbFgyVHZ0bnRZNmY4ZFBNRUExU1FWWVFTVkIzaVItMERlS3lUc1dPaTZvZHNsYm9lZUZjRXp3WDVpWXRHSlBpQW5FYW1wc2xYXzVy0gHKAUFVX3lxTE9PT3dhbWFqY1E3czAzd0xRY2pUNVhuUEtSOEozUGkwa01rTVJsaWNzVy1aSVNpSUpsb2QtUkdMWHdkWGZOM0liUzNUTUdoRWpXeFQ1VmQxRnRSSXAtWEhrZU5JZ1AyTkYyZXVxLUZaUHVXQ2V5S0pOZ2dhT3hTTi14SXBOV09MTnBsRWFhU0pKaDI4RGUtT25IbXk0aGxBLUdRTVJTakFwbXMxTzRJajZkS1cxV2w3NHFWdU5RWmhiYmNvSkVvMHR4N3c?oc=5",
+   "utc": "2026-11-16T21:08:30Z",
    "tags": [
-    "AIRSPACE"
+    "HORMUZ"
    ],
-   "score": 4.9,
-   "airspace": true
+   "score": 6.0,
+   "airspace": false
   },
   {
-   "title": "USS Theodore Roosevelt enters Middle East as third US carrier strike group",
-   "source": "Gulf Business",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmVGRVBLVWJKUXFzZ2hoVjRIdkEzV0hvUDJwbDRGX21jSmdZWXlXS0plRzdNc1BZZDZQZDdTTXNIQURhNjIzMWJES0pnbWRjOHNfWUVGeERHNHhfdjcxcGxJUXdYSUR2MFp6NlpnQnpkX25XbGlPdHM0X2RMTmpla01PNlFYTDBCcDlTcGhwWW1UQWJZYmhhUzhSWWdqd3JSWU9kalBnNW81R1FEQ0ZseUxEMA?oc=5",
-   "utc": "2026-11-16T07:13:09Z",
+   "title": "Iran announces the closure of the southern corridor in the Strait of Hormuz and its complete mining",
+   "source": "جريدة القدس",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckNVQkNNckJoRjdwanRoNlh1alVMYi1BQU1uUnpYX3lJel84NmFaQklvR3UwR2w1WmNKZUF0cjZFZTA2Ql9PTS1YZ184aE9GY0pIYnNra1FwTml5eVo1Z0RRM21vVUlIZE9vTXdfTXNmcmh1WTVURU9zekxFNHlHWUUwbGpCckZWcDlfVFd0cG9iMUVSVXJWdjVDZWpoZDlfV25ZTXVWbEJXUWtwZElKVFg3X2M?oc=5",
+   "utc": "2026-11-16T18:02:37Z",
    "tags": [
-    "MIL"
+    "HORMUZ"
    ],
    "score": 4.8,
    "airspace": false
   },
   {
-   "title": "US Deploys Third Aircraft Carrier Strike Group to Middle East Amid Iran War",
-   "source": "باسنیوز",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lQXEtN2FCbnBNRTNkX2dFSzdoOXlnTGdDa2tyRDBQWHUxc2RqdVFfTUlHWmxMYUVpeWotZ2FTRHhXRThNMmh1TlhfT2g0bmlr?oc=5",
-   "utc": "2026-11-16T07:11:00Z",
+   "title": "Wheat Market Under Pressure from Strait of Hormuz Fertilizer Blockade",
+   "source": "CMB News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUU2VjNxV0lPemlPZ1BsYmVULUxIbUp1WWQ3X2xGRTBkaW54NGtQcmhFVkZFdVVuWlhwd0Y1U1FEREExZS1XdEtXWDlwR1l2Q2U4eWtUNHdGRnRxVGhCa1BIVDU2cks3MC1BeHFDQ2U1Nl9EaTdHaVBVcldTY01URUFQcFRNT2t5RnQ4LTBqREVOOC1La2xiVklB?oc=5",
+   "utc": "2026-11-16T15:46:37Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "Hormuz block hit Africa in 4 places: what the continent must do to prevent future shocks",
+   "source": "The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmxLZkRSbFdZTjZoYlFld2pJLWYzVEMxVnUwYjZpWDk1TEZWQUFXZkV3dW5qV1loc3k2cndRcEd1ZFc2WDQ3ZGpHVmNPaUp3QVBDak5qUURjUEFNaV9aNHBGM0M4NFpDRXFTTmhsaHZ1R2FXT29La3l4Y3hrRDI4QUVrSFZMaGIwTTQxVC0ybFEtRkJaM1NQWVBMNW9fcUtYajRDUXZkaTduSGd6TDJ0OVpWUnFQTUdaV3lHSmlaaw?oc=5",
+   "utc": "2026-11-16T13:15:09Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
+   "airspace": false
+  },
+  {
+   "title": "Goldman Sachs' 2027 Oil Outlook: The Hormuz Shock Fades, but the Oil Market Has Learned to Live With War",
+   "source": "The Dark Side Of The Boom",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2lNeGlwdGZWaE5aQzlpQkFkdmtlNTZYUngzMmtfeFpfX05uUnRHVXFxNXVDOWFfQWFqeGRVZWUyUUFVZWxJLUN0bHdteG1MQnFtWGtIQVQzRVZPYnZXaFZrZG5KMm9HclBIcTl3M2xHaFNBNks4Y1ZsdWg0UXdLRDc3d3I?oc=5",
+   "utc": "2026-11-16T12:01:54Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
+   "airspace": false
+  },
+  {
+   "title": "U.S. Masses Three Aircraft Carrier Strike Groups Near Iran as USS Roosevelt Arrives",
+   "source": "Army Recognition",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNXAxME02YlZTMVpNUlotS1Z4NkFiWDR5X2V3Q25sSGhWc0ltS1YtQjE0RTVid0U2Skd4Sks5MkRiX0c1VUxxVVBXWnZ3V2g5TW0wdlJVZ0dLVy1Kc0I0WVY2U3FCNnZLbmtQY0JrbmtzVWdvc0t3ZFdaekF6U2JRdHNSWVhJTVA2YW41UXF3MGZxSDV1c0UzbFJmMGRxbG1VektwMXpLaXVfR3lVSWlLaHM5OXluZ09MczBFWFZpLWVFRUpKbHI1em1jZEwtZ0k?oc=5",
+   "utc": "2026-11-16T10:39:18Z",
    "tags": [
     "MIL"
    ],
-   "score": 4.8,
+   "score": 4.5,
+   "airspace": false
+  },
+  {
+   "title": "Iran Refuses to Halt Nuclear Program as Third US Carrier Strike Group Arrives",
+   "source": "CBN.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0pIdkFXbTRXMVhETVZRMUQtTXFqR00wUFByNmJKLXVaaWlkaEd6SDVEeW9RWWUxdHpYUUFYRU5yeC1BU1dhMUY3dGlBajYxZnB0TURHRDVkVExXalo4NEhmZHFsWXRHaDFFdGlNZFRYMVZRMzQ4X2l3eHVyNXNRbXNYc2U3c0FpY0FJdl95SERyVzk1WmhiNWltUlh3b0JF?oc=5",
+   "utc": "2026-11-16T10:36:49Z",
+   "tags": [
+    "MIL"
+   ],
+   "score": 6.5,
    "airspace": false
   },
   {
@@ -130,29 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.7,
-   "airspace": false
-  },
-  {
-   "title": "Pentagon Sends USS Theodore Roosevelt Carrier Strike Group, Adding 9,000-10,000 Troops to Middle East",
-   "source": "NewsCord",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORTRrb21YTnAydGFfSTNiUUlCWEdsQ3VmNXVmLVZUWVQ0Z2liZUdyUnY0d3p5SDd3XzJON1U4VmczRkdxby1vc3RBTm1MRFhfdE1XNDN5ZTE3T2pNM2E5c0pmVW5ESF9CSWRaVEFkOFR4OGlRQy1pZlJxRzZrY1RfSmQzSndCRWxYLTU0WjFEd2ppalczWTBCdHEyOFh1TGh1LWpXM2VEeU5DOFNTdU9nblJjeVZpSzFYY19pWTRVY2RQbFdPM3BZZHFoSDhQV21pdjF0NURFNWFGYkpoVW1oZVBFLUxKOUVaanc?oc=5",
-   "utc": "2026-11-16T05:19:34Z",
-   "tags": [
-    "MIL"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "US sends 3rd aircraft carrier strike group to Middle East",
-   "source": "Modern.az",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmhHUTc0YUZWV2Q3TjRXeHQtYk91cnZEcGIzQUpiQkJMWjZYSjNjcWhTMlkwSkd1YkVSRDJ5NTVyV1kzZ1BwYjBsN193U042Rjh3UTZ5LTg1RExCeV9kQlU4RVRnR3pPZ0VPLUF1NEp6NjRCbVhicjNKYVlNTzBNc0JvenRNbVRVZHRGTzVpY1Eya0dITzFF?oc=5",
-   "utc": "2026-11-16T04:56:00Z",
-   "tags": [
-    "MIL"
-   ],
-   "score": 4.7,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -163,18 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
-   "airspace": false
-  },
-  {
-   "title": "Third US carrier strike group enters Central Command area — Jerusalem Post",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExyeUpMM1RPMWhfZ1VidlVFVE1LZ2VQcTc2MHdYOTdlUTB2QnB5YXZQVDlxX3kyUnhRTlcyZ2JmajFXdG03NVdqWFpGNUxDekZwclJ2QjJ6X1I5ekxRUXBEb3B5RjBWQ2x6MDNYU1RRTzI4UElwUS02YkgwUjhuSUJHVFdBcE1yUzk4VkdBU0NXMDV4T0FNWlNtZG1PUjNNNWVzcFl5ODFiQmlSU1ptZWV4X2pXWWtOUl93?oc=5",
-   "utc": "2026-11-16T00:07:46Z",
-   "tags": [
-    "MIL"
-   ],
-   "score": 4.5,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -185,25 +196,14 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "Chisinau International Airport evacuated passengers following a false fire alert",
-   "source": "Informat.ro",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEVrd1pXT2hMVVZxdEwtX0h0M3d2Q1hfODJ5dHpPdl8yWUNsMlB3YWVORGxmbUowenBSdk5TUVp0cGs1ekpUWU1XcjJDN3Z2S0dvLTBHcngyTV9WRWY3d0FSc1Q2bGhibFI1RXJIdUxOOU9DbEc5TlBuU2U2MWVXNDZJWTdZM1RERy1pbnpIR2dEQ3g5?oc=5",
-   "utc": "2026-11-15T07:19:57Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 9,
-  "global": 241,
-  "baseline": 1.4,
+  "count": 1,
+  "global": 319,
+  "baseline": 1.6,
   "samples": 31,
   "hist": [
    [
@@ -721,6 +721,10 @@
    [
     "2026-11-16T11:35:42Z",
     9
+   ],
+   [
+    "2026-11-16T22:14:42Z",
+    1
    ]
   ],
   "box": [

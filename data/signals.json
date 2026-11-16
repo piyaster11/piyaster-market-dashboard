@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:52:09Z",
- "level": 37,
+ "updated": "2026-11-16T02:48:46Z",
+ "level": 41,
  "band": "Watch",
  "components": [
   [
@@ -12,8 +12,8 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   19,
-   28,
+   21,
+   32,
    35,
    "1.5 pts per headline"
   ],
@@ -90,6 +90,28 @@
  ],
  "headlines": [
   {
+   "title": "Iran reports two oil tankers hit naval mines near Strait of Hormuz, one sinks",
+   "source": "thechronicle.com.ph",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVo4bENGUkJjQ0JWa3pJZG56MmJFeGZwNjlTa1dNQkZJS2VlQWFRcUVkSk0tcjNDVmladThucjhOdnZUc3lpV0NYeTlQRUxYN2EwUFZ4WGJGQk9vbVdnMW50OHlJTWR2b3FKVE1sMGFqNFotVjBnQzNjOG1XWnVNMFFzN3Q1cUJjX2VFYnFYc2RxUVcxLWpaZEppTkRob3N3c1J2TGxOX2I?oc=5",
+   "utc": "2026-11-16T02:42:58Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 6.0,
+   "airspace": false
+  },
+  {
+   "title": "Third US carrier strike group enters Central Command area — Jerusalem Post",
+   "source": "UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExyeUpMM1RPMWhfZ1VidlVFVE1LZ2VQcTc2MHdYOTdlUTB2QnB5YXZQVDlxX3kyUnhRTlcyZ2JmajFXdG03NVdqWFpGNUxDekZwclJ2QjJ6X1I5ekxRUXBEb3B5RjBWQ2x6MDNYU1RRTzI4UElwUS02YkgwUjhuSUJHVFdBcE1yUzk4VkdBU0NXMDV4T0FNWlNtZG1PUjNNNWVzcFl5ODFiQmlSU1ptZWV4X2pXWWtOUl93?oc=5",
+   "utc": "2026-11-16T00:07:46Z",
+   "tags": [
+    "MIL"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
    "title": "‘Iran Will Be the One to End It’: Tehran Warns against New Attack, Reports Supertanker Sinking",
    "source": "Palestine Chronicle",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3FfWlhSN25pVjVjYXpfQVVibTFvN0tvNTBXdkFIdkVYckM2RFFjTVBBS0dqUko3SV9lSXZ0Q2dkc2hTLUhfTXBWQWxEdkxSdVUwMXJjam1xdVE4cUk4alFLcnhRVUZ5SlpzTVpEMTE0cnFNRmpNeElGN2JXTEE4U2ZSTGhRNE5vMk9oT25GaFlaeF82cXpDc0lvdXNnOFZ3bjIyNXBiUW9GazFRTXVBUF9VTGs3UWdUbG5ac1RHekVMRzlE?oc=5",
@@ -97,7 +119,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -108,7 +130,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -119,7 +141,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.6,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -130,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -141,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.4,
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -152,18 +174,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.3,
-   "airspace": false
-  },
-  {
-   "title": "Strait Of Hormuz Has Now Closed Down More Times Than This Local Persian Rug Store",
-   "source": "The Betoota Advocate",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWoycUZMM2V3YXh0bF9COHM4V3h6c0hDOFBTT0xGWG1rYmJkNmJWTEl4bDlRaFRKUU80Sm5TaWZMY1FXdGl0OEFsd0htRTdTLURfYktKOGlZX24zT0doSGJ2dF9KNUs0R0VkTXRrSW1ZTzdWQ01ZWXk2TGlfQlZXRzFvSzBUTjkyQkJzeGZHb1lYNHVrajJucV9XNm5oY212UWxRTUhfQjU4ZFVJQzU1YUxtMjI?oc=5",
-   "utc": "2026-11-14T22:06:49Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 3.9,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -174,18 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "Russia’s Sechin Says U.S. Companies Benefit From the Closure of the Strait of Hormuz",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDZLSFlxbEV4MzdBVjJLQjZJcGpWbzFnMVJPSlhDN2FJMjU5X1FnYVBMNXJvSWtIeElZcWhxRVBZcHBrakFJbi1QZ3hpR0VzMXBHdXQyXzlhYk5kS1cwRGlVdERoQjAxc25JMDdYTzM3Q2o2U0E2aHMyWEFVVDVSelNaalNUZ3Uzc0ZLcW92clFHTnZWbVM0ZkN3QmxZbHVlTVVIMm5WY2dNLU5ET2FLaUdB?oc=5",
-   "utc": "2026-11-14T14:04:32Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 3.6,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.3,
+   "score": 4.2,
    "airspace": false
   }
  ],
  "mil": {
   "count": 1,
-  "global": 108,
-  "baseline": 1.8,
-  "samples": 32,
+  "global": 115,
+  "baseline": 1.9,
+  "samples": 31,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -712,6 +712,10 @@
    ],
    [
     "2026-11-15T23:52:09Z",
+    1
+   ],
+   [
+    "2026-11-16T02:48:46Z",
     1
    ]
   ],

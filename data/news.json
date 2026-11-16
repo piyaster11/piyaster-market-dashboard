@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:14:18Z",
+ "updated": "2026-11-16T23:48:29Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (33)"
+  "Nikkei Asia": "fail: HTTP Error 429: Too Many Requests"
  },
  "items": [
   {
-   "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+   "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-   "utc": "2026-11-16T22:11:09Z",
+   "link": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+   "utc": "2026-11-16T23:47:51Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+   "title": "United Airlines resolves system outage that delayed flights Monday",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-   "utc": "2026-11-16T22:08:00Z",
+   "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+   "utc": "2026-11-16T23:42:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+   "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+   "utc": "2026-11-16T23:28:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
+   "utc": "2026-11-16T23:26:48Z",
+   "tag": "GOLD",
+   "breaking": true
+  },
+  {
+   "title": "Colombia’s De La Espriella Vows Spending Cuts in Investor Pitch",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-s-de-la-espriella-vows-spending-cuts-in-investor-pitch",
+   "utc": "2026-11-16T23:20:56Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Betterment CEO Sarah Levy on Plus Debut, New IRA Options",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-16/betterment-ceo-sarah-levy-on-plus-debut-new-ira-options-video",
+   "utc": "2026-11-16T23:17:26Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Learfield’s Cole Gahagan on Economics of College Sports",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-16/learfield-s-cole-gahagan-on-economics-of-college-sports-video",
+   "utc": "2026-11-16T23:10:49Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Finance Ministry readies new public credit scoring system",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3356074/finance-ministry-readies-new-public-credit-scoring-system",
+   "utc": "2026-11-16T23:10:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "United Airlines resolves system outage that affected departing flights",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-   "utc": "2026-11-16T22:07:51Z",
+   "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+   "utc": "2026-11-16T23:08:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bilt CEO on the Launch of “Neighborhood OS”",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-16/bilt-ceo-on-the-launch-of-neighborhood-os-video",
+   "utc": "2026-11-16T23:07:21Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+   "utc": "2026-11-16T23:05:12Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+   "utc": "2026-11-16T23:04:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Food security concerns drive more stockpiling",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3356099/food-security-concerns-drive-more-stockpiling",
+   "utc": "2026-11-16T23:03:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Nov. 17",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+   "utc": "2026-11-16T23:02:55Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "JetBlue Rushes to Calm Workers Spooked by Bankruptcy Fears",
+   "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+   "utc": "2026-11-16T23:01:19Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Oil market set to rebalance as Mideast tensions ease",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3355924/oil-market-set-to-rebalance-as-mideast-tensions-ease",
+   "utc": "2026-11-16T23:01:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+   "utc": "2026-11-16T23:00:01Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Billionaire Cheng Family Bankrolls Risky New World Rescue Plan",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-16/jetblue-rushes-to-calm-workers-spooked-by-bankruptcy-fears",
-   "utc": "2026-11-16T22:00:16Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-16/billionaire-cheng-family-bankrolls-risky-new-world-rescue-plan",
+   "utc": "2026-11-16T23:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Can Underwater Data Centers Escape the Land-Based Backlash?",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Can-Underwater-Data-Centers-Escape-the-Land-Based-Backlash.html",
-   "utc": "2026-11-16T22:00:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-   "utc": "2026-11-16T21:55:19Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
-   "utc": "2026-11-16T21:54:18Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-   "utc": "2026-11-16T21:53:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-   "utc": "2026-11-16T21:52:33Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Ex-Bank of Canada Deputy Beaudry Weighs Applying for Governor",
+   "title": "Citigroup Targets $5 Trillion in Wealth From Rival Banks",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-16/ex-bank-of-canada-deputy-beaudry-weighs-applying-for-governor",
-   "utc": "2026-11-16T21:51:54Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-16/citigroup-targets-5-trillion-in-wealth-from-rival-banks",
+   "utc": "2026-11-16T23:00:00Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-   "utc": "2026-11-16T21:51:43Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
-   "utc": "2026-11-16T21:51:04Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
-   "utc": "2026-11-16T21:49:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "US issues new chip rule as China's AI companies fear Nvidia scandal fallout",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVTB3YUtNeHEyOWVPYmczSXVPOWNHeTJIQ1VsczNFcUhQUFFiU2FvQ0JSaWw4ZkRRSVJmbldyZHp6NmNoRDRndTVHU09xMVV1dWtTSWVMWGtjeWRIWDVYRGhtbHlMU3BKdzJ4emVoRmRBUWFUeVc3Uzl1Q3Zfc1JVTGVDdV9pUHNkekxDWTZ5aldWU1RmZ3dkMjhfWDQwaGRUeFh2U1VOQmxDNElmWkNXdVlPSllrUUp1bDd3NW4zZ3Y1TFp4WVMyWWFrcEZSOXhQazFjSlVlUEZFeHc?oc=5",
-   "utc": "2026-11-16T21:48:00Z",
-   "tag": "AI",
    "breaking": true
   },
   {
    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-   "utc": "2026-11-16T21:45:00Z",
+   "utc": "2026-11-16T23:00:00Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stock Selloff Intensifies | Closing Bell",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-16/stock-selloff-intensifies-closing-bell-video",
-   "utc": "2026-11-16T21:42:25Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Deutsche Sees Asia Chip Boom Supporting Dollar Through Equities",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-16/deutsche-sees-asia-chip-boom-supporting-dollar-through-equities",
-   "utc": "2026-11-16T21:42:04Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
-   "utc": "2026-11-16T21:40:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Hedge Funds Slash Bullish Bets on US Diesel to January Low",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-16/hedge-funds-slash-bullish-bets-on-us-diesel-to-january-low",
-   "utc": "2026-11-16T21:37:49Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Fake gold jewelry made from industrial metal tricks Japan shops",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnhhbXU0WGhjLTdsRmlzakVHSXJ4aE1uM20xNFVPaU1yUkxUY0dmRmh1S0drNmxGY1JlMG5XNkNRY1pqTzBwU2MtNW12UmpkNXR3UXo1OFJGWjZuSXBfUDFYb0lUanJTUUNBekVWMm10a1FMWlJpdjFHVVBHMkp6MkhaYmNGNjdTWXlPOU10d1Y4M3c3SXAxbU9GY09LWXdTQjFxeXpkbkxtakpzRVdhdA?oc=5",
-   "utc": "2026-11-16T21:35:00Z",
-   "tag": "GOLD",
    "breaking": true
   }
  ]

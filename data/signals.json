@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:14:42Z",
+ "updated": "2026-11-16T23:48:49Z",
  "level": 38,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   25,
+   27,
    35,
    35,
    "1.5 pts per headline"
@@ -97,7 +97,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 6.0,
+   "score": 5.9,
    "airspace": false
   },
   {
@@ -123,6 +123,28 @@
    "airspace": false
   },
   {
+   "title": "Fuel Prices Could Keep Rising for Months After Hormuz Reopens, US EIA Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXMxOTdGVzVOLUhfa3hkbXliUU40aGNWanZ1RFRPMktrQVFZTW82UGhoOXpkR0k2cTZxQS1OYlR3NVM4MDZ2dTBOSHVPYXpOdnZpSXNCOWVHYXFKUWdxV2NPVzdfdUl0NXhlcnY3SWdxMjdkMGQ2ZlZOS3U3dkZtYVRQaDFvQXJQcGNBdVB6UFlhY3RDSzd1bW1Hd3V3b0FTaEVSeUNiUQ?oc=5",
+   "utc": "2026-11-16T15:40:06Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "Hormuz Closure Extends Well Beyond Oil to Threaten Chinese EVs: Russell",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenFGeVI4UjJkYnYycUJZdEFQZW9jZTRPcmU5alR3dkt1N0hzS0JYZkFJNmo2NUxBRVpaUm52akNYb1RkelhuLVJNMDFKVVc3d1B3X1F3OHlwX0Q0eGE3VS1BSk1taERDQkpPblRhSzlTbXRQRm0tbWlGazBxdlVFXzhSbW10ZENVWWRfcEtqQURzY2xrYnFpOUhqUmdjSzdWTnc?oc=5",
+   "utc": "2026-11-16T13:47:40Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
+   "airspace": false
+  },
+  {
    "title": "Hormuz block hit Africa in 4 places: what the continent must do to prevent future shocks",
    "source": "The Conversation",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmxLZkRSbFdZTjZoYlFld2pJLWYzVEMxVnUwYjZpWDk1TEZWQUFXZkV3dW5qV1loc3k2cndRcEd1ZFc2WDQ3ZGpHVmNPaUp3QVBDak5qUURjUEFNaV9aNHBGM0M4NFpDRXFTTmhsaHZ1R2FXT29La3l4Y3hrRDI4QUVrSFZMaGIwTTQxVC0ybFEtRkJaM1NQWVBMNW9fcUtYajRDUXZkaTduSGd6TDJ0OVpWUnFQTUdaV3lHSmlaaw?oc=5",
@@ -134,23 +156,12 @@
    "airspace": false
   },
   {
-   "title": "Goldman Sachs' 2027 Oil Outlook: The Hormuz Shock Fades, but the Oil Market Has Learned to Live With War",
-   "source": "The Dark Side Of The Boom",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2lNeGlwdGZWaE5aQzlpQkFkdmtlNTZYUngzMmtfeFpfX05uUnRHVXFxNXVDOWFfQWFqeGRVZWUyUUFVZWxJLUN0bHdteG1MQnFtWGtIQVQzRVZPYnZXaFZrZG5KMm9HclBIcTl3M2xHaFNBNks4Y1ZsdWg0UXdLRDc3d3I?oc=5",
-   "utc": "2026-11-16T12:01:54Z",
+   "title": "Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVndRdlBIVWNXNnd1cXNDVmIwbjBrWmItNkt4MFVWYm5NLU90MFlFa3hLUF9ISmM5N0tjQzhWcGt5SlB2dnpVcElqYl9DYV80U2hWdWt3Z1l2TU5OMmx5ZUZvSWN2NnFqamFYVTl4NXJFLTFPcFlhM0ZCVlFPWWtrcmswQXJNb1V6cVhTQVZXZTN3VGl5akVfRjFBcV85VF9yYkpWTmJSU2hzV3VtOUVsQUU0a1UtMmM?oc=5",
+   "utc": "2026-11-16T12:05:22Z",
    "tags": [
     "HORMUZ"
-   ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "U.S. Masses Three Aircraft Carrier Strike Groups Near Iran as USS Roosevelt Arrives",
-   "source": "Army Recognition",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNXAxME02YlZTMVpNUlotS1Z4NkFiWDR5X2V3Q25sSGhWc0ltS1YtQjE0RTVid0U2Skd4Sks5MkRiX0c1VUxxVVBXWnZ3V2g5TW0wdlJVZ0dLVy1Kc0I0WVY2U3FCNnZLbmtQY0JrbmtzVWdvc0t3ZFdaekF6U2JRdHNSWVhJTVA2YW41UXF3MGZxSDV1c0UzbFJmMGRxbG1VektwMXpLaXVfR3lVSWlLaHM5OXluZ09MczBFWFZpLWVFRUpKbHI1em1jZEwtZ0k?oc=5",
-   "utc": "2026-11-16T10:39:18Z",
-   "tags": [
-    "MIL"
    ],
    "score": 4.5,
    "airspace": false
@@ -163,18 +174,7 @@
    "tags": [
     "MIL"
    ],
-   "score": 6.5,
-   "airspace": false
-  },
-  {
-   "title": "Iran’s Navy Reports Tanker Fire After Mine Hit East of Strait of Hormuz: who 12 outlets blamed",
-   "source": "NewsCord",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQekNVT3NHM1JfV3lfeWl0R1Vzdl9ZdnFQdUVFT3FJdUQtT1RVQzZzR1FobmQtZ0J2Z2hpdzJUTG51UXVTV2U3cFlfSlNNUjl4dGVvb3RaWm1DSWQ4S192MU1FbEwxODk4ajhNWW5aSGZmRDlRWEV3YVlHZHk5bF9XOGFrWlZKYkk2TDVHWTMzSUpLRTdsMTg4dmc3YzFSNlVQUm1UY09BRlk3MGNjZWVnOTBiN3VMUGVWMFU0SE5FZ1RNZzFveEhYdFYxZlZoMFZ1Zk9sczJtNXhnbzU2?oc=5",
-   "utc": "2026-11-16T05:27:11Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.3,
+   "score": 6.4,
    "airspace": false
   },
   {
@@ -185,7 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.2,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   }
  ],
  "mil": {
   "count": 1,
-  "global": 319,
+  "global": 225,
   "baseline": 1.6,
-  "samples": 31,
+  "samples": 32,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -724,6 +724,10 @@
    ],
    [
     "2026-11-16T22:14:42Z",
+    1
+   ],
+   [
+    "2026-11-16T23:48:49Z",
     1
    ]
   ],

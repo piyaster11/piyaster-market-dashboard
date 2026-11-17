@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T04:36:37Z",
- "level": 38,
- "band": "Watch",
+ "updated": "2026-11-17T14:34:16Z",
+ "level": 51,
+ "band": "Alert",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   28,
+   25,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   1,
-   3,
+   2,
+   6,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
-   0,
+   4,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,50 @@
  ],
  "headlines": [
   {
+   "title": "24 Indian crew members evacuated after vessel incident in Strait of Hormuz",
+   "source": "Times of Oman",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3dQcFpGS3RTN0xuVkJDZE1QY0JsS3FLbE1MdThpTUZhMm80cHRqN0ZzY3ZCd3Z1Q09BdHNXUk84QWZ4ZVN1TDAzdklmT01JSHZQWHluNzB3YVdVZWJSVTE1T0tkOXA1SW1DTE8tVkZIeDVaaldOZzVrbkJtRnJLRlJXRWVMU01hWWkzeDV6ZG9xb3hKR1ZmNE1fd0hGZ1RRelN1MFdEenIxU3Y4VkFPLWZrQQ?oc=5",
+   "utc": "2026-11-17T11:12:00Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 6.9,
+   "airspace": false
+  },
+  {
+   "title": "Third US Carrier Strike Group Enters Middle East as Navy Enforces Iran Blockade",
+   "source": "The Defense Post",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04YUpsdHRkWkZEZGtxTlBsdHFNZEdfbWp1aFV2a0tZS2c1ZHl5OFVDUEtxUWpEZlc5Wi1rTGZmWGpFS3hiMDBNUGExTHlfeVZUSjFDN3h1anNTaUhOQW5PUjVKb1pxbDhUOVBaSE9zdGNjaTZiUGfSAXtBVV95cUxPLTl0cGFhWVFrc2NrUWQ2MXdIeGI3aWNHdnhvaWE1ZEJZRFpNRkdWdUttbGk4ZlMtV0tYbUxMc05WbFRmcWdqYm15Mm5HM1ZBY3FHRmJFdVJfQzdVbHBfTnNscWhOc21HTmM5WWg3ZkFoSFUtM3FwSUNQNE0?oc=5",
+   "utc": "2026-11-17T10:51:52Z",
+   "tags": [
+    "MIL"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Major gas leak at ONGC well in Andhra; nearly 800 evacuated",
+   "source": "Rediff",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMEtzeGxEMGx1Q2gtbnR0QzcyUS1idnpaUHJ1dGFSZUw2VmFHSWY5NVRGMDMwa29Ea21LTURrVFAyUmRCQjR1UU5RYUJYQU9acXlHdERUbDV6eUIyVElkay1kN1lyLVlXdTIwT3pPZ194Y2drUWhXaC04VFhpVXo5QWUyZndqSnBQbGNQbTZMZlFwX2l1X2ZQZl8xVk1La3FjaFQ5QVJsVnhFWDA5bzdwMUkyMUNTODYzLTBtTWNWdVFXaW1vVVJiVFpiM3lCOUIzSjViVjlYQ3l6dw?oc=5",
+   "utc": "2026-11-17T06:06:42Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.6,
+   "airspace": false
+  },
+  {
+   "title": "Middle East Airspace Closures: Who Decides and What Passengers Are Owed",
+   "source": "Diplomacy and Law",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uWGd4WmxWb2ZBalBmZFpxM0hwZGpYNzczSGNNS1ZqRFBoTEJfcE1JenlqQTExVUgtU3JGREJ5Y3VfYXItZG5OSVNpWjJzVERmcms4ekR0S2xpODY3bzJCMVBn?oc=5",
+   "utc": "2026-11-17T04:42:56Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.6,
+   "airspace": true
+  },
+  {
    "title": "UK PM says Iran war must end — and backs deal to reopen Strait of Hormuz",
    "source": "Gulf News",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzI2RGg1SXdnMTFDMVpyUkRJOU1GLVJzMzJIQVA3UWNSbDFCM1o1ckk0UDUyejNyM20yb2JqTzVmOFZGV3prVXlsUVhGSHVJX1h6czU0RDltdHVyOTVTTFR3dVlGR28xVlFlTTBrMUl5enIwTnNINkg5UlowaWNLRjlteHQ2Ni1UekgtVTRnYnJqQll2LUhKbWM0NFpnd3piVW1TVk4wTWpyNjZ5QVF6emJDeGLSAccBQVVfeXFMTk1fYlFxSEtORVA5bDhNMVVNa3pReUJTZmRneUpDSEJOcE9ZYXVkZGxqSjYwQUliNUZrOGdOQ1hhY09jLWpLbFc2b183VUlCWG9HYmlhZEMwdzhUeHpTenlWYTN5N2Y3aGdmLTZCb3JndDNoVldZRVAtX0RoV3RCNXpGOHl3Nkp0d1ktNFdZd0p1a1FtWmk4NWVhbDNRRWU5QkFFaldmYU5pc2JRVkxjeGJyclJwd3hZYzZuQ0RKYV9zNDVoeU5Qdw?oc=5",
@@ -97,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -108,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -119,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -130,29 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "Hormuz Closure Extends Well Beyond Oil to Threaten Chinese EVs: Russell",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenFGeVI4UjJkYnYycUJZdEFQZW9jZTRPcmU5alR3dkt1N0hzS0JYZkFJNmo2NUxBRVpaUm52akNYb1RkelhuLVJNMDFKVVc3d1B3X1F3OHlwX0Q0eGE3VS1BSk1taERDQkpPblRhSzlTbXRQRm0tbWlGazBxdlVFXzhSbW10ZENVWWRfcEtqQURzY2xrYnFpOUhqUmdjSzdWTnc?oc=5",
-   "utc": "2026-11-16T22:28:12Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "Roosevelt carrier strike group arrives in the Middle East",
-   "source": "Washington Examiner",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd01wX1ZkdEFWVk5kMGttQXdxVDFYUmo2dnRjM1ZYOWhYQ0w4T3pOeWVmM1hvb2k3dXkwZy1PZmlKS2F2SFNQekNSWDMxcjlVd0ZyZ2JtbmVWd01ObzNwV2E0Uzc4N0dDTDN4V21MeUxBN3g4YnRRc3RJenZCU0ZCTEhUWXBwSjF6S2hYZHNfc3FZN0JxdmxKSVl2TjJjVmk4M2V2SmtOQlpYdGJmYlE?oc=5",
-   "utc": "2026-11-16T22:08:30Z",
-   "tags": [
-    "MIL"
-   ],
-   "score": 4.7,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -163,18 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
-   "airspace": false
-  },
-  {
-   "title": "Iran announces the closure of the southern corridor in the Strait of Hormuz and its complete mining",
-   "source": "جريدة القدس",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckNVQkNNckJoRjdwanRoNlh1alVMYi1BQU1uUnpYX3lJel84NmFaQklvR3UwR2w1WmNKZUF0cjZFZTA2Ql9PTS1YZ184aE9GY0pIYnNra1FwTml5eVo1Z0RRM21vVUlIZE9vTXdfTXNmcmh1WTVURU9zekxFNHlHWUUwbGpCckZWcDlfVFd0cG9iMUVSVXJWdjVDZWpoZDlfV25ZTXVWbEJXUWtwZElKVFg3X2M?oc=5",
-   "utc": "2026-11-16T18:02:37Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.6,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -185,26 +196,15 @@
    "tags": [
     "MIL"
    ],
-   "score": 6.3,
-   "airspace": false
-  },
-  {
-   "title": "Iran reports two oil tankers hit naval mines near Strait of Hormuz, one sinks",
-   "source": "thechronicle.com.ph",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVo4bENGUkJjQ0JWa3pJZG56MmJFeGZwNjlTa1dNQkZJS2VlQWFRcUVkSk0tcjNDVmladThucjhOdnZUc3lpV0NYeTlQRUxYN2EwUFZ4WGJGQk9vbVdnMW50OHlJTWR2b3FKVE1sMGFqNFotVjBnQzNjOG1XWnVNMFFzN3Q1cUJjX2VFYnFYc2RxUVcxLWpaZEppTkRob3N3c1J2TGxOX2I?oc=5",
-   "utc": "2026-11-16T02:42:58Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
+   "score": 5.8,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 225,
+  "count": 4,
+  "global": 407,
   "baseline": 1.6,
-  "samples": 32,
+  "samples": 30,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -729,6 +729,10 @@
    [
     "2026-11-16T23:48:49Z",
     1
+   ],
+   [
+    "2026-11-17T14:34:16Z",
+    4
    ]
   ],
   "box": [
@@ -736,18 +740,12 @@
    32.0,
    34.0,
    60.0
-  ],
-  "stale": true
+  ]
  },
  "sources": {
   "US State Dept advisories": "ok",
   "UK FCDO travel advice": "ok",
-  "Google News errors": [
-   "\"ordered departure\" OR \"authorized departure\": HTTP Error 429: Too Many Requests",
-   "\"airspace closed\" OR NOTAM airspace: HTTP Error 429: Too Many Requests",
-   "\"private jets\" leaving OR departures surge: HTTP Error 429: Too Many Requests"
-  ],
-  "Google News RSS": "ok (7/10 searches)",
-  "adsb.lol military aircraft": "failed: <urlopen error _ssl.c:994: The handshake operation timed out>"
+  "Google News RSS": "ok (10/10 searches)",
+  "adsb.lol military aircraft": "ok"
  }
 }

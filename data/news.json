@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:36:02Z",
+ "updated": "2026-11-17T14:33:53Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (33)"
+  "Nikkei Asia": "ok (38)"
  },
  "items": [
   {
-   "title": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+   "title": "Dow slides weighed by Home Depot; Nasdaq is flat ahead of Nvidia earnings: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
-   "utc": "2026-11-17T04:34:24Z",
+   "link": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+   "utc": "2026-11-17T14:33:40Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+   "utc": "2026-11-17T14:33:23Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble? Nope.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
+   "utc": "2026-11-17T14:32:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+   "utc": "2026-11-17T14:30:38Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+   "utc": "2026-11-17T14:30:04Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "U.S. Opens New Front in Campaign to Cut Off Iran’s Supply Routes",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Geopolitics/Middle-East/US-Opens-New-Front-in-Campaign-to-Cut-Off-Irans-Supply-Routes.html",
+   "utc": "2026-11-17T14:30:00Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
-   "utc": "2026-11-17T04:27:57Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic IPO: What Australian Investors Need to Know",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-what-australian-investors-need-to-know-video",
-   "utc": "2026-11-17T04:10:08Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "China",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93dndUaWxlSkJBY1gzSkRlaWQ2c3pMYUlhMmtFMVRGWllaWHF3OS02Z28tZDZ1Rk5PN1lzbFl3LWhzNXJwUXczTUtQcmhWUy1oUm85WW9JVkJsWW5p?oc=5",
-   "utc": "2026-11-17T04:07:29Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "German and Chinese hospital sectors extend ties and partnerships",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXAwNTlaSzd4XzkxV1hKaGVyMG5ZT3B6Rkh6NFdSMFJRMlhFYmREdXVnXzhVQzV4M3BHUF9jcGdCZWZzbUZnZFVuWWI3NnduTERWYzEyakFLaGRPQTdidHg0azl0NHZZMjJXRTNJQUdJR0p6WkJXMVJJZXNNNGlKN3ZJSEM5emltTFI2bmpkZ0JKTHB6VlZGODZ0ZG9jV3FqQ3I4dVdJSVNnbHl1NUE?oc=5",
-   "utc": "2026-11-17T03:48:00Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Barclays Says Forced Retail Liquidation Behind Taiwan Stock Rout",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-says-forced-retail-liquidation-behind-taiwan-stock-rout",
-   "utc": "2026-11-17T03:17:04Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Asian stocks sink as scandal-hit Nvidia prepares for earnings",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/investment/3356225/asian-stocks-sink-as-scandalhit-nvidia-prepares-for-earnings",
-   "utc": "2026-11-17T03:03:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Indian rupee to strengthen as oil slides, AI trade unwind picks up pace",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHBJMGZCZ09KMjBxNjl6NEZHS25KSmZKelZGX0M2TTl4MHMzdWRfNXlsRGo3Q1p4TWdVc0VGLWFKQ3RHOTFLaHhFWU5TVzhQVHlOM0REV0hEUUd1QXhaLURROUU0NlJBWDJEY2xNbnh2VzlsOC1IRUZpWExqOG95cVRTQU5FY1A4a0loZ1IwYTJjNFZqSHFIYUdxTlNuSHAyMFozeWpMWWxLSnl6cTlfcHp3?oc=5",
-   "utc": "2026-11-17T02:56:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video",
-   "utc": "2026-11-17T02:55:42Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
-   "utc": "2026-11-17T02:46:47Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Japan's Mori Trust to step up overseas property push after New York deals",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM01uMW9OOWxjbGNCTm90cEFja0k1cW9Icm51NnYzVy1PUU1Nam5PM0I1cnFJMTBDMWxrOHp2V3FTczZYZTB1OUFibzVlUldBNUxJUjh2WF9IUVB2aTlDaVpTeFF0c3NGMlhndHhPbzRCNk8yd1BaNUZPQ2RSbS0tVmc5ZXlodFNQenZaTGI1MmlGbE1YWkhnbzBBOURPb3JDOTdKNXVTV3JYcy0wNEJkS2xXcFhrRGxyX1N0UGFsTQ?oc=5",
-   "utc": "2026-11-17T02:44:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Global Funds Cautiously Increasing Exposure to India IT Stocks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-17/global-funds-cautiously-increasing-exposure-to-india-it-stocks",
-   "utc": "2026-11-17T02:39:15Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "North America",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fNlg4dUJFcERfdGdITnhINEsyd1JMT1Myd09acFJmSFh2MGJTckF0aThNdlhuck9UUW1nRUVnc1NiNzRvcnZld2JpN0daTnVXRTBHOTMtNlJ5RmluUVJIT0dSWG03Ykp3dmp2WXBtVEdkUQ?oc=5",
-   "utc": "2026-11-17T02:35:59Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-   "utc": "2026-11-17T02:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "New Zealand Inflation Expectations Remain Anchored Above 2%",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
-   "utc": "2026-11-17T02:24:44Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Foreign Funds Bought Most China Bonds Since May on Haven Appeal",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-funds-bought-most-china-bonds-since-may-on-haven-appeal",
-   "utc": "2026-11-17T02:21:36Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "The Army Just Did Something Extraordinary To Break China’s Rare Earth Monopoly",
+   "title": "TTF Gas Bounces Back to 86 Euros as Hormuz Risks Resurface",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/The-Army-Just-Did-Something-Extraordinary-To-Break-Chinas-Rare-Earth-Monopoly.html",
-   "utc": "2026-11-17T02:00:00Z",
-   "tag": "CHINA",
-   "breaking": false
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/TTF-Gas-Bounces-Back-to-86-Euros-as-Hormuz-Risks-Resurface.html",
+   "utc": "2026-11-17T14:30:00Z",
+   "tag": "OIL",
+   "breaking": true
   },
   {
-   "title": "Gold hovers near over one-year low as firm dollar, Fed-hike bets weigh",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
-   "utc": "2026-11-17T01:47:00Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
+   "title": "South Africa to Seek Relief From EU’s Proposed Hybrid-Car Curbs",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-17/bok-s-yoon-ai-concerns-add-to-korea-equity-volatility-video",
-   "utc": "2026-11-17T01:46:26Z",
-   "tag": "AI",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/south-africa-to-seek-relief-from-eu-s-proposed-hybrid-car-curbs",
+   "utc": "2026-11-17T14:28:20Z",
+   "tag": "MARKETS",
+   "breaking": true
   },
   {
-   "title": "APEC live: Xi Jinping to open CEO Summit ahead of gathering with Trump, Putin",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmxNaktDbHNueXhyY3AxR1BvbFp4ZUxWUmcyZ1pTLTNFd1ZXS0RWTUVPbTZwYktMWHhtNHJGTTNGS2t3dVZ5cjY1V095ZnRHY3Y5MFZDeGpkdGJtSlZCUDliTFcteWhJY1Y2Y1Jqa2lVZXhBNjE5cmdzUXhVcGRQQk9hQnZRdFRpMkNRSS01SEl3aUpvRFE3X2xsQ3hGVElITmpuaU9MX2hzNk5RYjYyNXVNVTJ3WXpFTEliWWZnU0hTZGNNM05EaklKMjY?oc=5",
-   "utc": "2026-11-17T01:43:00Z",
-   "tag": "CHINA",
-   "breaking": false
+   "title": "Nike lays out financial goals ahead of first investor day in 9 years",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
+   "utc": "2026-11-17T14:26:39Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
+   "utc": "2026-11-17T14:24:10Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia investors will be clamoring for these answers during today’s historic earnings call",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
+   "utc": "2026-11-17T14:24:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Traders Cash In on Pricing Gaps in Anthropic’s Pre-IPO Contracts",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-sparks-an-exotic-trade-in-pre-ipo-markets",
+   "utc": "2026-11-17T14:17:31Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+   "utc": "2026-11-17T14:15:14Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5",
+   "utc": "2026-11-17T14:11:48Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "The biggest financial decision of your life isn’t an investment — it’s your spouse",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-biggest-financial-decision-of-your-life-isnt-an-investment-its-your-spouse-1cbb8680?mod=mw_rss_topstories",
+   "utc": "2026-11-17T14:10:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "South Korea to check students after exam candidate used AI to cheat",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGE1NWg5RXYzeVZBS3VzUGptS2I4ODBKd1FaUjF1R0hpVHpXeEpkcFF2U1lpWU42QmZGYzZYZ2NZV05QRVVfXy04T1dpeGpKM0lXNmVnMHhOc05abFZ6NEZUYjIxTTFybk5zcFRUVWdmeHM4TGp5QV83OVZVVjE0cmtjY1RYbHJERVJLeDV2ZXdhTWR2SkRGYVVHQjFxLXkwalJMNGk0YnVwd1RIcnI3VDJwSDg1Q1VQRmM0RA?oc=5",
+   "utc": "2026-11-17T14:07:40Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Nasdaq set for higher open as tech steadies ahead of Nvidia results, Anthropic IPO",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
+   "utc": "2026-11-17T14:05:55Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+   "utc": "2026-11-17T14:05:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/11/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "utc": "2026-11-17T14:00:44Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic Is Said to Guide IPO Price to Top of Range or Above",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above",
+   "utc": "2026-11-17T14:00:08Z",
+   "tag": "MARKETS",
+   "breaking": true
   }
  ]
 }

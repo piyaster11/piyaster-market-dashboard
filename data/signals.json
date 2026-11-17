@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T14:34:16Z",
- "level": 51,
+ "updated": "2026-11-17T22:57:11Z",
+ "level": 52,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   25,
+   31,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   2,
-   6,
+   5,
+   15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   4,
-   10,
+   2,
+   2,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,61 @@
  ],
  "headlines": [
   {
+   "title": "UPDATE - One crew member missing after Panamanian-flagged LPG tanker attacked in Hormuz: India",
+   "source": "US Muslims",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMzRYUEJIOWVXbGkxalF5ZF80a3hoRTBRUmFza2htcmM0Q0owY1BKUk9zc0RKVEFHRHFrUkU0RzNsU3ZHcmVZaEMzMHJlVjVXMzBMOGpKQ3l1MU1reWQzd24wSERqTTU2VTZ3VXhrRFdSZ3NpZE0zRDlKLUw2TEpJSXg1V1h4cmdRbUVhd09nZlYyMWpTYmo2d0U2WkVud0N0cmMzMkdyV2ltNUZyTzVDbmxuM2ZVS2I3bVlWWkJSRTJmTjh5Wkg00gHHAUFVX3lxTFAzNFhQQkg5ZVdsaTFqUXlkXzRreGhFMFFSYXNraG1yYzRDSjBjUEpST3NzREpUQUdEcWtSRTRHM2xTdkdyZVloQzMwcmVWNVczMEw4akpDeXUxTWt5ZDN3bjBIRGpNNTZVNndVeGtEV1Jnc2lkTTNEOUotTDZMSklJeDVXWHhyZ1FtRWF3T2dmVjIxalNiajZ3RTZaRW53Q3RyYzMyR3JXaW01RnJPNUNubG4zZlVLYjdtWVZaQlJFMmZOOHlaSDQ?oc=5",
+   "utc": "2026-11-17T18:35:56Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 6.8,
+   "airspace": false
+  },
+  {
+   "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+   "source": "Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamJHQi1EV1NLR09MdkRBS2Y1R2VNelpkTWh1ZC1OeDNGX2VEZWx1RFVZdDNDY1Ffdzktc2M1RFhsUHpma2tCb0pDbjA0MjIxT0dDRkZCMnpOMzlya0VRemRQLXQxYnZmbnhpbWJLdkxlMktLc25hVlZ6WkhWMWdjWmlyVk5WSkpRMXM2WXQxV2pSbmhJSEFoRG5jMkZSaFdyNXFzUTMzeDE0a0p2Y2VLbzdGUG5nUdIBuwFBVV95cUxNWG9oWmctUENuLVNrMnJ1Sno0ZDQwSWNLcE95cjlNZDN6dzQyb3BXaGhrd3VpRDV4ZE00ZWhsZk9jQS0tdUJUUGtMMjhwWndQb0NPT3ZXZGszSjlrdEtTMl9EYThMb3NMcDVvMC16UXMzcnVJSzhVTGF1b3QxYV9WTTdpWC1LclRWV2xRRTV1eldpX1lSUFRrQXNjSGlZTE9jRTBDQWQtVnhEcFg2a2F0SlJFY0hCNzZOTXVn?oc=5",
+   "utc": "2026-11-17T18:05:06Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Moldova's airspace closed due to a Shahed drone sighting near Chisinau",
+   "source": "Moldova 1",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakR5Y2k3YnhiekJpWU90M0xuTTh1V3NUVVBjaDZlZ1ZBd2w2VWhrQ21OX2lmS0tLY0ZmbXhRUlV4d2NqRno3cDBtTFpDLVZvUVpLZFVkNGNQSW5TekExNlloYzRpeDU0TEdGYWdlWkktS1Excm9zQWRyRVlwUzJTZTVaUjRaV1d6dEtiNU1NOUd0aS1xVUZoSWFrbVlFSzQ?oc=5",
+   "utc": "2026-11-17T15:42:29Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.7,
+   "airspace": true
+  },
+  {
+   "title": "A Shahed UAV in Moldova’s skies: Airspace closed - URGENT",
+   "source": "TodayPress.tv",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3hxaFNxTjlkN1ZOc21HcjgzajEzQ196d0hRb3hXeUpJT0xaZFlUakVKTXl0QzF0WkxpM1BOZm9KczRsUWd2Njc0N0dlUnFMbTRWYzNXTVJVWGRZenFBTTJyYll6cktzRkVJaGRyU2YxYlBhSUpiTE1yaVNGc1d2STFhRzMydW03ZG1SSQ?oc=5",
+   "utc": "2026-11-17T15:14:12Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.7,
+   "airspace": true
+  },
+  {
+   "title": "Another drone spotted heading toward the Botanica district. Airspace closed",
+   "source": "ipn.md",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1R0SGJkNTYwOUxhOXhlVzRib3RPVHlWanBDMTg3U3dTMkg4RHdLUWZIb1BjMEQwSDR0VHZZZjZySmtqRThWa3l4VHNxN2xhS01hbVBObjBfTTZnVGJHSGczRHN4WVhXNWxmdkNlQkRLZjFVTzJvRE1WZG1nR1BFX2RpRXlqMmZaTEZ3U1ZKMVVnUUxWeEFiLQ?oc=5",
+   "utc": "2026-11-17T13:58:39Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.6,
+   "airspace": true
+  },
+  {
    "title": "24 Indian crew members evacuated after vessel incident in Strait of Hormuz",
    "source": "Times of Oman",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3dQcFpGS3RTN0xuVkJDZE1QY0JsS3FLbE1MdThpTUZhMm80cHRqN0ZzY3ZCd3Z1Q09BdHNXUk84QWZ4ZVN1TDAzdklmT01JSHZQWHluNzB3YVdVZWJSVTE1T0tkOXA1SW1DTE8tVkZIeDVaaldOZzVrbkJtRnJLRlJXRWVMU01hWWkzeDV6ZG9xb3hKR1ZmNE1fd0hGZ1RRelN1MFdEenIxU3Y4VkFPLWZrQQ?oc=5",
@@ -97,18 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.9,
-   "airspace": false
-  },
-  {
-   "title": "Third US Carrier Strike Group Enters Middle East as Navy Enforces Iran Blockade",
-   "source": "The Defense Post",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04YUpsdHRkWkZEZGtxTlBsdHFNZEdfbWp1aFV2a0tZS2c1ZHl5OFVDUEtxUWpEZlc5Wi1rTGZmWGpFS3hiMDBNUGExTHlfeVZUSjFDN3h1anNTaUhOQW5PUjVKb1pxbDhUOVBaSE9zdGNjaTZiUGfSAXtBVV95cUxPLTl0cGFhWVFrc2NrUWQ2MXdIeGI3aWNHdnhvaWE1ZEJZRFpNRkdWdUttbGk4ZlMtV0tYbUxMc05WbFRmcWdqYm15Mm5HM1ZBY3FHRmJFdVJfQzdVbHBfTnNscWhOc21HTmM5WWg3ZkFoSFUtM3FwSUNQNE0?oc=5",
-   "utc": "2026-11-17T10:51:52Z",
-   "tags": [
-    "MIL"
-   ],
-   "score": 4.8,
+   "score": 6.5,
    "airspace": false
   },
   {
@@ -119,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -130,52 +174,8 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.2,
    "airspace": true
-  },
-  {
-   "title": "UK PM says Iran war must end — and backs deal to reopen Strait of Hormuz",
-   "source": "Gulf News",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzI2RGg1SXdnMTFDMVpyUkRJOU1GLVJzMzJIQVA3UWNSbDFCM1o1ckk0UDUyejNyM20yb2JqTzVmOFZGV3prVXlsUVhGSHVJX1h6czU0RDltdHVyOTVTTFR3dVlGR28xVlFlTTBrMUl5enIwTnNINkg5UlowaWNLRjlteHQ2Ni1UekgtVTRnYnJqQll2LUhKbWM0NFpnd3piVW1TVk4wTWpyNjZ5QVF6emJDeGLSAccBQVVfeXFMTk1fYlFxSEtORVA5bDhNMVVNa3pReUJTZmRneUpDSEJOcE9ZYXVkZGxqSjYwQUliNUZrOGdOQ1hhY09jLWpLbFc2b183VUlCWG9HYmlhZEMwdzhUeHpTenlWYTN5N2Y3aGdmLTZCb3JndDNoVldZRVAtX0RoV3RCNXpGOHl3Nkp0d1ktNFdZd0p1a1FtWmk4NWVhbDNRRWU5QkFFaldmYU5pc2JRVkxjeGJyclJwd3hZYzZuQ0RKYV9zNDVoeU5Qdw?oc=5",
-   "utc": "2026-11-17T02:35:39Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.5,
-   "airspace": false
-  },
-  {
-   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-17T00:03:48Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
-   "utc": "2026-11-17T00:00:35Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Fuel Prices Could Keep Rising for Months After Hormuz Reopens, US EIA Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXMxOTdGVzVOLUhfa3hkbXliUU40aGNWanZ1RFRPMktrQVFZTW82UGhoOXpkR0k2cTZxQS1OYlR3NVM4MDZ2dTBOSHVPYXpOdnZpSXNCOWVHYXFKUWdxV2NPVzdfdUl0NXhlcnY3SWdxMjdkMGQ2ZlZOS3U3dkZtYVRQaDFvQXJQcGNBdVB6UFlhY3RDSzd1bW1Hd3V3b0FTaEVSeUNiUQ?oc=5",
-   "utc": "2026-11-16T23:44:28Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
   },
   {
    "title": "What The Strait Of Hormuz Tanker Mine Crisis Actually Means For Global Energy",
@@ -185,7 +185,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.2,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -196,13 +196,13 @@
    "tags": [
     "MIL"
    ],
-   "score": 5.8,
+   "score": 5.5,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 4,
-  "global": 407,
+  "count": 2,
+  "global": 314,
   "baseline": 1.6,
   "samples": 30,
   "hist": [
@@ -733,6 +733,10 @@
    [
     "2026-11-17T14:34:16Z",
     4
+   ],
+   [
+    "2026-11-17T22:57:11Z",
+    2
    ]
   ],
   "box": [

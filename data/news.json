@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:56:57Z",
+ "updated": "2026-11-17T23:52:51Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,30 +9,38 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (36)"
+  "Nikkei Asia": "ok (38)"
  },
  "items": [
   {
-   "title": "CNBC Digital Finance Forum live updates: Wall Street's AI and crypto future",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/digital-finance-forum-2026-live-updates.html",
-   "utc": "2026-11-17T22:54:13Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
-   "utc": "2026-11-17T22:46:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates",
+   "title": "Nvidia’s Kress tells CNBC 'customers continue to be with us’ in exclusive interview: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-   "utc": "2026-11-17T22:41:13Z",
+   "utc": "2026-11-17T23:49:02Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "China Is Finding Workarounds on Restrictions: Sara Hsu",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-17/china-is-finding-workarounds-on-restrictions-sara-hsu-video",
+   "utc": "2026-11-17T23:48:22Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Former Darden CEO: Cava Better Off As A Private Company",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-17/former-darden-ceo-cava-better-off-as-a-private-company-video",
+   "utc": "2026-11-17T23:45:31Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nothing to Nitpick With Nvidia Results: Erika Klauer",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-17/nothing-to-nitpick-with-nvidia-results-erika-klauer-video",
+   "utc": "2026-11-17T23:42:29Z",
    "tag": "AI",
    "breaking": true
   },
@@ -40,137 +48,129 @@
    "title": "Stocks making the biggest moves Tuesday: Nvidia, CoreWeave, Nebius & more",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-17T22:37:12Z",
+   "utc": "2026-11-17T23:40:29Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Breach of Japan's Fugaku supercomputer exposes security spending gap",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHVvY2dFRzJrSzhXcTU0M3kxdUlZN1dnY0U1THdral90V1kta0hiVVROX2RpWjl6U3FuVXplV3VpbkFVelc0WVkxcVFHS3ROcXdpY2NVVTlFdnYxanczUkxnUUdnenN3QV81MzFPblQtbkI2YThJaXRMa1pGSld2SUQyQ0hnd0ZCOE1qSER4TmdhMXhhNXpwT2FQS0lyRXozQ1JoSnJfV0hhTDhRNHM2ZDZnemJOd0k?oc=5",
-   "utc": "2026-11-17T22:34:00Z",
+   "title": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+   "utc": "2026-11-17T23:33:52Z",
+   "tag": "GOLD",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "utc": "2026-11-17T23:32:34Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+   "source": "CNBC Markets",
+   "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+   "utc": "2026-11-17T23:30:13Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+   "utc": "2026-11-17T23:30:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Putin Arrives in China for Trump, Xi Meeting",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
-   "utc": "2026-11-17T22:33:24Z",
-   "tag": "CHINA",
+   "title": "CNBC Digital Finance Forum recap: Wall Street's AI and crypto future",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/digital-finance-forum-2026-live-updates.html",
+   "utc": "2026-11-17T23:25:42Z",
+   "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "German minister rejects US criticism of Kyiv's deep strikes as 'stupid'",
+   "title": "Hotel guests spend less amid high season",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3356749/hotel-guests-spend-less-amid-high-season",
+   "utc": "2026-11-17T23:20:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+   "utc": "2026-11-17T23:15:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Association welcomes plan to level e-commerce playing field",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3356684/association-welcomes-plan-to-level-ecommerce-playing-field",
+   "utc": "2026-11-17T23:13:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Classified US national security communications network hit by outage, NSA says",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmdnNC1aejdXR1ZzZFEzSGVBNEJ5T2VRZTdHTU1mVGlrcnJkZTlacmJ2V3UteWNQZkNKTUpQa1gtRGxNaGV6ejVaM1JQZkszX2FZeWs0RXlQM09aYnBvdllESnktVEZMclBBcnZDNVdremViZjZmSlZHcGRLeHpCLWc3VnQ3M0psWXBReEg2SEZzSmQ0dkVBbU1ZOTVaVGI1Yld6cWNiaXBGeFB5OFZCTA?oc=5",
-   "utc": "2026-11-17T22:32:40Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-   "utc": "2026-11-17T22:30:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Nike lays out financial goals ahead of first investor day in 9 years",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-   "utc": "2026-11-17T22:17:44Z",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5",
+   "utc": "2026-11-17T23:09:06Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-   "utc": "2026-11-17T22:15:00Z",
-   "tag": "AI",
+   "title": "Regulator to rejig public street lighting rules",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3356834/regulator-to-rejig-public-street-lighting-rules",
+   "utc": "2026-11-17T23:05:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
-   "utc": "2026-11-17T22:08:00Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap",
+   "title": "Latest Oil Market News and Analysis for Nov. 18",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
-   "utc": "2026-11-17T22:07:08Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-   "utc": "2026-11-17T22:03:57Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
-   "utc": "2026-11-17T22:02:05Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "UK Carbon Capture Keeps Advancing Despite Critics",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/UK-Carbon-Capture-Keeps-Advancing-Despite-Critics.html",
-   "utc": "2026-11-17T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "API Shows Substantial Crude Oil, Gasoline Inventory Builds",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Shows-Substantial-Crude-Oil-Gasoline-Inventory-Builds.html",
-   "utc": "2026-11-17T21:58:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
+   "utc": "2026-11-17T23:01:33Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "El Nino lifts crop prices in domino effect across India, Southeast Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZk5FWTNQLW5mQThWX0RMVTQydjEyb1Q2ZnZ6TW05SDZXeDBaWi1YSGxua1pmY054amF2WWRRU0pHU3IxZmROSngtUnZ5X2JLQXFycHRjdFEwcmhfMmsxV29kb0xzOF9qMThsU3F4aENuNEFNeGpOSS0tMi0zdVZDNlQ5SFNZRjhSYUFxLTBEMUdwQzFjV01Na0VYNm9Yc201Z21VSmRhZWIxTHEtOXY2NFRKZE1TZw?oc=5",
-   "utc": "2026-11-17T21:50:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
+   "utc": "2026-11-17T23:01:15Z",
+   "tag": "CHINA",
+   "breaking": true
   },
   {
-   "title": "Panama Pulled Back From Brink of Junk as Moody’s Lifts Outlook",
+   "title": "US AI chip ban set to hit regional economies",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3356624/us-ai-chip-ban-set-to-hit-regional-economies",
+   "utc": "2026-11-17T23:01:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/panama-pulled-back-from-brink-of-junk-as-moody-s-lifts-outlook",
-   "utc": "2026-11-17T21:49:16Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/fidelity-says-even-at-6-treasuries-fail-to-be-massively-cheap",
+   "utc": "2026-11-17T23:00:00Z",
+   "tag": "FED",
+   "breaking": true
   },
   {
-   "title": "Yamaha to acquire UK tech firm behind Taylor Swift, Beyonce tours",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGxXMWIwVkJKZ013c0Z1WGR5QTRhN1ZjVHdjdlNieXA5NUVwUVBuMUdKVkF5ZGdoeXhuR2xLNWZfZnhfSi1rOGNVQmk1bjRxb21DUTROS1Q3T05qMEhrQkYzQ3pxaTlFY3FJVU1HMjdQV0NSRW53bzdvTkw1bjNHUEI5WTFnWTJwei1yV3FzbmRPN1p2dllvQkRORWVJcEF5QmIwQTV6UHpkOGRfd1l2SzJuSQ?oc=5",
-   "utc": "2026-11-17T21:32:00Z",
+   "title": "Cuba’s Energy Crisis Turns Into a Goldmine for U.S. Fuel Exporters",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Cubas-Energy-Crisis-Turns-Into-a-Goldmine-for-US-Fuel-Exporters.html",
+   "utc": "2026-11-17T23:00:00Z",
    "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-   "utc": "2026-11-17T21:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   }
  ]
 }

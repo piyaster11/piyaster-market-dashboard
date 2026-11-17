@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:48:29Z",
+ "updated": "2026-11-17T04:36:02Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "fail: HTTP Error 429: Too Many Requests"
+  "Nikkei Asia": "ok (33)"
  },
  "items": [
+  {
+   "title": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+   "utc": "2026-11-17T04:34:24Z",
+   "tag": "WAR",
+   "breaking": true
+  },
   {
    "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
-   "utc": "2026-11-16T23:47:51Z",
+   "utc": "2026-11-17T04:27:57Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "United Airlines resolves system outage that delayed flights Monday",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
-   "utc": "2026-11-16T23:42:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
-   "utc": "2026-11-16T23:28:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists",
+   "title": "Anthropic IPO: What Australian Investors Need to Know",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
-   "utc": "2026-11-16T23:26:48Z",
-   "tag": "GOLD",
-   "breaking": true
-  },
-  {
-   "title": "Colombia’s De La Espriella Vows Spending Cuts in Investor Pitch",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-16/colombia-s-de-la-espriella-vows-spending-cuts-in-investor-pitch",
-   "utc": "2026-11-16T23:20:56Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-what-australian-investors-need-to-know-video",
+   "utc": "2026-11-17T04:10:08Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Betterment CEO Sarah Levy on Plus Debut, New IRA Options",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-16/betterment-ceo-sarah-levy-on-plus-debut-new-ira-options-video",
-   "utc": "2026-11-16T23:17:26Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Learfield’s Cole Gahagan on Economics of College Sports",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-16/learfield-s-cole-gahagan-on-economics-of-college-sports-video",
-   "utc": "2026-11-16T23:10:49Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Finance Ministry readies new public credit scoring system",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3356074/finance-ministry-readies-new-public-credit-scoring-system",
-   "utc": "2026-11-16T23:10:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "United Airlines resolves system outage that affected departing flights",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-   "utc": "2026-11-16T23:08:01Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Bilt CEO on the Launch of “Neighborhood OS”",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-16/bilt-ceo-on-the-launch-of-neighborhood-os-video",
-   "utc": "2026-11-16T23:07:21Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-   "utc": "2026-11-16T23:05:12Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
-   "utc": "2026-11-16T23:04:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Food security concerns drive more stockpiling",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3356099/food-security-concerns-drive-more-stockpiling",
-   "utc": "2026-11-16T23:03:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Latest Oil Market News and Analysis for Nov. 17",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
-   "utc": "2026-11-16T23:02:55Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-   "utc": "2026-11-16T23:01:19Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Oil market set to rebalance as Mideast tensions ease",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3355924/oil-market-set-to-rebalance-as-mideast-tensions-ease",
-   "utc": "2026-11-16T23:01:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
-   "utc": "2026-11-16T23:00:01Z",
+   "title": "China",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93dndUaWxlSkJBY1gzSkRlaWQ2c3pMYUlhMmtFMVRGWllaWHF3OS02Z28tZDZ1Rk5PN1lzbFl3LWhzNXJwUXczTUtQcmhWUy1oUm85WW9JVkJsWW5p?oc=5",
+   "utc": "2026-11-17T04:07:29Z",
    "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Billionaire Cheng Family Bankrolls Risky New World Rescue Plan",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-16/billionaire-cheng-family-bankrolls-risky-new-world-rescue-plan",
-   "utc": "2026-11-16T23:00:00Z",
-   "tag": "MARKETS",
+   "title": "German and Chinese hospital sectors extend ties and partnerships",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXAwNTlaSzd4XzkxV1hKaGVyMG5ZT3B6Rkh6NFdSMFJRMlhFYmREdXVnXzhVQzV4M3BHUF9jcGdCZWZzbUZnZFVuWWI3NnduTERWYzEyakFLaGRPQTdidHg0azl0NHZZMjJXRTNJQUdJR0p6WkJXMVJJZXNNNGlKN3ZJSEM5emltTFI2bmpkZ0JKTHB6VlZGODZ0ZG9jV3FqQ3I4dVdJSVNnbHl1NUE?oc=5",
+   "utc": "2026-11-17T03:48:00Z",
+   "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Citigroup Targets $5 Trillion in Wealth From Rival Banks",
+   "title": "Barclays Says Forced Retail Liquidation Behind Taiwan Stock Rout",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-16/citigroup-targets-5-trillion-in-wealth-from-rival-banks",
-   "utc": "2026-11-16T23:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-says-forced-retail-liquidation-behind-taiwan-stock-rout",
+   "utc": "2026-11-17T03:17:04Z",
+   "tag": "STOCKS",
+   "breaking": false
   },
   {
-   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+   "title": "Asian stocks sink as scandal-hit Nvidia prepares for earnings",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/investment/3356225/asian-stocks-sink-as-scandalhit-nvidia-prepares-for-earnings",
+   "utc": "2026-11-17T03:03:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Indian rupee to strengthen as oil slides, AI trade unwind picks up pace",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHBJMGZCZ09KMjBxNjl6NEZHS25KSmZKelZGX0M2TTl4MHMzdWRfNXlsRGo3Q1p4TWdVc0VGLWFKQ3RHOTFLaHhFWU5TVzhQVHlOM0REV0hEUUd1QXhaLURROUU0NlJBWDJEY2xNbnh2VzlsOC1IRUZpWExqOG95cVRTQU5FY1A4a0loZ1IwYTJjNFZqSHFIYUdxTlNuSHAyMFozeWpMWWxLSnl6cTlfcHp3?oc=5",
+   "utc": "2026-11-17T02:56:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video",
+   "utc": "2026-11-17T02:55:42Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
+   "utc": "2026-11-17T02:46:47Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "Japan's Mori Trust to step up overseas property push after New York deals",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM01uMW9OOWxjbGNCTm90cEFja0k1cW9Icm51NnYzVy1PUU1Nam5PM0I1cnFJMTBDMWxrOHp2V3FTczZYZTB1OUFibzVlUldBNUxJUjh2WF9IUVB2aTlDaVpTeFF0c3NGMlhndHhPbzRCNk8yd1BaNUZPQ2RSbS0tVmc5ZXlodFNQenZaTGI1MmlGbE1YWkhnbzBBOURPb3JDOTdKNXVTV3JYcy0wNEJkS2xXcFhrRGxyX1N0UGFsTQ?oc=5",
+   "utc": "2026-11-17T02:44:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Global Funds Cautiously Increasing Exposure to India IT Stocks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-17/global-funds-cautiously-increasing-exposure-to-india-it-stocks",
+   "utc": "2026-11-17T02:39:15Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "North America",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fNlg4dUJFcERfdGdITnhINEsyd1JMT1Myd09acFJmSFh2MGJTckF0aThNdlhuck9UUW1nRUVnc1NiNzRvcnZld2JpN0daTnVXRTBHOTMtNlJ5RmluUVJIT0dSWG03Ykp3dmp2WXBtVEdkUQ?oc=5",
+   "utc": "2026-11-17T02:35:59Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-   "utc": "2026-11-16T23:00:00Z",
+   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+   "utc": "2026-11-17T02:30:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "New Zealand Inflation Expectations Remain Anchored Above 2%",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
+   "utc": "2026-11-17T02:24:44Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Foreign Funds Bought Most China Bonds Since May on Haven Appeal",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-funds-bought-most-china-bonds-since-may-on-haven-appeal",
+   "utc": "2026-11-17T02:21:36Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "The Army Just Did Something Extraordinary To Break China’s Rare Earth Monopoly",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/The-Army-Just-Did-Something-Extraordinary-To-Break-Chinas-Rare-Earth-Monopoly.html",
+   "utc": "2026-11-17T02:00:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Gold hovers near over one-year low as firm dollar, Fed-hike bets weigh",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
+   "utc": "2026-11-17T01:47:00Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-17/bok-s-yoon-ai-concerns-add-to-korea-equity-volatility-video",
+   "utc": "2026-11-17T01:46:26Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "APEC live: Xi Jinping to open CEO Summit ahead of gathering with Trump, Putin",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmxNaktDbHNueXhyY3AxR1BvbFp4ZUxWUmcyZ1pTLTNFd1ZXS0RWTUVPbTZwYktMWHhtNHJGTTNGS2t3dVZ5cjY1V095ZnRHY3Y5MFZDeGpkdGJtSlZCUDliTFcteWhJY1Y2Y1Jqa2lVZXhBNjE5cmdzUXhVcGRQQk9hQnZRdFRpMkNRSS01SEl3aUpvRFE3X2xsQ3hGVElITmpuaU9MX2hzNk5RYjYyNXVNVTJ3WXpFTEliWWZnU0hTZGNNM05EaklKMjY?oc=5",
+   "utc": "2026-11-17T01:43:00Z",
+   "tag": "CHINA",
+   "breaking": false
   }
  ]
 }

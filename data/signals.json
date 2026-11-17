@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:48:49Z",
+ "updated": "2026-11-17T04:36:37Z",
  "level": 38,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   27,
+   28,
    35,
    35,
    "1.5 pts per headline"
@@ -90,14 +90,80 @@
  ],
  "headlines": [
   {
-   "title": "Iran announces a fourth burning oil tanker in the Strait of Hormuz in just 24 hours",
-   "source": "Demócrata",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGlYWkZVQVg5VENNdmZSZ1NLTk9HR08wY3U5NmN3NFJkMjZCZWNraGs0ZEk4VGxuTDNqTzJfcDRYM1BsNjBpd254QWdNQUR5NWxsRWV2Q0FKdmNOTjJSSVliYzZNMW1Lb3F0X0V5MnpiLTl1aHVUbGRPbFgyVHZ0bnRZNmY4ZFBNRUExU1FWWVFTVkIzaVItMERlS3lUc1dPaTZvZHNsYm9lZUZjRXp3WDVpWXRHSlBpQW5FYW1wc2xYXzVy0gHKAUFVX3lxTE9PT3dhbWFqY1E3czAzd0xRY2pUNVhuUEtSOEozUGkwa01rTVJsaWNzVy1aSVNpSUpsb2QtUkdMWHdkWGZOM0liUzNUTUdoRWpXeFQ1VmQxRnRSSXAtWEhrZU5JZ1AyTkYyZXVxLUZaUHVXQ2V5S0pOZ2dhT3hTTi14SXBOV09MTnBsRWFhU0pKaDI4RGUtT25IbXk0aGxBLUdRTVJTakFwbXMxTzRJajZkS1cxV2w3NHFWdU5RWmhiYmNvSkVvMHR4N3c?oc=5",
-   "utc": "2026-11-16T21:08:30Z",
+   "title": "UK PM says Iran war must end — and backs deal to reopen Strait of Hormuz",
+   "source": "Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzI2RGg1SXdnMTFDMVpyUkRJOU1GLVJzMzJIQVA3UWNSbDFCM1o1ckk0UDUyejNyM20yb2JqTzVmOFZGV3prVXlsUVhGSHVJX1h6czU0RDltdHVyOTVTTFR3dVlGR28xVlFlTTBrMUl5enIwTnNINkg5UlowaWNLRjlteHQ2Ni1UekgtVTRnYnJqQll2LUhKbWM0NFpnd3piVW1TVk4wTWpyNjZ5QVF6emJDeGLSAccBQVVfeXFMTk1fYlFxSEtORVA5bDhNMVVNa3pReUJTZmRneUpDSEJOcE9ZYXVkZGxqSjYwQUliNUZrOGdOQ1hhY09jLWpLbFc2b183VUlCWG9HYmlhZEMwdzhUeHpTenlWYTN5N2Y3aGdmLTZCb3JndDNoVldZRVAtX0RoV3RCNXpGOHl3Nkp0d1ktNFdZd0p1a1FtWmk4NWVhbDNRRWU5QkFFaldmYU5pc2JRVkxjeGJyclJwd3hZYzZuQ0RKYV9zNDVoeU5Qdw?oc=5",
+   "utc": "2026-11-17T02:35:39Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.9,
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-17T00:03:48Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTFYWVNsLXNBcUlydnp5UUdZdmpTczd3dlpPazc4NjhiUmxwX2d4RUZtSjBOY0E1cUdyVEdwNDktdm9OcXExSXY1YlRhbGdVMGV5NHZTQzZ5MVdsTnRST3dpOUQxQzl6OUJKa19xam5ZLWpLTzZLNHNWU2hOU0hOV3puT002NUZy?oc=5",
+   "utc": "2026-11-17T00:00:35Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Fuel Prices Could Keep Rising for Months After Hormuz Reopens, US EIA Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXMxOTdGVzVOLUhfa3hkbXliUU40aGNWanZ1RFRPMktrQVFZTW82UGhoOXpkR0k2cTZxQS1OYlR3NVM4MDZ2dTBOSHVPYXpOdnZpSXNCOWVHYXFKUWdxV2NPVzdfdUl0NXhlcnY3SWdxMjdkMGQ2ZlZOS3U3dkZtYVRQaDFvQXJQcGNBdVB6UFlhY3RDSzd1bW1Hd3V3b0FTaEVSeUNiUQ?oc=5",
+   "utc": "2026-11-16T23:44:28Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Hormuz Closure Extends Well Beyond Oil to Threaten Chinese EVs: Russell",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenFGeVI4UjJkYnYycUJZdEFQZW9jZTRPcmU5alR3dkt1N0hzS0JYZkFJNmo2NUxBRVpaUm52akNYb1RkelhuLVJNMDFKVVc3d1B3X1F3OHlwX0Q0eGE3VS1BSk1taERDQkpPblRhSzlTbXRQRm0tbWlGazBxdlVFXzhSbW10ZENVWWRfcEtqQURzY2xrYnFpOUhqUmdjSzdWTnc?oc=5",
+   "utc": "2026-11-16T22:28:12Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "Roosevelt carrier strike group arrives in the Middle East",
+   "source": "Washington Examiner",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd01wX1ZkdEFWVk5kMGttQXdxVDFYUmo2dnRjM1ZYOWhYQ0w4T3pOeWVmM1hvb2k3dXkwZy1PZmlKS2F2SFNQekNSWDMxcjlVd0ZyZ2JtbmVWd01ObzNwV2E0Uzc4N0dDTDN4V21MeUxBN3g4YnRRc3RJenZCU0ZCTEhUWXBwSjF6S2hYZHNfc3FZN0JxdmxKSVl2TjJjVmk4M2V2SmtOQlpYdGJmYlE?oc=5",
+   "utc": "2026-11-16T22:08:30Z",
+   "tags": [
+    "MIL"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "What The Strait Of Hormuz Tanker Mine Crisis Actually Means For Global Energy",
+   "source": "ИФЗ РАН",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVUJtUW90eGhpWG5VR2dkUGxCeXF4OW5Udkk3U0FyR1YyZUswNGNJVGJodWNwNFB2QjQwTXlIZWpZQXJGbmJCbnY1blc0SjllMnM1Ui1PWlRKbGQyaDFEakhLNEJ4aFZLSEFIUGFuREF4bmZtY2tJaXl2Q01QejdiN2pzRmZRYmxTb0tuaFF1RQ?oc=5",
+   "utc": "2026-11-16T18:19:04Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -108,62 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "Wheat Market Under Pressure from Strait of Hormuz Fertilizer Blockade",
-   "source": "CMB News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQUU2VjNxV0lPemlPZ1BsYmVULUxIbUp1WWQ3X2xGRTBkaW54NGtQcmhFVkZFdVVuWlhwd0Y1U1FEREExZS1XdEtXWDlwR1l2Q2U4eWtUNHdGRnRxVGhCa1BIVDU2cks3MC1BeHFDQ2U1Nl9EaTdHaVBVcldTY01URUFQcFRNT2t5RnQ4LTBqREVOOC1La2xiVklB?oc=5",
-   "utc": "2026-11-16T15:46:37Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "Fuel Prices Could Keep Rising for Months After Hormuz Reopens, US EIA Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXMxOTdGVzVOLUhfa3hkbXliUU40aGNWanZ1RFRPMktrQVFZTW82UGhoOXpkR0k2cTZxQS1OYlR3NVM4MDZ2dTBOSHVPYXpOdnZpSXNCOWVHYXFKUWdxV2NPVzdfdUl0NXhlcnY3SWdxMjdkMGQ2ZlZOS3U3dkZtYVRQaDFvQXJQcGNBdVB6UFlhY3RDSzd1bW1Hd3V3b0FTaEVSeUNiUQ?oc=5",
-   "utc": "2026-11-16T15:40:06Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "Hormuz Closure Extends Well Beyond Oil to Threaten Chinese EVs: Russell",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenFGeVI4UjJkYnYycUJZdEFQZW9jZTRPcmU5alR3dkt1N0hzS0JYZkFJNmo2NUxBRVpaUm52akNYb1RkelhuLVJNMDFKVVc3d1B3X1F3OHlwX0Q0eGE3VS1BSk1taERDQkpPblRhSzlTbXRQRm0tbWlGazBxdlVFXzhSbW10ZENVWWRfcEtqQURzY2xrYnFpOUhqUmdjSzdWTnc?oc=5",
-   "utc": "2026-11-16T13:47:40Z",
-   "tags": [
-    "HORMUZ"
-   ],
    "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "Hormuz block hit Africa in 4 places: what the continent must do to prevent future shocks",
-   "source": "The Conversation",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmxLZkRSbFdZTjZoYlFld2pJLWYzVEMxVnUwYjZpWDk1TEZWQUFXZkV3dW5qV1loc3k2cndRcEd1ZFc2WDQ3ZGpHVmNPaUp3QVBDak5qUURjUEFNaV9aNHBGM0M4NFpDRXFTTmhsaHZ1R2FXT29La3l4Y3hrRDI4QUVrSFZMaGIwTTQxVC0ybFEtRkJaM1NQWVBMNW9fcUtYajRDUXZkaTduSGd6TDJ0OVpWUnFQTUdaV3lHSmlaaw?oc=5",
-   "utc": "2026-11-16T13:15:09Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVndRdlBIVWNXNnd1cXNDVmIwbjBrWmItNkt4MFVWYm5NLU90MFlFa3hLUF9ISmM5N0tjQzhWcGt5SlB2dnpVcElqYl9DYV80U2hWdWt3Z1l2TU5OMmx5ZUZvSWN2NnFqamFYVTl4NXJFLTFPcFlhM0ZCVlFPWWtrcmswQXJNb1V6cVhTQVZXZTN3VGl5akVfRjFBcV85VF9yYkpWTmJSU2hzV3VtOUVsQUU0a1UtMmM?oc=5",
-   "utc": "2026-11-16T12:05:22Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.5,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "MIL"
    ],
-   "score": 6.4,
+   "score": 6.3,
    "airspace": false
   },
   {
@@ -185,18 +196,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "Bomb Threat at Illinois Ethanol Plant Prompts Evacuation After ‘Suspicious Package’ Found",
-   "source": "People.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVm5oRHdmVWhrdkYzSTBqQTQ0a2V3a21ORFFEbjdKVXo3VHY3Rzg4aGFGSXd5ZDRNMC03cFR1Wk1kZ182VXh2ak9nOHZmOFJFNHZxR0ZqTVZNdGFmN1ZueTYxejFldHNQVG5kaFNodTdBendIU0xxTDR2bDhYOTR0eVMwc0wxbW9iQlRScWJLaFRsQWIzMDV6djBvaWhGcmdIOEZ5cUllZUpPcnFvVjYxcUw2Q3J3QQ?oc=5",
-   "utc": "2026-11-15T15:04:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.6,
+   "score": 4.9,
    "airspace": false
   }
  ],
@@ -736,12 +736,18 @@
    32.0,
    34.0,
    60.0
-  ]
+  ],
+  "stale": true
  },
  "sources": {
   "US State Dept advisories": "ok",
   "UK FCDO travel advice": "ok",
-  "Google News RSS": "ok (10/10 searches)",
-  "adsb.lol military aircraft": "ok"
+  "Google News errors": [
+   "\"ordered departure\" OR \"authorized departure\": HTTP Error 429: Too Many Requests",
+   "\"airspace closed\" OR NOTAM airspace: HTTP Error 429: Too Many Requests",
+   "\"private jets\" leaving OR departures surge: HTTP Error 429: Too Many Requests"
+  ],
+  "Google News RSS": "ok (7/10 searches)",
+  "adsb.lol military aircraft": "failed: <urlopen error _ssl.c:994: The handshake operation timed out>"
  }
 }

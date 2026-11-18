@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T23:53:07Z",
- "level": 58,
+ "updated": "2026-11-18T04:29:26Z",
+ "level": 60,
  "band": "Alert",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   33,
+   31,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   8,
+   13,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,28 @@
  ],
  "headlines": [
   {
+   "title": "Saudi Arabia Absorbs Iran War Costs as US-Iran Talks Stall and Hormuz Stays Closed",
+   "source": "https://houseofsaud.com/",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GTHZPVVNFTVhGOFR0THB3SVg1RnpXbWVVTVNUeUViZGZEZ25UNmpfaUNQSkUxaVJwOUtqbThMYjVSLXRtbmdOdVFOaGU2T2J6Y0dFOWFIUEUtclY4ZkFRRmN6MmU2aDNZSmc?oc=5",
+   "utc": "2026-11-18T03:54:41Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-17T23:05:09Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
    "title": "UPDATE - One crew member missing after Panamanian-flagged LPG tanker attacked in Hormuz: India",
    "source": "US Muslims",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMzRYUEJIOWVXbGkxalF5ZF80a3hoRTBRUmFza2htcmM0Q0owY1BKUk9zc0RKVEFHRHFrUkU0RzNsU3ZHcmVZaEMzMHJlVjVXMzBMOGpKQ3l1MU1reWQzd24wSERqTTU2VTZ3VXhrRFdSZ3NpZE0zRDlKLUw2TEpJSXg1V1h4cmdRbUVhd09nZlYyMWpTYmo2d0U2WkVud0N0cmMzMkdyV2ltNUZyTzVDbmxuM2ZVS2I3bVlWWkJSRTJmTjh5Wkg00gHHAUFVX3lxTFAzNFhQQkg5ZVdsaTFqUXlkXzRreGhFMFFSYXNraG1yYzRDSjBjUEpST3NzREpUQUdEcWtSRTRHM2xTdkdyZVloQzMwcmVWNVczMEw4akpDeXUxTWt5ZDN3bjBIRGpNNTZVNndVeGtEV1Jnc2lkTTNEOUotTDZMSklJeDVXWHhyZ1FtRWF3T2dmVjIxalNiajZ3RTZaRW53Q3RyYzMyR3JXaW01RnJPNUNubG4zZlVLYjdtWVZaQlJFMmZOOHlaSDQ?oc=5",
@@ -97,18 +119,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.8,
-   "airspace": false
-  },
-  {
-   "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-   "source": "Al Jazeera",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamJHQi1EV1NLR09MdkRBS2Y1R2VNelpkTWh1ZC1OeDNGX2VEZWx1RFVZdDNDY1Ffdzktc2M1RFhsUHpma2tCb0pDbjA0MjIxT0dDRkZCMnpOMzlya0VRemRQLXQxYnZmbnhpbWJLdkxlMktLc25hVlZ6WkhWMWdjWmlyVk5WSkpRMXM2WXQxV2pSbmhJSEFoRG5jMkZSaFdyNXFzUTMzeDE0a0p2Y2VLbzdGUG5nUdIBuwFBVV95cUxNWG9oWmctUENuLVNrMnJ1Sno0ZDQwSWNLcE95cjlNZDN6dzQyb3BXaGhrd3VpRDV4ZE00ZWhsZk9jQS0tdUJUUGtMMjhwWndQb0NPT3ZXZGszSjlrdEtTMl9EYThMb3NMcDVvMC16UXMzcnVJSzhVTGF1b3QxYV9WTTdpWC1LclRWV2xRRTV1eldpX1lSUFRrQXNjSGlZTE9jRTBDQWQtVnhEcFg2a2F0SlJFY0hCNzZOTXVn?oc=5",
-   "utc": "2026-11-17T18:05:06Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.8,
+   "score": 6.6,
    "airspace": false
   },
   {
@@ -119,7 +130,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": true
   },
   {
@@ -130,7 +141,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": true
   },
   {
@@ -141,7 +152,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": true
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.5,
+   "score": 6.3,
    "airspace": false
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -174,19 +185,8 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.2,
+   "score": 5.0,
    "airspace": true
-  },
-  {
-   "title": "What The Strait Of Hormuz Tanker Mine Crisis Actually Means For Global Energy",
-   "source": "ИФЗ РАН",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVUJtUW90eGhpWG5VR2dkUGxCeXF4OW5Udkk3U0FyR1YyZUswNGNJVGJodWNwNFB2QjQwTXlIZWpZQXJGbmJCbnY1blc0SjllMnM1Ui1PWlRKbGQyaDFEakhLNEJ4aFZLSEFIUGFuREF4bmZtY2tJaXl2Q01QejdiN2pzRmZRYmxTb0tuaFF1RQ?oc=5",
-   "utc": "2026-11-16T18:19:04Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.8,
-   "airspace": false
   },
   {
    "title": "Iran Refuses to Halt Nuclear Program as Third US Carrier Strike Group Arrives",
@@ -196,14 +196,14 @@
    "tags": [
     "MIL"
    ],
-   "score": 5.4,
+   "score": 5.3,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 284,
-  "baseline": 1.7,
+  "count": 13,
+  "global": 219,
+  "baseline": 1.8,
   "samples": 30,
   "hist": [
    [
@@ -741,6 +741,10 @@
    [
     "2026-11-17T23:53:07Z",
     3
+   ],
+   [
+    "2026-11-18T04:29:26Z",
+    13
    ]
   ],
   "box": [

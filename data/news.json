@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:52:51Z",
+ "updated": "2026-11-18T04:29:12Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (38)"
+  "Nikkei Asia": "ok (36)"
  },
  "items": [
   {
-   "title": "Nvidia’s Kress tells CNBC 'customers continue to be with us’ in exclusive interview: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-   "utc": "2026-11-17T23:49:02Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "China Is Finding Workarounds on Restrictions: Sara Hsu",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-17/china-is-finding-workarounds-on-restrictions-sara-hsu-video",
-   "utc": "2026-11-17T23:48:22Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Former Darden CEO: Cava Better Off As A Private Company",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-17/former-darden-ceo-cava-better-off-as-a-private-company-video",
-   "utc": "2026-11-17T23:45:31Z",
+   "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+   "utc": "2026-11-18T04:28:37Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Nothing to Nitpick With Nvidia Results: Erika Klauer",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-17/nothing-to-nitpick-with-nvidia-results-erika-klauer-video",
-   "utc": "2026-11-17T23:42:29Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves Tuesday: Nvidia, CoreWeave, Nebius & more",
+   "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-17T23:40:29Z",
-   "tag": "AI",
+   "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+   "utc": "2026-11-18T04:27:45Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
-   "utc": "2026-11-17T23:33:52Z",
-   "tag": "GOLD",
-   "breaking": true
-  },
-  {
-   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "title": "Democrat Mary Peltola wins Alaska Senate election",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
-   "utc": "2026-11-17T23:32:34Z",
+   "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+   "utc": "2026-11-18T04:18:13Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Xi Pitches China as Open Ahead of Trump Meeting",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/xi-pitches-china-as-open-ahead-of-trump-meeting-video",
+   "utc": "2026-11-18T04:18:04Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic-Backer CBA Says Australia More Attractive on Compute",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-backer-cba-says-australia-more-attractive-on-compute",
+   "utc": "2026-11-18T04:17:46Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
+   "utc": "2026-11-18T04:04:26Z",
    "tag": "AI",
    "breaking": true
+  },
+  {
+   "title": "Asics Steps Up China Push With Goal to More Than Double Stores",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/asics-steps-up-china-push-with-goal-to-more-than-double-stores",
+   "utc": "2026-11-18T04:01:38Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "UBS Group Sees Yuan Rising to 6.25 in Most Bullish Market Call",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/ubs-group-sees-yuan-rising-to-6-25-in-most-bullish-market-call",
+   "utc": "2026-11-18T04:01:26Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Skylark CFO Eyes US Expansion, More M&A",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/skylark-cfo-eyes-us-expansion-more-m-a-video",
+   "utc": "2026-11-18T04:01:20Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "International relations",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rLWdBdXhReUh0S21qTWhjYmVoNHgxRVZTSWZIaTRqRWZXLVZoN0o0RWxVblk0V0xmWGppeDZmOWhoWWVSNHBqRnRPb3JsX0JHRVVCak5TLTBUU05RSVFyb3phY2N3c3c?oc=5",
+   "utc": "2026-11-18T03:46:13Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan 20-Year Bond Sale Draws Weak Demand Amid Global Volatility",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average",
+   "utc": "2026-11-18T03:41:33Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Xi positions China as defender of free trade at APEC summit",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTlsYmp0eXFjTXdMbERFZXBCaXNUaE5ZMEpVLXZ6S1RZU3NzS3o2cmxqMW1BWlpzQ1ZMT0ZKZVBjYXl6emZMalJHNEpIbC03ZU9EQklsUTQ3REsyUTZTX0Jpa19LTUdRUGp6WC05YTFycXFnM0ItQmctSFBuMEpfMUZEY211eUtURWpTWjBUYkdBb1lEX2FVWnhuZHVMQXMtc01oMEcxYUNFYkhCQXBxejFwUGRFdzFLWVcwMlVB?oc=5",
+   "utc": "2026-11-18T03:34:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+   "utc": "2026-11-18T03:30:51Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Three things to watch as Trump, Xi and Putin meet in China",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+   "utc": "2026-11-18T03:25:32Z",
+   "tag": "CHINA",
+   "breaking": false
   },
   {
    "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-   "source": "CNBC Markets",
-   "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-   "utc": "2026-11-17T23:30:13Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-   "utc": "2026-11-17T23:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "CNBC Digital Finance Forum recap: Wall Street's AI and crypto future",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/digital-finance-forum-2026-live-updates.html",
-   "utc": "2026-11-17T23:25:42Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Hotel guests spend less amid high season",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3356749/hotel-guests-spend-less-amid-high-season",
-   "utc": "2026-11-17T23:20:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-   "utc": "2026-11-17T23:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Association welcomes plan to level e-commerce playing field",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3356684/association-welcomes-plan-to-level-ecommerce-playing-field",
-   "utc": "2026-11-17T23:13:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Classified US national security communications network hit by outage, NSA says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5",
-   "utc": "2026-11-17T23:09:06Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Regulator to rejig public street lighting rules",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3356834/regulator-to-rejig-public-street-lighting-rules",
-   "utc": "2026-11-17T23:05:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Latest Oil Market News and Analysis for Nov. 18",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
-   "utc": "2026-11-17T23:01:33Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
-   "utc": "2026-11-17T23:01:15Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "US AI chip ban set to hit regional economies",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3356624/us-ai-chip-ban-set-to-hit-regional-economies",
-   "utc": "2026-11-17T23:01:00Z",
+   "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+   "utc": "2026-11-18T03:17:55Z",
    "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/fidelity-says-even-at-6-treasuries-fail-to-be-massively-cheap",
-   "utc": "2026-11-17T23:00:00Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Cuba’s Energy Crisis Turns Into a Goldmine for U.S. Fuel Exporters",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Cubas-Energy-Crisis-Turns-Into-a-Goldmine-for-US-Fuel-Exporters.html",
-   "utc": "2026-11-17T23:00:00Z",
+   "title": "Waymo pulls self-driving cars from US freeways after California ban",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/motoring/3356944/waymo-pulls-selfdriving-cars-from-us-freeways-after-california-ban",
+   "utc": "2026-11-18T03:17:00Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
+  },
+  {
+   "title": "Daiwa to bolster China investment banking as it buys out local partners",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3RqR1NwZHdySzAxQmNETnNUN3JuakVvQ2JRQ2MyNGRnZUlZeFNPMzAtZzBoaHpENVVRQjE2YUpxbzZ1ajhjOUZnTTlIV2xhVzJIcEN1MjJNeTRzR3ZrLS1iV3k0VndqVzItd0ZjdGlKLW5mSGhXWjdERWVkNEdzSWY3WnVMR0dGV0ZkZDVQQXltTkJadmZIcFBGVW9PdmR2ZXRXTHpmd3dPTlhxREUzUkNn?oc=5",
+   "utc": "2026-11-18T03:14:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Godzilla director Yamazaki brings Hiroshima atomic bombing to screen",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFY4NHBCemxQT25RUnhwZ3JvMk9HYXJZc3N5N0d6OFBFTVdNSi1udTA2RVYwN0ZVSXdRRW5malc4ME1yT0g1bHh1RVIyVHZwNkdLMjNlMlYtcE1MdW1fdVF2YWc3NGFFSm5EdnpWQkR1S0dIU0FoNXcyYzE5M0ZQd3NONEVBb2I3b09RQU5JRDdTRXMxUUVySE5SeUtiLWQ5NUljUWJEMEs3SmJmeFpVcnBRWXJGUFFK?oc=5",
+   "utc": "2026-11-18T03:10:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trump withdraws Heidi Overton as nominee to lead Food and Drug Administration, sources say",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/trump-withdraws-heidi-overton-as-nominee-to-lead-fda-sources-say.html",
+   "utc": "2026-11-18T03:09:36Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "China a 'Supersized' Testing Ground for Technology: Xi",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
+   "utc": "2026-11-18T03:02:15Z",
+   "tag": "CHINA",
+   "breaking": false
   }
  ]
 }

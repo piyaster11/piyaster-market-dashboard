@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:10:15Z",
+ "updated": "2026-11-18T22:03:52Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   32,
+   36,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   5,
+   6,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   0,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,6 +90,39 @@
  ],
  "headlines": [
   {
+   "title": "When Israel's airspace closed, this Utah tour company got its travelers home just 24 hours late",
+   "source": "KSL News",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUtHWHVmMllIejhVOFUwLW9ucFY2STgwRzNLSGRpN1o5MjloeEoxeEhLMGVxcTdIYU1NWTdnYTFoQWs3TFp6eHp1bEJyeXlxZDJVZHl3eGljNnlZdTNVRUVBUXJybl9vOC1IcTBfbmZoNjZYUkcwSlUzUFRpR3pxTFpBR1BDejVzTmxlb3hVSEZGbGRzaW1RT1p0dEc1MFFUcjBVekNQQmFvYXhrRkVNRXpNMWI3T240LWhZQlRXcnlud1FjX1phbUNB?oc=5",
+   "utc": "2026-11-18T18:30:00Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.9,
+   "airspace": true
+  },
+  {
+   "title": "U.K. Carrier Strike Group Concludes 6-month Operation Firecrest Deployment",
+   "source": "USNI News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajgzSnNUaFJNNlBkQWxwY2pxRm9FdW9KZjZtX3puOWYzSU1zT1NOMGlHX0NwWks2M2RCOUpYUmdhLXpYRlM4c0c2c0dFTXlLZG9QMXRzZVV5MWV2YUFiY0djLXRabW5UY3ZNQ3ltMUlGZ2R5M2V3bHRPOTdBTVBDN2d6dUgwRlFzWWNnVGlHbS1PcXI5UTlLb1RHZkVvYUNPRE9IejJBV2hhZw?oc=5",
+   "utc": "2026-11-18T18:23:00Z",
+   "tags": [
+    "MIL"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
+   "utc": "2026-11-18T15:07:36Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
    "title": "Strait of Hormuz: US Strikes Iran's Qeshm Island as Tehran Claims More Tanker Mine Hits, Says Strait Is Closed",
    "source": "International Business Times Australia",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkhkbEhLOXFYSFF4eDJ5Q0x1cTAwbHc0WUxJWWxRMlJUSmZWN3k2Y2RXUGJoc0tGby15bHlGbEdrZFVzckttSzl5U0l3TGd2cjN3MjFUVHJLZXltekhmUVdmOTJLUmx0UUtYNTVORFVVSE1KRjR5dE8yOHRnaWV3RWhIdXlpWnFN?oc=5",
@@ -97,7 +130,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 6.0,
+   "score": 5.6,
+   "airspace": false
+  },
+  {
+   "title": "US Medical Evacuation Flight Heads to Region After Iran Attack",
+   "source": "WANA News Agency",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjE5bEVvOWdTYjZweTlNZGY4UkFhUThKQ1hHOEZybmt2N2ZYN25id1JGM2F5aFNWQURhNUhaR1dUTjFHdHFVaU04eEY5RTU2TjFLbjNneG1HSWNNQ0JpeDU2N1NQYXd4eGd5bXVacEhMa3JXRndMdkxxNmFHUnRFV0o5XzVtNHlJZlE?oc=5",
+   "utc": "2026-11-18T11:20:20Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -108,7 +152,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -119,7 +163,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.7,
+   "score": 6.3,
    "airspace": false
   },
   {
@@ -130,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.6,
+   "score": 6.3,
    "airspace": false
   },
   {
@@ -141,52 +185,8 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
+   "score": 5.2,
    "airspace": false
-  },
-  {
-   "title": "Moldova's airspace closed due to a Shahed drone sighting near Chisinau",
-   "source": "Moldova 1",
-   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9CbGY3QURzV3p1Y1RkYVUxSmQ3c0doZWZ3ZEo1ODY1R2ZxUEVjMDhOclg1SGtfc3pKbzAtY3I0Qmo?oc=5",
-   "utc": "2026-11-17T21:29:46Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 5.3,
-   "airspace": true
-  },
-  {
-   "title": "UPDATE - One crew member missing after Panamanian-flagged LPG tanker attacked in Hormuz: India",
-   "source": "US Muslims",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMzRYUEJIOWVXbGkxalF5ZF80a3hoRTBRUmFza2htcmM0Q0owY1BKUk9zc0RKVEFHRHFrUkU0RzNsU3ZHcmVZaEMzMHJlVjVXMzBMOGpKQ3l1MU1reWQzd24wSERqTTU2VTZ3VXhrRFdSZ3NpZE0zRDlKLUw2TEpJSXg1V1h4cmdRbUVhd09nZlYyMWpTYmo2d0U2WkVud0N0cmMzMkdyV2ltNUZyTzVDbmxuM2ZVS2I3bVlWWkJSRTJmTjh5Wkg00gHHAUFVX3lxTFAzNFhQQkg5ZVdsaTFqUXlkXzRreGhFMFFSYXNraG1yYzRDSjBjUEpST3NzREpUQUdEcWtSRTRHM2xTdkdyZVloQzMwcmVWNVczMEw4akpDeXUxTWt5ZDN3bjBIRGpNNTZVNndVeGtEV1Jnc2lkTTNEOUotTDZMSklJeDVXWHhyZ1FtRWF3T2dmVjIxalNiajZ3RTZaRW53Q3RyYzMyR3JXaW01RnJPNUNubG4zZlVLYjdtWVZaQlJFMmZOOHlaSDQ?oc=5",
-   "utc": "2026-11-17T18:35:56Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 6.2,
-   "airspace": false
-  },
-  {
-   "title": "Violent Eruption Blasts Garbage Into Sky, Sparking Evacuation Warnings",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLUwtVXpLb0FzbUhTWXNUSUpLMWlUTHcxVVU2QWlHc2ZPUjd5RGR0dV82X3R3MXJPS2tHZGRoZjkzS2E5Z3RtSnQ2eVBkekxTYm5qcmY3cDZKc3NVNm4xRWhac0hWMkFpLVl4bmtYaWhYbXdGSlJOdzloVkR6SzZ2c2tHMUVEbG9nZ1gwMElwelZvNEVnXzYyWXE3YkNfcnNUQU5n?oc=5",
-   "utc": "2026-11-17T16:14:20Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "A Shahed UAV in Moldova’s skies: Airspace closed - URGENT",
-   "source": "TodayPress.tv",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3hxaFNxTjlkN1ZOc21HcjgzajEzQ196d0hRb3hXeUpJT0xaZFlUakVKTXl0QzF0WkxpM1BOZm9KczRsUWd2Njc0N0dlUnFMbTRWYzNXTVJVWGRZenFBTTJyYll6cktzRkVJaGRyU2YxYlBhSUpiTE1yaVNGc1d2STFhRzMydW03ZG1SSQ?oc=5",
-   "utc": "2026-11-17T15:14:12Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 5.0,
-   "airspace": true
   },
   {
    "title": "24 Indian crew members evacuated after vessel incident in Strait of Hormuz",
@@ -196,14 +196,14 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.5,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 380,
-  "baseline": 2.2,
+  "count": 0,
+  "global": 389,
+  "baseline": 2.1,
   "samples": 30,
   "hist": [
    [
@@ -749,6 +749,10 @@
    [
     "2026-11-18T14:10:15Z",
     1
+   ],
+   [
+    "2026-11-18T22:03:52Z",
+    0
    ]
   ],
   "box": [
@@ -761,10 +765,7 @@
  "sources": {
   "US State Dept advisories": "ok",
   "UK FCDO travel advice": "ok",
-  "Google News errors": [
-   "\"military aircraft\" surge OR \"tanker aircraft\" deployment: HTTP Error 429: Too Many Requests"
-  ],
-  "Google News RSS": "ok (9/10 searches)",
+  "Google News RSS": "ok (10/10 searches)",
   "adsb.lol military aircraft": "ok"
  }
 }

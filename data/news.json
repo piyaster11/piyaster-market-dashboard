@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:10:01Z",
+ "updated": "2026-11-18T22:03:28Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,166 +9,166 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (42)"
+  "Nikkei Asia": "ok (40)"
  },
  "items": [
   {
-   "title": "The AI power scramble is in full force. Which companies really stand to profit?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-ai-power-scramble-is-in-full-force-which-companies-really-stand-to-profit-f719619c?mod=mw_rss_topstories",
-   "utc": "2026-11-18T14:06:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves premarket: Nvidia, Take-Two Interactive, Lowe's & more",
+   "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-18T14:04:46Z",
+   "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+   "utc": "2026-11-18T22:00:41Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "JPMorgan Adds Dallas Hub for Private Bank Unit Catering to Funds",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-18/jpmorgan-adds-dallas-hub-for-private-bank-unit-catering-to-funds",
-   "utc": "2026-11-18T14:00:00Z",
+   "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "utc": "2026-11-18T22:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
-   "utc": "2026-11-18T13:59:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "U.S. soldier taken into military custody over suspected spying for Russia",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
-   "utc": "2026-11-18T13:58:53Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Waller Thinks Fed Should Consider Half-Point Rate Hike",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/waller-thinks-fed-should-consider-half-point-rate-hike-video",
-   "utc": "2026-11-18T13:57:59Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Nasdaq futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
-   "utc": "2026-11-18T13:54:58Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Alaska’s Oil Renaissance Dawns After Decades of Decline",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/alaska-s-oil-renaissance-dawns-after-decades-of-decline",
-   "utc": "2026-11-18T13:54:32Z",
+   "title": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html",
+   "utc": "2026-11-18T22:00:00Z",
    "tag": "OIL",
    "breaking": true
   },
   {
-   "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
-   "utc": "2026-11-18T13:50:03Z",
-   "tag": "MARKETS",
+   "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+   "utc": "2026-11-18T21:58:00Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
+   "title": "Stocks making the biggest moves after hours: Palo Alto Networks, Everpure, CrowdStrike & more",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-   "utc": "2026-11-18T13:48:38Z",
+   "link": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html",
+   "utc": "2026-11-18T21:57:48Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Copper’s plunge could make the AI data-center buildout more painful",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+   "utc": "2026-11-18T21:55:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-   "utc": "2026-11-18T13:43:48Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Medicare Part B premiums rise due to higher healthcare spending",
+   "title": "Palo Alto Networks’ stock soars as earnings show AI has upped the stakes for cybersecurity",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-   "utc": "2026-11-18T13:42:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-   "utc": "2026-11-18T13:32:33Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-   "utc": "2026-11-18T13:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Fracking Giants Tapped to Drill Gas Project in Western Australia",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Fracking-Giants-Tapped-to-Drill-Gas-Project-in-Western-Australia.html",
-   "utc": "2026-11-18T13:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Target posts best sales growth in five years, raises guidance",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-   "utc": "2026-11-18T13:29:33Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, Microsoft, Oracle, Coca-Cola & more",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/top-wednesday-stocks-by-analyst-calls-like-nvidia.html",
-   "utc": "2026-11-18T13:26:13Z",
+   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+   "utc": "2026-11-18T21:55:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Stocks Rise After Nvidia Earnings; Xi Welcomes Trump",
+   "title": "Farm Group Says Ex-CEO Misused Funds for Vacation Home and Plane",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-brief-11-18-2026-video",
-   "utc": "2026-11-18T13:26:00Z",
-   "tag": "AI",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/farm-group-says-ex-ceo-misused-funds-for-vacation-home-and-plane",
+   "utc": "2026-11-18T21:48:16Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
-   "utc": "2026-11-18T13:24:00Z",
+   "title": "Anthropic prices blockbuster IPO at $83 a share, source says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
+   "utc": "2026-11-18T21:47:43Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bloomberg New Economy Forum Opening Welcome Remarks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-opening-welcome-remarks-video",
+   "utc": "2026-11-18T21:42:44Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+   "utc": "2026-11-18T21:42:35Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Foreign Holdings of US Treasuries Decline by Most Since March",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/foreign-holdings-of-us-treasuries-decline-by-most-since-march",
+   "utc": "2026-11-18T21:41:20Z",
    "tag": "FED",
    "breaking": true
   },
   {
-   "title": "Worried about the AI bubble popping? How investing pros say to adjust your strategy",
+   "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/make-it/2026/11/18/how-to-diversify-your-portfolio-amid-ai-bubble-fears.html",
-   "utc": "2026-11-18T13:19:31Z",
+   "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+   "utc": "2026-11-18T21:40:21Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Bloomberg New Economy Forum Day One Opening Address",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-day-one-opening-address-video",
+   "utc": "2026-11-18T21:38:09Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bloomberg New Economy Forum Day Three Opening Address",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-day-three-opening-address-video",
+   "utc": "2026-11-18T21:33:59Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "utc": "2026-11-18T21:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+   "utc": "2026-11-18T21:28:04Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Patching the AI Trade",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade",
+   "utc": "2026-11-18T21:26:22Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "S&P Falls to Lowest Since July | Closing Bell",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/s-p-falls-to-lowest-since-july-closing-bell-video",
+   "utc": "2026-11-18T21:25:53Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "utc": "2026-11-18T21:22:56Z",
    "tag": "AI",
    "breaking": true
   }

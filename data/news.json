@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:03:28Z",
+ "updated": "2026-11-18T23:47:58Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (40)"
+  "Nikkei Asia": "ok (41)"
  },
  "items": [
-  {
-   "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
-   "utc": "2026-11-18T22:00:41Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "utc": "2026-11-18T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html",
-   "utc": "2026-11-18T22:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
-   "utc": "2026-11-18T21:58:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves after hours: Palo Alto Networks, Everpure, CrowdStrike & more",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-18T21:57:48Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Copper’s plunge could make the AI data-center buildout more painful",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-   "utc": "2026-11-18T21:55:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Palo Alto Networks’ stock soars as earnings show AI has upped the stakes for cybersecurity",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-   "utc": "2026-11-18T21:55:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Farm Group Says Ex-CEO Misused Funds for Vacation Home and Plane",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-18/farm-group-says-ex-ceo-misused-funds-for-vacation-home-and-plane",
-   "utc": "2026-11-18T21:48:16Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic prices blockbuster IPO at $83 a share, source says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
-   "utc": "2026-11-18T21:47:43Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Bloomberg New Economy Forum Opening Welcome Remarks",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-opening-welcome-remarks-video",
-   "utc": "2026-11-18T21:42:44Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-   "utc": "2026-11-18T21:42:35Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Foreign Holdings of US Treasuries Decline by Most Since March",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-18/foreign-holdings-of-us-treasuries-decline-by-most-since-march",
-   "utc": "2026-11-18T21:41:20Z",
-   "tag": "FED",
-   "breaking": true
-  },
   {
    "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-   "utc": "2026-11-18T21:40:21Z",
+   "utc": "2026-11-18T23:45:50Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Bloomberg New Economy Forum Day One Opening Address",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-day-one-opening-address-video",
-   "utc": "2026-11-18T21:38:09Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Bloomberg New Economy Forum Day Three Opening Address",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-day-three-opening-address-video",
-   "utc": "2026-11-18T21:33:59Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-   "utc": "2026-11-18T21:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+   "title": "Nasdaq-100 futures surge as traders gear up for Anthropic’s highly anticipated debut: Live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
-   "utc": "2026-11-18T21:28:04Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Patching the AI Trade",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade",
-   "utc": "2026-11-18T21:26:22Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "S&P Falls to Lowest Since July | Closing Bell",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/s-p-falls-to-lowest-since-july-closing-bell-video",
-   "utc": "2026-11-18T21:25:53Z",
+   "link": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+   "utc": "2026-11-18T23:44:15Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off: Live updates",
+   "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
-   "utc": "2026-11-18T21:22:56Z",
+   "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+   "utc": "2026-11-18T23:44:11Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+   "utc": "2026-11-18T23:38:55Z",
    "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Dealbook Summit 2026 live updates: Musk says he feels ‘pretty foolish’ for having spent so much on midterms",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+   "utc": "2026-11-18T23:34:16Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Jane Fraser on IPO Pipeline, AI, & Interest Rate Outlook",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/jane-fraser-on-ipo-pipeline-ai-interest-rate-outlook-video",
+   "utc": "2026-11-18T23:31:48Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "China carmakers outmaneuver Japan rivals in Myanmar with EV policy",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMjQtWlE0YkROdVJhbEs5NXhaT3NtQ3RuQUZqYldJYklvUnhEd21lLS00WFgxT2VCdDFrX0lGV0tlc0YtWWhsYjY1bDVmWnpSbnVxREVvSGZYanVlUndkZzA0bVlkamQ5VG84bzRrdEVoNkxvT2wyRmg0N3d2Ti1TZ3BPQkNoR0lCUW41WEtUeFlnSkpwNFhCMGlJcEVwOGh3a0lKWWVZcXR5MV9WUHNKSg?oc=5",
+   "utc": "2026-11-18T23:27:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+   "utc": "2026-11-18T23:24:06Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Alcaraz overpowers Medvedev to move closer to last four",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3RXR2dvX1JDQ1FETC15V2hVR3B5dWVoT3Zhd2JBeWJ3LWtnT1haWHVudEZQeUtTc3ZJWEZTZUhkTjIta3FCcnhCNVhiY2ZrTGNtRGNfM0x4MmRNZkRmZVc0aXpCZEYzeDRqNW9DVEpGSGdjU3BtbHh1emJyLXhnSFU2Q3Myd0E0QmxGelpfSWMtS1VJQkZZTENuN2xCZjky?oc=5",
+   "utc": "2026-11-18T23:20:48Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEpRTFc4Q3Nsa085U2xoZldyY1BXSmlhSy0yT00tRzF4eU5QekdiUENlSTQyajA0eU5PVWl0MUpoejlXdXJMVVFPbHRVaGFlZmxoWFA5SHN5VXBpWHJvLUFLMjZISk96bVRuWWs0V3NSblpmWTM3VVZNQ3VHQVNpQTNUOFM5VzdwZ0ZOcHlFX3hmcEJ5ZDhRVXlCS0dCZEwxbXZ3Z09zVjB4N1FGMHo4Qkc4WWEwTG5LdHNWbk14NA?oc=5",
+   "utc": "2026-11-18T23:13:48Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Thai firms affected by US chip rules to get support",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3357309/thai-firms-affected-by-us-chip-rules-to-get-support",
+   "utc": "2026-11-18T23:13:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+   "utc": "2026-11-18T23:12:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Stocks making the biggest moves Wednesday: Palo Alto Networks, Everpure, CrowdStrike & more",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html",
+   "utc": "2026-11-18T23:05:49Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Nov. 19",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
+   "utc": "2026-11-18T23:03:35Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Bain Pushes Back LNG Glut Outlook to 2030 as War Tightens Market",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/bain-pushes-back-lng-glut-outlook-to-2030-as-war-tightens-market",
+   "utc": "2026-11-18T23:02:30Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "How copper’s plunge could hurt the AI buildout",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+   "utc": "2026-11-18T23:02:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html",
+   "utc": "2026-11-18T23:00:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "How the Anthropic IPO stacks up against SpaceX",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkdlbW1ReWtyUXdHSHFPaWw0Q25WdThvUlFSTDY3cGI2THcyNUtSNzVhNVZUdFVkcVF1Rzh3SWl4dVRiTEk3Z3JyLWpGeEx2aGFCYWZ3bTA2SXBia1lXcVBFd2xrRFdNQTllNUV4RGxVOWZreFlLWENXNzF5Njdsa1ZLZ0NWcEVRbzRJdnNuSm0tLTVUY280clRCaXVzOGhSekhNMkhBdGF2Wmc?oc=5",
+   "utc": "2026-11-18T22:54:09Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Former SEC Chair Gary Gensler Warns Anthropic’s Cash Flow Poses Big Risk To AI Economy",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/fmr-sec-chair-gary-gensler-nvidia-misled-the-public-video",
+   "utc": "2026-11-18T22:53:04Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+   "utc": "2026-11-18T22:53:00Z",
+   "tag": "STOCKS",
    "breaking": true
   }
  ]

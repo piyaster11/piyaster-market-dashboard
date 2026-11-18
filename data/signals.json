@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T04:29:26Z",
- "level": 60,
+ "updated": "2026-11-18T14:10:15Z",
+ "level": 50,
  "band": "Alert",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   31,
+   32,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   13,
-   10,
+   1,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,26 +90,70 @@
  ],
  "headlines": [
   {
-   "title": "Saudi Arabia Absorbs Iran War Costs as US-Iran Talks Stall and Hormuz Stays Closed",
-   "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GTHZPVVNFTVhGOFR0THB3SVg1RnpXbWVVTVNUeUViZGZEZ25UNmpfaUNQSkUxaVJwOUtqbThMYjVSLXRtbmdOdVFOaGU2T2J6Y0dFOWFIUEUtclY4ZkFRRmN6MmU2aDNZSmc?oc=5",
-   "utc": "2026-11-18T03:54:41Z",
+   "title": "Strait of Hormuz: US Strikes Iran's Qeshm Island as Tehran Claims More Tanker Mine Hits, Says Strait Is Closed",
+   "source": "International Business Times Australia",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkhkbEhLOXFYSFF4eDJ5Q0x1cTAwbHc0WUxJWWxRMlJUSmZWN3k2Y2RXUGJoc0tGby15bHlGbEdrZFVzckttSzl5U0l3TGd2cjN3MjFUVHJLZXltekhmUVdmOTJLUmx0UUtYNTVORFVVSE1KRjR5dE8yOHRnaWV3RWhIdXlpWnFN?oc=5",
+   "utc": "2026-11-18T13:23:04Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 6.0,
    "airspace": false
   },
   {
-   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-17T23:05:09Z",
+   "title": "Papoyan Responds to Armen Grigoryan's Statement on Possible Evacuation of the US Embassy from Armenia",
+   "source": "Aurora News",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWm04NU5LQll2T2ZYaUU2aDUxc25sXzlQYnBKRnZrU2FVb3AzR2ZqLVF4UTZfeXNWbEZoaFJzUU1MOGNodHhqeGREUkFMWkp6UGpqTVN3SlEtcVJXT0lGTG52YXdTM244S1BWSW52ZUhsYTdQM3pXZmpGN3Y5VFcyZ0VPMER2Sktoa0FHdjhCaVk0SkVQeHBhVFBVS1c0WVlWUzg2b1hGbjRINkIzNUh1U3JraHV6Xy1udlA3WThOZnlFLXdDTmRobFRUeER2TUJ4dDlQYVVkcXA?oc=5",
+   "utc": "2026-11-18T09:18:44Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 4.8,
+   "score": 5.8,
    "airspace": false
+  },
+  {
+   "title": "Deeply Worrisome: MEA Condemns Attack On LPG Tanker In Strait Of Hormuz, 1 Indian Sailor Missing",
+   "source": "Free Press Journal",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmtRSloxZ1hIcEJjUHlhQnpKenVDbjRXSDdCcDJNODR5dkx6V21YY2NweXA3WmFod19kT25iTHlHY1B4Um9ibWt5b0NMRmpGem9QM21MdGFlSmxTTGdOdFFKTEFjUTBZTm1nMnQ5ejUtQl9MMWhwN1RXeDJYY1k0TWRfdXNSQkZMV3ktODJJaWJXc05XWVNyblVsQ0I5cGwwb3VEMzF6TmRSXzVESVdFSnJJZUhvUlRWbXNWUHZCdlc2NS1GRUNleWJiLWxVSVd3TXfSAdIBQVVfeXFMTUZrUUpaMWdYSHBCY1B5YUJ6Snp1Q240V0g3QnAyTTg0eXZMeldtWGNjcHlwN1phaHdfZE9uYkx5R2NQeFJvYm1reW9DTEZqRnpvUDNtTHRhZUpsU0xnTnRRSkxBY1EwWU5tZzJ0OXo1LUJfTDFocDdUV3gyWGNZNE1kX3VzUkJGTFd5LTgySWliV3NOV1lTcm5VbENCOXBsMG91RDMxek5kUl81RElXRUpySWVIb1JUVm1zVlB2QnZXNjUtRkVDZXliYi1sVUlXd013?oc=5",
+   "utc": "2026-11-18T06:12:09Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 6.7,
+   "airspace": false
+  },
+  {
+   "title": "India condemns missile attack on LPG tanker in Hormuz; 1 crew member still missing",
+   "source": "The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMkc5NGhCcXEzcTZnVG11dzJRRDlzQUdsSXNJUDRWSXo1NTR4V28tTEF1clN4T1Z6VmxPSlVpX1NVOW9wZHFwZ056djkzSVdFd21yeDZlVHdZakxoNFdISWhEaFpuZ0xUd3o3V0p3N3FjbDRCSjZ1ZTZkbkxNM0w1cjA0MWVDajJIT0pZWHYwQ2JaRzhOYm9nLVhOVk5GSkZJMjZ6OWk0OEJyRnp3X04xVDRwcU1HOG11MWxmeE4tb1pxM2JQM2JqcEIxYVlVMXPSAdYBQVVfeXFMTWJWcFVxVzNhX3pFQXdyOUFIUGE0aVZKUUhhNS1kVmliZzBqMndUclB0Qy04TGNKTnpMaEp0TkZyNVhTeHF0UUdJWDA5LXFFV1VQbWFaT243S0VndTZSeTNNb1VYZXlBQ0pONzBoXzhSVTdtMHN1RWFIblBVTkFBa241ajUydmkyUEJsZWJFUnFhc2xiYkh2QkpZODFUZHI0TUhhMHc0eDhpc3NnV3A5bUdRTk93SHhkU2UxRzYzcGhqQU9tLW8zcmJvaURSTC1iN0s3aGtiQQ?oc=5",
+   "utc": "2026-11-18T04:28:26Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 6.6,
+   "airspace": false
+  },
+  {
+   "title": "Panama-flagged LPG 'MT TARA GAS' hit twice near Strait of Hormuz; One Indian Seafarer missing, Two injured",
+   "source": "India Shipping News",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeXlmQnhlV19MUHdkQWZfQmRnVFZ6TTFzUko2UWRncUtrMzVLdWlJSDByUHU0MkZJQ1ZyZmZfbkp4ZDRQeXZMZVFSQ2NaT3BtUndVSEltUFBabVctV1F4TlRjMk15YzdaMGctM0ozRVo4WGoyZUI2enNnMmdNdnd6alBhZVlNWmRmaXNDRjBLcG5QcERKRFV1QnlZN0VPbHZsN0RNUEJrZmlKSFBLbk13dHR1NDZTRXBiS0RNZ0dEMzFRTGZ1RlpObFd0M193MklXRGhnLW1mQ0szdw?oc=5",
+   "utc": "2026-11-18T03:43:07Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.6,
+   "airspace": false
+  },
+  {
+   "title": "Moldova's airspace closed due to a Shahed drone sighting near Chisinau",
+   "source": "Moldova 1",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9CbGY3QURzV3p1Y1RkYVUxSmQ3c0doZWZ3ZEo1ODY1R2ZxUEVjMDhOclg1SGtfc3pKbzAtY3I0Qmo?oc=5",
+   "utc": "2026-11-17T21:29:46Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.3,
+   "airspace": true
   },
   {
    "title": "UPDATE - One crew member missing after Panamanian-flagged LPG tanker attacked in Hormuz: India",
@@ -119,19 +163,19 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.6,
+   "score": 6.2,
    "airspace": false
   },
   {
-   "title": "Moldova's airspace closed due to a Shahed drone sighting near Chisinau",
-   "source": "Moldova 1",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakR5Y2k3YnhiekJpWU90M0xuTTh1V3NUVVBjaDZlZ1ZBd2w2VWhrQ21OX2lmS0tLY0ZmbXhRUlV4d2NqRno3cDBtTFpDLVZvUVpLZFVkNGNQSW5TekExNlloYzRpeDU0TEdGYWdlWkktS1Excm9zQWRyRVlwUzJTZTVaUjRaV1d6dEtiNU1NOUd0aS1xVUZoSWFrbVlFSzQ?oc=5",
-   "utc": "2026-11-17T15:42:29Z",
+   "title": "Violent Eruption Blasts Garbage Into Sky, Sparking Evacuation Warnings",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLUwtVXpLb0FzbUhTWXNUSUpLMWlUTHcxVVU2QWlHc2ZPUjd5RGR0dV82X3R3MXJPS2tHZGRoZjkzS2E5Z3RtSnQ2eVBkekxTYm5qcmY3cDZKc3NVNm4xRWhac0hWMkFpLVl4bmtYaWhYbXdGSlJOdzloVkR6SzZ2c2tHMUVEbG9nZ1gwMElwelZvNEVnXzYyWXE3YkNfcnNUQU5n?oc=5",
+   "utc": "2026-11-17T16:14:20Z",
    "tags": [
-    "AIRSPACE"
+    "EVAC"
    ],
-   "score": 5.5,
-   "airspace": true
+   "score": 5.1,
+   "airspace": false
   },
   {
    "title": "A Shahed UAV in Moldova’s skies: Airspace closed - URGENT",
@@ -141,18 +185,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.4,
-   "airspace": true
-  },
-  {
-   "title": "Another drone spotted heading toward the Botanica district. Airspace closed",
-   "source": "ipn.md",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1R0SGJkNTYwOUxhOXhlVzRib3RPVHlWanBDMTg3U3dTMkg4RHdLUWZIb1BjMEQwSDR0VHZZZjZySmtqRThWa3l4VHNxN2xhS01hbVBObjBfTTZnVGJHSGczRHN4WVhXNWxmdkNlQkRLZjFVTzJvRE1WZG1nR1BFX2RpRXlqMmZaTEZ3U1ZKMVVnUUxWeEFiLQ?oc=5",
-   "utc": "2026-11-17T13:58:39Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 5.4,
+   "score": 5.0,
    "airspace": true
   },
   {
@@ -163,47 +196,14 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.3,
-   "airspace": false
-  },
-  {
-   "title": "Major gas leak at ONGC well in Andhra; nearly 800 evacuated",
-   "source": "Rediff",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMEtzeGxEMGx1Q2gtbnR0QzcyUS1idnpaUHJ1dGFSZUw2VmFHSWY5NVRGMDMwa29Ea21LTURrVFAyUmRCQjR1UU5RYUJYQU9acXlHdERUbDV6eUIyVElkay1kN1lyLVlXdTIwT3pPZ194Y2drUWhXaC04VFhpVXo5QWUyZndqSnBQbGNQbTZMZlFwX2l1X2ZQZl8xVk1La3FjaFQ5QVJsVnhFWDA5bzdwMUkyMUNTODYzLTBtTWNWdVFXaW1vVVJiVFpiM3lCOUIzSjViVjlYQ3l6dw?oc=5",
-   "utc": "2026-11-17T06:06:42Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "Middle East Airspace Closures: Who Decides and What Passengers Are Owed",
-   "source": "Diplomacy and Law",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uWGd4WmxWb2ZBalBmZFpxM0hwZGpYNzczSGNNS1ZqRFBoTEJfcE1JenlqQTExVUgtU3JGREJ5Y3VfYXItZG5OSVNpWjJzVERmcms4ekR0S2xpODY3bzJCMVBn?oc=5",
-   "utc": "2026-11-17T04:42:56Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 5.0,
-   "airspace": true
-  },
-  {
-   "title": "Iran Refuses to Halt Nuclear Program as Third US Carrier Strike Group Arrives",
-   "source": "CBN.com",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0pIdkFXbTRXMVhETVZRMUQtTXFqR00wUFByNmJKLXVaaWlkaEd6SDVEeW9RWWUxdHpYUUFYRU5yeC1BU1dhMUY3dGlBajYxZnB0TURHRDVkVExXalo4NEhmZHFsWXRHaDFFdGlNZFRYMVZRMzQ4X2l3eHVyNXNRbXNYc2U3c0FpY0FJdl95SERyVzk1WmhiNWltUlh3b0JF?oc=5",
-   "utc": "2026-11-16T10:36:49Z",
-   "tags": [
-    "MIL"
-   ],
-   "score": 5.3,
+   "score": 5.9,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 13,
-  "global": 219,
-  "baseline": 1.8,
+  "count": 1,
+  "global": 380,
+  "baseline": 2.2,
   "samples": 30,
   "hist": [
    [
@@ -745,6 +745,10 @@
    [
     "2026-11-18T04:29:26Z",
     13
+   ],
+   [
+    "2026-11-18T14:10:15Z",
+    1
    ]
   ],
   "box": [
@@ -757,7 +761,10 @@
  "sources": {
   "US State Dept advisories": "ok",
   "UK FCDO travel advice": "ok",
-  "Google News RSS": "ok (10/10 searches)",
+  "Google News errors": [
+   "\"military aircraft\" surge OR \"tanker aircraft\" deployment: HTTP Error 429: Too Many Requests"
+  ],
+  "Google News RSS": "ok (9/10 searches)",
   "adsb.lol military aircraft": "ok"
  }
 }

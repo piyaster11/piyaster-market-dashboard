@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:29:12Z",
+ "updated": "2026-11-18T14:10:01Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (36)"
+  "Nikkei Asia": "ok (42)"
  },
  "items": [
   {
-   "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
-   "utc": "2026-11-18T04:28:37Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
-   "utc": "2026-11-18T04:27:45Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Democrat Mary Peltola wins Alaska Senate election",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
-   "utc": "2026-11-18T04:18:13Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Xi Pitches China as Open Ahead of Trump Meeting",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/xi-pitches-china-as-open-ahead-of-trump-meeting-video",
-   "utc": "2026-11-18T04:18:04Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic-Backer CBA Says Australia More Attractive on Compute",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-backer-cba-says-australia-more-attractive-on-compute",
-   "utc": "2026-11-18T04:17:46Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
-   "utc": "2026-11-18T04:04:26Z",
+   "title": "The AI power scramble is in full force. Which companies really stand to profit?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-ai-power-scramble-is-in-full-force-which-companies-really-stand-to-profit-f719619c?mod=mw_rss_topstories",
+   "utc": "2026-11-18T14:06:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Asics Steps Up China Push With Goal to More Than Double Stores",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-18/asics-steps-up-china-push-with-goal-to-more-than-double-stores",
-   "utc": "2026-11-18T04:01:38Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "UBS Group Sees Yuan Rising to 6.25 in Most Bullish Market Call",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-18/ubs-group-sees-yuan-rising-to-6-25-in-most-bullish-market-call",
-   "utc": "2026-11-18T04:01:26Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Skylark CFO Eyes US Expansion, More M&A",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/skylark-cfo-eyes-us-expansion-more-m-a-video",
-   "utc": "2026-11-18T04:01:20Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "International relations",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rLWdBdXhReUh0S21qTWhjYmVoNHgxRVZTSWZIaTRqRWZXLVZoN0o0RWxVblk0V0xmWGppeDZmOWhoWWVSNHBqRnRPb3JsX0JHRVVCak5TLTBUU05RSVFyb3phY2N3c3c?oc=5",
-   "utc": "2026-11-18T03:46:13Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Japan 20-Year Bond Sale Draws Weak Demand Amid Global Volatility",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average",
-   "utc": "2026-11-18T03:41:33Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Xi positions China as defender of free trade at APEC summit",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTlsYmp0eXFjTXdMbERFZXBCaXNUaE5ZMEpVLXZ6S1RZU3NzS3o2cmxqMW1BWlpzQ1ZMT0ZKZVBjYXl6emZMalJHNEpIbC03ZU9EQklsUTQ3REsyUTZTX0Jpa19LTUdRUGp6WC05YTFycXFnM0ItQmctSFBuMEpfMUZEY211eUtURWpTWjBUYkdBb1lEX2FVWnhuZHVMQXMtc01oMEcxYUNFYkhCQXBxejFwUGRFdzFLWVcwMlVB?oc=5",
-   "utc": "2026-11-18T03:34:00Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+   "title": "Stocks making the biggest moves premarket: Nvidia, Take-Two Interactive, Lowe's & more",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
-   "utc": "2026-11-18T03:30:51Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Three things to watch as Trump, Xi and Putin meet in China",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-   "utc": "2026-11-18T03:25:32Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-   "utc": "2026-11-18T03:17:55Z",
+   "link": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html",
+   "utc": "2026-11-18T14:04:46Z",
    "tag": "AI",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Waymo pulls self-driving cars from US freeways after California ban",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/motoring/3356944/waymo-pulls-selfdriving-cars-from-us-freeways-after-california-ban",
-   "utc": "2026-11-18T03:17:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Daiwa to bolster China investment banking as it buys out local partners",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3RqR1NwZHdySzAxQmNETnNUN3JuakVvQ2JRQ2MyNGRnZUlZeFNPMzAtZzBoaHpENVVRQjE2YUpxbzZ1ajhjOUZnTTlIV2xhVzJIcEN1MjJNeTRzR3ZrLS1iV3k0VndqVzItd0ZjdGlKLW5mSGhXWjdERWVkNEdzSWY3WnVMR0dGV0ZkZDVQQXltTkJadmZIcFBGVW9PdmR2ZXRXTHpmd3dPTlhxREUzUkNn?oc=5",
-   "utc": "2026-11-18T03:14:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Godzilla director Yamazaki brings Hiroshima atomic bombing to screen",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFY4NHBCemxQT25RUnhwZ3JvMk9HYXJZc3N5N0d6OFBFTVdNSi1udTA2RVYwN0ZVSXdRRW5malc4ME1yT0g1bHh1RVIyVHZwNkdLMjNlMlYtcE1MdW1fdVF2YWc3NGFFSm5EdnpWQkR1S0dIU0FoNXcyYzE5M0ZQd3NONEVBb2I3b09RQU5JRDdTRXMxUUVySE5SeUtiLWQ5NUljUWJEMEs3SmJmeFpVcnBRWXJGUFFK?oc=5",
-   "utc": "2026-11-18T03:10:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump withdraws Heidi Overton as nominee to lead Food and Drug Administration, sources say",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/trump-withdraws-heidi-overton-as-nominee-to-lead-fda-sources-say.html",
-   "utc": "2026-11-18T03:09:36Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "China a 'Supersized' Testing Ground for Technology: Xi",
+   "title": "JPMorgan Adds Dallas Hub for Private Bank Unit Catering to Funds",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/china-a-supersized-testing-ground-for-technology-xi-video",
-   "utc": "2026-11-18T03:02:15Z",
-   "tag": "CHINA",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/jpmorgan-adds-dallas-hub-for-private-bank-unit-catering-to-funds",
+   "utc": "2026-11-18T14:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
+   "utc": "2026-11-18T13:59:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "U.S. soldier taken into military custody over suspected spying for Russia",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
+   "utc": "2026-11-18T13:58:53Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Waller Thinks Fed Should Consider Half-Point Rate Hike",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/waller-thinks-fed-should-consider-half-point-rate-hike-video",
+   "utc": "2026-11-18T13:57:59Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Nasdaq futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "utc": "2026-11-18T13:54:58Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Alaska’s Oil Renaissance Dawns After Decades of Decline",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-18/alaska-s-oil-renaissance-dawns-after-decades-of-decline",
+   "utc": "2026-11-18T13:54:32Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+   "utc": "2026-11-18T13:50:03Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+   "utc": "2026-11-18T13:48:38Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+   "utc": "2026-11-18T13:43:48Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Medicare Part B premiums rise due to higher healthcare spending",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+   "utc": "2026-11-18T13:42:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+   "utc": "2026-11-18T13:32:33Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+   "utc": "2026-11-18T13:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Fracking Giants Tapped to Drill Gas Project in Western Australia",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Fracking-Giants-Tapped-to-Drill-Gas-Project-in-Western-Australia.html",
+   "utc": "2026-11-18T13:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Target posts best sales growth in five years, raises guidance",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+   "utc": "2026-11-18T13:29:33Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, Microsoft, Oracle, Coca-Cola & more",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/top-wednesday-stocks-by-analyst-calls-like-nvidia.html",
+   "utc": "2026-11-18T13:26:13Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Stocks Rise After Nvidia Earnings; Xi Welcomes Trump",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-brief-11-18-2026-video",
+   "utc": "2026-11-18T13:26:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
+   "utc": "2026-11-18T13:24:00Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Worried about the AI bubble popping? How investing pros say to adjust your strategy",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/make-it/2026/11/18/how-to-diversify-your-portfolio-amid-ai-bubble-fears.html",
+   "utc": "2026-11-18T13:19:31Z",
+   "tag": "AI",
+   "breaking": true
   }
  ]
 }

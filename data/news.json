@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:47:58Z",
+ "updated": "2026-11-19T03:36:42Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (41)"
+  "Nikkei Asia": "ok (39)"
  },
  "items": [
   {
-   "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-   "utc": "2026-11-18T23:45:50Z",
-   "tag": "AI",
+   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "utc": "2026-11-19T03:30:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "'The Meeting is the Message': Ex-CIA Official on Trilateral’s Symbolism",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-19/ex-cia-official-on-trilateral-s-symbolism-and-impact-video",
+   "utc": "2026-11-19T03:27:56Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
    "title": "Nasdaq-100 futures surge as traders gear up for Anthropic’s highly anticipated debut: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-   "utc": "2026-11-18T23:44:15Z",
+   "utc": "2026-11-19T03:21:47Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-   "utc": "2026-11-18T23:44:11Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
-   "utc": "2026-11-18T23:38:55Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Dealbook Summit 2026 live updates: Musk says he feels ‘pretty foolish’ for having spent so much on midterms",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
-   "utc": "2026-11-18T23:34:16Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Jane Fraser on IPO Pipeline, AI, & Interest Rate Outlook",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/jane-fraser-on-ipo-pipeline-ai-interest-rate-outlook-video",
-   "utc": "2026-11-18T23:31:48Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "China carmakers outmaneuver Japan rivals in Myanmar with EV policy",
+   "title": "Politics",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMjQtWlE0YkROdVJhbEs5NXhaT3NtQ3RuQUZqYldJYklvUnhEd21lLS00WFgxT2VCdDFrX0lGV0tlc0YtWWhsYjY1bDVmWnpSbnVxREVvSGZYanVlUndkZzA0bVlkamQ5VG84bzRrdEVoNkxvT2wyRmg0N3d2Ti1TZ3BPQkNoR0lCUW41WEtUeFlnSkpwNFhCMGlJcEVwOGh3a0lKWWVZcXR5MV9WUHNKSg?oc=5",
-   "utc": "2026-11-18T23:27:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GNHY0ckZZdDNuOEVXekFsZVlqcDA2YTVRRThvV1ZKUlNYUGFQbkZRZ0V3ZlVGV0hjSmVicVhwUzd0c1Vfb3BfNXVlaGFSMjEzWXpFOHA4RnVmOXBM?oc=5",
+   "utc": "2026-11-19T03:10:33Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "China",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93dndUaWxlSkJBY1gzSkRlaWQ2c3pMYUlhMmtFMVRGWllaWHF3OS02Z28tZDZ1Rk5PN1lzbFl3LWhzNXJwUXczTUtQcmhWUy1oUm85WW9JVkJsWW5p?oc=5",
+   "utc": "2026-11-19T03:10:25Z",
    "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
-   "utc": "2026-11-18T23:24:06Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Alcaraz overpowers Medvedev to move closer to last four",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3RXR2dvX1JDQ1FETC15V2hVR3B5dWVoT3Zhd2JBeWJ3LWtnT1haWHVudEZQeUtTc3ZJWEZTZUhkTjIta3FCcnhCNVhiY2ZrTGNtRGNfM0x4MmRNZkRmZVc0aXpCZEYzeDRqNW9DVEpGSGdjU3BtbHh1emJyLXhnSFU2Q3Myd0E0QmxGelpfSWMtS1VJQkZZTENuN2xCZjky?oc=5",
-   "utc": "2026-11-18T23:20:48Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEpRTFc4Q3Nsa085U2xoZldyY1BXSmlhSy0yT00tRzF4eU5QekdiUENlSTQyajA0eU5PVWl0MUpoejlXdXJMVVFPbHRVaGFlZmxoWFA5SHN5VXBpWHJvLUFLMjZISk96bVRuWWs0V3NSblpmWTM3VVZNQ3VHQVNpQTNUOFM5VzdwZ0ZOcHlFX3hmcEJ5ZDhRVXlCS0dCZEwxbXZ3Z09zVjB4N1FGMHo4Qkc4WWEwTG5LdHNWbk14NA?oc=5",
-   "utc": "2026-11-18T23:13:48Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Thai firms affected by US chip rules to get support",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3357309/thai-firms-affected-by-us-chip-rules-to-get-support",
-   "utc": "2026-11-18T23:13:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
-   "utc": "2026-11-18T23:12:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves Wednesday: Palo Alto Networks, Everpure, CrowdStrike & more",
+   "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-18T23:05:49Z",
-   "tag": "WAR",
+   "link": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+   "utc": "2026-11-19T02:54:37Z",
+   "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Latest Oil Market News and Analysis for Nov. 19",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
-   "utc": "2026-11-18T23:03:35Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Bain Pushes Back LNG Glut Outlook to 2030 as War Tightens Market",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-18/bain-pushes-back-lng-glut-outlook-to-2030-as-war-tightens-market",
-   "utc": "2026-11-18T23:02:30Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "How copper’s plunge could hurt the AI buildout",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-   "utc": "2026-11-18T23:02:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html",
-   "utc": "2026-11-18T23:00:00Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "How the Anthropic IPO stacks up against SpaceX",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkdlbW1ReWtyUXdHSHFPaWw0Q25WdThvUlFSTDY3cGI2THcyNUtSNzVhNVZUdFVkcVF1Rzh3SWl4dVRiTEk3Z3JyLWpGeEx2aGFCYWZ3bTA2SXBia1lXcVBFd2xrRFdNQTllNUV4RGxVOWZreFlLWENXNzF5Njdsa1ZLZ0NWcEVRbzRJdnNuSm0tLTVUY280clRCaXVzOGhSekhNMkhBdGF2Wmc?oc=5",
-   "utc": "2026-11-18T22:54:09Z",
+   "title": "Trump, Xi and Putin gear up for first-ever trilateral meeting",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmNWWmpzbllfTmw2VFQwMGQ1NHdIcGhFeUhBRkVNV1Q4M3RtQXdicUxJTlBpbnpZb0tET0tIMUhtOC1zOW16MEhIeUFsY1p0M2Z1cUM4TFE4X2s0Vzh3MGlHWjVJOFNMS0pyb0RXdEpMbWxzRzZiLVR3elpFbll6YXo4Yi1JeW9sWm9PVVFvQ3k1MHBSbVpIU0hjVHZwSHNqRDY5X1U1MVhkOGNPNlhEN0tESTlkS2tybWlZNWdoUQ?oc=5",
+   "utc": "2026-11-19T02:54:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Former SEC Chair Gary Gensler Warns Anthropic’s Cash Flow Poses Big Risk To AI Economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-18/fmr-sec-chair-gary-gensler-nvidia-misled-the-public-video",
-   "utc": "2026-11-18T22:53:04Z",
-   "tag": "AI",
+   "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+   "utc": "2026-11-19T02:49:35Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-   "utc": "2026-11-18T22:53:00Z",
-   "tag": "STOCKS",
+   "title": "Malaysian pharmacy Big Caring makes debut after $155mn IPO",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTRGZWlRU0gtZnFvdF90N0s3aGRvczEtU3loekRrb1lCeExXVUowY0FzSmpnRjJYcUcycktESmVqQ1FUNmtmQVdiLVdHT2VnTEpEcTA0bXZKNDJFYXFhR1pSWnpvOS00WkJDRUZBVmV2MFVPMFVoTUZYaFVXaEk5SzFaT2dJQVd0Q2M2TE9Ya3JDU0VNZ3lzMjFRdUZrQUd1X19zMw?oc=5",
+   "utc": "2026-11-19T02:49:00Z",
+   "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "RRJ-Led Consortium Buys Australia Coal Miner’s $619 Million Debt",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/rrj-led-consortium-buys-australia-coal-miner-s-619-million-debt",
+   "utc": "2026-11-19T02:33:23Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "India Studies Tax Proposals to Encourage Stock Trading, Curb Speculative Bets",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-19/india-studies-tax-proposals-to-encourage-stock-trading-curb-speculative-bets",
+   "utc": "2026-11-19T02:30:35Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "APEC live: Trump says US has been 'Pacific power for hundreds of years'",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzBLUlhLSGFNenczS1YyQmJvWGp5LXBVTFM2Wk1PLW1YZC1naVVZUmZuR2tBaldhYnlkQzFKVVFyT0hlajZnRktkb2psdEYwZXJhYlRBdHItQ1BqYWhubDB3OExkZHRqMW9uZkE3ZUd4RlV5dHRacFdVMlV6WWI2TFJvbWdjd3M4amlFTlNEVWl3SkFiTHNkVzFrSHdHbE5YZHdwUm1FMDIybW00Qk5CWW1XLU1fYWJ1UFRqYnZGQVd0cTVFQWR4bHhB?oc=5",
+   "utc": "2026-11-19T02:20:11Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Commodity data firm Kpler bets global turmoil to sustain trade data demand",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdHpvUXk1aERqUU5NQ1RvY2FmdGRlWG9TM0FaRnZsNms3bndhZlNDU1hlYmNTYlhVN2tQc3FidFZXMVNRdWxhUDd0ZnNmTUg1VGxOVzhsWG9RV0otd0s0Mm5qQzVXWHZVZ1dzeG8tRFlIX1BMNkdCMm9YZDF1TzhJTTZZNWxOOXR2c1JWTzhtb0pid2cwNnVsaHoxNG1YdmRCbFJreEU5YkpZOThGTGNqN29vbE1taVlSa1lkbDM4MDdKOVlmb0E?oc=5",
+   "utc": "2026-11-19T02:15:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "K-Pop Giants Position for China Return After Decade-Long Freeze",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/k-pop-giants-position-for-china-return-after-decade-long-freeze",
+   "utc": "2026-11-19T02:02:33Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Inside the Army’s 75 Year Plan to Escape China’s Rare Earth Dominance",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Inside-the-Armys-75-Year-Plan-to-Escape-Chinas-Rare-Earth-Dominance.html",
+   "utc": "2026-11-19T02:00:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "A-Cap Insurer Asks to Defer Payouts to Clients Amid Deal Talks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/a-cap-insurer-asks-to-defer-payouts-to-clients-amid-deal-talks",
+   "utc": "2026-11-19T01:58:27Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Australian Dollar Erases 2026 Gain as Rate-Cut Bets Increase",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/australian-dollar-set-to-shed-2026-gain-on-rba-rate-cut-bets",
+   "utc": "2026-11-19T01:53:37Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Stocks rise after Anthropic IPO pricing sets stage for blockbuster debut",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVlNYZ0xucjVqQUMzV3BSemlBQ2ZPcmxTejY2bXF6bzUyZTR3OEhOc3FoQW5JS095Uzl2LWhJcDdpVXpoeWF3c245cllBNFRjeks3eTdta3kxU3BiWm1IcG1ScWIweFVBdTk0eFpURlFDZi1kUmVIQ0dVTQ?oc=5",
+   "utc": "2026-11-19T01:53:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGVNM0xjMGtxNjE0aEFnRWU2QURJZy1TSzZGSkFXNVk0eTM0bkhOZWF4cXJjWGhyZEVfZjNuWjZxVVlqUWh5cDUzckE2QTdISldZeThRZG9sZTB3dzdIU1ZOX2RJV0FMQXJ4V2dKS0U3V0t1YWNpcXE4R2FuZVVRVFJaUUNnYmZkS1pQXzluQ25WaUROQ2NVQk5wNHpPa2NheXhUZFFiQ3o5cjNxcHFWUWRVS3FCNm1meTltX0xiMA?oc=5",
+   "utc": "2026-11-19T01:46:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Uniqlo's Yanai looks beyond goal of becoming world's top apparel company",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFlRRmhiQ3VoUDdMUHZiNUYzSmRUanNPdVZfRDRVQ0pGeUFBcmN2LUtuM3pnQ2R6aTI2SjYzUUt0V2FzdE1NMV9OX0NOR3ozR0NKVnZNcVAwbnUxVmktclZ4TFNya1h4UFlERUZSSWpKbWRyZ0Y3QVJhUXkwRnNyMVpyTGhlZmxXc3VhRnhJVjh0R0xMU1laX04zMlM4S1c3dHg2U1hMRTBYMXMyUFBSUFJR?oc=5",
+   "utc": "2026-11-19T01:42:00Z",
+   "tag": "MARKETS",
+   "breaking": false
   }
  ]
 }

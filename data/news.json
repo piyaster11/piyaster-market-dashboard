@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:13:31Z",
+ "updated": "2026-11-19T23:48:59Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -8,169 +8,169 @@
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
-  "Bangkok Post": "fail: HTTP Error 404: Not Found",
-  "Nikkei Asia": "ok (46)"
+  "Bangkok Post": "ok (10)",
+  "Nikkei Asia": "ok (43)"
  },
  "items": [
+  {
+   "title": "Japan reports cooler-than-expected core inflation in October of 2.2% — but highest this year so far",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+   "utc": "2026-11-19T23:45:23Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+   "utc": "2026-11-19T23:21:23Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic closes debut with $1.8 trillion market cap in landmark moment for AI: Live IPO updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+   "utc": "2026-11-19T23:17:45Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic Becomes World’s 7th Most Valuable Company After IPO",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo",
+   "utc": "2026-11-19T23:16:20Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+   "utc": "2026-11-19T23:15:58Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+   "utc": "2026-11-19T23:11:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "utc": "2026-11-19T23:05:56Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Nov. 20",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
+   "utc": "2026-11-19T23:05:51Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Oil-Exports-Could-Decline-amid-Inbound-Tanker-Shortage.html",
+   "utc": "2026-11-19T23:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+   "utc": "2026-11-19T22:53:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+   "utc": "2026-11-19T22:41:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Stocks making the biggest moves Thursday: Intuit, Gap, Anthropic, Ross Stores & more",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
+   "utc": "2026-11-19T22:38:40Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "White House national cyber director Cairncross leaving his post, Axios reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTElpWEVLdXdjWl9QOVBPcjRMRWcyN2xMVzdqQ1hSZjJxZTJEUk9QWmtyNldWTHRyUmNBaWFtSUJ5TndzRG9vTHR1bGR5eEZXNkNDbnNNQlRKcW9PdnZPc2VZMVJhOGxablFJeUpLM2UtU1pfXzhUaWVhNi1qeXk0ejFVVDZ3VGp6b01UdmlrMEZicFlqcU9BY2lfN25rWWRMR2p4RkZYdXFkdnJWMVAtSWZkdW5PNHBfTkdxNFRwRQ?oc=5",
+   "utc": "2026-11-19T22:37:22Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Treasury Official Renews Warning on Wave of Tax-Saving Trades",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/treasury-official-renews-warning-on-wave-of-tax-saving-trades",
+   "utc": "2026-11-19T22:31:50Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "Thrifty Thai tourists keen to travel more next year",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3358054/thrifty-thai-tourists-keen-to-travel-more-next-year",
+   "utc": "2026-11-19T22:31:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "Congress passes bill to protect older investors from financial fraud",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
+   "utc": "2026-11-19T22:23:29Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
+   "utc": "2026-11-19T22:18:33Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Anthropic IPO is About Capital, Says Kathryn Thompson",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-is-about-capital-says-kathryn-thompson-video",
+   "utc": "2026-11-19T22:17:51Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+   "utc": "2026-11-19T22:15:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
   {
    "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
    "utc": "2026-11-19T22:12:00Z",
    "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves after hours: Intuit, Gap, Anthropic, Ross Stores & more",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-19T22:00:26Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "5 Energy Stocks to Benefit from Anthropic’s $1.5 Trillion Debut",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-to-Benefit-from-Anthropics-15-Trillion-Debut.html",
-   "utc": "2026-11-19T22:00:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Markets are sending troubling signals about the state of the economy",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
-   "utc": "2026-11-19T21:57:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic closes first day at $97.17 per share in landmark moment for AI: IPO live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-   "utc": "2026-11-19T21:51:31Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "NY’s Largest Mall Debt Now Controlled by Billionaire Namdar",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-19/ny-s-largest-mall-debt-now-controlled-by-billionaire-namdar",
-   "utc": "2026-11-19T21:51:06Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-   "utc": "2026-11-19T21:45:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-   "utc": "2026-11-19T21:43:30Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "North America",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fNlg4dUJFcERfdGdITnhINEsyd1JMT1Myd09acFJmSFh2MGJTckF0aThNdlhuck9UUW1nRUVnc1NiNzRvcnZld2JpN0daTnVXRTBHOTMtNlJ5RmluUVJIT0dSWG03Ykp3dmp2WXBtVEdkUQ?oc=5",
-   "utc": "2026-11-19T21:42:14Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
-   "utc": "2026-11-19T21:40:31Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Instant view: Anthropic hits $2 trillion market value in debut; major indexes fall",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlRFLVpVV0l1RXpPXzhUdXlUT1ZHQ0NNeUplSXhERGJybFNNRDBVU1RDRktVeTBFYlhOV1dUbE1ldV92NS1zZDJCYkM1U24tMVI0clN1eFplWHdXQlZmX19zS2V2ZWE1Y0RGT3lLQ1dzUzJVS210N19zZXVZSHlVRUt6c3JhLVJ1bzk3cl9LZ0FPeVhmV3ZSYmdRSHpoc0p6VXB6cHhwX2FfQQ?oc=5",
-   "utc": "2026-11-19T21:39:50Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-   "utc": "2026-11-19T21:38:51Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Trump says no rush on Iran decision, looks to next year",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
-   "utc": "2026-11-19T21:36:16Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, experts say",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/social-security-ponzi-scheme-ron-johnson.html",
-   "utc": "2026-11-19T21:35:46Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Backing Trump, US Senate Republicans block Iran war resolution",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
-   "utc": "2026-11-19T21:28:39Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic closes 17% above IPO price after 34% opening surge",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX21TUWVWRFBoXzV6OUh5YV9NSC1KZWhNWV9ETng1VUhTUzgyX0d4d19LODRDYTAtcHBXeWh1Z1ZoSmgzZS0wQm8wZVlNNjZFd1BvWUNoUGxkWmx0eWNHdXR4bnpyTkF1TGxwTy1IUWotcTBxektuLUNtMFg5SEllX1FLRFZhX0dwSllFUDRBQnhoNGVqUVNoak42ZTZhaXJaVTdOWU5R?oc=5",
-   "utc": "2026-11-19T21:28:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-   "utc": "2026-11-19T21:27:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic Jumps 17% in Record IPO as Broader Tech Market Sells Off | Closing Bell",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-jumps-17-in-record-ipo-closing-bell-video",
-   "utc": "2026-11-19T21:24:51Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Blackstone Among Lenders Taking Over Ticket Reseller Vivid Seats",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-19/blackstone-among-lenders-taking-over-ticket-reseller-vivid-seats",
-   "utc": "2026-11-19T21:22:45Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-   "utc": "2026-11-19T21:22:00Z",
-   "tag": "STOCKS",
-   "breaking": true
+   "breaking": false
   }
  ]
 }

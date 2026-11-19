@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:13:51Z",
+ "updated": "2026-11-19T23:49:14Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   37,
+   36,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   0,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "Qatar warns Hormuz closure is a 'global crisis', urges diplomacy with Iran",
+   "source": "Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVZ1NmZzak1MN3hKNDdEUGI4VDB1ZzFLVkc1LXZUVnF4bGVSQ3E0T1JzZGZUZ2FVaXZyQ1FzSWV0alF1SFBoaVkyZzFZWGNxd3I5d2RXZWhGNEZIZDZ5STd2VmtRRV90MkpnTmQySnFlZmRVZFdZMEZ0UDl2a251ZnFZRmhKM1hnWnkxMVlwb3NKNFJkUi13c1FpTzhXdk9BMzIxdWNfOHpvSGpabHo1X3M4Z2hNLWRUUTdHdGRR0gHTAUFVX3lxTE5aSS0yb2xOUllLM3ZqZERGU1hqV2hYSU01dXF4RDU3LTNtSncxTjBJVW9UeWgyVU5HRmt5RkVFQ0VNazRQd3lPZUhQMUtaVTk5T29LX1FidDhsSHg0LVdsdXJmbmtQMWdpRU5QNVFZcUpnXzRwZ0E1RTFFV3Q0WldUMXpjT051UlMzSVM2dVE3Y2xqTlFaRmxWRV81dUp1Nm9xRHdJdU1FYzdiSndUSC1tYlRjWkVSaXd0bUZWX0p1RUV1X0RJRDlZOVdfZFBwdlNOMlU?oc=5",
+   "utc": "2026-11-19T23:39:55Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.0,
+   "airspace": false
+  },
+  {
    "title": "Qatar warns Hormuz closure threatens global stability",
    "source": "Breakingthenews.net",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnlqTW5ycTlmWW1XbmdSWmZPQU9qX3QtcnpsUHdDVTFFWDlTN09uQndXSnh2cWlwR0IzZjJOT2ZoR0NZVmt1aVlkdjBQblVBY3FVblJRdHA2YnZaUWRXR2lkLW0zTXRrWFp0cEQ0SE1rWkRRWlJEcGRVUjVscmZ3eDhPYjdqOW4yX2JiVHh6N1RaS0JVUk83anlGWnR4Vm8?oc=5",
@@ -97,7 +108,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-19T19:40:25Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -108,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -123,17 +145,6 @@
    "airspace": false
   },
   {
-   "title": "Gulf Railway Project aims to link 6 nations, reduce Strait of Hormuz reliance",
-   "source": "Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2luOHQtdHVaWVF0bEs4dnV4WDV4ZG1aNVVhcFloT2hFWl9WODdDSXdoRE83YmlZWXV5cWNRMFlzZENINHh4dzRielFmMzFxbUdxenoyT0dEYUFSQ19ZZnhlV0lkZ29JTzZFdV9KMVU4LVg0b1U0S0FVNUUxcmNsRmRCb0ExYTBFWXY5ZUdDQWQ1QUJxRnB6dzFMOFlPOXgtYVZONV9yak5XZC1IM3ZsWkNiajhnWnVJRFlkQURB?oc=5",
-   "utc": "2026-11-19T14:04:56Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
    "title": "Pakistan extends airspace closure for Indian aircraft by another month",
    "source": "Geo News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0h6U0FKWXRmTTJJV1F0NmxOQ2JHTmZsTG85bEJfaldPOVhYQ2Ywa0xKd2Nxb2tOZDk1SGR0ZF80UFM0M0VCazF4MC1tVXdyU0ZHdFNkVHM3c3liNUNfUmdiOUR5WDRsRGVpc1VBQmFmeWxLVGVqS2hNUk1KZUQ1ekVLZmtzNUdVUVBuLTVNeW5uVDc2RWNBU3ktWG9seVVOMFA4N0V3?oc=5",
@@ -141,7 +152,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": true
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": true
   },
   {
@@ -174,17 +185,6 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "Strait of Hormuz: US Strikes Iran's Qeshm Island as Tehran Claims More Tanker Mine Hits, Says Strait Is Closed",
-   "source": "International Business Times Australia",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkhkbEhLOXFYSFF4eDJ5Q0x1cTAwbHc0WUxJWWxRMlJUSmZWN3k2Y2RXUGJoc0tGby15bHlGbEdrZFVzckttSzl5U0l3TGd2cjN3MjFUVHJLZXltekhmUVdmOTJLUmx0UUtYNTVORFVVSE1KRjR5dE8yOHRnaWV3RWhIdXlpWnFN?oc=5",
-   "utc": "2026-11-18T13:23:04Z",
-   "tags": [
-    "HORMUZ"
-   ],
    "score": 4.6,
    "airspace": false
   },
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.2,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 379,
+  "count": 0,
+  "global": 275,
   "baseline": 1.9,
-  "samples": 29,
+  "samples": 30,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -769,6 +769,10 @@
    [
     "2026-11-19T22:13:51Z",
     1
+   ],
+   [
+    "2026-11-19T23:49:14Z",
+    0
    ]
   ],
   "box": [

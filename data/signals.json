@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T03:37:11Z",
- "level": 50,
+ "updated": "2026-11-19T13:23:10Z",
+ "level": 56,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   34,
+   36,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   6,
+   9,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
-   0,
+   3,
+   6,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,14 +90,47 @@
  ],
  "headlines": [
   {
-   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
-   "utc": "2026-11-18T23:03:32Z",
+   "title": "Pakistan extends airspace closure for Indian aircraft by another month",
+   "source": "Geo News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0h6U0FKWXRmTTJJV1F0NmxOQ2JHTmZsTG85bEJfaldPOVhYQ2Ywa0xKd2Nxb2tOZDk1SGR0ZF80UFM0M0VCazF4MC1tVXdyU0ZHdFNkVHM3c3liNUNfUmdiOUR5WDRsRGVpc1VBQmFmeWxLVGVqS2hNUk1KZUQ1ekVLZmtzNUdVUVBuLTVNeW5uVDc2RWNBU3ktWG9seVVOMFA4N0V3?oc=5",
+   "utc": "2026-11-19T12:51:00Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 6.0,
+   "airspace": true
+  },
+  {
+   "title": "Pakistan extends airspace closure for Indian flights until December 24",
+   "source": "Daily Pakistan",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHhBQ2lPR2xNTGJxLVd2RzNadmczbjdxc19uRWNyQW9uNjM2NkRXOVpTak8yTzZBc0kxbi1INGR4VUtORUtCaERCdHo5R2lEVEdZMjF1YU12RlRGSUUwOHhPNGlzd3FVRVBJT09hVDNlNTFrTWRFeGFYRmMyb3pqcDlZMmJRekZ5ak5ad0poQ094b0NsMjMzdks1MTAwQ3ZXWnUxaExIbzI1MDVDSW1TeTY0dmw?oc=5",
+   "utc": "2026-11-19T12:28:46Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 6.0,
+   "airspace": true
+  },
+  {
+   "title": "India Had 60-Day Energy Buffer During Hormuz Crisis, Ramped Up LPG Output To Tackle Supply Disruption: Hardeep Puri",
+   "source": "ETV Bharat",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSm1nTURoMmpZc3FrVEE3MWM5eHNFNTIzM00xWUprbUFfd0NrbDZ3ekVHY3VXc3ltTDdYNjhpeXJTdmJQN1VoVVlldjJYY1J4blpMWXpHeDIxRlQtdGZZb3JLQzQxaW5aNVpsdlN1WFp4aTVteGpyejFPMG1CSjVJYlBWdkJwRTFfVXh2ZmhOQUwxNGgwcUwxTnpNZjNUZGxMOWdYeXhlS2kwcjZOcEVaV3JVekNLaVdpSlpWaE1qaE51MzZIV2NFRjROMmpNVU9LM1VEU0JJQTRQSFNPaGxoLTI2MF9vM3g3RlBCY0RXamhpN0dfYXZB0gH8AUFVX3lxTE9QanBqSW01bXJjNlZxOUVTSVBBNkdNS1F5anVaUFlXbkhnMTdSZmRxRzRrS3FmdUlyeEhDSEhuVlY1VEcwUl82bDB6dUwwdzdfTTVYOENrNzBqZmpQNW53LXdTMnpPMjNvdk05R0FNbDBJX3VCNjM3RjNPWTJhMnU2MnF5bHljcy1yRnJzUmxuUzVDTGtqaXhwNmFXWE9ybFlYVnl2Y2hPdE9aQ0lEUi1WQ3ZLY1VoZ0s5Y05PQXA1cmVCNFI1aWZQU1FpR3c5eURySk1vcVU2d0Q2OFZGc2Vfb0xEWmIydDhDeTh0cGp1QVktN0xfRmMyVmpLag?oc=5",
+   "utc": "2026-11-19T10:33:25Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "FPL Gameweek 11: Players with the best chance of DefCon points",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEphWmhUd1RKN0ZNTXBNV3M1cEk0ajljV2g4dEdHa1l1WVpjVlJhTlR1dWE1LUdlbnI3QzA0b19QX3NBOEh4QjZpTWZOQXdTSG5qRXAyWm9Db1hyUGM0dk13cEtjV1Q3cjAyOWJsYTlpbENZLWpoTVh5emx5SzJ0dEU5TEZZZUdpMTlHRkpyN0k4ZXhXdDBoRHJmWkJJaDJmQXNRdXJiOTFYTllUS3VDajFn?oc=5",
+   "utc": "2026-11-19T10:27:14Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -108,7 +141,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.2,
    "airspace": true
   },
   {
@@ -119,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -130,18 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.4,
-   "airspace": false
-  },
-  {
-   "title": "Papoyan Responds to Armen Grigoryan's Statement on Possible Evacuation of the US Embassy from Armenia",
-   "source": "Aurora News",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWm04NU5LQll2T2ZYaUU2aDUxc25sXzlQYnBKRnZrU2FVb3AzR2ZqLVF4UTZfeXNWbEZoaFJzUU1MOGNodHhqeGREUkFMWkp6UGpqTVN3SlEtcVJXT0lGTG52YXdTM244S1BWSW52ZUhsYTdQM3pXZmpGN3Y5VFcyZ0VPMER2Sktoa0FHdjhCaVk0SkVQeHBhVFBVS1c0WVlWUzg2b1hGbjRINkIzNUh1U3JraHV6Xy1udlA3WThOZnlFLXdDTmRobFRUeER2TUJ4dDlQYVVkcXA?oc=5",
-   "utc": "2026-11-18T09:18:44Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.2,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -152,7 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.1,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -163,18 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 6.0,
-   "airspace": false
-  },
-  {
-   "title": "Panama-flagged LPG 'MT TARA GAS' hit twice near Strait of Hormuz; One Indian Seafarer missing, Two injured",
-   "source": "India Shipping News",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeXlmQnhlV19MUHdkQWZfQmRnVFZ6TTFzUko2UWRncUtrMzVLdWlJSDByUHU0MkZJQ1ZyZmZfbkp4ZDRQeXZMZVFSQ2NaT3BtUndVSEltUFBabVctV1F4TlRjMk15YzdaMGctM0ozRVo4WGoyZUI2enNnMmdNdnd6alBhZVlNWmRmaXNDRjBLcG5QcERKRFV1QnlZN0VPbHZsN0RNUEJrZmlKSFBLbk13dHR1NDZTRXBiS0RNZ0dEMzFRTGZ1RlpObFd0M193MklXRGhnLW1mQ0szdw?oc=5",
-   "utc": "2026-11-18T03:43:07Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.0,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -185,26 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
-   "airspace": false
-  },
-  {
-   "title": "24 Indian crew members evacuated after vessel incident in Strait of Hormuz",
-   "source": "Times of Oman",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3dQcFpGS3RTN0xuVkJDZE1QY0JsS3FLbE1MdThpTUZhMm80cHRqN0ZzY3ZCd3Z1Q09BdHNXUk84QWZ4ZVN1TDAzdklmT01JSHZQWHluNzB3YVdVZWJSVTE1T0tkOXA1SW1DTE8tVkZIeDVaaldOZzVrbkJtRnJLRlJXRWVMU01hWWkzeDV6ZG9xb3hKR1ZmNE1fd0hGZ1RRelN1MFdEenIxU3Y4VkFPLWZrQQ?oc=5",
-   "utc": "2026-11-17T11:12:00Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.3,
+   "score": 5.2,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 186,
-  "baseline": 2.0,
-  "samples": 30,
+  "count": 3,
+  "global": 308,
+  "baseline": 1.9,
+  "samples": 29,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -761,6 +761,10 @@
    [
     "2026-11-19T03:37:11Z",
     1
+   ],
+   [
+    "2026-11-19T13:23:10Z",
+    3
    ]
   ],
   "box": [
@@ -773,7 +777,10 @@
  "sources": {
   "US State Dept advisories": "ok",
   "UK FCDO travel advice": "ok",
-  "Google News RSS": "ok (10/10 searches)",
+  "Google News errors": [
+   "\"military aircraft\" surge OR \"tanker aircraft\" deployment: HTTP Error 429: Too Many Requests"
+  ],
+  "Google News RSS": "ok (9/10 searches)",
   "adsb.lol military aircraft": "ok"
  }
 }

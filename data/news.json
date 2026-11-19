@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T13:22:45Z",
+ "updated": "2026-11-19T22:13:31Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -8,168 +8,168 @@
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
-  "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (40)"
+  "Bangkok Post": "fail: HTTP Error 404: Not Found",
+  "Nikkei Asia": "ok (46)"
  },
  "items": [
   {
-   "title": "Anthropic IPO live updates: Dario and Daniela Amodei arrive at Nasdaq ahead of debut",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-   "utc": "2026-11-19T13:20:13Z",
+   "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+   "utc": "2026-11-19T22:12:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Argentina’s $24 Billion LNG Dream Bets On Milei's Model Enduring",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-19/argentina-s-24-billion-lng-dream-bets-on-milei-s-model-enduring",
-   "utc": "2026-11-19T13:15:45Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
-   "utc": "2026-11-19T13:11:31Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "utc": "2026-11-19T13:11:17Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves premarket: Palo Alto Networks, Take-Two Interactive, Everpure, Walmart & more",
+   "title": "Stocks making the biggest moves after hours: Intuit, Gap, Anthropic, Ross Stores & more",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-19T13:09:06Z",
+   "utc": "2026-11-19T22:00:26Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Walmart hikes outlook, as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-   "utc": "2026-11-19T13:06:09Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
-   "utc": "2026-11-19T13:05:40Z",
+   "title": "5 Energy Stocks to Benefit from Anthropic’s $1.5 Trillion Debut",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-to-Benefit-from-Anthropics-15-Trillion-Debut.html",
+   "utc": "2026-11-19T22:00:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "France's OVHcloud launches AI cloud products hosted in Europe",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnV6Z1NtSzlGTWp0ZnVxTjBKbUF3U011RmtiMDRFcmNNbFU2LTltRmViZHUtbjFjSWJVdGw0ckpmWUZ3WVNfbWFEUi13NkVoVC1TaXNFVkdDRnNPZGh3S0NsaEt2WU95RnRrOXZvbFRtTTk2Y2JtVFVpbHFMOVhheE9fWVZrSWZuUV9FUkYyNm5WR3pCWm9VdEZn?oc=5",
-   "utc": "2026-11-19T12:58:58Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "US Futures Rally on Anthropic Record IPO; Trump, Xi, Putin Meet",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-brief-11-19-2026-video",
-   "utc": "2026-11-19T12:50:23Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nick Candy: UK Seeing Wealth 'Exodus'",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-19/nick-candy-uk-seeing-wealth-exodus-video",
-   "utc": "2026-11-19T12:47:25Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html",
-   "utc": "2026-11-19T12:46:28Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "If the AI trade unwinds, other pillars holding up the U.S. economy are ‘irrelevant,’ says Barclays",
+   "title": "Markets are sending troubling signals about the state of the economy",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/if-the-ai-trade-unwinds-other-pillars-holding-up-the-u-s-economy-are-irrelevant-says-barclays-b6f1bdca?mod=mw_rss_topstories",
-   "utc": "2026-11-19T12:45:00Z",
-   "tag": "AI",
+   "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+   "utc": "2026-11-19T21:57:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Box has been on fire this year. UBS says AI will drive even more gains",
+   "title": "Anthropic closes first day at $97.17 per share in landmark moment for AI: IPO live updates",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/ubs-upgrades-box-ai-growth.html",
-   "utc": "2026-11-19T12:41:59Z",
+   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+   "utc": "2026-11-19T21:51:31Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
-   "utc": "2026-11-19T12:40:12Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic's historic debut to put AI's promise and peril on Wall St trial",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
-   "utc": "2026-11-19T12:39:45Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic IPO Draws 'Massive Enthusiasm' From Investors: Ludlow & Bloxham",
+   "title": "NY’s Largest Mall Debt Now Controlled by Billionaire Namdar",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-draws-massive-enthusiasm-from-investors-video",
-   "utc": "2026-11-19T12:39:36Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/ny-s-largest-mall-debt-now-controlled-by-billionaire-namdar",
+   "utc": "2026-11-19T21:51:06Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+   "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-   "utc": "2026-11-19T12:34:00Z",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+   "utc": "2026-11-19T21:45:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "EU countries, Parliament agree to delay EU methane regulation by two years",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWlc2MHpUb3VmbGltejJydzV6TVc3bVFyZTdEYVlkZmVKTVlwOVhyMHVyQnp5b21RTHIybHJ6WHl3c3pTNFhHTlRmOUpMVVdaaXZhZVlFeWtKbTZTbjdNdndrVWIwcVljRDVJM3dIdDFmaWM4YUZobldOZkJ2c3AzV19GT1NoaDdFcFhfUGZobEpKX2ZmQy1KUUhYQmF6U09XcnpDSWNtVUJzMzhEN1ZZOHJFZDcyWGllRFJpZVNmYw?oc=5",
-   "utc": "2026-11-19T12:31:21Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic IPO could create thousands of multimillionaire employees",
+   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
-   "utc": "2026-11-19T12:30:01Z",
+   "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+   "utc": "2026-11-19T21:43:30Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "North America",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fNlg4dUJFcERfdGdITnhINEsyd1JMT1Myd09acFJmSFh2MGJTckF0aThNdlhuck9UUW1nRUVnc1NiNzRvcnZld2JpN0daTnVXRTBHOTMtNlJ5RmluUVJIT0dSWG03Ykp3dmp2WXBtVEdkUQ?oc=5",
+   "utc": "2026-11-19T21:42:14Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Here’s the precise moment when cyberattacks started increasing exponentially",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/heres-the-precise-moment-when-cyberattacks-started-increasing-exponentially-244a4294?mod=mw_rss_topstories",
-   "utc": "2026-11-19T12:30:00Z",
+   "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+   "utc": "2026-11-19T21:40:31Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Instant view: Anthropic hits $2 trillion market value in debut; major indexes fall",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlRFLVpVV0l1RXpPXzhUdXlUT1ZHQ0NNeUplSXhERGJybFNNRDBVU1RDRktVeTBFYlhOV1dUbE1ldV92NS1zZDJCYkM1U24tMVI0clN1eFplWHdXQlZmX19zS2V2ZWE1Y0RGT3lLQ1dzUzJVS210N19zZXVZSHlVRUt6c3JhLVJ1bzk3cl9LZ0FPeVhmV3ZSYmdRSHpoc0p6VXB6cHhwX2FfQQ?oc=5",
+   "utc": "2026-11-19T21:39:50Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
+   "utc": "2026-11-19T21:38:51Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Trump says no rush on Iran decision, looks to next year",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
+   "utc": "2026-11-19T21:36:16Z",
    "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, experts say",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/19/social-security-ponzi-scheme-ron-johnson.html",
+   "utc": "2026-11-19T21:35:46Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Backing Trump, US Senate Republicans block Iran war resolution",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
+   "utc": "2026-11-19T21:28:39Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic closes 17% above IPO price after 34% opening surge",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX21TUWVWRFBoXzV6OUh5YV9NSC1KZWhNWV9ETng1VUhTUzgyX0d4d19LODRDYTAtcHBXeWh1Z1ZoSmgzZS0wQm8wZVlNNjZFd1BvWUNoUGxkWmx0eWNHdXR4bnpyTkF1TGxwTy1IUWotcTBxektuLUNtMFg5SEllX1FLRFZhX0dwSllFUDRBQnhoNGVqUVNoak42ZTZhaXJaVTdOWU5R?oc=5",
+   "utc": "2026-11-19T21:28:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+   "utc": "2026-11-19T21:27:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic Jumps 17% in Record IPO as Broader Tech Market Sells Off | Closing Bell",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-jumps-17-in-record-ipo-closing-bell-video",
+   "utc": "2026-11-19T21:24:51Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Blackstone Among Lenders Taking Over Ticket Reseller Vivid Seats",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/blackstone-among-lenders-taking-over-ticket-reseller-vivid-seats",
+   "utc": "2026-11-19T21:22:45Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+   "utc": "2026-11-19T21:22:00Z",
+   "tag": "STOCKS",
    "breaking": true
   }
  ]

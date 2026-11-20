@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T03:29:34Z",
- "level": 60,
+ "updated": "2026-11-20T13:03:36Z",
+ "level": 54,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   36,
+   31,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   6,
+   7,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
+   3,
    4,
-   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "Air India extends Saudi flight cancellations; Jeddah services suspended till Nov 24",
+   "source": "Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmt4X3FLbUh6LWFFX19oQzhGZjZ5M2hsNFRBc1FLNG5YUVp6aEg1NEJCUVVfdUQyVUNHd3dWMkIxOGZKYldHeFZ3OU1OeGd5ZWw0dFpFX0ZlOC0xZHM2YXVJRW9hemdGbTJWODlnY25PbDBpeUtwMmp5dm4zdTJlSGd0cXZoMWpITjFOYzI0SVpFa0VnVEtvVHJhVXh6dkpiTFVtWV9objlRVFd1TzRILW5HMEZtSVRHODM1a3prRmN0WlJhemxGdUU0OUkya1FuVWhacnJ5UFdhcV9mOGo5bU9n0gHnAUFVX3lxTFBuRU52b0JpTEtsblg1MlFsUjNERkE3M0tFR2tMVkY1TElXT19IYjI0TkFqNUQ2dkRON3UzaWxSZlVaOVhfdFZCQTJhcFMyVkQycHMxdUd3MERhVjZSYUlTakFzYVA2cXJqekR6S01lZ3JpVVJ1dFc2alQwdkgxQ213aDZYTDYybEhfNURzMzhuMUpKbFhRelc0ZGZoTXdrUmQ1bFdpek9uRVNrM1ptX0dQeWM2S0tjSGNVb2dMUVBITXFHaVEyOWRFdkpEMU93ZkdYZEpMYUtzNlJYdFRnbEtFS3pNZVFCTQ?oc=5",
+   "utc": "2026-11-20T11:48:31Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.9,
+   "airspace": true
+  },
+  {
    "title": "Qatar warns Hormuz closure is a 'global crisis', urges diplomacy with Iran",
    "source": "Gulf News",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVZ1NmZzak1MN3hKNDdEUGI4VDB1ZzFLVkc1LXZUVnF4bGVSQ3E0T1JzZGZUZ2FVaXZyQ1FzSWV0alF1SFBoaVkyZzFZWGNxd3I5d2RXZWhGNEZIZDZ5STd2VmtRRV90MkpnTmQySnFlZmRVZFdZMEZ0UDl2a251ZnFZRmhKM1hnWnkxMVlwb3NKNFJkUi13c1FpTzhXdk9BMzIxdWNfOHpvSGpabHo1X3M4Z2hNLWRUUTdHdGRR0gHTAUFVX3lxTE5aSS0yb2xOUllLM3ZqZERGU1hqV2hYSU01dXF4RDU3LTNtSncxTjBJVW9UeWgyVU5HRmt5RkVFQ0VNazRQd3lPZUhQMUtaVTk5T29LX1FidDhsSHg0LVdsdXJmbmtQMWdpRU5QNVFZcUpnXzRwZ0E1RTFFV3Q0WldUMXpjT051UlMzSVM2dVE3Y2xqTlFaRmxWRV81dUp1Nm9xRHdJdU1FYzdiSndUSC1tYlRjWkVSaXd0bUZWX0p1RUV1X0RJRDlZOVdfZFBwdlNOMlU?oc=5",
@@ -97,7 +108,40 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.4,
+   "airspace": false
+  },
+  {
+   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
+   "utc": "2026-11-19T23:03:23Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.4,
+   "airspace": false
+  },
+  {
+   "title": "Fuel Prices Could Keep Rising for Months After Hormuz Reopens, US EIA Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXMxOTdGVzVOLUhfa3hkbXliUU40aGNWanZ1RFRPMktrQVFZTW82UGhoOXpkR0k2cTZxQS1OYlR3NVM4MDZ2dTBOSHVPYXpOdnZpSXNCOWVHYXFKUWdxV2NPVzdfdUl0NXhlcnY3SWdxMjdkMGQ2ZlZOS3U3dkZtYVRQaDFvQXJQcGNBdVB6UFlhY3RDSzd1bW1Hd3V3b0FTaEVSeUNiUQ?oc=5",
+   "utc": "2026-11-19T22:58:51Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.4,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-19T22:52:45Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -108,18 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
-   "airspace": false
-  },
-  {
-   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-19T19:40:25Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -130,18 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "25 Patients Evacuated from Gaza for Treatment Outside the Strip",
-   "source": "شبكة يافا الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMEZfYzVRb3J6OGhva2daWWNQOE9mR05lTjY3d3h2UEd2RVA2NjdYdks0NklmOHlRR3FWZGFORm9FcTRLYkdPMHQwNXFqbUlm?oc=5",
-   "utc": "2026-11-19T15:53:02Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.5,
+   "score": 4.2,
    "airspace": false
   },
   {
@@ -152,7 +174,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.4,
+   "score": 5.0,
    "airspace": true
   },
   {
@@ -163,47 +185,25 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.4,
+   "score": 5.0,
    "airspace": true
   },
   {
    "title": "When Israel's airspace closed, this Utah tour company got its travelers home just 24 hours late",
-   "source": "KSL",
+   "source": "KSL News",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUtHWHVmMllIejhVOFUwLW9ucFY2STgwRzNLSGRpN1o5MjloeEoxeEhLMGVxcTdIYU1NWTdnYTFoQWs3TFp6eHp1bEJyeXlxZDJVZHl3eGljNnlZdTNVRUVBUXJybl9vOC1IcTBfbmZoNjZYUkcwSlUzUFRpR3pxTFpBR1BDejVzTmxlb3hVSEZGbGRzaW1RT1p0dEc1MFFUcjBVekNQQmFvYXhrRkVNRXpNMWI3T240LWhZQlRXcnlud1FjX1phbUNB?oc=5",
    "utc": "2026-11-18T18:30:00Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.6,
+   "score": 4.2,
    "airspace": true
-  },
-  {
-   "title": "Deeply Worrisome: MEA Condemns Attack On LPG Tanker In Strait Of Hormuz, 1 Indian Sailor Missing",
-   "source": "Free Press Journal",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmtRSloxZ1hIcEJjUHlhQnpKenVDbjRXSDdCcDJNODR5dkx6V21YY2NweXA3WmFod19kT25iTHlHY1B4Um9ibWt5b0NMRmpGem9QM21MdGFlSmxTTGdOdFFKTEFjUTBZTm1nMnQ5ejUtQl9MMWhwN1RXeDJYY1k0TWRfdXNSQkZMV3ktODJJaWJXc05XWVNyblVsQ0I5cGwwb3VEMzF6TmRSXzVESVdFSnJJZUhvUlRWbXNWUHZCdlc2NS1GRUNleWJiLWxVSVd3TXfSAdIBQVVfeXFMTUZrUUpaMWdYSHBCY1B5YUJ6Snp1Q240V0g3QnAyTTg0eXZMeldtWGNjcHlwN1phaHdfZE9uYkx5R2NQeFJvYm1reW9DTEZqRnpvUDNtTHRhZUpsU0xnTnRRSkxBY1EwWU5tZzJ0OXo1LUJfTDFocDdUV3gyWGNZNE1kX3VzUkJGTFd5LTgySWliV3NOV1lTcm5VbENCOXBsMG91RDMxek5kUl81RElXRUpySWVIb1JUVm1zVlB2QnZXNjUtRkVDZXliYi1sVUlXd013?oc=5",
-   "utc": "2026-11-18T06:12:09Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "India condemns missile attack on LPG tanker in Hormuz; 1 crew member still missing",
-   "source": "The Financial Express",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMkc5NGhCcXEzcTZnVG11dzJRRDlzQUdsSXNJUDRWSXo1NTR4V28tTEF1clN4T1Z6VmxPSlVpX1NVOW9wZHFwZ056djkzSVdFd21yeDZlVHdZakxoNFdISWhEaFpuZ0xUd3o3V0p3N3FjbDRCSjZ1ZTZkbkxNM0w1cjA0MWVDajJIT0pZWHYwQ2JaRzhOYm9nLVhOVk5GSkZJMjZ6OWk0OEJyRnp3X04xVDRwcU1HOG11MWxmeE4tb1pxM2JQM2JqcEIxYVlVMXPSAdYBQVVfeXFMTWJWcFVxVzNhX3pFQXdyOUFIUGE0aVZKUUhhNS1kVmliZzBqMndUclB0Qy04TGNKTnpMaEp0TkZyNVhTeHF0UUdJWDA5LXFFV1VQbWFaT243S0VndTZSeTNNb1VYZXlBQ0pONzBoXzhSVTdtMHN1RWFIblBVTkFBa241ajUydmkyUEJsZWJFUnFhc2xiYkh2QkpZODFUZHI0TUhhMHc0eDhpc3NnV3A5bUdRTk93SHhkU2UxRzYzcGhqQU9tLW8zcmJvaURSTC1iN0s3aGtiQQ?oc=5",
-   "utc": "2026-11-18T04:28:26Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.0,
-   "airspace": false
   }
  ],
  "mil": {
-  "count": 4,
-  "global": 193,
-  "baseline": 2.0,
+  "count": 3,
+  "global": 217,
+  "baseline": 2.1,
   "samples": 29,
   "hist": [
    [
@@ -777,6 +777,10 @@
    [
     "2026-11-20T03:29:34Z",
     4
+   ],
+   [
+    "2026-11-20T13:03:36Z",
+    3
    ]
   ],
   "box": [

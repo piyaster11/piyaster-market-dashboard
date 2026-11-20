@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:49:14Z",
- "level": 50,
+ "updated": "2026-11-20T03:29:34Z",
+ "level": 60,
  "band": "Alert",
  "components": [
   [
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
-   0,
+   4,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -97,7 +97,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -108,7 +108,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -119,7 +119,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -130,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -141,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -152,7 +152,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.5,
+   "score": 5.4,
    "airspace": true
   },
   {
@@ -163,7 +163,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.5,
+   "score": 5.4,
    "airspace": true
   },
   {
@@ -174,18 +174,18 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": true
   },
   {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-11-18T15:07:36Z",
+   "title": "Deeply Worrisome: MEA Condemns Attack On LPG Tanker In Strait Of Hormuz, 1 Indian Sailor Missing",
+   "source": "Free Press Journal",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmtRSloxZ1hIcEJjUHlhQnpKenVDbjRXSDdCcDJNODR5dkx6V21YY2NweXA3WmFod19kT25iTHlHY1B4Um9ibWt5b0NMRmpGem9QM21MdGFlSmxTTGdOdFFKTEFjUTBZTm1nMnQ5ejUtQl9MMWhwN1RXeDJYY1k0TWRfdXNSQkZMV3ktODJJaWJXc05XWVNyblVsQ0I5cGwwb3VEMzF6TmRSXzVESVdFSnJJZUhvUlRWbXNWUHZCdlc2NS1GRUNleWJiLWxVSVd3TXfSAdIBQVVfeXFMTUZrUUpaMWdYSHBCY1B5YUJ6Snp1Q240V0g3QnAyTTg0eXZMeldtWGNjcHlwN1phaHdfZE9uYkx5R2NQeFJvYm1reW9DTEZqRnpvUDNtTHRhZUpsU0xnTnRRSkxBY1EwWU5tZzJ0OXo1LUJfTDFocDdUV3gyWGNZNE1kX3VzUkJGTFd5LTgySWliV3NOV1lTcm5VbENCOXBsMG91RDMxek5kUl81RElXRUpySWVIb1JUVm1zVlB2QnZXNjUtRkVDZXliYi1sVUlXd013?oc=5",
+   "utc": "2026-11-18T06:12:09Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 4.6,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
+   "score": 5.0,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 275,
-  "baseline": 1.9,
-  "samples": 30,
+  "count": 4,
+  "global": 193,
+  "baseline": 2.0,
+  "samples": 29,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -773,6 +773,10 @@
    [
     "2026-11-19T23:49:14Z",
     0
+   ],
+   [
+    "2026-11-20T03:29:34Z",
+    4
    ]
   ],
   "box": [

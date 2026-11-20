@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:48:59Z",
+ "updated": "2026-11-20T03:29:11Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (43)"
+  "Nikkei Asia": "ok (35)"
  },
  "items": [
   {
-   "title": "Japan reports cooler-than-expected core inflation in October of 2.2% — but highest this year so far",
+   "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+   "utc": "2026-11-20T03:27:47Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Copper Rout Deepens as AI Selloff Wreaks Havoc in Metals Markets",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
+   "utc": "2026-11-20T03:03:05Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Trump Offers Xi a Helping Hand on Escalator",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-20/trump-offers-xi-a-helping-hand-on-escalator-video",
+   "utc": "2026-11-20T03:01:17Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Honda Debuts Hybrid SUV for Asia in Pivot From Failed EV Bet",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/honda-debuts-hybrid-suv-for-asia-in-pivot-from-failed-ev-bet",
+   "utc": "2026-11-20T03:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "APEC live: How events in Shenzhen unfolded",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUFnc3p3SkxsODc3blRIVHN1elBpNkloZUFucUlDdXlPdG1BUU12MXNkLWtHckVFOXE4UEhYdl81Qlk4aW9CVXhXZlVBRzRRU0ktRHprZlNOTmZKQ2hrcU8zdE1fWlB3eVJSd1FnWHh0QXdWNHhBUVN0ak1LdmNiVG9fYWZ4bjFLWVowdVFIVDBPdjNIMlhmSTgtN1VHTnUwMVpVelJB?oc=5",
+   "utc": "2026-11-20T02:56:50Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+   "utc": "2026-11-20T02:33:39Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "India's weak monsoon, El Nino highlight industry's water growing issues",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObktvSHVFWjZvamszOHJtNmRMbjJFQUFRb1V1YlE4NGtwdC1XRTlTQkt3SVZjMXlpWUR1UWxrRUZXenE4NEF3Q3pjTm1nV203Zmp5VzF1d0ZvTmxod3F5bjM2TDJZb3l4WG5Ebnl4MUVjY0R0ekI0R2VvQXZwdnQ0dG9FQ1M2Q3AwLTZodEFmZmFzLXQwWkxLMTFvSExqMUNPX052cmRTaENMRFlfZHIzS1FodTBtTTQ?oc=5",
+   "utc": "2026-11-20T02:32:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Rising Bond Yields May Pose a Challenge to Nifty’s Sharp Rebound",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-20/rising-bond-yields-may-pose-a-challenge-to-nifty-s-sharp-rebound",
+   "utc": "2026-11-20T02:31:37Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Taiwan Stocks Face Worst Week Since 1991 Despite Support Steps",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
+   "utc": "2026-11-20T02:29:57Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Hong Kong Stocks Fall 20% From 2026 High as AI Selloff Spreads",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
+   "utc": "2026-11-20T02:29:50Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic (ANT) IPO on Nasdaq Overcame AI Fears and Warnings",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings",
+   "utc": "2026-11-20T02:16:42Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Frasers CFO Unleashes on Accent as Australian Bid Turns Personal",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/frasers-cfo-unleashes-on-accent-as-australian-bid-turns-personal",
+   "utc": "2026-11-20T02:02:33Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5",
+   "utc": "2026-11-20T02:00:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-   "utc": "2026-11-19T23:45:23Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-   "utc": "2026-11-19T23:21:23Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic closes debut with $1.8 trillion market cap in landmark moment for AI: Live IPO updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-   "utc": "2026-11-19T23:17:45Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic Becomes World’s 7th Most Valuable Company After IPO",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo",
-   "utc": "2026-11-19T23:16:20Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic was supposed to save the AI trade. What went wrong?",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
-   "utc": "2026-11-19T23:15:58Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-   "utc": "2026-11-19T23:11:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "utc": "2026-11-19T23:05:56Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Latest Oil Market News and Analysis for Nov. 20",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
-   "utc": "2026-11-19T23:05:51Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Oil-Exports-Could-Decline-amid-Inbound-Tanker-Shortage.html",
-   "utc": "2026-11-19T23:00:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
-   "utc": "2026-11-19T22:53:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-   "utc": "2026-11-19T22:41:00Z",
+   "utc": "2026-11-20T01:49:03Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Stocks making the biggest moves Thursday: Intuit, Gap, Anthropic, Ross Stores & more",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-19T22:38:40Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "White House national cyber director Cairncross leaving his post, Axios reports",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTElpWEVLdXdjWl9QOVBPcjRMRWcyN2xMVzdqQ1hSZjJxZTJEUk9QWmtyNldWTHRyUmNBaWFtSUJ5TndzRG9vTHR1bGR5eEZXNkNDbnNNQlRKcW9PdnZPc2VZMVJhOGxablFJeUpLM2UtU1pfXzhUaWVhNi1qeXk0ejFVVDZ3VGp6b01UdmlrMEZicFlqcU9BY2lfN25rWWRMR2p4RkZYdXFkdnJWMVAtSWZkdW5PNHBfTkdxNFRwRQ?oc=5",
-   "utc": "2026-11-19T22:37:22Z",
+   "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+   "utc": "2026-11-20T01:30:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Treasury Official Renews Warning on Wave of Tax-Saving Trades",
+   "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+   "utc": "2026-11-20T01:22:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Australian Pension Funds Confront Their Latest Rival: AI Agents",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-19/treasury-official-renews-warning-on-wave-of-tax-saving-trades",
-   "utc": "2026-11-19T22:31:50Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/australian-pension-funds-confront-their-latest-rival-ai-agents",
+   "utc": "2026-11-20T01:19:16Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Trilateral Talks Yield Few Concrete Results",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-20/trilateral-talks-yield-few-concrete-results",
+   "utc": "2026-11-20T01:15:46Z",
    "tag": "FED",
    "breaking": false
   },
   {
-   "title": "Thrifty Thai tourists keen to travel more next year",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3358054/thrifty-thai-tourists-keen-to-travel-more-next-year",
-   "utc": "2026-11-19T22:31:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "Congress passes bill to protect older investors from financial fraud",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
-   "utc": "2026-11-19T22:23:29Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Anthropic's blockbuster debut tests Wall Street's faith in AI boom",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
-   "utc": "2026-11-19T22:18:33Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Anthropic IPO is About Capital, Says Kathryn Thompson",
+   "title": "RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-is-about-capital-says-kathryn-thompson-video",
-   "utc": "2026-11-19T22:17:51Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/rba-seeks-to-manage-inflation-jobs-tradeoffs-board-member-says",
+   "utc": "2026-11-20T01:15:40Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-   "utc": "2026-11-19T22:15:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
-   "utc": "2026-11-19T22:12:00Z",
-   "tag": "STOCKS",
+   "title": "Alibaba sued for allegedly concealing ties to suspected spy in Nvidia scandal",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHM1QTV1U2M5VVkxVjZuMEtYemNjWXNmc0k3Mzg3RnN0ZFdXamIwNS1TNFJiZDVtUWJzc1ZFTG04enZ2MGZHdWVoNlVBVGVPaEE3alZ1ZGZzRTJkcy02R1NpeEV0QXVvaXJfX0NhVjBpdDQxWVRUN3FoX29MUEhIN2NnTkNQMzU0MVF1TWRPZXczNUUtWDdNSzlPb21ZLTRENkNzcVVHNVI0c3JOWlI4QXBQZXZNTmdnc2JORTNn?oc=5",
+   "utc": "2026-11-20T01:14:00Z",
+   "tag": "AI",
    "breaking": false
   }
  ]

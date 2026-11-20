@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:03:36Z",
- "level": 54,
+ "updated": "2026-11-20T21:14:04Z",
+ "level": 50,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   31,
+   40,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   7,
+   6,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   4,
+   1,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,25 +90,69 @@
  ],
  "headlines": [
   {
-   "title": "Air India extends Saudi flight cancellations; Jeddah services suspended till Nov 24",
-   "source": "Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmt4X3FLbUh6LWFFX19oQzhGZjZ5M2hsNFRBc1FLNG5YUVp6aEg1NEJCUVVfdUQyVUNHd3dWMkIxOGZKYldHeFZ3OU1OeGd5ZWw0dFpFX0ZlOC0xZHM2YXVJRW9hemdGbTJWODlnY25PbDBpeUtwMmp5dm4zdTJlSGd0cXZoMWpITjFOYzI0SVpFa0VnVEtvVHJhVXh6dkpiTFVtWV9objlRVFd1TzRILW5HMEZtSVRHODM1a3prRmN0WlJhemxGdUU0OUkya1FuVWhacnJ5UFdhcV9mOGo5bU9n0gHnAUFVX3lxTFBuRU52b0JpTEtsblg1MlFsUjNERkE3M0tFR2tMVkY1TElXT19IYjI0TkFqNUQ2dkRON3UzaWxSZlVaOVhfdFZCQTJhcFMyVkQycHMxdUd3MERhVjZSYUlTakFzYVA2cXJqekR6S01lZ3JpVVJ1dFc2alQwdkgxQ213aDZYTDYybEhfNURzMzhuMUpKbFhRelc0ZGZoTXdrUmQ1bFdpek9uRVNrM1ptX0dQeWM2S0tjSGNVb2dMUVBITXFHaVEyOWRFdkpEMU93ZkdYZEpMYUtzNlJYdFRnbEtFS3pNZVFCTQ?oc=5",
-   "utc": "2026-11-20T11:48:31Z",
+   "title": "pakistan-extends-airspace-ban-for-indian-flights-until-december-24-2026-paa-issues-new-notam Archives",
+   "source": "TV ONE USA",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMURJYmp5SlEzZk1XMV9ibUZnd0RnYms2MWdocTVZbnhqdzAxUW04UUVWN3I1WDNyQ09vcGN4dXBCSUlzdHNFUVcyT2txR0Q2YWFqelNWcWRiZm9TclUxZTNZVVVqS05kSnJFNmVWSEV6LUQzXzExUk4zTWZsU1dfN1pYcGRuRkFZdExNXzJtbFAzaFRmNUg2RGd5VmJNZ0J0U01xOTU0azA5YU9oTExJNkJGOWZlcVRQRHc?oc=5",
+   "utc": "2026-11-20T20:22:11Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 6.0,
    "airspace": true
   },
   {
-   "title": "Qatar warns Hormuz closure is a 'global crisis', urges diplomacy with Iran",
-   "source": "Gulf News",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVZ1NmZzak1MN3hKNDdEUGI4VDB1ZzFLVkc1LXZUVnF4bGVSQ3E0T1JzZGZUZ2FVaXZyQ1FzSWV0alF1SFBoaVkyZzFZWGNxd3I5d2RXZWhGNEZIZDZ5STd2VmtRRV90MkpnTmQySnFlZmRVZFdZMEZ0UDl2a251ZnFZRmhKM1hnWnkxMVlwb3NKNFJkUi13c1FpTzhXdk9BMzIxdWNfOHpvSGpabHo1X3M4Z2hNLWRUUTdHdGRR0gHTAUFVX3lxTE5aSS0yb2xOUllLM3ZqZERGU1hqV2hYSU01dXF4RDU3LTNtSncxTjBJVW9UeWgyVU5HRmt5RkVFQ0VNazRQd3lPZUhQMUtaVTk5T29LX1FidDhsSHg0LVdsdXJmbmtQMWdpRU5QNVFZcUpnXzRwZ0E1RTFFV3Q0WldUMXpjT051UlMzSVM2dVE3Y2xqTlFaRmxWRV81dUp1Nm9xRHdJdU1FYzdiSndUSC1tYlRjWkVSaXd0bUZWX0p1RUV1X0RJRDlZOVdfZFBwdlNOMlU?oc=5",
-   "utc": "2026-11-19T23:39:55Z",
+   "title": "Strait of Hormuz Closure Pushes Airlines and Governments to Reassess SAF as Fuel-Security Tool",
+   "source": "Avi-Go",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QS01yUTM5SDNEeUJXaktpNUNGMW9lZF9qZVduVFhaVmJGZ2ZURnV1X20ybmdFVlJRU2dFNjVYSEd4WUVpV0w4NHBVOW5kSGgzQ2IxeGt5RURRaU01YXZBU0lteFZBU2ZUMXRhMVVCbmhtaW8?oc=5",
+   "utc": "2026-11-20T17:08:18Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.4,
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "US-Iran Conflict Helps Drive Wave of Supertanker Orders",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmJvY0tsOUpWWVVoTUVmY2tDRkI0VGZ5SzJnWXAtNmxvajBIZlczckpnM3JCVFNzeGYzZ1RSN3JsRHNOdkpWLWVxLVFhd0k1SUZLT01Yd0RqZ0tMRUZzc0EyNGRQMkdJM21iUmVGb0QweFo5YnU2aVJyY3dOcHR2OXRfSkxJelppTmRkSVFB?oc=5",
+   "utc": "2026-11-20T16:36:48Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-20T12:11:31Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
+   "airspace": false
+  },
+  {
+   "title": "Pakistan extends airspace closure for Indian aircraft",
+   "source": "Latest news from Azerbaijan",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xOHQ0ODNydUhWY25zR09jWXFBNEJGZDBnZEVvaW05ZmJ5QkI5VkhYelVOU3Rub0ZiV0lSWHJaSVg2TVZsS0JzSWZtSFFaLU5LSGxrMTFGTnpILWRVaW5fT0tzR1p2QVJicFdQTFpVc0h4eVJja0RESE14OFBicm8?oc=5",
+   "utc": "2026-11-20T07:15:36Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.4,
+   "airspace": true
+  },
+  {
+   "title": "Burning LPG tanker, missing crew, armed skiffs: Inside maritime watchdog’s latest Hormuz report",
+   "source": "Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX3dMWEV3bDd1Y2RyZXBRWEdIQ2NScWhuMF91OUFMX1FtUmhaSjVGdWpCUmJSUkhrYnZTU0lKU1hpNUZZbGZNQmZuVmNxSHNfT1h1UGgtRW5ETndqV01rM2w4QzBueFVkTEZuQmtXbW50aUQ5RHcyQUU1OU5LOEVNbmxibkowdlZ1cnNYay1aWHpIUEhwanE4MUpnTXI2NDJIQm5OUnZ1b3Q2VExCSDk1Qkw1U2pOalFucDdtdWtyRm1SRmRieTJWX3RRR3YybHVkVUhrdkpjZldDRTVsSDNkemtUY9IB4wFBVV95cUxPX3dMWEV3bDd1Y2RyZXBRWEdIQ2NScWhuMF91OUFMX1FtUmhaSjVGdWpCUmJSUkhrYnZTU0lKU1hpNUZZbGZNQmZuVmNxSHNfT1h1UGgtRW5ETndqV01rM2w4QzBueFVkTEZuQmtXbW50aUQ5RHcyQUU1OU5LOEVNbmxibkowdlZ1cnNYay1aWHpIUEhwanE4MUpnTXI2NDJIQm5OUnZ1b3Q2VExCSDk1Qkw1U2pOalFucDdtdWtyRm1SRmRieTJWX3RRR3YybHVkVUhrdkpjZldDRTVsSDNkemtUYw?oc=5",
+   "utc": "2026-11-20T01:07:26Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -119,51 +163,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
-   "title": "Fuel Prices Could Keep Rising for Months After Hormuz Reopens, US EIA Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXMxOTdGVzVOLUhfa3hkbXliUU40aGNWanZ1RFRPMktrQVFZTW82UGhoOXpkR0k2cTZxQS1OYlR3NVM4MDZ2dTBOSHVPYXpOdnZpSXNCOWVHYXFKUWdxV2NPVzdfdUl0NXhlcnY3SWdxMjdkMGQ2ZlZOS3U3dkZtYVRQaDFvQXJQcGNBdVB6UFlhY3RDSzd1bW1Hd3V3b0FTaEVSeUNiUQ?oc=5",
-   "utc": "2026-11-19T22:58:51Z",
+   "title": "India had 60 days of oil, gas supplies during Hormuz crisis, ramped up LPG output by 57%: Puri",
+   "source": "Press Trust of India",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGY0TFowNlJuanVMN0duUmZGcjUtRS16Uy1LTUZuOHlMdU5nTkg2YkFsNmgtWjM3dEw3Q0hRcUNHdjFzVlhXY1BMTGV6cTI1R3ZSZk1rLS1nelFnMnlHYm0yckpxOXhPNlFPQXA5MUpIaUpGU19aWjdwTUtFTVNuVlBlcmJuNm85cVo1M0oxa2tZcTRLTlYtOWtCVkZGVVNNOUJ4RE8waFZKZEljYWRoR1ZJbjBVTDlhamFVTE41Z05kQWxYYmtXTUVkNXJTYW0wdDY1aw?oc=5",
+   "utc": "2026-11-19T15:39:26Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-19T22:52:45Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Qatar warns Hormuz closure threatens global stability",
-   "source": "Breakingthenews.net",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnlqTW5ycTlmWW1XbmdSWmZPQU9qX3QtcnpsUHdDVTFFWDlTN09uQndXSnh2cWlwR0IzZjJOT2ZoR0NZVmt1aVlkdjBQblVBY3FVblJRdHA2YnZaUWRXR2lkLW0zTXRrWFp0cEQ0SE1rWkRRWlJEcGRVUjVscmZ3eDhPYjdqOW4yX2JiVHh6N1RaS0JVUk83anlGWnR4Vm8?oc=5",
-   "utc": "2026-11-19T22:00:00Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "IEA explores several energy scenarios after the Strait of Hormuz supply shock",
-   "source": "energynews.pro",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWhXNkk3RHdfM1kwYlZfYnhRSmdSWHZOb3hOdktTSmxZN2o3Z3VKbldyeHlUaGhCaktaWHB0UEdkQ0d1NURPem1tVjd2aWVvN3M1bEs3V2wweUpZSHhSZnVKX2d2M1I0WjZ1MUZqaHNtTkJ6WXIyOGF3MVlERUNBWE1ST0xhbXVfNWhUUnZLeG5fS3VRN3BqUGFpX1otMlRIQUV4VFBB?oc=5",
-   "utc": "2026-11-19T18:39:38Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.2,
+   "score": 5.8,
    "airspace": false
   },
   {
@@ -174,7 +185,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.0,
+   "score": 4.7,
    "airspace": true
   },
   {
@@ -185,25 +196,14 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.0,
-   "airspace": true
-  },
-  {
-   "title": "When Israel's airspace closed, this Utah tour company got its travelers home just 24 hours late",
-   "source": "KSL News",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUtHWHVmMllIejhVOFUwLW9ucFY2STgwRzNLSGRpN1o5MjloeEoxeEhLMGVxcTdIYU1NWTdnYTFoQWs3TFp6eHp1bEJyeXlxZDJVZHl3eGljNnlZdTNVRUVBUXJybl9vOC1IcTBfbmZoNjZYUkcwSlUzUFRpR3pxTFpBR1BDejVzTmxlb3hVSEZGbGRzaW1RT1p0dEc1MFFUcjBVekNQQmFvYXhrRkVNRXpNMWI3T240LWhZQlRXcnlud1FjX1phbUNB?oc=5",
-   "utc": "2026-11-18T18:30:00Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.2,
+   "score": 4.6,
    "airspace": true
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 217,
-  "baseline": 2.1,
+  "count": 1,
+  "global": 285,
+  "baseline": 2.2,
   "samples": 29,
   "hist": [
    [
@@ -781,6 +781,10 @@
    [
     "2026-11-20T13:03:36Z",
     3
+   ],
+   [
+    "2026-11-20T21:14:04Z",
+    1
    ]
   ],
   "box": [

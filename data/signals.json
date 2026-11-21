@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:26:26Z",
+ "updated": "2026-11-21T23:49:16Z",
  "level": 47,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   26,
+   25,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   2,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -93,11 +93,11 @@
    "title": "FPL Gameweek 11: Saturday’s goals, assists, bonus + DefCon points",
    "source": "Fantasy Football Scout",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlFOWG1pdlllQy1Ud0d1bVJMQkllZ0NxdTRkZmhldnpBM3plZVNCSWlqcmVYRlM2MTdxRDZBZVotemcxV1RKOEFIaGJpVUtHbEliS1RMVV9wcUEzVG5aeXpmWFZTamJMYUltZ0NtZXZVMlJSblpyb05ZTDJWeUlBaGFUWi1fRVZvTFVQeE1fbHR3M2hoZ00wNnh2TnU1Y2g0V0MtY1RyN0x3MW1US19vdw?oc=5",
-   "utc": "2026-11-21T19:54:11Z",
+   "utc": "2026-11-21T22:55:18Z",
    "tags": [
     "NUKE"
    ],
-   "score": 4.9,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -178,14 +178,14 @@
    "airspace": false
   },
   {
-   "title": "Fake nuclear alerts hit emergency apps in Ukraine and Russia",
-   "source": "The Herald Insight",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XSDZ3M1pCT1B5UnZFcXhGWVNnbHdDeG13V0RvcHZuTG5jVVZkX1F2d0s4MmZSQnZvX0RXMk1oVnNsUHRlTVNZTUIxdFRuUWZYQ0Y1dkRUUkNNS0FrX3RGeWVtQ3lEYk5fOTljMDVta0o?oc=5",
-   "utc": "2026-11-21T14:58:02Z",
+   "title": "Global crude exports hit record high despite Hormuz closure",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHh0dGhoam4yeldqaXFqRFd2blIzYm5ISFdfSUxSeHJYSFROU29MWjNlS1prcUdFYms2d05uN25halFtamRMSEFuc1gySWpkY0ZjSGhmSC1TVjY5TnFoNlE0ZVpYZG00QlJDdHRINmhLT1ZpdUdoUGNuZnpiOEM4NzVoVGgxaTIxR1pCVzhyQVBYVTcta1VpYTF4OWxQZ1Bi?oc=5",
+   "utc": "2026-11-21T15:25:00Z",
    "tags": [
-    "NUKE"
+    "HORMUZ"
    ],
-   "score": 5.6,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -201,10 +201,10 @@
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 74,
+  "count": 2,
+  "global": 73,
   "baseline": 2.2,
-  "samples": 28,
+  "samples": 29,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -805,6 +805,10 @@
    [
     "2026-11-21T23:26:26Z",
     1
+   ],
+   [
+    "2026-11-21T23:49:16Z",
+    2
    ]
   ],
   "box": [

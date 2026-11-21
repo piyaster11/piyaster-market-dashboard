@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:26:03Z",
+ "updated": "2026-11-21T23:49:03Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -12,6 +12,14 @@
   "Nikkei Asia": "ok (17)"
  },
  "items": [
+  {
+   "title": "Turkey dismisses Malaysia's announcement of Rohingya resettlement",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTE5ERE5vZzdFRGV2NVlZc3p5Xzlnb2MzY3FRMGw0Tm9tbDFkam56MVpXZTVfS2lYV2hOcExVMmpXVjZkMnZhM2ljTVFFRUZCYjljNGdoenpNaEV5VVpIT01VQWZ2SWtjd2txc1dDZVNsWTdJTXc5TjNwcEs1S0sydHN6TDAyRWdfcE5UaXVVcUtBSjA2eG1ZZ28zdFhnSXVmTmtfYmItbXA5TnlHcERUVWhNaUJudWVoQWVSRWJMMA?oc=5",
+   "utc": "2026-11-21T23:23:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
   {
    "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
    "source": "MarketWatch",
@@ -26,7 +34,7 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkJKXzZtb2RzZ0Qyc0dPNGs5VUhqUXkySHNkZTlfRTlVcWNRRzFSMmFQeWtVR2F2T2kxUGRVbFBGWU44ZHp6S3pNQ2dNQkpUaEFReUVzWjlObXFubDdJYlU0bFpxTDdvMFZjTnpqb3BoNk9GRGxXTXhrLUdEMUR6NTgtbC15RnpSbXE3UmgybUM0R01lT3pMZGt4QkNJeWxW?oc=5",
    "utc": "2026-11-21T22:43:00Z",
    "tag": "THAI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
@@ -74,6 +82,14 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWtxNnJKSkdjSTNkcFpjOFN4RmVSa3h0emR0eTY1N244NDVxb2ZqeDlTQnJyblBtanBOVHNDLV9xc3ZUbnJ4aW5ETzRzalA4U00wZ2tUbFpOMjZPNm1kZUUyeUY4cmZZd2lONEtJOVl5ZU5ZY0VHR0luRGxSSm8wcXhTTk9xSHJ6cGZGb2p5QmxoeEIwcjF2SFBMX3Vva3BBMnc?oc=5",
    "utc": "2026-11-21T20:58:31Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Direxion Daily AMD Bear 1X ETF (AMDD.O) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sRTktX1ktaFhvRXlDcDRLaWZGekZ2c1gzc241NUR3YUlxZG9SeHlDUUxELUJISzB4dmM1OC0tMGVPVTFka3JpUTZDa2d4Q3BvWi1BVWtsWGI?oc=5",
+   "utc": "2026-11-21T20:20:21Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
@@ -154,22 +170,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56SGNOalR4Ul9TaHRQLTNjUkd5RHJ2ZHR6YWZwUzV3VDA4TjZmQloyNmtWS0ktYmc3ZHhCejM5UFJqUFVfYzYtcENiZnJFRV80Vy1NelY4ZXg?oc=5",
    "utc": "2026-11-21T19:15:04Z",
    "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Thanksgiving-Gas-Prices-Could-Break-a-Record-Despite-Recent-Plunge.html",
-   "utc": "2026-11-21T19:10:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "NATO will defend every inch of Polish territory, Rutte says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
-   "utc": "2026-11-21T19:08:10Z",
-   "tag": "MARKETS",
    "breaking": false
   }
  ]

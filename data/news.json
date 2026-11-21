@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:46:20Z",
+ "updated": "2026-11-21T02:28:28Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -8,17 +8,145 @@
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
-  "Bangkok Post": "fail: HTTP Error 451: ",
-  "Nikkei Asia": "ok (34)"
+  "Bangkok Post": "ok (10)",
+  "Nikkei Asia": "ok (33)"
  },
  "items": [
+  {
+   "title": "US, Japan should lead next-gen transportation: Trump's ex-transport chief",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHhxXy1tV3haeUMzQ1ZHSzJqNlkyVVlSU2l1bU5YbVVOM0FvYTJxQ1MyRTZWNFcxenlib0gtd3JldWsyRVF2cm5IN2s0aHZDWW1hbldIT0JVdDRmVjR5RS1zYzJfU25GMmNmV0ktMVN0OG5LV3pyRFF6clkyYVk1UnFNdmN4ZWJtOWlfTmpNWXRfR1liZlRWdHppSmJySGJFV3VkMXZwVTN2ZDk0cVZ3VzZ6V1lKTmxhQ2lqVQ?oc=5",
+   "utc": "2026-11-21T02:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "El Niño a threat to farming income",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3358634/el-niño-a-threat-to-farming-income",
+   "utc": "2026-11-21T01:08:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "How Hongqi's supercar plan spun into debt, liquidation and fraud claims",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2RzVlJMZGxaTUprLWRfaGdEaVc1azVtbDJRYXFqZk9iUmNMVWZpR1d4RUF1akNMSDZZdm9scXYzTGdSbC1ySXQ2eGZCWTdOY3poUTFqdkhfQmlZRmdlSjNhX1k4a2V2eVlVSjNzVDI2aS1BVlAycG9DbWlUdjNBc0lzUkF6UnMyektoMVhwLXA1eWtoRDNaYWVudE0zYmVfUU9ON1I1Sl92elkzM1FTZw?oc=5",
+   "utc": "2026-11-21T00:49:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-11-21T00:17:59Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Vietjet Thailand aims to boost capacity on Japan routes",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3358614/vietjet-thailand-aims-to-boost-capacity-on-japan-routes",
+   "utc": "2026-11-21T00:05:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "True taps AI and robotics to nurture tech innovators",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3358594/true-taps-ai-and-robotics-to-nurture-tech-innovators",
+   "utc": "2026-11-21T00:03:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "SCB first to test tokenised deposits",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3358719/scb-first-to-test-tokenised-deposits",
+   "utc": "2026-11-21T00:01:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
+   "utc": "2026-11-21T00:00:00Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemxCMzdZQVhrN293eFVPNTNrdHFZblZJNkJFQzluUFhMMG8xQUI1SG80YjdUWWgzdElKWmtiVVRmOFhKS2toWWZLZ2ttZ1ZOVDl3dFVEcGlpSG9DSy1ZbW1TVEY0VFpPbzhJck9sYjJHRDkzakFBTlJ4MFhOcEZfVTF3M2lIUGo2aWQ4VUdfaDJFaklfUzlVTWlCWlNHeEp3RnZ6NWI4UmpQVzlrd1I2My1tTDNsXzJDRHRIWHRXR0ZZbXZGanpz?oc=5",
+   "utc": "2026-11-20T23:57:25Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Fraudsters harness AI to refine scams",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3358779/fraudsters-harness-ai-to-refine-scams",
+   "utc": "2026-11-20T23:53:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Market volatility ramps up as AI bubble fears intensify",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/investment/3358559/market-volatility-ramps-up-as-ai-bubble-fears-intensify",
+   "utc": "2026-11-20T23:50:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Global imbalances weigh on 2027 outlook",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3358629/global-imbalances-weigh-on-2027-outlook",
+   "utc": "2026-11-20T23:47:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+   "utc": "2026-11-20T23:46:18Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEM0V09PMzNwMW5Eck5aSWVqWU02QzZsOHlJdHZrUHh1VDNOUFZIc1ZBbWJWOG9RX0ljdlpoMUhfX3o3QzQwNlJSUzRIbXhDbTBtZ0VEV0VtUWZCOUlwczJCQXVEN3hDN0x5TVVVZ1NaWm9LT3BPWTNsTHZicmpGOEM3bHhNa0VvQTJ0UzQ1NERFR1diOXdvYXlnUk9QeHMtaEw4MHFGR0VHTV9KZHpsT0hjZTQ?oc=5",
+   "utc": "2026-11-20T23:36:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Farm groups wary of US ethanol imports",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3358609/farm-groups-wary-of-us-ethanol-imports",
+   "utc": "2026-11-20T23:30:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "US Defense Secretary Hegseth restricts military ties with Canada, Washington Post reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5",
+   "utc": "2026-11-20T23:29:43Z",
+   "tag": "WAR",
+   "breaking": false
+  },
   {
    "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
    "source": "Bloomberg",
    "link": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
    "utc": "2026-11-20T23:22:36Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Japan's listening bars find a global audience",
@@ -26,150 +154,22 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX1hhNGp0SnJfNmYza1VLUGUtT1Y4R29zc3RBcmRXbHhQZGpmWTV0QUxJSXVHNkptMUV1ZV9hanFKdWFuT095aHJPWHNwQlU5RW1MNmJfZ3ZEQXlueDFoc1ZxUl9Oa3dCbnJqTkltTHNrUEg1d2hHSTk2LXI0NHpTRVl0NUlVU0pWQXFFNQ?oc=5",
    "utc": "2026-11-20T23:16:00Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-20T23:14:33Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "El Salvador Troops Killed in Haiti Blast After Rescue Deployment",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment",
-   "utc": "2026-11-20T23:08:54Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Rubin prize puts Bhutanese contemporary art in the spotlight",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS25BNjBQUi1lVTdJbGFZSXRXLTFtcnJJSlc5ZW5OckFFaXU2Ykd5b0pmQkxPRHhOc0FMNUZxSUpVamtJN1FZUmtuV1JVdFJNYlJKWWdON0Z2dy13Vm16UmRIaU1kc2JGMDIybXdDb3RsWEFfR2hsMXJRaG52X1cyazJGV2lod0hQRHZ0Ym5EM19mQk1Ga1Y3cTExODFLd29i?oc=5",
-   "utc": "2026-11-20T23:01:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-   "utc": "2026-11-20T22:59:33Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-   "utc": "2026-11-20T22:51:14Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-   "utc": "2026-11-20T22:46:00Z",
-   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-   "utc": "2026-11-20T22:44:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-   "utc": "2026-11-20T22:44:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says",
+   "title": "Brazil ex-President Bolsonaro hospitalized with intestinal obstruction",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5",
-   "utc": "2026-11-20T22:42:31Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnhGQzVqMUN5Z0VlenUyUE1IRndZMnpvNXRnbmkxRWdhMUZQSUJTX1FiVk5KN0JHN0RLQm4zRnJqWm4zQUkyOXQ1RENLU2xQN0dJbnZvc2hNbXJSTU9ic1BjLXA5VVZGZEVISUxPZk9Ibl9SaDZ5YVFvRUhSMi1fRVRkX0luUi1HSkh6RGdUM2pUVmZ0RlBPUXI3dU5NX0I1bEwteUlUOTUyYk9mWGNJekt2cGdCUDhZbHN6clJkNEhKQQ?oc=5",
+   "utc": "2026-11-20T23:15:48Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "India cyber agency warns of unauthorised payment transactions",
+   "title": "Hackers breached US Department of Agriculture, NBC News reports",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVBjYmYzYWxqaFJPbzVjTUhKX1RMLW16dnlpT1lLdHJVOTc5VHZMUTMyRXM1bF85bFB3Rkg2d0wxT29aUmpYUHZoOHpuamhBc2JTdXptTl9QTHN6Q1g5Y1VVcDBwc3BDYmFMdjFldV9DbU9XRFN1LWh4TU5EQjJ5VW8zVmJMNFVuWlJIUExfOExIWEpPMmltVUdZd3l6QWpMQlFZSUZvSmpLbklq?oc=5",
-   "utc": "2026-11-20T22:36:20Z",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXZEVUk4YzBsSEdWSzNZc0RDelRmeWRPc0ZWY1NGd2FOM19DVTZyU3Q4UGIzM3FoenNsX3N1N2h2TEx1MHNZUDBhdF9WSDdiMUJVZzg2UThoRVkycnJQRkZJZU96NHdDQmkyX3QySXFia3RiMFBkTUgxWWVwVVU3eWFWZzhtZWU0ODlVM0JZVkNDZEVCc3FDU1BEMDh5WWlVaGxlSUpSd0ItUVRjOFVsOWdYMHhHNHc1X3IwY29uNFBaT0k?oc=5",
+   "utc": "2026-11-20T23:13:44Z",
    "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "US stocks end sharply lower on AI selloff; S&P 500, Dow in correction",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUhxa2dwdW5DN1pNRDdpbTMyWGo0amZ2SHFkdy1VMmc2UzdkdTVYWnFEVGp0dVZRT3ZPVGFXa3Y3LTUxYm5uWVhuZEtLOElaM3RRLUFDQmJ3d0JCN3gtWGNsYTFWTFc5blVucjNJYU1OX2wtbklkaWVNQ0YydGNVenBwdzVOQUxrenROWHI0bHY3SjRhZG51NWJkTFdIbFM3eWEtMmRiT2ZVZkRPdVRabVYtT0hDWURN?oc=5",
-   "utc": "2026-11-20T22:35:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Peru can be Japan's gateway for South America investment, president says",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYTEwOUI5MjFuekllcFNmVTl3cnlOZkxXRG1rblhkUVZRdkY3RExTVG9BdEN0bEdvVUV2Q3cwUnNPZjdid3lGdHBtMXp1Tkt1c21USlBOQkp6d3l3aTFSb01yRmFDNWFsd1VSNTY4ZUl5dkZUNUExeVNzMkJiSDZZMWtuMlJpWm9kUEVrRWhGa2dOUTU4ZmpFSWF3SlRiZXJqaVdzcWFiUXY5aTBkMml3WU9Qd0o4RG1qc2Y3ZQ?oc=5",
-   "utc": "2026-11-20T22:33:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump Says Huang Should Return to Nvidia After ‘Big Apology’",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-20/trump-huang-should-return-to-nvidia-after-big-apology-video",
-   "utc": "2026-11-20T22:31:45Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "CrowdStrike in talks to acquire Zscaler, sources say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelZkLVhGN0lQVWs3SVJrWU00RjF6LV9tUEUyaDlySnhaQ29EVW1mUWFBajFfMmpTckxRUHY3aUxDTHRYV3kxSm1zbDNUdTQ3UnFuRVVULVk1bXlOaDNRc3hrM3k4dDQ2OVBtTHRNR1dlSzQweG1Ya2RjTVNGNk0xLVlKTzBHQjRtTHhhQVBUeW5ZMm1YZ3lUWUNfbGUtNk0?oc=5",
-   "utc": "2026-11-20T22:31:25Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "‘Always Remain Liquid’: Richards",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
-   "utc": "2026-11-20T22:30:37Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "PODCAST: AI selloff, Trump speech, Meta's muse (Updated)",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW5FRmZabmpDZzNyS1BwaUNycnNRXzBhVHlURXQxTk9ocEZ6bnZPRGJuWGdYZTlLWlhHd2JrNU5vandDSF9ZdGpMZG0zWmxYcWJsSWlOQmVoQVZRX2dkNWVQWWUtZldyclZOTHBQZWUwaDNGOGFDNFdSSnpaaDgtTGxvVlZ2WW1WWjVORkl6OFRzNHpUZDY1WGQ2Nm5jUmVzUHh0RDlPQ2tud19CcjdmZDRRMA?oc=5",
-   "utc": "2026-11-20T22:29:51Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "PayPal taps Xero's Claire Bramley as CFO, succeeding Jamie Miller",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXF3Z00wem5Sb09wYTh6WnUxMlB4ZDdVWktwY0d5ZEgyQ1NVd0g5c2thVUdsLTJvTkc4dU5RWGxCQVBIdVFFeGpEU0hQNUgzeGZBRjJtNnlsSWNiUTlDdVo2bjB1YjhFSzNxem52NkhtOFdycHFLYm5BNEl1VUg5Ml8zUG5FM2N5ZGpVQXUtQ3UyS1RZNmN1ZGh4dHNkdndVZnRQdldTSmN0c3c?oc=5",
-   "utc": "2026-11-20T22:27:19Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "S&P, Dow Slide Into Correction as Investors Dump Tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
-   "utc": "2026-11-20T22:25:52Z",
-   "tag": "STOCKS",
    "breaking": false
   }
  ]

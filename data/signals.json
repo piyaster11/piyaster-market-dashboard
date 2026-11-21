@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:46:53Z",
+ "updated": "2026-11-21T02:28:57Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -90,15 +90,26 @@
  ],
  "headlines": [
   {
-   "title": "pakistan-extends-airspace-ban-for-indian-flights-until-december-24-2026-paa-issues-new-notam Archives",
-   "source": "TV ONE USA",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMURJYmp5SlEzZk1XMV9ibUZnd0RnYms2MWdocTVZbnhqdzAxUW04UUVWN3I1WDNyQ09vcGN4dXBCSUlzdHNFUVcyT2txR0Q2YWFqelNWcWRiZm9TclUxZTNZVVVqS05kSnJFNmVWSEV6LUQzXzExUk4zTWZsU1dfN1pYcGRuRkFZdExNXzJtbFAzaFRmNUg2RGd5VmJNZ0J0U01xOTU0azA5YU9oTExJNkJGOWZlcVRQRHc?oc=5",
-   "utc": "2026-11-20T20:22:11Z",
+   "title": "Drone strike near Dubai International Airport triggers fire, flights suspended",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkVleWdmeDNxOUdjSkZwZVFOXzFfMDJKQ0lxNVFKT21TMmdHVHk3OFJlUXVSMHR6TmZDY2RMNzh3UjV3ZlNwUC1MdXVDZTNwVTRhT1R2OE9CekNuS1ZQSTF5SmcxY0pRaWR5Z1pJOXdCeGVLNVd3TW1ScWdkV1dXZ1RHYmNMX3NBeHRWVjlKbVhBN215QlRoaXM4LTd4Qi1kSUJNaG5n?oc=5",
+   "utc": "2026-11-21T00:47:36Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.9,
+   "score": 4.9,
    "airspace": true
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-20T21:57:58Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
   },
   {
    "title": "Strait of Hormuz Closure Pushes Airlines and Governments to Reassess SAF as Fuel-Security Tool",
@@ -108,14 +119,14 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
-   "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQQ?oc=5",
-   "utc": "2026-11-20T15:11:43Z",
+   "title": "US-Iran Conflict Helps Drive Wave of Supertanker Orders",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmJvY0tsOUpWWVVoTUVmY2tDRkI0VGZ5SzJnWXAtNmxvajBIZlczckpnM3JCVFNzeGYzZ1RSN3JsRHNOdkpWLWVxLVFhd0k1SUZLT01Yd0RqZ0tMRUZzc0EyNGRQMkdJM21iUmVGb0QweFo5YnU2aVJyY3dOcHR2OXRfSkxJelppTmRkSVFB?oc=5",
+   "utc": "2026-11-20T16:36:48Z",
    "tags": [
     "HORMUZ"
    ],
@@ -123,10 +134,10 @@
    "airspace": false
   },
   {
-   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-20T12:11:31Z",
+   "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQQ?oc=5",
+   "utc": "2026-11-20T15:11:43Z",
    "tags": [
     "HORMUZ"
    ],
@@ -141,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.5,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.3,
+   "score": 5.2,
    "airspace": true
   },
   {
@@ -163,7 +174,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.1,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -174,19 +185,8 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 4.9,
    "airspace": false
-  },
-  {
-   "title": "Pakistan extends airspace closure for Indian aircraft by another month",
-   "source": "Geo News",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0h6U0FKWXRmTTJJV1F0NmxOQ2JHTmZsTG85bEJfaldPOVhYQ2Ywa0xKd2Nxb2tOZDk1SGR0ZF80UFM0M0VCazF4MC1tVXdyU0ZHdFNkVHM3c3liNUNfUmdiOUR5WDRsRGVpc1VBQmFmeWxLVGVqS2hNUk1KZUQ1ekVLZmtzNUdVUVBuLTVNeW5uVDc2RWNBU3ktWG9seVVOMFA4N0V3?oc=5",
-   "utc": "2026-11-19T12:51:00Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.5,
-   "airspace": true
   },
   {
    "title": "Pakistan extends airspace closure for Indian flights until December 24",
@@ -196,13 +196,13 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.5,
+   "score": 4.4,
    "airspace": true
   }
  ],
  "mil": {
   "count": 1,
-  "global": 153,
+  "global": 127,
   "baseline": 2.2,
   "samples": 29,
   "hist": [
@@ -788,6 +788,10 @@
    ],
    [
     "2026-11-20T23:46:53Z",
+    1
+   ],
+   [
+    "2026-11-21T02:28:57Z",
     1
    ]
   ],

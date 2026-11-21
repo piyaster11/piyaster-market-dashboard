@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:17:00Z",
+ "updated": "2026-11-21T18:05:40Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (27)"
+  "Nikkei Asia": "ok (24)"
  },
  "items": [
   {
-   "title": "Climate talks go into overtime as nations confront global warming",
+   "title": "Britain's Net Zero Revolution Has a China Problem",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
+   "utc": "2026-11-21T18:00:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzJzUWJFU1llMlA1cXBnMk1nZzByX2lEMXItQ21UUmRyRUhNSmJzT1Q2eHhLVXJuWTc3TjZ1b2VjaGRCX1JEdDBBS1ZHTmdvdVVmSzhYRHE5NmVuYjlzNXNkQ01JSG44WWZnNHF5bi1JaXBCcEhFOE5YTi1MQ3EtamZ1LXM5Z1JIRGJMc0l6Y3YzWWktdjZXMDJpMnMzQ3g3THQ3aHZPSDJJT3p3NXBqQXE1dFFqN1dhV2MxaDJxek9OMGps?oc=5",
-   "utc": "2026-11-21T10:28:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-11-21T17:59:39Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Magnitude 6.8 earthquake strikes Banda Sea near Timor-Leste, GFZ says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ1V1Zkd3TEhMWFZOajEyMFVTdnY5SVFZMGVRcG56ZENWc0JhNnZ6WFlhaHp5aTViMkhCVWwtMFRZUnRYcmNsWmxpU0FMUm1SQ1lZeXNRRTdzRWtKU2E3NDlZckp0TjVYZXR1RGJ4cmhiYTZEX01VaDdiUXJTRWJ3UVhtQkNVdjJEVGNkZlN2TEtmWTdTQlZBSmhKZEo4cVZ4cTRFdDNZV3hSSzFaSnRzVjJ0ZllLUEVmZXZqSThSbEVjdw?oc=5",
-   "utc": "2026-11-21T10:05:54Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "French policemen convicted of racist assault on music producer",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjFqTTRmWm41aFhqSGFRR3U4cUVrSWs4aU5OLVR0ZlN4N0ZuRm1YdDNTNUQxZV94WFFkZ0RaWVFlUFpMd1ZTT0RrUlJmbnN6Uk9vYzRTWGpJWGU1ajBEclF3S0xWaUZNQkdEa3ZmaVJ3Z0F4aTBWb1kxQ25BV29HNVNUZTRwaGpMTVBIMTEyTHJKRjl3MzNiU2dSeUZnRFNoa1BZV2hKNXNoZW1PZ25MQTM1WEhuZw?oc=5",
-   "utc": "2026-11-21T09:45:43Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Bitcoin falls to a two-year low",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3358870/bitcoin-falls-to-a-twoyear-low",
-   "utc": "2026-11-21T09:15:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "As Trump basks in summit pomp, China's Xi strengthens his hand",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?oc=5",
-   "utc": "2026-11-21T09:12:54Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "How AI Is Forcing China to Reshape Industrial Policy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
-   "utc": "2026-11-21T09:00:13Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
-   "utc": "2026-11-21T09:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Odd Lots: How AI Reshaped Chinese Industrial Policy (Podcast)",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/audio/2026-11-21/odd-lots-how-ai-reshaped-chinese-industrial-policy-podcast",
-   "utc": "2026-11-21T09:00:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Trump orders federal contractors to notify White House before giving Congress information",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html",
-   "utc": "2026-11-21T08:54:22Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
-   "utc": "2026-11-21T08:42:34Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Meta's India offices hit by opposition protests over account removals",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/metas-india-offices-hit-by-opposition-protests-over-account-removals.html",
-   "utc": "2026-11-21T08:22:30Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html",
-   "utc": "2026-11-21T08:02:41Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan stamp maker stomps into AI realm by authenticating videos on X",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUVzdjJzX2U0Vmw0dGh2THBES3Z5VXdvOV9OM3VHN2w1R2RnSVdCal92NHA0Z3BKbkFucUxjYzFfTmRqOTNfeXlFektVQWwzNlNvZVo3TEFDRHU2R1BoZ2hpS2xFNlFRTl9sNzB3dU1hSnc2VS02T1F1YVZqclgyd2tEdjlvN1M3TXVMLU9VQjNGUXh6aGM5dWQ5R3R1T19IWEJ1M1laV1lZQ09Sd3hyeQ?oc=5",
-   "utc": "2026-11-21T07:13:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+   "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-   "utc": "2026-11-21T06:16:42Z",
+   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "utc": "2026-11-21T17:50:00Z",
    "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+   "utc": "2026-11-21T17:01:32Z",
+   "tag": "AI",
    "breaking": false
   },
   {
-   "title": "How China is using summits to expand its global influence",
+   "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-   "utc": "2026-11-21T06:00:02Z",
-   "tag": "CHINA",
+   "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+   "utc": "2026-11-21T16:57:34Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+   "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "utc": "2026-11-21T16:50:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+   "utc": "2026-11-21T16:50:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+   "utc": "2026-11-21T16:43:35Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+   "utc": "2026-11-21T16:41:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
-   "utc": "2026-11-21T06:00:02Z",
+   "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+   "utc": "2026-11-21T16:40:05Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
-   "utc": "2026-11-21T06:00:02Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-   "utc": "2026-11-21T05:59:19Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
+   "title": "US denies Iranian account that missile damaged F-16 over Gulf",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2xnMjNoRWZHTm9ZTmZneE9Cb1IyQ1JxN25MSU5Wcm5oVUFfU3NETHZ6aW9lcV9WZ3hfVHdEeXQwbFlXbWVRVjJPTVJSUGZjQXBQNDdyNXpOM291U0wyc0Q1S3d6bmdzLTVSTTRVVm9abmlnWDhoWkR4ay1kdVhWaThhWm9ITDI0ZUgzWWVBa1BVNU5WaElIRFN0MEVLa2laMlNidFBWbzc0Qy1Mc2E3ZHhfanhfVTByYWtUUmpoSm1adw?oc=5",
-   "utc": "2026-11-21T05:57:00Z",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5",
+   "utc": "2026-11-21T16:23:46Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "UK Races to Rewrite Nuclear Rules by 2027",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html",
+   "utc": "2026-11-21T16:00:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "South Africa's first female deputy president and UN official dies",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3BXSGxmTzRxd0JnLXpoYlFyaFl3VDNCeTNXZmxZTGV4VkVoRVdOaEZ0c1p6Si01andkTElkZm5XXzc5cmVCZHQ1VEF1UVJwXzZRdG9GRmU5R3Rwb0xkVFZudERqUTNjUjNRSXpwa2Mxa1lQczFhTlNWbTlMb25lMHRwdmJtQTNDZVowTGNyS3h1SWxVeWF2MzYxTFFoMDY2V21qSVNjQWpLS1pVNUE?oc=5",
-   "utc": "2026-11-21T05:44:00Z",
+   "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+   "utc": "2026-11-21T15:43:12Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Former Italian police chief De Gennaro takes own life amid mafia probe",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHRWNEgwMkxHcTRCT2t0cnB0bU5zWHdYd3NjaWlRQmNrSlF5ME1xVkl2Y1daY3dRbkY5MzVjR0Zva0FQM2NXdXhRR0JmaVNyNnozaDVWNWVEWXF1SnZHNHo4OS1zc3BDLXZxd1Q5dEUyNG92M3FubElMdWc0TGhyY3ctdWlrZkVHWW43VDhvYjNDZmF6ZjJDbUdUdEFYbmx6OS1wcXE4NThkUHhUdjg1Und3?oc=5",
+   "utc": "2026-11-21T15:35:16Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+   "utc": "2026-11-21T15:35:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNER6Q2NPRk9TUmtuX1hhQ21MdEdsc05rT0FxZzE4RTczVDJqbjN1My04Zm4tUkd1aUJ4cDdXSTM3ZVl6UVg0S0hLTWs1d1pjLTRDcVgtM1dVeVNvWFZHd1g3NEZCdm5HMlR1U09Cd1JfWUg1cEQ0aUZSU19uSHowSWhEUERvNE5OM1NxTDR1T3VYV21rb25pX1NSOFdFcHlOd3VzYkpMT2VzMlYwRVVSMmFuc2J3SkZ5dUM3Z0M0YXEyZw?oc=5",
+   "utc": "2026-11-21T15:33:08Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+   "utc": "2026-11-21T15:31:22Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Thanksgiving Dinner Is Moving to Restaurants",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
+   "utc": "2026-11-21T15:28:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Bitcoin rises over 2% to more than $60,000",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWZDYjFjYnlkNnBXa2lSQ2loSllxdV9rb2JNdjlZRXRBdmZvUFpaUzJrenVyMWRMWVdKMDR3cTJUVUVjX3hfUmJYaklMUXA2aXlRUTlHTzhpTVR4QVZiQlhlZTMyZ0RGNzhZWFlPT0VFNXdVUTJIRENXd0ZmYXIwR3ZMT3ZKWVJk?oc=5",
+   "utc": "2026-11-21T15:25:43Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Global crude exports hit record high despite Hormuz closure",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHh0dGhoam4yeldqaXFqRFd2blIzYm5ISFdfSUxSeHJYSFROU29MWjNlS1prcUdFYms2d05uN25halFtamRMSEFuc1gySWpkY0ZjSGhmSC1TVjY5TnFoNlE0ZVpYZG00QlJDdHRINmhLT1ZpdUdoUGNuZnpiOEM4NzVoVGgxaTIxR1pCVzhyQVBYVTcta1VpYTF4OWxQZ1Bi?oc=5",
+   "utc": "2026-11-21T15:25:00Z",
+   "tag": "OIL",
    "breaking": false
   }
  ]

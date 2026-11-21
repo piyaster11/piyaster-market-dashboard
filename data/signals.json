@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:05:55Z",
+ "updated": "2026-11-21T23:26:26Z",
  "level": 47,
  "band": "Watch",
  "components": [
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -90,6 +90,17 @@
  ],
  "headlines": [
   {
+   "title": "FPL Gameweek 11: Saturday’s goals, assists, bonus + DefCon points",
+   "source": "Fantasy Football Scout",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlFOWG1pdlllQy1Ud0d1bVJMQkllZ0NxdTRkZmhldnpBM3plZVNCSWlqcmVYRlM2MTdxRDZBZVotemcxV1RKOEFIaGJpVUtHbEliS1RMVV9wcUEzVG5aeXpmWFZTamJMYUltZ0NtZXZVMlJSblpyb05ZTDJWeUlBaGFUWi1fRVZvTFVQeE1fbHR3M2hoZ00wNnh2TnU1Y2g0V0MtY1RyN0x3MW1US19vdw?oc=5",
+   "utc": "2026-11-21T19:54:11Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
    "title": "Global crude exports reach record high despite Hormuz closure",
    "source": "news.lavx.hu",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnhNQkk3dXB6Z25zdTNOTC1TRE5FNUNJcXhIcExaNGRpUjU1WERZSGRuZkV3S3pxZW82dGo3dWNUaUFjNWo3aWUwNTJwSFdSUXJLd3BqcGE5OUgwSXdVQmthTWNNU29ab3JsWkVpQ2U4YzZrb00tVkE0ZnYxNEJJb0NyRXJ6STExWktlS2ZIci1CY3ZZ?oc=5",
@@ -97,18 +108,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
    "title": "Strait of Hormuz swim highlights environmental cost of war",
    "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcWtQNHRXVEgyNVpYYl92OHhaRkFUSzNJT201dzJES05OZnhpN3dhMm10UDd4ZWlwNHNreWtuWEdaakNOTzFScVgtcENpQkMyU3B4OGpXbS12cG8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LX2FFeUo5ZjFkdWZBZXNTSWU2LUV4UVVhQnk5NFZsVkNiOGFwdHZPTkVDRmd3NHZLYTktX1M2NXJhaWNZUlZ4QjRLV1ZWVzgtdnVEcXpXYmo1dnNVOFE?oc=5",
    "utc": "2026-11-21T16:12:31Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -119,7 +130,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -130,7 +141,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -141,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -163,29 +174,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
-   "title": "Global crude exports hit record high despite Hormuz closure",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHh0dGhoam4yeldqaXFqRFd2blIzYm5ISFdfSUxSeHJYSFROU29MWjNlS1prcUdFYms2d05uN25halFtamRMSEFuc1gySWpkY0ZjSGhmSC1TVjY5TnFoNlE0ZVpYZG00QlJDdHRINmhLT1ZpdUdoUGNuZnpiOEM4NzVoVGgxaTIxR1pCVzhyQVBYVTcta1VpYTF4OWxQZ1Bi?oc=5",
-   "utc": "2026-11-21T15:25:00Z",
+   "title": "Fake nuclear alerts hit emergency apps in Ukraine and Russia",
+   "source": "The Herald Insight",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XSDZ3M1pCT1B5UnZFcXhGWVNnbHdDeG13V0RvcHZuTG5jVVZkX1F2d0s4MmZSQnZvX0RXMk1oVnNsUHRlTVNZTUIxdFRuUWZYQ0Y1dkRUUkNNS0FrX3RGeWVtQ3lEYk5fOTljMDVta0o?oc=5",
+   "utc": "2026-11-21T14:58:02Z",
    "tags": [
-    "HORMUZ"
+    "NUKE"
    ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Qatar Warns Hormuz Closure Threatens Global Economy",
-   "source": "cwibc.co.id",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yNWlva2tLVWhOcDhhejRtYU14Y1NzOTBrV3Brd3ZORXF2a3ZxdGIxb3VnNXhXUzhzVkNlYTFmeURrelFfRGVBdS1WcnlMSmhiRFAzTXMyVnU4T3R6a1NxWWZ5VjFUR0JJ?oc=5",
-   "utc": "2026-11-21T15:22:10Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.1,
+   "score": 4.9,
    "airspace": true
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 144,
+  "count": 1,
+  "global": 74,
   "baseline": 2.2,
-  "samples": 29,
+  "samples": 28,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -801,6 +801,10 @@
    [
     "2026-11-21T18:05:55Z",
     0
+   ],
+   [
+    "2026-11-21T23:26:26Z",
+    1
    ]
   ],
   "box": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:05:40Z",
+ "updated": "2026-11-21T23:26:03Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (24)"
+  "Nikkei Asia": "ok (17)"
  },
  "items": [
   {
-   "title": "Britain's Net Zero Revolution Has a China Problem",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
-   "utc": "2026-11-21T18:00:00Z",
-   "tag": "CHINA",
+   "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+   "utc": "2026-11-21T23:05:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "title": "Bangkok revisited: Fresh finds and old favorites",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-21T17:59:39Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkJKXzZtb2RzZ0Qyc0dPNGs5VUhqUXkySHNkZTlfRTlVcWNRRzFSMmFQeWtVR2F2T2kxUGRVbFBGWU44ZHp6S3pNQ2dNQkpUaEFReUVzWjlObXFubDdJYlU0bFpxTDdvMFZjTnpqb3BoNk9GRGxXTXhrLUdEMUR6NTgtbC15RnpSbXE3UmgybUM0R01lT3pMZGt4QkNJeWxW?oc=5",
+   "utc": "2026-11-21T22:43:00Z",
+   "tag": "THAI",
    "breaking": true
-  },
-  {
-   "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-   "utc": "2026-11-21T17:50:00Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
-   "utc": "2026-11-21T17:01:32Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-   "utc": "2026-11-21T16:57:34Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "utc": "2026-11-21T16:50:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-   "utc": "2026-11-21T16:50:00Z",
-   "tag": "MARKETS",
-   "breaking": false
   },
   {
    "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
-   "utc": "2026-11-21T16:43:35Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-   "utc": "2026-11-21T16:41:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-   "utc": "2026-11-21T16:40:05Z",
-   "tag": "STOCKS",
+   "link": "https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html",
+   "utc": "2026-11-21T22:09:16Z",
+   "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "US denies Iranian account that missile damaged F-16 over Gulf",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5",
-   "utc": "2026-11-21T16:23:46Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "UK Races to Rewrite Nuclear Rules by 2027",
+   "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html",
-   "utc": "2026-11-21T16:00:00Z",
+   "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html",
+   "utc": "2026-11-21T22:00:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-   "utc": "2026-11-21T15:43:12Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Former Italian police chief De Gennaro takes own life amid mafia probe",
+   "title": "Lower turnout at largely peaceful marches across France",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRHRWNEgwMkxHcTRCT2t0cnB0bU5zWHdYd3NjaWlRQmNrSlF5ME1xVkl2Y1daY3dRbkY5MzVjR0Zva0FQM2NXdXhRR0JmaVNyNnozaDVWNWVEWXF1SnZHNHo4OS1zc3BDLXZxd1Q5dEUyNG92M3FubElMdWc0TGhyY3ctdWlrZkVHWW43VDhvYjNDZmF6ZjJDbUdUdEFYbmx6OS1wcXE4NThkUHhUdjg1Und3?oc=5",
-   "utc": "2026-11-21T15:35:16Z",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
+   "utc": "2026-11-21T21:32:51Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-   "utc": "2026-11-21T15:35:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+   "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNER6Q2NPRk9TUmtuX1hhQ21MdEdsc05rT0FxZzE4RTczVDJqbjN1My04Zm4tUkd1aUJ4cDdXSTM3ZVl6UVg0S0hLTWs1d1pjLTRDcVgtM1dVeVNvWFZHd1g3NEZCdm5HMlR1U09Cd1JfWUg1cEQ0aUZSU19uSHowSWhEUERvNE5OM1NxTDR1T3VYV21rb25pX1NSOFdFcHlOd3VzYkpMT2VzMlYwRVVSMmFuc2J3SkZ5dUM3Z0M0YXEyZw?oc=5",
-   "utc": "2026-11-21T15:33:08Z",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
+   "utc": "2026-11-21T21:24:10Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
-   "utc": "2026-11-21T15:31:22Z",
-   "tag": "AI",
+   "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+   "utc": "2026-11-21T21:01:49Z",
+   "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Thanksgiving Dinner Is Moving to Restaurants",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
-   "utc": "2026-11-21T15:28:00Z",
+   "title": "Arsenal held by Newcastle, Man City draw with Fulham",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWtxNnJKSkdjSTNkcFpjOFN4RmVSa3h0emR0eTY1N244NDVxb2ZqeDlTQnJyblBtanBOVHNDLV9xc3ZUbnJ4aW5ETzRzalA4U00wZ2tUbFpOMjZPNm1kZUUyeUY4cmZZd2lONEtJOVl5ZU5ZY0VHR0luRGxSSm8wcXhTTk9xSHJ6cGZGb2p5QmxoeEIwcjF2SFBMX3Vva3BBMnc?oc=5",
+   "utc": "2026-11-21T20:58:31Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Bitcoin rises over 2% to more than $60,000",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWZDYjFjYnlkNnBXa2lSQ2loSllxdV9rb2JNdjlZRXRBdmZvUFpaUzJrenVyMWRMWVdKMDR3cTJUVUVjX3hfUmJYaklMUXA2aXlRUTlHTzhpTVR4QVZiQlhlZTMyZ0RGNzhZWFlPT0VFNXdVUTJIRENXd0ZmYXIwR3ZMT3ZKWVJk?oc=5",
-   "utc": "2026-11-21T15:25:43Z",
-   "tag": "BTC",
+   "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+   "utc": "2026-11-21T20:15:00Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Global crude exports hit record high despite Hormuz closure",
+   "title": "Bro hugs, no deals: Why Shenzhen was a win for Beijing",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHh0dGhoam4yeldqaXFqRFd2blIzYm5ISFdfSUxSeHJYSFROU29MWjNlS1prcUdFYms2d05uN25halFtamRMSEFuc1gySWpkY0ZjSGhmSC1TVjY5TnFoNlE0ZVpYZG00QlJDdHRINmhLT1ZpdUdoUGNuZnpiOEM4NzVoVGgxaTIxR1pCVzhyQVBYVTcta1VpYTF4OWxQZ1Bi?oc=5",
-   "utc": "2026-11-21T15:25:00Z",
-   "tag": "OIL",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejFGbU4zalduV1VZakM5aFN2Wk1UeXZWOGRFX0dDQWxmTnB3Szh1RnlWZ284aTNGcjNzdnMzWHEzczEyb3AwcUh2M0FuTDlmYkhSTG04M2VhSHVabUhGQXBsTC10RXNpVjAzSloyZDNnVjR2eE5qNGVMV09nbzdxc2pmRWFTZktNMGNfSg?oc=5",
+   "utc": "2026-11-21T20:05:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Trump’s Coal Revival Is Costing Americans More Than Expected",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Coal/Trumps-Coal-Revival-Is-Costing-Americans-More-Than-Expected.html",
+   "utc": "2026-11-21T20:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Thousands march in Lisbon as living costs fuel anger",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG4wY3ZESmpaVExscklIdFdvaUp0ZXJ4a2N2Szc5V2VJV2NwMWZFLU5YWFd0Y2ZFNU4zRGo1RG5VazBFRVlnUGhPcmxiRjc4U25qeFAwREpZcjFVeUdVRldoaEUyUXQtSG1TV1ZDVDJzd1RUNzFzVk1QS3BtdGZ2UXkwYy11N2RBOFlYSzNNZzYxRkVjYXlTcHhMTQ?oc=5",
+   "utc": "2026-11-21T19:55:34Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Croatians rally in Zagreb demanding justice over psychiatric hospital death",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUtfVnQwVjJrRWVQaTc4UzFEUjdQMmQtS1JOaTNsUmtjNE9FcEN4MFRCa3VXSi16X2thbk16VFNOTElxUkExdDBiVmFsSFNyS1FTMFhhZ3RoM1hVM3ZhY011aHR5a1F3YTRZNkxsR0ViQTFxOF9MRzhtbVA2TUs3azBBRlBCcENPVWtMZUtsdGJ6dFRWSVVhenZNSHd5M2VmWDJ4MDdGQXNDR0tpcWRwQ2lTb2g?oc=5",
+   "utc": "2026-11-21T19:52:09Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "utc": "2026-11-21T19:45:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+   "utc": "2026-11-21T19:45:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Town in southern Brazil left reeling by supercell storm",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGtZWUFxQ296d293WHQ5R3BvOVFKM1hYenYzS2FFdmZsT05BUU5JZVNMZXgxMHktN2V5QUYtNUF0bHRlU0psNU4tZzN4TmJvbm1zWkQxRWxIbkpCbUdPQnVKU2JPczAweXc1X1lpWVJHQzVFc0daczk0NGM3OHJkdTFpTzFDLWZINmh0dmd0Q0l6aDduSkZGMTMwNzRMb25ocUhzQjdQdy1qZWRBcEE?oc=5",
+   "utc": "2026-11-21T19:23:43Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+   "utc": "2026-11-21T19:23:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "F/m Ultrashort Tax-Free Municipal ETF (ZMUN.O) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56SGNOalR4Ul9TaHRQLTNjUkd5RHJ2ZHR6YWZwUzV3VDA4TjZmQloyNmtWS0ktYmc3ZHhCejM5UFJqUFVfYzYtcENiZnJFRV80Vy1NelY4ZXg?oc=5",
+   "utc": "2026-11-21T19:15:04Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Thanksgiving-Gas-Prices-Could-Break-a-Record-Despite-Recent-Plunge.html",
+   "utc": "2026-11-21T19:10:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "NATO will defend every inch of Polish territory, Rutte says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
+   "utc": "2026-11-21T19:08:10Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

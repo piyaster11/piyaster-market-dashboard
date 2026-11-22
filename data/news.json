@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:49:03Z",
+ "updated": "2026-11-22T06:59:50Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,150 +9,150 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (17)"
+  "Nikkei Asia": "ok (19)"
  },
  "items": [
   {
-   "title": "Turkey dismisses Malaysia's announcement of Rohingya resettlement",
+   "title": "Laos 'least-developed' status shift, Tata meeting, Taiwan local elections",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTE5ERE5vZzdFRGV2NVlZc3p5Xzlnb2MzY3FRMGw0Tm9tbDFkam56MVpXZTVfS2lYV2hOcExVMmpXVjZkMnZhM2ljTVFFRUZCYjljNGdoenpNaEV5VVpIT01VQWZ2SWtjd2txc1dDZVNsWTdJTXc5TjNwcEs1S0sydHN6TDAyRWdfcE5UaXVVcUtBSjA2eG1ZZ28zdFhnSXVmTmtfYmItbXA5TnlHcERUVWhNaUJudWVoQWVSRWJMMA?oc=5",
-   "utc": "2026-11-21T23:23:00Z",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclFKZ3c5NTJ6eG9kUl8yWkJRcVhJcWpDR3plSmxhaHlRSzNvd21Nb2xEMmpEZEpGYjI4cXlweDdRQzJjTFdfTE1aWDY3Vng0Tm5ncjdMOHZURElFWl9DQTE5QzhYd1dyMUVBVkxpdlFHcklzR2pDc0RrbnpOYmd0dGtUNldqVEVYU3FpdkhqenJ4Y25EWGRuMjA1eGhibURrQXdjMzlEWkVyc2Rwd0M4SWNGUXJjbG1oczJPemRB?oc=5",
+   "utc": "2026-11-22T06:34:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-   "utc": "2026-11-21T23:05:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Bangkok revisited: Fresh finds and old favorites",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkJKXzZtb2RzZ0Qyc0dPNGs5VUhqUXkySHNkZTlfRTlVcWNRRzFSMmFQeWtVR2F2T2kxUGRVbFBGWU44ZHp6S3pNQ2dNQkpUaEFReUVzWjlObXFubDdJYlU0bFpxTDdvMFZjTnpqb3BoNk9GRGxXTXhrLUdEMUR6NTgtbC15RnpSbXE3UmgybUM0R01lT3pMZGt4QkNJeWxW?oc=5",
-   "utc": "2026-11-21T22:43:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+   "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html",
-   "utc": "2026-11-21T22:09:16Z",
+   "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+   "utc": "2026-11-22T06:00:01Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html",
-   "utc": "2026-11-21T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Lower turnout at largely peaceful marches across France",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
-   "utc": "2026-11-21T21:32:51Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
-   "utc": "2026-11-21T21:24:10Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
-   "utc": "2026-11-21T21:01:49Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Arsenal held by Newcastle, Man City draw with Fulham",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWtxNnJKSkdjSTNkcFpjOFN4RmVSa3h0emR0eTY1N244NDVxb2ZqeDlTQnJyblBtanBOVHNDLV9xc3ZUbnJ4aW5ETzRzalA4U00wZ2tUbFpOMjZPNm1kZUUyeUY4cmZZd2lONEtJOVl5ZU5ZY0VHR0luRGxSSm8wcXhTTk9xSHJ6cGZGb2p5QmxoeEIwcjF2SFBMX3Vva3BBMnc?oc=5",
-   "utc": "2026-11-21T20:58:31Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Direxion Daily AMD Bear 1X ETF (AMDD.O) | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sRTktX1ktaFhvRXlDcDRLaWZGekZ2c1gzc241NUR3YUlxZG9SeHlDUUxELUJISzB4dmM1OC0tMGVPVTFka3JpUTZDa2d4Q3BvWi1BVWtsWGI?oc=5",
-   "utc": "2026-11-21T20:20:21Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-   "utc": "2026-11-21T20:15:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Bro hugs, no deals: Why Shenzhen was a win for Beijing",
+   "title": "World Bank's India poverty estimates questioned over scale of gains",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejFGbU4zalduV1VZakM5aFN2Wk1UeXZWOGRFX0dDQWxmTnB3Szh1RnlWZ284aTNGcjNzdnMzWHEzczEyb3AwcUh2M0FuTDlmYkhSTG04M2VhSHVabUhGQXBsTC10RXNpVjAzSloyZDNnVjR2eE5qNGVMV09nbzdxc2pmRWFTZktNMGNfSg?oc=5",
-   "utc": "2026-11-21T20:05:00Z",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWk9RcjZTdTNPa2s1MnVJLVRfTG1jRFRvd3ROZ0o2TmZrdTFPNWM2RkRac3JxdVNEWnJ3MERrQXd3MEtVVWkyVHpFdEdWd0lNaXh6SE1mZXk4QTkwX080cDQ4QmlTdlFPbFhuVzdEM3VLLXNkZWRocVliUG5MV1prRVlGeFUxN3ItOEQ1RThMSVZMUHJLRXZINnNBdTNzaVJWQl9jLUZrRnpkMmVBbnpn?oc=5",
+   "utc": "2026-11-22T04:26:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Myanmar's army-backed government calls ASEAN decision 'unfair and imbalanced'",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1FENS0tc2xfZjRuaEUtTU5Fa1pYZXYtUm1BcXl5TldHOXdaSGM0VE5IaHgzcENjVDlnTmNJN0VEazRhWHU5ZHl3eG5VU1pLZkZxMy1wekcwdW5yanBFdEJNV3dGdVB0OGlJVFF5bTBkQ0JVbGUxcm1tQnBRT1JpZ3Q0a0lvV2poTUluZzBoZFdGOHYtQkh6Uy0xUk81Ty1Bb0h2Zi0teWpNTWJPOVl2VG0wb3dqQzljVGhtU1BKNkM1UHM?oc=5",
+   "utc": "2026-11-22T04:01:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Indonesia rescuers search for 36 missing after factory fire kills 3",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1lYMkZSb1Y5Z2preUNtQlhuSHlEN0E0TFk2cGxwRE5FN255RnZqV3I1cE9QZzZjaG5sN2xod3JsUzZaZWNLWHE1SXZXTTd4LVI0eWUtV3RVYUt6SWFxZzVxVWl4QnYwUjRNLS13dEx5VWcxb3lLaGtBaU0tdUhTR0tnaHY2WkR2Qk9kS3prU1hReGtHV1lJUG5iTG1hRUtZSlR2WG1nS0I2eUxQZV9SU3pjM2NiemhJTmc?oc=5",
+   "utc": "2026-11-22T03:56:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Else Nutrition Holdings Inc (BABYF.PK) | Stock Price & Latest News",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nemduNEFGdFJ6N0FMa3JuZWh0T1BsOHNwNXNYZHgta3YwNnNpS3RwWWkxWXFsbGhNQ21xYUZWLXE3el9DU3hxLXZlT2NNM2pydFNfbER6WnNZbXM?oc=5",
+   "utc": "2026-11-22T03:46:40Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5",
+   "utc": "2026-11-22T03:33:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SUmhDNVlpb2JEM0UxSUxaY185clNiYTU2aDdVbkFKM3k1dTgyTm1FQWZiaTBPSUNaQjhxOFJ2UDZtaHYxV3kw?oc=5",
+   "utc": "2026-11-22T03:18:46Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "The ramen lectures: Japan company tries new expansion strategy",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPODVvWVpoNlUyUEFqUGQ5VmYtSUFXbHowSXl4c3lQbGlVOER4aFhLUzVIamtheEtLZjI0MnNnTTZGOUVsT3BEem93WldyVXE2b2E1cU9wQVlZZGdsUWRFT0g2eDZCN0stSjlyU3VySTJyOGRPLVZaTGRjTkt3MVRYYjY1b1FoREduMTBodEdRYWs4YzFnRDNLeklBVnRGUjNfbHhDZVQyODN1SEhs?oc=5",
+   "utc": "2026-11-22T03:18:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-11-22T03:15:41Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Travel more, spend less: how mainland China’s weak consumer mood shapes outbound tourism",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3359251/travel-more-spend-less-how-mainland-chinas-weak-consumer-mood-shapes-outbound-tourism",
+   "utc": "2026-11-22T03:08:00Z",
    "tag": "CHINA",
    "breaking": false
   },
   {
-   "title": "Trump’s Coal Revival Is Costing Americans More Than Expected",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Coal/Trumps-Coal-Revival-Is-Costing-Americans-More-Than-Expected.html",
-   "utc": "2026-11-21T20:00:00Z",
+   "title": "North Korea postpones 2027 Pyongyang International Marathon",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc05WU0luR3ZrTmlScTRUQkI5SmNaOTdtbmtwOHZFX0NHdHF0YnZpclFqcXJMaHZIeWlGeFFmd1JxSi1kQzVBMHNOM1R3ZGJweUVsbnhOUmh1Nk9pMVRDV3BoT2N6aGhmVDlVTXFfWVVXVFJBSzJVQURtT1VuSTYyOHdDeWlzZDQySzRlR1RBV2kwUWJ2bDZ0cFhzcHpHNXV5SHR6U2hxTE9oWkNmUnI0Vm92dlM?oc=5",
+   "utc": "2026-11-22T03:08:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Thousands march in Lisbon as living costs fuel anger",
+   "title": "Traton SE (8TRA.DE) | Stock Price & Latest News",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG4wY3ZESmpaVExscklIdFdvaUp0ZXJ4a2N2Szc5V2VJV2NwMWZFLU5YWFd0Y2ZFNU4zRGo1RG5VazBFRVlnUGhPcmxiRjc4U25qeFAwREpZcjFVeUdVRldoaEUyUXQtSG1TV1ZDVDJzd1RUNzFzVk1QS3BtdGZ2UXkwYy11N2RBOFlYSzNNZzYxRkVjYXlTcHhMTQ?oc=5",
-   "utc": "2026-11-21T19:55:34Z",
-   "tag": "MARKETS",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWjRjU1R0YXFHc1lWdGw4Q2oxNGh4dldiQ1BUVkRSZkdtcUs1SW9qLTExQTctbGxEMnFQbUF0UGhqUnpMRmRlSWNIZUItVDZqRDBQSkNwQ05PTVVKUWRr?oc=5",
+   "utc": "2026-11-22T03:02:21Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Croatians rally in Zagreb demanding justice over psychiatric hospital death",
+   "title": "Franklin US Mid Cap Multifactor Index ETF (FLQM.N) | Stock Price & Latest News",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUtfVnQwVjJrRWVQaTc4UzFEUjdQMmQtS1JOaTNsUmtjNE9FcEN4MFRCa3VXSi16X2thbk16VFNOTElxUkExdDBiVmFsSFNyS1FTMFhhZ3RoM1hVM3ZhY011aHR5a1F3YTRZNkxsR0ViQTFxOF9MRzhtbVA2TUs3azBBRlBCcENPVWtMZUtsdGJ6dFRWSVVhenZNSHd5M2VmWDJ4MDdGQXNDR0tpcWRwQ2lTb2g?oc=5",
-   "utc": "2026-11-21T19:52:09Z",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54a1dCUGUtdC1zbklhQzlCQTdIdWJDbUdiSDFjRVhfWHlUT3V3LUVpQWpGNGJrOTVRdmU2U1FqU0FsX1U0MXoxVTRhRS0tMlZhZ3JQczhLa0g?oc=5",
+   "utc": "2026-11-22T02:50:29Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "China slams US ban on its telecoms' access to American phone numbers",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYlMtNjhEVnBVTFZBaG9xbXhBOWdVcGtSMXJwaTJ3cXNoU3hYVWRSZktvOW1fYmtGWi0yc1JoZkdHbGN1dElURU1IbDQ4ZmFITERkQ09ydEkxLUc1eHFCemk4d1ZZNjdJc1ctcUc0RmdPczI2aHBia1laRzlOT2FzeEhLeVNDYlN6MDZOX0xxRVNGeHFmbE1hN2xfQzhzSUlOeW95LXpLQ1dsbEN5NjY5d3ZtSWlRcG5SZjctZkJXZUZLUHN4TFdUVk03VURjRURHSEo5U0hjd0lYUQ?oc=5",
+   "utc": "2026-11-22T02:44:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Hello Kitty owner Sanrio bets on games to expand global reach",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0NIMFUzV2E1Y3hrSE4xSno4OXp1MHdCVFVGRzlCZUd0ZktydURybmpvY2d4ZUtWTG84MEpBZDZRWDZjRlo1alFrT3FrM2I5WWlCMkpFMEg2NlM2Q0V5R19wV2hTcUdfN3Y0ZW1MLXRXek1vSjFKSENjNmlTckVLWG5IMUNIdFVIMXZfa3U0OVdoQk10UW1HVkVnZmlNV3NuajRSUnY1bmxnS3hrNjE0dmtXZDM?oc=5",
+   "utc": "2026-11-22T02:09:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-   "utc": "2026-11-21T19:45:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-   "utc": "2026-11-21T19:45:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Town in southern Brazil left reeling by supercell storm",
+   "title": "China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGtZWUFxQ296d293WHQ5R3BvOVFKM1hYenYzS2FFdmZsT05BUU5JZVNMZXgxMHktN2V5QUYtNUF0bHRlU0psNU4tZzN4TmJvbm1zWkQxRWxIbkpCbUdPQnVKU2JPczAweXc1X1lpWVJHQzVFc0daczk0NGM3OHJkdTFpTzFDLWZINmh0dmd0Q0l6aDduSkZGMTMwNzRMb25ocUhzQjdQdy1qZWRBcEE?oc=5",
-   "utc": "2026-11-21T19:23:43Z",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJ2YWtZYUZBaVRPVzNxdU1XYnlLN1Q2WjFuOHgwMmRVOS11TWxXWFAtT0VudDRsUmd3M3pEeUp5WmlLXzNSOVJqaUZ2THRZYXNuSjlVWjdzazNuZVExNE5nQk5VUzllcUhEWXRuZmV4R1NZaHE5TU41dEhrUzNlclF2NldjMTNVRkdKV0tlSl96R3F2am9qRVhGLWJFTGZtYTRNUFFVREYwVlRTU250RUthX2U?oc=5",
+   "utc": "2026-11-22T01:57:00Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Australia criticizes US Congressional Budget Office over AUKUS comments",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjNwZVVZWDZINlk3Z1IzdWlzOGt1T0duZUREWUFDRDN4dGFscHgzYWQ0Sko4S0xwZ3o4QlBHVEwzZjBEU0xJTXFqSGl3dHNLWTNNMERGV3pNTmZQU29tS2g4VE5PT1gwMTdmWW5qNkpoXzhBUHMwZzlCN2FVeWVEVWpMZWlzakJfdmdLdW9fTlZubURlQUtqWEJoV1JOdVRzQ3NUOUdIS0ZiMHZxUTdmX013?oc=5",
+   "utc": "2026-11-22T01:19:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
@@ -160,16 +160,16 @@
    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-   "utc": "2026-11-21T19:23:00Z",
+   "utc": "2026-11-22T01:15:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "F/m Ultrashort Tax-Free Municipal ETF (ZMUN.O) | Stock Price & Latest News",
+   "title": "New Zealand cling on in Wellington after India build mammoth lead",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56SGNOalR4Ul9TaHRQLTNjUkd5RHJ2ZHR6YWZwUzV3VDA4TjZmQloyNmtWS0ktYmc3ZHhCejM5UFJqUFVfYzYtcENiZnJFRV80Vy1NelY4ZXg?oc=5",
-   "utc": "2026-11-21T19:15:04Z",
-   "tag": "STOCKS",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXl0dFNzb3ZTbloyNlR3X0pDQlU4QldqRmRwUHZMVmFBZnFrcG9uRG9lLU1LVjNaTUVLTlpZajE1RTNHTk1kS3hIZXJYZTZnZkxCbVZsNnh2eDFjUGlSa2ZmaWZYTU1pNTBXWGNnMm9mNnhxS1BuNlE3NnNxa29xR0Q5cGxiSmY0cWV2d2tmdjB4MTJ0WVhUN1lkU21ZcWZ4NVA1N2JnWTNmTHlRODhGcWhTZnlBcHM?oc=5",
+   "utc": "2026-11-22T00:41:00Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

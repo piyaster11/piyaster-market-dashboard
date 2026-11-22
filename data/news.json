@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:25:53Z",
+ "updated": "2026-11-22T21:52:27Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (18)"
+  "Nikkei Asia": "ok (17)"
  },
  "items": [
   {
-   "title": "I’ve studied over 200 kids—parents who do 6 things accidentally raise people pleasers: It starts in ‘ordinary, well-intentioned moments’",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
-   "utc": "2026-11-22T15:10:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
-   "utc": "2026-11-22T15:01:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Russian cargo ship still on fire off Finland after attack",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
-   "utc": "2026-11-22T14:51:36Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
-   "utc": "2026-11-22T14:41:40Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "At least 2 killed when Russian drone hit building in Kyiv region, officials say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag?oc=5",
-   "utc": "2026-11-22T14:38:51Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "IQVIA Closes In on $1.1 Billion Takeover of UK Drug Services Group Quotient",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-22/iqvia-closes-in-on-1-1-billion-takeover-of-uk-drug-services-group-quotient",
-   "utc": "2026-11-22T14:33:23Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "MotoGP maestro Marquez wins record eighth premier class title in Portugal",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFF4Qkg5N3paMmFqSmNlMHNOLUxSdDRrMGUxZ2JabXFWTXVfdk5zTElYaUZOSktfZ2ZPMmR5WGp0Y3lheHFjZkRmYWFpWjZXMFlnSlFwRWJGMEZPSmJCLTZiUGlVSTJIUUZmZGExSjNBeWllYW9yXzUwanNIOHpKT21qVmJKQng0bzlwOQ?oc=5",
-   "utc": "2026-11-22T14:30:50Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
-   "utc": "2026-11-22T14:30:01Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "UN climate talks collapse as EU and others reject deal",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/22/cop31-climate-talks-break-down-as-eu-and-others-reject-deal.html",
-   "utc": "2026-11-22T14:28:45Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port",
+   "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
-   "utc": "2026-11-22T14:25:44Z",
+   "utc": "2026-11-22T21:44:20Z",
    "tag": "WAR",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "GTA VI Takes Over Thanksgiving Week",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
-   "utc": "2026-11-22T14:25:23Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Fed’s Inflation Fight May Require More Hikes",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
-   "utc": "2026-11-22T14:19:26Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Countries react as COP31 climate talks collapse",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
-   "utc": "2026-11-22T14:12:47Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "COP31 climate talks collapse as EU and others reject deal",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkh5N0RjazJfUVVxRHlvbHB0QlM5WEoyUjNacW01VjZad0F6dlFCV0twdlFtV1ZVbDhTcF9XcG1aeEwwMXBhQVpjaEJEWS1ncXg3UnRqaVg3dUZkR1dOTVFEREQ4Y21HTWdocGJoX3YzUXdrN3hkQkN2WVkyZlBfWGhKN0FtMWFMT043alljZG84VWNMVDMxempKQ0xrVWc1NmQxOGw0X205NzI4Vnl4M3BWOVRFQXVVSmc?oc=5",
-   "utc": "2026-11-22T14:05:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "COP31 climate talks set to collapse as EU and others reject deal",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3FGTGRvcm5EV2daUWIzaEVJcHFIS0N0NkxsYVdBVENRVTBwMENsNWllQUZCYUU4UWx6bVZidF8wUDJyeUV6a1o1V3YxNEhHaTZlMlFZaGx6OUliaDlHSmh2NEVXaUUzdzlvWDNVdncwUHM2TWhwRXNxRkg4Rk82eEdETERJQVdyWGx4VUIyMVNoRVhVdUJTZnJhMllqUmdnRHpVTUQyTHNDcTFKZ0FpTFdLdG8zVmZfTzJwNWt0X3VnMG8?oc=5",
-   "utc": "2026-11-22T14:05:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
-   "utc": "2026-11-22T14:00:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+   "title": "Ron Johnson’s Social Security gaffe buried important news",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
-   "utc": "2026-11-22T14:00:00Z",
+   "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+   "utc": "2026-11-22T21:28:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Japan decarbonization agency invests in US metal recycling startup",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmlnX3VqTWI1RlBWQkhzRXZTcWFTOTduaUd4cjhKNEVLaW9URTEtbmZjQk40T2RJTW5MSFhYbXlBTmZINFRFVDl2b0dKU05fckx5dGdLS3hlZWRTZ1ZSMlViNGlqd1JFZE8xTTA3MVdUUGtCSVpLblB5aHpOaS02dTBoVHBlNHpzSzFMU0R3NFk3emxtdDkwcGIwSlBZSi1sNnk3Umcta1cxU01SQmlucFBB?oc=5",
+   "utc": "2026-11-22T21:23:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Can climate diplomacy build on the collapse of COP31?",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1RyOVZKTlV6bndHdTJhb3ZfZkI5R081UGttS1pZMDB4T0s0ekRPNGRQLW5FUERHRGVFLUxLQTFEcnFKSHpwVDBOQThBRGVaZkJfVTlMUzZPOFc3b3dZZllkVUVuRF9Lbnc3d3pzd01KQTE5WFpzR1h4alU4dUF1ZW0yYkpFeHF1RjRvbklfbWJqdDNXV1lkVkFCQnlRZw?oc=5",
+   "utc": "2026-11-22T21:19:25Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Is all well at the BoT?",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3359665/is-all-well-at-the-bot",
+   "utc": "2026-11-22T21:17:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Aussie Seen Rebounding Against Kiwi From Worst Month Since 2022",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/aussie-seen-rebounding-against-kiwi-from-worst-month-since-2022",
+   "utc": "2026-11-22T21:16:37Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Legacy key for 2031 and 2035 Women's World Cup says sports executive",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnM3SHFoeGRrVUJyQk13dVJ1bmRhX24yVXg4a1pKZzlKeW9RUEtkblZrcU81ZEVjLTc1c3BPeWJHaUozcjFQQ2MxdmRxdTdNMmQzTG5MN1Ytb2V1Sks3RGZoaUstTzRhVDdyd3M1QWs2R1MwT2lmRVFjZEFQX2lmcmxYX0gxMmdiTFBDS1ZmTjJSMmUxTDRnX0F2SWtmcWpLVnB1UlBqR2ZiYkY4VWc?oc=5",
+   "utc": "2026-11-22T21:05:47Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Crypto exchange's collapse hits Chinese investors hunting for yield",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0FwN2lXWDNqODN1MF9JcHdUc3NPY2E0LTRvSDlVeGdSQ2ZmQkJKRzdMSERHV2dVMkpxSUE2YjlEV3VSR24wV0Jyb2JITktKeTFtTUZQRUVWMGg2dk5kVGk4Ymw4NEZpOGhEUjJiZEZJcXdwWDdFMk82b2REM3Vvb3FwalQwQ3pLQVdmSERUbVRBX1h3V0hBRGZ6eXMtTzNYUFNmTHEwaDJDM016c1JDeEFyMXk2VU1VRUd4NkFR?oc=5",
+   "utc": "2026-11-22T21:00:00Z",
+   "tag": "FED",
+   "breaking": true
+  },
+  {
+   "title": "Bank of Israel to keep rates on hold amid uncertainty about new government",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0ItQ1JnUkNlVzIyRVhPMWNrdWVSX0pNMVRQbUNHQUN1X19QTWxEcHE3d0U2THpOdXdFMlVRTVdUZnBJT0JobGJsdmIzdmtoX0JHcnZNWXllemZQRHdrdmZndGIyczRaTzlmR21UeUFXeUlmOHdSc09CbmpJNWFqVTFYZmhYZW9vRkdMWmIybXJ0T3ZWYmhYaEcyLV9aZXk3R2FEYW1WUFdvb0hCdUQ1T05pOWcwSFZfQzZ3?oc=5",
+   "utc": "2026-11-22T20:57:49Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Clariant and CD&R in talks to buy chemicals firm Ashland, Bloomberg News reports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNGU2dFhkazJ0REFhVXA2a2cwaWU3YUlSWmw2R2c1VEQwVTJPVHdmUldvcHUyVGEwdkRxQlVxYVBQa05vd29KNnZBdm5JZ1c5YXhMVERPampXeXJhVl85eVJUVWRMS2JfWWlUU3VMUEpLeDZwSHlOYXdldERzekhVYTVVMDdLU1pnUGhRd1htVGFpNXNZQlNhX3ZrSjcwRmRJdWZhVlhuYktjQkRCUEZCejRqMV96NXlBNUFVTU1EeE1USmxEMmFVWndzNGVxYnR0cDVkWEJpMlo3TXFwMFhDSk1WWQ?oc=5",
+   "utc": "2026-11-22T20:47:37Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
+   "utc": "2026-11-22T20:31:44Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
-   "utc": "2026-11-22T14:00:00Z",
-   "tag": "BTC",
+   "title": "Social Security should be shut down, this Republican senator says",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+   "utc": "2026-11-22T20:26:00Z",
+   "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "Paolo Bulgari, architect of jeweller's rise to global luxury brand, dies at 89",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2pUWUhndWMyWTFmXzVMM0Q5YVR0UWtpSzc3c0JJOFc0X0hZWUtDc052d2VpMzNfT29HSThjMnNiRE55dk8xQjJsWldTNnpxaUcwQ2N0LV9FRTJYRlJRM21JdC12a05WWGFGZXNMazBKdG8xUG1Rb1FLa1duZFBZdVJBNHBHRnFvTGE1Y0VsVGRuajRTVE85ekNzc3JUdUZUMWZ5RFJ2dTVIdi1MMktlMkpScGEwVDlrN19ZNXJvX3FJdGpKYmc?oc=5",
-   "utc": "2026-11-22T13:51:46Z",
+   "title": "Asian firms urged to boost productivity",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3359575/asian-firms-urged-to-boost-productivity",
+   "utc": "2026-11-22T20:23:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Thailand plans to block exports of chemicals used in Myanmar rare earth mining",
+   "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb1lZVWE5R0ZWWm8zemV1M1lTemZUTXhoVzFINzVZeGN2LVpCLWcxbWJ1YkNwMDVtQy1QcTdFRVp1RDA2SHhNc1FLZ0F0N0JuREl3ZnNya3Ric2VkMkVxU0c5YWxaZGI3ZE1zR2lWWEVpUDJHdmdyN1NfWWxFWnVuQXBNX0tKelF5NHJqU3V4WWhCUEYyVlVjQVhXMzFSaGtkM2RyRWQ1cjJrOW5ucHlZZ2NFem9OTkRUZUhST2VRcG1hMy1ETFBnb2VFeWtZcVgw?oc=5",
-   "utc": "2026-11-22T13:43:43Z",
-   "tag": "THAI",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
+   "utc": "2026-11-22T20:21:39Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Japan's new spy bureau faces a long road to Five Eyes",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3RFbDVVOVM0OVJ6cXlkdE9uRW1FQXJNRWpkcWRMV1N3TEszSHduWC1vZlMyeTdPUW4wWXRnZzZoaEoxTW9UbmxXMnRKa1ZnUlJmaHBSU3c1SnlTaEFHeFdDYUdjN3ItRnhwRFpLdHp1MXZNYzFldXhlM1EyTkRfSVlPekg2QUwxSDJ1QmVR?oc=5",
+   "utc": "2026-11-22T20:05:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
+   "utc": "2026-11-22T20:00:00Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "California’s Wildfire Crisis Is Threatening Its Energy Future",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Californias-Wildfire-Crisis-Is-Threatening-Its-Energy-Future.html",
+   "utc": "2026-11-22T20:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Ten-man United hammered 4-0 by Liverpool in Pochettino debut",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUhXUjN4WGxrQVpITklfcVFxakdsblp6NnZQNWxYU0cwWEwxejlTRTNtU19zcm1rcWQ1ZVJBeXAyTUt5cE5CWXd4QmtOSmp2WUZqVjREQmhYcTBXOXlwX2NBQ3R6TkNQcXl5QkNfR3U4ZUVuR29qZWxfN0hHQkozYnJCSENya28xeWRqZTVSNURCVzB3b3QtRFpQbVFkdDByVzZMUDdZQjRFdk0?oc=5",
+   "utc": "2026-11-22T19:55:44Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Chinese player Liu suspended amid match-fixing probe",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTNOT0xoMUxOWXZ1cDNvME80cHBkWU5TZTFJbXhNQlB3VnVxQmtoVTZvM1BfZVBoZTZ0TGZmNmZDMGRacmpNa2FGd29IWjhyVllDYVhHOXJ2Wk9Nc0lXN3p3b1hOVkNDN085bWl1SVBNanBlQ3B0Y3pqNmhldUlfQmh3Z2M1dE1fUkhRTjNDZHhiR3p2RExEZTdjRzN4SmZJX1E?oc=5",
+   "utc": "2026-11-22T19:45:32Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "More on the pending oversight hearings: State of Crypto",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/",
+   "utc": "2026-11-22T19:30:00Z",
+   "tag": "BTC",
    "breaking": false
   }
  ]

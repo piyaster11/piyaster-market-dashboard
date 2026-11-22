@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:00:17Z",
- "level": 48,
+ "updated": "2026-11-22T15:26:08Z",
+ "level": 42,
  "band": "Watch",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   23,
-   34,
+   33,
+   35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   2,
-   6,
+   1,
+   3,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
+   3,
    4,
-   8,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,39 @@
  ],
  "headlines": [
   {
+   "title": "Belgium’s Airspace Closed 7 AM – 9 PM On Monday (November 23, 2026) & All Flights Canceled At Brussels Airport",
+   "source": "LoyaltyLobby",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbElwa0Jwckx3S3NseHVlS01RZi01NDI1dmlWUmtzVmhDXzIyMXMxRlA5SENXVGduU2h4YTlUYzJ5Tm9Ja1BfVy1FSWRWUGJ4YkhFNmdKbmM2VUZGOXdhTU1tUFB1bTZxYTg1djRHNVFnNlpQbWZob2JKbzBHSjNKNlpmdGZubm1qMTVOaVhVNERDXzRhV1hBYzdLdnlUUGlGMGJtTlpPRHRpRXRObm84SEFTZHFaM2xWX0otT0luZ1BtZC1UZG9vMFRYQm82Yk82RWNIdE5B?oc=5",
+   "utc": "2026-11-22T12:44:15Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 6.9,
+   "airspace": true
+  },
+  {
+   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
+   "utc": "2026-11-22T09:42:37Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "US Conducts Fresh Strikes on Iran; Tehran Announces Strait of Hormuz Closure",
+   "source": "DD News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeWMzRm9YVFlWUXl3NFNCR0h4ZE1RLUxfbkNsR2xDbHhtdTQyclVuOWxvU2xDTG0yUGtZdTRnRmphazV5TkYzMnphOWxWRnR0U1F4UnFwVFFpbFhjWVVoX09GMG5JbE56YXBlcVdNN3dVQ0d4VVNTdm5GQzJ1aC1oUmYwcDRtdy1XVzYtcWZBWFdNTjZlWnV5NHlwcjNYYVNPWXlJ?oc=5",
+   "utc": "2026-11-22T03:20:36Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.5,
+   "airspace": false
+  },
+  {
    "title": "FPL Gameweek 11: Saturday’s goals, assists, bonus + DefCon points",
    "source": "Fantasy Football Scout",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlRORjlCVzBYZ0xLa1NLTWZXUWFqODFTbjNTNThrTEJ1ZmxmT0VjSFRsUjBXMDN6OWxDV3g5R1RGMXBuZHNMcEZzX0g1RmtUX0hsdTRIMDZlZGdRWkZoQkFvVEY0NmFETzc5TlpWNVk3QzNEYzhfcWhFYmxIdzNqRzR5c3Rxa2R5NVRnQTBsYVhwSW4xekhaM0h2WEt6SUtHSFVYY2VSQU5rYV9vcjBvblJ3?oc=5",
@@ -97,7 +130,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.7,
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -108,7 +141,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.4,
+   "score": 4.0,
+   "airspace": false
+  },
+  {
+   "title": "Hormuz swim highlights environmental cost of war",
+   "source": "AOL.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMmNiMWdJVE91aUlSNkpIUEVEX3RjNkoxNHVqMmNaaXRNZTMyTjRXUVA3Qy1vNW9qTVZVamZGOXlrMjUtVEdGemwxSGVVZVZaSVNpRkEwTk1vVGsxaG9EU1h3WkIwQ3BiMUdiNUVlTzBUemhDX0V3TkpYV3g0RGhxWWhXQjNIaWQ1TWx3amNyWGk?oc=5",
+   "utc": "2026-11-21T16:12:35Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.0,
    "airspace": false
   },
   {
@@ -119,18 +163,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "UK Reports Two Tanker Strikes Near Oman's Khasab Coast",
-   "source": "cwibc.co.id",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QX1NISnlrY2RRbWdJM2xwY29pd183MTEwZmdTd3JaQWpBeXRqd3hCemI5UzRueHc4RUxsWHlvaXVBaGptM01nZWZsa3JtUkhwdUNiYVdVRlFrTHZTcktPVw?oc=5",
-   "utc": "2026-11-21T15:55:36Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
+   "score": 4.0,
    "airspace": false
   },
   {
@@ -141,51 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
-   "airspace": false
-  },
-  {
-   "title": "Hormuz Attacks Escalate as Swimmer Warns of Marine Damage",
-   "source": "cwibc.co.id",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WZnRzQ1NzRUJ4OWZEYUNnVUlVYk02bjA5b2dNcVRhbjJkUnFGdm93eHFVb1pyRDdkN1RkcnFvVzNBOV82ZUpmTVEydkdyYkN1Sk56S1o4eFlWUkhYR3B4bw?oc=5",
-   "utc": "2026-11-21T15:53:31Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Hormuz block hit Africa in four places",
-   "source": "The Independent Uganda",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50Z1dhSGNEMkFSbl9aYW9qTTVXNUVYX1N3YThnZHRNdVBSdkhuMVFyWWc1Wk0xa1Ric3NMaERnZFBzMHhaVTljVDFMV0tVSnduS0taSWd3ejhTOUUwNzUxTk9ZcS1iZ0p5eEE4QVYtLTd5dWtwSXFFWA?oc=5",
-   "utc": "2026-11-21T15:29:24Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Qatar Warns Hormuz Closure Threatens Global Economic Stability",
-   "source": "Limapagi",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15X2Jmb2JqWF9DTGhmcUpEVmE1QlVYQ0djM0U1ZVVaYnUtbVFsdTA1dmlEb2FGMWNyWHV5Qy1fdTVxYlV1U3NmdzFnbkxuTmVFdldfYkd0aWZtbXVyeC02azk0azJhSnpiSnI5aDhB?oc=5",
-   "utc": "2026-11-21T15:25:45Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Global crude exports hit record high despite Hormuz closure",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHh0dGhoam4yeldqaXFqRFd2blIzYm5ISFdfSUxSeHJYSFROU29MWjNlS1prcUdFYms2d05uN25halFtamRMSEFuc1gySWpkY0ZjSGhmSC1TVjY5TnFoNlE0ZVpYZG00QlJDdHRINmhLT1ZpdUdoUGNuZnpiOEM4NzVoVGgxaTIxR1pCVzhyQVBYVTcta1VpYTF4OWxQZ1Bi?oc=5",
-   "utc": "2026-11-21T15:25:00Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
+   "score": 5.0,
    "airspace": false
   },
   {
@@ -196,13 +185,24 @@
    "tags": [
     "NUKE"
    ],
-   "score": 5.3,
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "Adnoc’s LNG Tankers Go Dark to Get Gas Shipments Through Hormuz",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmFPa0lfN3RsUWJncGtGQk5iOWNpdVg0N25wdWE0NGV6U05IR3VmemVnb2JQTUFTQXdwNUJ4WXprNXc1NG83dHgyV1N4YXhuMl9yaThwMWhyWk4zaU5Xd3AtWklHRXhKQUVEazZiQ2V2anNTRHlzNUtfMmdtaFRnZ3IxbWdlaTJVOVdQUG13eFJTaU4xdTJUTg?oc=5",
+   "utc": "2026-11-20T22:18:42Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.3,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 4,
-  "global": 67,
+  "count": 3,
+  "global": 119,
   "baseline": 2.2,
   "samples": 28,
   "hist": [
@@ -813,6 +813,10 @@
    [
     "2026-11-22T07:00:17Z",
     4
+   ],
+   [
+    "2026-11-22T15:26:08Z",
+    3
    ]
   ],
   "box": [

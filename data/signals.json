@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T02:53:15Z",
- "level": 38,
+ "updated": "2026-11-23T13:02:40Z",
+ "level": 48,
  "band": "Watch",
  "components": [
   [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   24,
+   25,
    35,
    35,
    "1.5 pts per headline"
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
-   0,
+   5,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -90,6 +90,50 @@
  ],
  "headlines": [
   {
+   "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjhVM2FKUElUMkRPM2ZESFZ6ZTFrMnYxSy1Qc3VyU2Y2VmcydXF2NDM4Vk11RjNJVnpqVGNDYzdJWVR0VjM0REQ2eWF3ZkJSZXpwMTcyOHN4VDdLMlJuUVdJbElRZXlFRmlWSEZDMjdmdmp1andOMFl2ekE3U2ZuUVFOM0JBbjhDRlB2b2dtMkhFMUVSVVNFdzFGSWY5c1YwdHc?oc=5",
+   "utc": "2026-11-23T09:13:12Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Iran Keeps Strait of Hormuz Closed Pending US Terms",
+   "source": "Wisevoter",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXAtOV9CbkNNeUt6aDNVNnJiR0tROVhoQjQtYzRHX2xZYnhNekhkZkNvZ0lvbUNGVHNoWS1YdDc5dHEwQnRJWFhqcno5cDJ5LXVCRlVONE5mdXNFNDlJOWI4YXFLa3ZzWDI0bG5UOGVWdDd3NklCTWt5WHhTQ3lyQXZ0NnRram9nMDV5TzFn?oc=5",
+   "utc": "2026-11-23T08:29:24Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "South Korea Holds Evacuation Drills in Riga",
+   "source": "Wisevoter",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc19TU1I5RlY3bFlPRllZaFpKeF9MOW43Wk9XWlNOYzdpZkh4R3ZTMUFDMFFmYk5VX1Rhbi1EaWZ2OG5nODRKcTlYcE8zcmlCTVV1WkM0bm04SmlVejFyMFJBYzgzOVo1UFhPU3ZRNGRBSE9FeTFQUW5pZDB5akx1OXFicndvcjdI?oc=5",
+   "utc": "2026-11-23T05:59:40Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "Korea conducts evacuation drills in Latvia amid political uncertainty",
+   "source": "The Korea Times",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeGVsRmlFQ3RmQ043cWFMVHk1WWFNS0hNWUpHNmxPck9tdjdkLUNjZS1iYlVySkxYNGJXOW1OTlphcURZTVN0N002YkE5dGNGR3k3bFRDMFROQzRYc2plaENEMkVWbGhsenVTSnZtbm1XZ3RpUDJWV2twQVY5bFl4ajFUV3VjeDJtQkpkMFMxMlo4bV9lbnFtUVJlRnF5V2RrZHdleEl5WW5tSjc1eFBtRG9SQVZ6cWZYVUZGOXdqdFBubWQteVk0RDN1U2VEZ9IBzgFBVV95cUxPeGVsRmlFQ3RmQ043cWFMVHk1WWFNS0hNWUpHNmxPck9tdjdkLUNjZS1iYlVySkxYNGJXOW1OTlphcURZTVN0N002YkE5dGNGR3k3bFRDMFROQzRYc2plaENEMkVWbGhsenVTSnZtbm1XZ3RpUDJWV2twQVY5bFl4ajFUV3VjeDJtQkpkMFMxMlo4bV9lbnFtUVJlRnF5V2RrZHdleEl5WW5tSjc1eFBtRG9SQVZ6cWZYVUZGOXdqdFBubWQteVk0RDN1U2VEZw?oc=5",
+   "utc": "2026-11-23T05:39:06Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
    "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
@@ -97,18 +141,29 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
+   "score": 5.1,
+   "airspace": false
+  },
+  {
+   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkxGcHpab2N2cFVMemtPQVM4QllIeVVfY25XdHA4Q0lBSlFoWGREQnVxc1dWbERMYWNZeTJLaFgxX3dpNzJBRjNSWUFHbTJvYllvY0x0Z2V6R3BqWTdBNDFUZFdXME9FTFFOWlhFUUVGRGRVNVhhZHgtOFNOY01tZ29ncTJYSWFvLU9ocFp6T09Fbjdfa194aHM5dDI?oc=5",
+   "utc": "2026-11-22T16:25:39Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.1,
    "airspace": false
   },
   {
    "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-22T16:19:13Z",
+   "utc": "2026-11-22T16:23:31Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
+   "score": 4.1,
    "airspace": false
   },
   {
@@ -119,63 +174,8 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 6.4,
+   "score": 6.0,
    "airspace": true
-  },
-  {
-   "title": "Woman Is On Her Drive Home. Then She Receives An Urgent Warning From Her Cybertruck: ‘On A Dark Road... Full DEFCON 1'",
-   "source": "Motor1.com",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGNqNVZIcGEyYklXYTZXcHNWTDVUTFY0Z25WX1ZGVnZJdTNJM3hYYXhzOWkzM0F3OGJkM2ZjTVdZMm5KVVRObFE2M0pMYUVYRUhXSVpBWWlyeTAxbllkOEprYUxZSFo2dW1FOVdOOXRMZXRPY0tvcWJnZEVET1BoVjdhdk9odw?oc=5",
-   "utc": "2026-11-22T12:40:59Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
-   "utc": "2026-11-22T09:42:37Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.3,
-   "airspace": false
-  },
-  {
-   "title": "US Conducts Fresh Strikes on Iran; Tehran Announces Strait of Hormuz Closure",
-   "source": "DD News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeWMzRm9YVFlWUXl3NFNCR0h4ZE1RLUxfbkNsR2xDbHhtdTQyclVuOWxvU2xDTG0yUGtZdTRnRmphazV5TkYzMnphOWxWRnR0U1F4UnFwVFFpbFhjWVVoX09GMG5JbE56YXBlcVdNN3dVQ0d4VVNTdm5GQzJ1aC1oUmYwcDRtdy1XVzYtcWZBWFdNTjZlWnV5NHlwcjNYYVNPWXlJ?oc=5",
-   "utc": "2026-11-22T03:20:36Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.0,
-   "airspace": false
-  },
-  {
-   "title": "FPL Gameweek 11: Saturday’s goals, assists, bonus + DefCon points",
-   "source": "Fantasy Football Scout",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlRORjlCVzBYZ0xLa1NLTWZXUWFqODFTbjNTNThrTEJ1ZmxmT0VjSFRsUjBXMDN6OWxDV3g5R1RGMXBuZHNMcEZzX0g1RmtUX0hsdTRIMDZlZGdRWkZoQkFvVEY0NmFETzc5TlpWNVk3QzNEYzhfcWhFYmxIdzNqRzR5c3Rxa2R5NVRnQTBsYVhwSW4xekhaM0h2WEt6SUtHSFVYY2VSQU5rYV9vcjBvblJ3?oc=5",
-   "utc": "2026-11-21T22:55:18Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 3.8,
-   "airspace": false
-  },
-  {
-   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
-   "utc": "2026-11-21T16:29:32Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 7.6,
-   "airspace": false
   },
   {
    "title": "21 Indians rescued after tanker attack near Oman; one missing",
@@ -185,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.5,
+   "score": 4.1,
    "airspace": false
   },
   {
@@ -196,14 +196,14 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.5,
+   "score": 4.1,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 94,
-  "baseline": 2.3,
+  "count": 5,
+  "global": 260,
+  "baseline": 2.0,
   "samples": 27,
   "hist": [
    [
@@ -829,6 +829,10 @@
    [
     "2026-11-23T02:53:15Z",
     2
+   ],
+   [
+    "2026-11-23T13:02:40Z",
+    5
    ]
   ],
   "box": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T02:52:47Z",
+ "updated": "2026-11-23T13:02:09Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (13)"
+  "Nikkei Asia": "ok (17)"
  },
  "items": [
   {
-   "title": "US-India energy ties tighten as New Delhi snaps up Venezuelan oil",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTV94RHdXWTQ4RWdWR2Vsakw0b05PZVByRDU1dWt4RGRmZnRIMXZLaWt0dmlyY3Q0S1k0UkNWdl8yZHlReFVjQ0hoNWROZUFEVkNBNDVRMkFIcmRoS2xMbUZPUVJCamRqazhMSVpTeW5Oc010cTFsXzJkZnZ5c3h6MDZhRGpBSHJPalBhd0QwSXBTaUpHVDgwTXp6U0dvT05HXzc2NUx5V24?oc=5",
-   "utc": "2026-11-23T02:40:00Z",
-   "tag": "OIL",
+   "title": "Live news: Wall street rebounds as dollar index hits highest since March 2025",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+   "utc": "2026-11-23T13:01:20Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Indian shares set to open higher on foreign inflows as AI selloff persists",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMeEQzdWVxWE1RVWp3TUM2WnJRc2lqamVnM1Vlek5LdU1rZjVRNEdVOUNkMVpoNTRLQlMxRFlfUXZzd1JOQ2J2QUI2S0wzMTRUWnN5aVhrTG5qSmk0Mzc0NFEwU1owcEpPNlljaw?oc=5",
-   "utc": "2026-11-23T02:37:00Z",
+   "title": "Why Ed Yardeni Lowered His Year-End S&P 500 Target",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-23/why-ed-yardeni-lowered-his-year-end-s-p-500-target-video",
+   "utc": "2026-11-23T12:51:18Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "This discount retailer offers protection in a volatile market, says Piper Sandler",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/dollar-general-piper-sandler-upgrade.html",
+   "utc": "2026-11-23T12:50:48Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Stocks making the biggest moves premarket: Zscaler, Truist, Nvidia, LuxExperience & more",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html",
+   "utc": "2026-11-23T12:43:35Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "India’s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff",
-   "utc": "2026-11-23T02:36:16Z",
-   "tag": "GOLD",
-   "breaking": true
-  },
-  {
-   "title": "Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
-   "utc": "2026-11-23T02:30:05Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "AI rout deepens, keeping rupee rally alive on foreign equity buying",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWGxicy1yX3ZRZ05rRUhpRjhIZ0lrdnNtc3hfZnhpaDRuTUJPRG1BeGtkTFpmTWNTb29DVFYzRmxUeEVRRm1WX3lSVUNLbWtwUHpOU016dmNaRmVsb1JjcmJQOV95S2FvdTNTVWNmdWZXNlU0aDdmZ0NETWJ3dTRxM3ROeVMtOWljbVdIRFZqZUJYSUVaSGo2R2ZtS29uLTFSN0txaHljWU1GLUN3N2xiQw?oc=5",
-   "utc": "2026-11-23T02:29:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "MSCI Discussed Avoiding Indonesia Downgrade With Prabowo, Dalio",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
-   "utc": "2026-11-23T02:27:39Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Oil prices fall amid equity selloff though Iran war attacks limit losses",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5",
-   "utc": "2026-11-23T02:24:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "India's Tata Steel to buy 26.4% of APL Apollo for $1.67 billion",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONzFNU0U5bFVBRS1yY3VLYUtfZ2ZWYWN4TnJTbi1Hd3hUaXJnaEkxY1lIcGJiVjU2ZVVqSk4yckRoOFJLTFhPVHBSdXJjWmFRb3BtaHNyNWx4QkY5VEM2cVR0LWt5NkE1X3pmZl9YUVdHS0ZGWTllOHJuQ0s4RXBJY0VxeUFJdHNDWU1Da3NlZEh2Tkc5LWJ2U0dxQ3M?oc=5",
-   "utc": "2026-11-23T02:23:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Asia Market Measures May Buffer Stock Losses: BNP",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-23/asia-market-measures-may-buffer-stock-losses-bnp-video",
-   "utc": "2026-11-23T02:04:38Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Why Asia Market Stabilization Measures May Not Be Enough",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-23/why-asia-market-stabilization-measures-may-not-be-enough-video",
-   "utc": "2026-11-23T01:59:03Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Taiwan Stocks See Biggest Leverage Unwind in at Least 30 Years",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-23/taiwan-stocks-see-biggest-leverage-unwind-in-at-least-30-years",
-   "utc": "2026-11-23T01:55:17Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates",
+   "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
-   "utc": "2026-11-23T01:50:10Z",
+   "utc": "2026-11-23T12:42:48Z",
    "tag": "STOCKS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "China State Funds Ramp Up ETF Buying to Record as Rout Deepens",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-23/china-state-funds-ramp-up-etf-buying-to-record-as-rout-deepens",
-   "utc": "2026-11-23T01:48:30Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "China carmakers scale back humanoid robot ambitions",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHhaTWsxbVBacl9MX3FfSFYxRGVTWm0zaWFfaFpaN04ybklwenZqU19lbGs0NGRSaDAxZ1dNaHRLdWF3MDdEczB1eFdSOUg0eV9QNVMyQVd3R1R5Z2tlQTRLZ3FaaGdhaUFVQW5LOTFRSnhMS1Nsb2o5QW52WjdqWnpuT2JuR29PeUN4QkY1NFAwMnNVMlI0?oc=5",
-   "utc": "2026-11-23T01:45:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "Foreign inflows lend support to rupee, bonds; oil in focus",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX3Q3UzZ0MVgtdGxvNFJSTlZEblpycG1QMDNHVWdKSktWTDNWUE1JLW9TTXgxT28tQ3RQUjBzbnFINHk5SGtuSk5zdHJ1OGVXNFg1ZkpDOVpPOHE4MHFCRW9oYmpGdVBqbzRVVE91RjZEdldCWVctUUdxVDM5RDFkcXdqZ1NQeTE0aUR6b29RN3pjMEFadjY1OEt6OU00c0U?oc=5",
-   "utc": "2026-11-23T01:33:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "ICICI Prudential Seeks $800 Million as Alternatives Push Grows",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-23/icici-prudential-seeks-800-million-as-alternatives-push-grows",
-   "utc": "2026-11-23T01:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Beammwave AB (BEAMMWb.ST) | Stock Price & Latest News",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XaU04T0hpTS1CQzRUYldxVEkzZno3b1lSaEtxWGVPZTlmbWlsQmwyMWxpMUJYTW5LYkZ2RmpyX3JpMWN0cWJXOEVsOXRHeU9HeWg4dGhrZEgtakRUdlozZnhkRERwcW10RUROdFZoSVpfdlk?oc=5",
-   "utc": "2026-11-23T01:18:32Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Copper Falls Below $12,000 in London as Metals Turmoil Deepens",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
-   "utc": "2026-11-23T01:05:30Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "3 big things we're watching in the market this Thanksgiving week",
+   "title": "Arm's Haas extends contract to lead chip firm through 2033 amid Nvidia top job chatter",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
-   "utc": "2026-11-23T00:42:54Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "link": "https://www.cnbc.com/2026/11/23/arms-haas-extends-contract-to-lead-chip-firm-through-2033-amid-nvidia-top-job-chatter.html",
+   "utc": "2026-11-23T12:41:48Z",
+   "tag": "AI",
+   "breaking": true
   },
   {
-   "title": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
+   "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+   "utc": "2026-11-23T12:40:37Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "CrowdStrike bets on network security with $43.9 billion Zscaler deal",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html",
+   "utc": "2026-11-23T12:40:01Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "India announces $1.62 billion package to bolster ties with flood-hit Nepal",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWpDakZzTzdkdDFwdmNHcHlTc0Q0SDBxWEN3Uk5ZcmZaZXJzdzV3RXNtZkUzZzk1RlJKVFdkNkp5aVI2cVNaeVBBMFRBcXZ5S00xVVRvN3JuNXJUcXpvaVdrTnZPRmVhTUhuNHNEdDZtQmF4bFEyRVB4NG93c19Ub3hsQnJZNUJURGZjcndld1ZTVGViQnFDaGFzeExYaGVxZkE0SXdR?oc=5",
+   "utc": "2026-11-23T12:33:22Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
+   "utc": "2026-11-23T12:30:25Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Trump Says Strikes on Iran Could Resume After New Year",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-Strikes-on-Iran-Could-Resume-After-New-Year.html",
+   "utc": "2026-11-23T12:30:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Trump wants Jensen Huang back at Nvidia. What will it take to stop the tech selloff?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
+   "utc": "2026-11-23T12:26:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+   "utc": "2026-11-23T12:26:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "European Chip Stocks Bounce After AI Rout",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
-   "utc": "2026-11-23T00:30:45Z",
-   "tag": "FED",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/videos/2026-11-23/the-opening-trade-11-23-2026-video",
+   "utc": "2026-11-23T12:18:08Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
+   "utc": "2026-11-23T12:16:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Mahanadi Coalfields’ $953 Million India IPO Subscribed 1.5 Times",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-23/mahanadi-coalfields-953-million-india-ipo-subscribed-1-5-times",
+   "utc": "2026-11-23T12:15:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+   "utc": "2026-11-23T12:13:35Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Indonesia's ex-foreign minister, agriculture minister named VP candidates",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFpLQU1kNnRiRnhSX1dWZzBWU1UtRXlMOGQyTTdBR01TV0MyaU8wVzVCbWRlOGJoUHlrbFZtQ21wNGdubHZCLVEwa1RGTExtSXNfTUFWMmVYcENvWGdzRXJwZm56WEN3ZU5icGVIYlBjbWIwNXJiZ2gycW9McEtfbVhiYUdHY1NTVnhGV3pwV2x3elQwd3dTYzlRdUtZMHRGS2FQdHU2bWM?oc=5",
+   "utc": "2026-11-23T12:13:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "European Banks Set to Fire Up M&A Talks, Morgan Stanley Says",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-23/european-banks-set-to-fire-up-m-a-talks-morgan-stanley-says",
+   "utc": "2026-11-23T12:12:17Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "India announces $1.6bn flood-recovery package for Nepal",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXdjY2tncU9BS2tRQ1A5cHdxeHlZd04zNnhmaEw1V2RPbnA4cFNSOFpUbUhOdkI4VVlmbWIyclVUWXMtZlFaUmw2aHVJUDZpR1VEVk12N1JwOGFFN2VCWEpDZzhVYURNVEVHNk1vTFpsTGV6LTBSU2hRamtqNGp1a3hyUkNRR3RldU5qZFVISUFMNFRlUjFrQWxjamZrelZDaHNxVVJTMkZKLWp6TmN3Tg?oc=5",
+   "utc": "2026-11-23T12:09:00Z",
+   "tag": "MARKETS",
+   "breaking": true
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:02:09Z",
+ "updated": "2026-11-23T23:55:12Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (17)"
+  "Nikkei Asia": "ok (25)"
  },
  "items": [
   {
-   "title": "Live news: Wall street rebounds as dollar index hits highest since March 2025",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
-   "utc": "2026-11-23T13:01:20Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Why Ed Yardeni Lowered His Year-End S&P 500 Target",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-23/why-ed-yardeni-lowered-his-year-end-s-p-500-target-video",
-   "utc": "2026-11-23T12:51:18Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "This discount retailer offers protection in a volatile market, says Piper Sandler",
+   "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/dollar-general-piper-sandler-upgrade.html",
-   "utc": "2026-11-23T12:50:48Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves premarket: Zscaler, Truist, Nvidia, LuxExperience & more",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-23T12:43:35Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Nasdaq 100 futures rebound sharply to rise 3%, kick-starting shortened week after tech rout: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
-   "utc": "2026-11-23T12:42:48Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Arm's Haas extends contract to lead chip firm through 2033 amid Nvidia top job chatter",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/arms-haas-extends-contract-to-lead-chip-firm-through-2033-amid-nvidia-top-job-chatter.html",
-   "utc": "2026-11-23T12:41:48Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-   "utc": "2026-11-23T12:40:37Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "CrowdStrike bets on network security with $43.9 billion Zscaler deal",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html",
-   "utc": "2026-11-23T12:40:01Z",
+   "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
+   "utc": "2026-11-23T23:53:20Z",
    "tag": "WAR",
    "breaking": true
   },
   {
-   "title": "India announces $1.62 billion package to bolster ties with flood-hit Nepal",
+   "title": "North Korea considers shutting down Swiss diplomatic office in Pyongyang",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQlB5Sll5Uk95aUxtc1dzSEVSNEgyMVE1QU95LXZMNVl6cEVzMWVCUjAwQVRPcVp0Y3U2RnlWb0hka2UwekpEdVh3WnU2bGxWTWkzV3NSMjlWOTNXUU9BV2Y0bEVoTk1xcjgxLUVOZDVNaHpBbFNJMXVxcXVrUkNaS0tKeGVQeEFaQXFuaktqR0dxSjBBcnBHa2U5MktQWTd6enBKVU5BQ1ZWMWhtQ1VDWm5qWlRyU3pYSlBPLThlVi1td1RfUEQwRQ?oc=5",
+   "utc": "2026-11-23T23:48:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+   "utc": "2026-11-23T23:42:17Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+   "source": "CNBC Markets",
+   "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+   "utc": "2026-11-23T23:28:19Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic options post solid debut, trailing SpaceX record",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWpDakZzTzdkdDFwdmNHcHlTc0Q0SDBxWEN3Uk5ZcmZaZXJzdzV3RXNtZkUzZzk1RlJKVFdkNkp5aVI2cVNaeVBBMFRBcXZ5S00xVVRvN3JuNXJUcXpvaVdrTnZPRmVhTUhuNHNEdDZtQmF4bFEyRVB4NG93c19Ub3hsQnJZNUJURGZjcndld1ZTVGViQnFDaGFzeExYaGVxZkE0SXdR?oc=5",
-   "utc": "2026-11-23T12:33:22Z",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5",
+   "utc": "2026-11-23T23:24:52Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
-   "utc": "2026-11-23T12:30:25Z",
-   "tag": "BTC",
+   "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+   "utc": "2026-11-23T23:24:02Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Trump Says Strikes on Iran Could Resume After New Year",
+   "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo",
+   "utc": "2026-11-23T23:20:08Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "US to place Megaspeed on trade blacklist amid Nvidia scandal",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1R6NzQ4SnlnWjJFcTUtendaNnQtamFyRnJCN1R2QXZBczA0Vm1DVlJXa3FDbjhINGdxanRhTDRYc1JyWm5uV3o2THlvT2YtZmszcVRPQVRQLXA3bEx6dFg0VlFpZmtrVTJEeUxRWnY4bEloVTJEZWE5eWtwMDhvQVVhOENST3prcHRLS1p3RjVLT1RrbTVIOFlRUk9SOC1PbzdSQkxQTkJ4cjNPekkwV2VsSQ?oc=5",
+   "utc": "2026-11-23T23:20:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+   "utc": "2026-11-23T23:18:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+   "utc": "2026-11-23T23:14:34Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Startup Options Exchange Asks SEC to Approve Two New Venues",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues",
+   "utc": "2026-11-23T23:08:44Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "U-tapao forges ahead with terminal and airport expansion",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3360069/utapao-forges-ahead-with-terminal-and-airport-expansion",
+   "utc": "2026-11-23T23:05:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Nov. 24",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+   "utc": "2026-11-23T23:04:12Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "K-Research concerned over uptick in re-entry NPLs",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3360119/kresearch-concerned-over-uptick-in-reentry-npls",
+   "utc": "2026-11-23T23:04:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "DNI Jay Clayton tapped as acting national cyber director",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
+   "utc": "2026-11-23T23:02:18Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
+   "utc": "2026-11-23T23:00:01Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Quantum Computing Could Accelerate the Energy Transition",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-Strikes-on-Iran-Could-Resume-After-New-Year.html",
-   "utc": "2026-11-23T12:30:00Z",
+   "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Could-Accelerate-the-Energy-Transition.html",
+   "utc": "2026-11-23T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Thai EV registrations surge as incentive scheme nears expiry",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/motoring/3360124/thai-ev-registrations-surge-as-incentive-scheme-nears-expiry",
+   "utc": "2026-11-23T23:00:00Z",
+   "tag": "THAI",
+   "breaking": true
+  },
+  {
+   "title": "Cyberthreat surveillance stepped up as attacks rise",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3360144/cyberthreat-surveillance-stepped-up-as-attacks-rise",
+   "utc": "2026-11-23T22:54:00Z",
    "tag": "WAR",
-   "breaking": true
+   "breaking": false
   },
   {
-   "title": "Trump wants Jensen Huang back at Nvidia. What will it take to stop the tech selloff?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
-   "utc": "2026-11-23T12:26:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-   "utc": "2026-11-23T12:26:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "European Chip Stocks Bounce After AI Rout",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-23/the-opening-trade-11-23-2026-video",
-   "utc": "2026-11-23T12:18:08Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
-   "utc": "2026-11-23T12:16:00Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Mahanadi Coalfields’ $953 Million India IPO Subscribed 1.5 Times",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-23/mahanadi-coalfields-953-million-india-ipo-subscribed-1-5-times",
-   "utc": "2026-11-23T12:15:01Z",
+   "title": "Unemployment rate up amid skills mismatch",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3360159/unemployment-rate-up-amid-skills-mismatch",
+   "utc": "2026-11-23T22:51:00Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
-   "utc": "2026-11-23T12:13:35Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Indonesia's ex-foreign minister, agriculture minister named VP candidates",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFpLQU1kNnRiRnhSX1dWZzBWU1UtRXlMOGQyTTdBR01TV0MyaU8wVzVCbWRlOGJoUHlrbFZtQ21wNGdubHZCLVEwa1RGTExtSXNfTUFWMmVYcENvWGdzRXJwZm56WEN3ZU5icGVIYlBjbWIwNXJiZ2gycW9McEtfbVhiYUdHY1NTVnhGV3pwV2x3elQwd3dTYzlRdUtZMHRGS2FQdHU2bWM?oc=5",
-   "utc": "2026-11-23T12:13:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "European Banks Set to Fire Up M&A Talks, Morgan Stanley Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-23/european-banks-set-to-fire-up-m-a-talks-morgan-stanley-says",
-   "utc": "2026-11-23T12:12:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "India announces $1.6bn flood-recovery package for Nepal",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXdjY2tncU9BS2tRQ1A5cHdxeHlZd04zNnhmaEw1V2RPbnA4cFNSOFpUbUhOdkI4VVlmbWIyclVUWXMtZlFaUmw2aHVJUDZpR1VEVk12N1JwOGFFN2VCWEpDZzhVYURNVEVHNk1vTFpsTGV6LTBSU2hRamtqNGp1a3hyUkNRR3RldU5qZFVISUFMNFRlUjFrQWxjamZrelZDaHNxVVJTMkZKLWp6TmN3Tg?oc=5",
-   "utc": "2026-11-23T12:09:00Z",
-   "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   }
  ]
 }

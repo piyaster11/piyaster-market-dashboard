@@ -1,33 +1,33 @@
 {
- "updated": "2026-11-23T13:02:40Z",
- "level": 48,
- "band": "Watch",
+ "updated": "2026-11-23T23:55:27Z",
+ "level": 54,
+ "band": "Alert",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
-   0,
-   0,
+   1,
+   12,
    40,
    "20 per ordered/authorized departure, 12 per other Level 4"
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   25,
-   35,
+   21,
+   32,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   1,
-   3,
+   2,
+   6,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   5,
-   10,
+   3,
+   4,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -41,6 +41,16 @@
    "authorized": false,
    "date": "2025-12-29T00:00:00Z",
    "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.blr.html"
+  },
+  {
+   "src": "UK FCDO",
+   "country": "Ethiopia",
+   "level": 4,
+   "ordered": false,
+   "authorized": false,
+   "date": "2026-11-23T15:19:06Z",
+   "link": "https://www.gov.uk/foreign-travel-advice/ethiopia",
+   "note": "FCDO now advises against all but essential travel to East Borena and Arsi in Oromia Region. FCDO continues to advise against all travel and all but essential tr"
   },
   {
    "src": "US State",
@@ -90,26 +100,59 @@
  ],
  "headlines": [
   {
-   "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjhVM2FKUElUMkRPM2ZESFZ6ZTFrMnYxSy1Qc3VyU2Y2VmcydXF2NDM4Vk11RjNJVnpqVGNDYzdJWVR0VjM0REQ2eWF3ZkJSZXpwMTcyOHN4VDdLMlJuUVdJbElRZXlFRmlWSEZDMjdmdmp1andOMFl2ekE3U2ZuUVFOM0JBbjhDRlB2b2dtMkhFMUVSVVNFdzFGSWY5c1YwdHc?oc=5",
-   "utc": "2026-11-23T09:13:12Z",
+   "title": "Research reveals economic impact of Hormuz closure on Africa",
+   "source": "Susquehanna University",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUThMVXg0YmZ4a256N0plYlB4Qkk5R250eGZWUzNTb0JiVzZmUDBRQlNIUnZlOU9IVUJka3VMbm52MVZGaHUtb0o2em1MXzhXUjdjaVY5cUFhUTJEeEp1LXhvM1ZpWnNTVzdoT05wQUlSdlBVaDVkalJHMkYzUDJBUVJFSUU1VW80ZVpF?oc=5",
+   "utc": "2026-11-23T17:05:19Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
   },
   {
-   "title": "Iran Keeps Strait of Hormuz Closed Pending US Terms",
-   "source": "Wisevoter",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXAtOV9CbkNNeUt6aDNVNnJiR0tROVhoQjQtYzRHX2xZYnhNekhkZkNvZ0lvbUNGVHNoWS1YdDc5dHEwQnRJWFhqcno5cDJ5LXVCRlVONE5mdXNFNDlJOWI4YXFLa3ZzWDI0bG5UOGVWdDd3NklCTWt5WHhTQ3lyQXZ0NnRram9nMDV5TzFn?oc=5",
-   "utc": "2026-11-23T08:29:24Z",
+   "title": "Bypass the Strait of Hormuz? Why That’s Not So Easy",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZklLY3Z4cUgwRXNiZDlmWHpZR3A3WnJFSWV3SFotZU92S1ZmOWlTaF9nTnpaM1d6dXlrdWctWEUyN3ZRU3VNakNZdGk5c1U3R19GRi12c1llT3Y0MVVJWDA1cnBkbWVTRHhZejVONWkxbDV5UmZST3F3X3lmb0paV2wwbXpsdw?oc=5",
+   "utc": "2026-11-23T16:57:13Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": false
+  },
+  {
+   "title": "Hormuz shock lifts world's oil and gas import bill 25% to $1.6 trillion - IEA",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1ZrY09YVnRVVGlYck82dms0SkVMZVNQZ0k3Z0dhc3VBMlpYV1JIRHBqeTU1dzRUTnExQkVpano5aFltRTlDY0RRVHFDbGpfUEx2a1R5X0dYTlRMeUtLVzVSZmo5Um84S2RTRnNxM3pjX3RpUWRRNGhPSmFYMUNTSml6OU9ITHU4c0E1VGxLYw?oc=5",
+   "utc": "2026-11-23T15:36:37Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "Critically injured Gaza children evacuated to Britain for NHS treatment",
+   "source": "Yahoo News New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdHVkS0lETFI3UW5kdUZjZDZVOVFaQ1d6b3hEYTVZMjcxeUtLb3psNVcwNVAxRWotMTFQdS02Vkl2QVZSLUM0V3g0VVhqWDdfcTI5eUNrQUxZbkFacW4weDhDTU9IZHdrSHpISDVqUjZGRmJ4OElFQ3hnN0JvaGwxd0tlVkliMkFTWTRn?oc=5",
+   "utc": "2026-11-23T12:25:05Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.5,
+   "airspace": false
+  },
+  {
+   "title": "Belgian airspace closed due to general strike. More than 60,000 passengers affected",
+   "source": "ipn.md",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVZmbGxfQU9YS3BRWGpPSnE5dzFUNnRQUHNDZnR1S0tDc2NXS2hjUFlDRW9SM0pOYlBPWFN3eEw4cU9DVnhza3ZFYThUel9adGlveDdWQlVWcmNVeV9PVVlVZS1Wb0dhb292MHFPNEsxN1Y2ZFJkM2lDdlI5dzhYaHREOU1CQXRmS3ZNS2tRSkl1R2NvRkVDbHJjOEJiYXptYVE?oc=5",
+   "utc": "2026-11-23T11:00:39Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.5,
+   "airspace": true
   },
   {
    "title": "South Korea Holds Evacuation Drills in Riga",
@@ -119,18 +162,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.3,
    "airspace": false
   },
   {
    "title": "Korea conducts evacuation drills in Latvia amid political uncertainty",
    "source": "The Korea Times",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeGVsRmlFQ3RmQ043cWFMVHk1WWFNS0hNWUpHNmxPck9tdjdkLUNjZS1iYlVySkxYNGJXOW1OTlphcURZTVN0N002YkE5dGNGR3k3bFRDMFROQzRYc2plaENEMkVWbGhsenVTSnZtbm1XZ3RpUDJWV2twQVY5bFl4ajFUV3VjeDJtQkpkMFMxMlo4bV9lbnFtUVJlRnF5V2RrZHdleEl5WW5tSjc1eFBtRG9SQVZ6cWZYVUZGOXdqdFBubWQteVk0RDN1U2VEZ9IBzgFBVV95cUxPeGVsRmlFQ3RmQ043cWFMVHk1WWFNS0hNWUpHNmxPck9tdjdkLUNjZS1iYlVySkxYNGJXOW1OTlphcURZTVN0N002YkE5dGNGR3k3bFRDMFROQzRYc2plaENEMkVWbGhsenVTSnZtbm1XZ3RpUDJWV2twQVY5bFl4ajFUV3VjeDJtQkpkMFMxMlo4bV9lbnFtUVJlRnF5V2RrZHdleEl5WW5tSjc1eFBtRG9SQVZ6cWZYVUZGOXdqdFBubWQteVk0RDN1U2VEZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnQ1U05fRWFUNThfZ0NpNlpDa2kxYzZ2QWZEWmxISnhIZzQ4c0hMQ2dDNFduMzR1UDNnWjlTYmpMb0JkZW1VX3ViRkhaVXh1aDFYRUlHY3JnMVJCM2JPYS1uWTRiWV90QjZlMWZ5bHpfZGtOWDBxYjJLQldoR1NWeDJMblV5SnNRVlhBeEZ1cENtX2ZhSEktY0JQblNzcFVsWDZkSlBuOWdTRl9HSzduNXBYVTN2cUhYc2FycTJQN3U1OGNMUmdaU9IBzgFBVV95cUxPeGVsRmlFQ3RmQ043cWFMVHk1WWFNS0hNWUpHNmxPck9tdjdkLUNjZS1iYlVySkxYNGJXOW1OTlphcURZTVN0N002YkE5dGNGR3k3bFRDMFROQzRYc2plaENEMkVWbGhsenVTSnZtbm1XZ3RpUDJWV2twQVY5bFl4ajFUV3VjeDJtQkpkMFMxMlo4bV9lbnFtUVJlRnF5V2RrZHdleEl5WW5tSjc1eFBtRG9SQVZ6cWZYVUZGOXdqdFBubWQteVk0RDN1U2VEZw?oc=5",
    "utc": "2026-11-23T05:39:06Z",
    "tags": [
     "EVAC"
    ],
-   "score": 5.7,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -141,7 +184,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.1,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -152,18 +195,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-22T16:23:31Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.1,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -174,37 +206,15 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 6.0,
+   "score": 5.5,
    "airspace": true
-  },
-  {
-   "title": "21 Indians rescued after tanker attack near Oman; one missing",
-   "source": "Mangalore Today",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFZ4TWRqcklUT1ViVFA2YXphc0F2c3VxdkRoUUN6ck9FQ3VrcWVBdTJ3UXl5QVV0aEpEZVd4RGdBTWs2U0ZRQWVFWDhmdUt0dHl2cTZMcU1KR2tES3NiN1JpbDV3NUhQM0trNjlZOEhXNFdxSy02ei04VHVFTHVmVndaVWlBbUJlRUFpQkZCbVMxUjJrSmFDcDFfLVpiWHhqanpLdDk2SlY?oc=5",
-   "utc": "2026-11-21T15:55:04Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 4.1,
-   "airspace": false
-  },
-  {
-   "title": "Fake nuclear alerts hit emergency apps in Ukraine and Russia",
-   "source": "The Herald Insight",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XSDZ3M1pCT1B5UnZFcXhGWVNnbHdDeG13V0RvcHZuTG5jVVZkX1F2d0s4MmZSQnZvX0RXMk1oVnNsUHRlTVNZTUIxdFRuUWZYQ0Y1dkRUUkNNS0FrX3RGeWVtQ3lEYk5fOTljMDVta0o?oc=5",
-   "utc": "2026-11-21T14:58:02Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.1,
-   "airspace": false
   }
  ],
  "mil": {
-  "count": 5,
-  "global": 260,
-  "baseline": 2.0,
-  "samples": 27,
+  "count": 3,
+  "global": 227,
+  "baseline": 2.2,
+  "samples": 26,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -833,6 +843,10 @@
    [
     "2026-11-23T13:02:40Z",
     5
+   ],
+   [
+    "2026-11-23T23:55:27Z",
+    3
    ]
   ],
   "box": [

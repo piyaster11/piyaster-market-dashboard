@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:47:18Z",
+ "updated": "2026-11-23T02:53:15Z",
  "level": 38,
  "band": "Watch",
  "components": [
@@ -12,7 +12,7 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   26,
+   24,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   2,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -97,7 +97,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.7,
+   "score": 5.6,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-22T16:19:13Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -108,7 +119,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 6.5,
+   "score": 6.4,
    "airspace": true
   },
   {
@@ -119,7 +130,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.5,
+   "score": 4.4,
    "airspace": false
   },
   {
@@ -130,7 +141,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.4,
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -141,7 +152,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.1,
+   "score": 4.0,
    "airspace": false
   },
   {
@@ -152,7 +163,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.0,
+   "score": 3.8,
    "airspace": false
   },
   {
@@ -163,18 +174,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.7,
-   "airspace": false
-  },
-  {
-   "title": "Global crude exports reach record high despite Hormuz closure",
-   "source": "news.lavx.hu",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnhNQkk3dXB6Z25zdTNOTC1TRE5FNUNJcXhIcExaNGRpUjU1WERZSGRuZkV3S3pxZW82dGo3dWNUaUFjNWo3aWUwNTJwSFdSUXJLd3BqcGE5OUgwSXdVQmthTWNNU29ab3JsWkVpQ2U4YzZrb00tVkE0ZnYxNEJJb0NyRXJ6STExWktlS2ZIci1CY3ZZ?oc=5",
-   "utc": "2026-11-21T16:18:59Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 3.7,
+   "score": 7.6,
    "airspace": false
   },
   {
@@ -185,7 +185,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.7,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -196,15 +196,15 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.6,
+   "score": 4.5,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 104,
-  "baseline": 2.2,
-  "samples": 28,
+  "count": 2,
+  "global": 94,
+  "baseline": 2.3,
+  "samples": 27,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -825,6 +825,10 @@
    [
     "2026-11-22T23:47:18Z",
     0
+   ],
+   [
+    "2026-11-23T02:53:15Z",
+    2
    ]
   ],
   "box": [

@@ -25,7 +25,7 @@ def main():
         q = j["indicators"]["quote"][0]
         spx = [[dt.datetime.fromtimestamp(t, dt.UTC).strftime("%Y-%m-%d"), round(o, 2), round(h, 2), round(l, 2), round(c, 2)]
                for t, o, h, l, c in zip(j["timestamp"], q["open"], q["high"], q["low"], q["close"]) if None not in (o, h, l, c)]
-        pg.goto("https://www.wsj.com/market-data/stocks/marketsdiary", timeout=60000); pg.wait_for_timeout(8000)
+        pg.goto("https://www.wsj.com/market-data/stocks/marketsdiary", timeout=90000, wait_until="domcontentloaded"); pg.wait_for_timeout(8000)
         t = pg.inner_text("body"); nyse = t[t.find("NYSE\tLatest Close"):]
         nyse = nyse[:nyse.find("NASDAQ")]
         hi = re.search(r"New highs\t([\d,]+)\t([\d,]+)\t([\d,]+)", nyse).groups()

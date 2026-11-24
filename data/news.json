@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:03:32Z",
+ "updated": "2026-11-24T21:20:12Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -8,169 +8,169 @@
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
-  "Bangkok Post": "fail: HTTP Error 451: ",
-  "Nikkei Asia": "ok (30)"
+  "Bangkok Post": "ok (10)",
+  "Nikkei Asia": "ok (34)"
  },
  "items": [
   {
-   "title": "Grocery Prices Are on the Rise, Just in Time for Thanksgiving",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-24/grocery-prices-are-on-the-rise-just-in-time-for-thanksgiving",
-   "utc": "2026-11-24T11:00:55Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
-   "utc": "2026-11-24T10:58:51Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns: Live updates",
+   "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-   "utc": "2026-11-24T10:57:55Z",
+   "utc": "2026-11-24T21:16:50Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+   "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-   "utc": "2026-11-24T10:56:56Z",
+   "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+   "utc": "2026-11-24T21:15:23Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
-   "utc": "2026-11-24T10:55:30Z",
-   "tag": "BTC",
+   "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "utc": "2026-11-24T21:15:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Commerzbank Considers Partial Treasury Market Pullback",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-24/commerzbank-considers-partial-treasury-market-pullback-video",
-   "utc": "2026-11-24T10:52:23Z",
-   "tag": "FED",
+   "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+   "utc": "2026-11-24T21:14:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Dell’s stock rises as the AI boom helps sales more than double",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+   "utc": "2026-11-24T21:14:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+   "utc": "2026-11-24T21:13:39Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklaemoxV1Blc3lnelpxZHVwbmdXYUZBVHg2M1dBUzhwcU1PNVp2STNsbWlQMU5POEpHNmFabWtzNjMyTGRwR3dVRURmbDJITXdKZHJsbGdQVkQwZ1d1dmM3cVc3RGZsUGxGbDVmeDVRQVJMZ0c2b3ZNcTdyQ08ycHlSMlNnT3dYMUJzWXZ1VXh0LWJBdkFpeDF5TjRyMk40Y0FHZDdaSWoxQjFIUGNEYlJQWEZKZl9BQ04tTnl1WXl1cElH?oc=5",
+   "utc": "2026-11-24T21:09:06Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
    "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-   "utc": "2026-11-24T10:50:26Z",
+   "utc": "2026-11-24T21:07:19Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge",
+   "title": "Russian Pleads Not Guilty in Snooping Case Targeting Palantir",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/russian-pleads-not-guilty-in-snooping-case-targeting-palantir",
+   "utc": "2026-11-24T21:04:19Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+   "utc": "2026-11-24T21:04:03Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Trending",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQjF3ZWRBTUpfdHRETlhBZEhuWkpUR3JmLWdaYVZhNUpMUlBTdExmVnBZejVRbkVWcDR3LWxvRHRfbnMxVlV3?oc=5",
+   "utc": "2026-11-24T21:00:47Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Where Does Texas' Data Center Boom Go From Here?",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Poised-to-Ramp-Up-LNG-Buying-as-Power-Prices-Surge.html",
-   "utc": "2026-11-24T10:35:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Actuate to Invest $327 million in Spain’s Largest Battery Deal",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/actuate-to-invest-327-million-in-spain-s-largest-battery-deal",
-   "utc": "2026-11-24T10:34:12Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Colleges Rejecting Fossil Fuel Divestment Enjoy a Rich Payoff",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-24/colleges-rejecting-fossil-fuel-divestment-enjoy-a-rich-payoff",
-   "utc": "2026-11-24T10:30:33Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Pimco’s Ivascyn Says AI Disruption Risk Boosts Appeal of Bonds",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/pimco-s-ivascyn-says-ai-disruption-risk-boosts-appeal-of-bonds",
-   "utc": "2026-11-24T10:30:00Z",
+   "link": "https://oilprice.com/Energy/Energy-General/Where-Does-Texas-Data-Center-Boom-Go-From-Here.html",
+   "utc": "2026-11-24T21:00:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
-   "utc": "2026-11-24T10:29:14Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-   "utc": "2026-11-24T10:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "LME to List Major New Aluminum Brand as Historic Squeeze Deepens",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/lme-to-list-major-new-aluminum-brand-as-historic-squeeze-deepens",
-   "utc": "2026-11-24T10:10:02Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
-   "utc": "2026-11-24T10:08:38Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
-   "utc": "2026-11-24T10:01:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Here’s your chance to bid on Alex Trebek’s former $6.45 million California ranch and winery",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/heres-your-chance-to-bid-on-alex-trebeks-former-6-45-million-california-ranch-and-winery-0f0cd4f5?mod=mw_rss_topstories",
-   "utc": "2026-11-24T09:58:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "The bull and bear surprises that could ambush investors next year, according to Bank of America",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
-   "utc": "2026-11-24T09:58:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Indonesia and Thailand drag down ASEAN's 2026 IPO proceeds",
+   "title": "China ramps up campaign to electrify the world's trucking fleet",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnVESy1ZUGhOb09lc3lDVkQ2YmhkVE9pZnhFZTY5dEZWSExqRGEyTmdzZlJ6ZzVHRE5NVmNiYjd5VmRnOWNyYjQwT21Hc1NYNjhoS01VbWVyUUtrb3BEN3d1RjBnbUpjN3ROWVVJdEV0TDBob21CM3NCejRzMWwwbDlmMHVzSF9yV0c4Tm82N05xMndxd09PZEs5MTA0V0RoUmJvWVl3?oc=5",
-   "utc": "2026-11-24T09:58:00Z",
-   "tag": "THAI",
-   "breaking": false
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGxScDUxY05naldCYW5uTFQ4NW5mRjlVMWxJX1R1ZUJtRUNKQzdlRWZxUi1NcFBaNFo3VmRpb2gtZGNob1p4SW5nYXNRN3V5ZFlDS2ZTb0NXbnJLVUdRbXVDbHRyaVhibUxDazBGMGQwR2IzRHJxRVo2Z2ExdElaN0FZQjVmV1Bzb0tlakJDQW9iRWNBRGhxWkJjT21jVDF1YVkxbFhKdDltM3MyNm53?oc=5",
+   "utc": "2026-11-24T21:00:00Z",
+   "tag": "CHINA",
+   "breaking": true
   },
   {
-   "title": "Mercuria Hires Alex Humphries as Global Head of Fuel Oil Trading Ahead of Eni JV",
+   "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+   "utc": "2026-11-24T20:58:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/mercuria-hires-alex-humphries-as-global-head-of-fuel-oil-trading-ahead-of-eni-jv",
-   "utc": "2026-11-24T09:53:13Z",
-   "tag": "OIL",
-   "breaking": false
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
+   "utc": "2026-11-24T20:55:49Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Toshiba, Hitachi bolster critical infrastructure cyberdefense teams",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamhpcTRhWFhCZ3hnVFRmU2RBSXpVZll1WW84QWE3NVhKbUtRWS1TNU9XSUJxeHF5YnJvTXY5RmxLUjZFT1pYQnJYMGJsV0pfUGRVaU1TU0xRZ0d0RWlTYmZvUjBhWDN0QWNnMzB3OFNUeHVkMVFtZl93T3BpRGFMMGRQQXhuTGIzWEd3ZE13THRjb0tTdTdNZF9oNEZyc0ZJbVF2eWR0SGJXdjhMSnk0aC1helk?oc=5",
+   "utc": "2026-11-24T20:54:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+   "utc": "2026-11-24T20:45:57Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Corporate Japan logs record first-half profit on AI demand, soft yen",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0w1YWNTTjdCc0RLMzg1cUx1dU1iQTc1bDRkY1dld1VQekIyYWRUMFFIdXNPVUtxQ1dUc1VQVlQxVzNNNUJ2T21DdEFwRVdaUGZZb3NiOGlKLUY2Mk5iRmdNeExhRUtjMjJIZkJTSVFpeWNvbDVkcndwUVBPRXZ2RmFXcEhYTEZaUUxJN2FjSDh5eEdrRFNDZ3piT3k4ZXk5YWV6TjVfTm5ScEI4eW0w?oc=5",
+   "utc": "2026-11-24T20:44:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+   "utc": "2026-11-24T20:42:07Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
+   "utc": "2026-11-24T20:42:00Z",
+   "tag": "AI",
+   "breaking": true
   }
  ]
 }

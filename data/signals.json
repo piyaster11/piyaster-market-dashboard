@@ -1,33 +1,33 @@
 {
- "updated": "2026-11-24T11:03:59Z",
+ "updated": "2026-11-24T21:20:34Z",
  "level": 69,
  "band": "Alert",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
-   1,
-   12,
+   2,
+   24,
    40,
    "20 per ordered/authorized departure, 12 per other Level 4"
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   24,
+   32,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   4,
-   12,
+   2,
+   6,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   6,
-   10,
+   3,
+   4,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -41,6 +41,15 @@
    "authorized": false,
    "date": "2025-12-29T00:00:00Z",
    "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.blr.html"
+  },
+  {
+   "src": "US State",
+   "country": "Afghanistan",
+   "level": 4,
+   "ordered": false,
+   "authorized": false,
+   "date": "2026-11-24T00:00:00Z",
+   "link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.afg.html"
   },
   {
    "src": "UK FCDO",
@@ -103,33 +112,88 @@
    "title": "Biman to keep Riyadh flights suspended until December 16",
    "source": "New Age BD",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjZNakd2UmdDV1RQSHB1cVpPVUl4TlZPWW5IVTU5RVUxNHNVcHJ6em02a1hnMVFsRmItM3U5QW5wMHpkR3ZSVWc1aGc3X0FxM3NybnRUS1RrQkNaWGVkUWlNVkw0Z1FpSXhRemlvaHJnYmFSNXVOeDRTMDd3X2dvcGhhMk94VEUwanR1bG50SmJDbXRIb2V0RHRWdlhKWmRnbFN4MHdBcVN6MGFnUVE?oc=5",
-   "utc": "2026-11-24T10:41:00Z",
+   "utc": "2026-11-24T16:18:03Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": true
   },
   {
-   "title": "Iranian army commander urges tightening Strait of Hormuz closure",
-   "source": "Trend News Agency",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fd1VGbDRzTXp3Z255MjVFNDBGQnhWTzFTVlRuT1FqTXYzZ094eFoyT1VwZGNyR1lwMVlRc1BnYUUwcVRublEzcmx3X2Zza1k?oc=5",
-   "utc": "2026-11-24T08:57:47Z",
+   "title": "Paul Finebaum Names Culprit as LSU's SEC Expulsion Crisis Reaches 'DEFCON 1'",
+   "source": "Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVh3WDNqUEhlQm9RU0pqUEMzbDh5SGNMMjdxTnRFVTl6QmExN21jcEpyMnBoMDVTelllcE10ZEtDR25sX2kycXpWZy0wX25TS242TVBtOXN1MmhxaWkxZi1vVmk4ZVhhNXZCX1BWdURLdVpxSnhubGNBcTVHektQYVJFZ0xNYnVUOWluSnh5UUkyTnZVS2NhRWdmb2ZKcTI2NWotUEZacHduOWxCMUxaVVlFbmcyaGF5QVE?oc=5",
+   "utc": "2026-11-24T15:57:19Z",
    "tags": [
-    "HORMUZ"
+    "NUKE"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
-   "title": "Iran's army chief orders tighter closure of Strait of Hormuz until Tehran's demands are met",
-   "source": "Roya News",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWtLZ1NlY1NKeDNJbDF4Y1Q4dHJwaDFlNS0zQ2NVdVNWdUdFSTAtZmFaMEFyY0tCQ05FRTN1d0F1VmYtWVA5emdxMVphVUJ4YVdvMGllS3hjbW5JTlpYTVZ5V0ZqSHM3NFdaRkJseU5NSFdOTUdYbXdoV2k3U1RBX2FzdGZQd1pMM0NiWE1OekpnNUVxdF9ydG9DMTA3NmI1RkxVWUNzZlJWaEpHWXhBZUhMdXV6eEg4YlgxM29YOWxYSFU?oc=5",
-   "utc": "2026-11-24T08:36:13Z",
+   "title": "Iran Tightens Hormuz Closure as Tanker Attacks Cut Oil Traffic",
+   "source": "Limapagi",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XdXJBS01zMVhwUUs0N0pnZGo2Qk1aNzVNTW5jN21veVQtN3FicEswcFNQX3lUTUE0cjA3OVpQM3VWZTNzT1BLRXd5WFplUU9UaC1mVmJ2WlZlNzR2bjFQZFpWUQ?oc=5",
+   "utc": "2026-11-24T15:00:17Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "High school evacuation starterpack | /r/starterpacks",
+   "source": "Know Your Meme",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aa1RjNGl5RXlBYkRsQ21MN3ZhQW9tUkwzZGJiZDYwbXZXRW1YS3FHUGVOb3VVeEJ3czc5T2VVYzUzbXQ1YmpPMHBlazRwVVRQUnM1WTVZNFBGMWJhcFRsdV84aw?oc=5",
+   "utc": "2026-11-24T14:21:46Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "Endurance swimmer provides rare insight to what the Strait of Hormuz really looks like",
+   "source": "Forces News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWt5bEZrM1c0dG53SXVBblJjdmd0eVRNWXl6VGJRdzQ4TlgyekJpXzl1UDk1Z3JoVTI2OUlrUmZUMVkwTE14T0lNRUZsZ1Z5Z0dOcERPZ0NmdGRaU1dSNl9Pc01Nd0dCWnVfcUg3VXI2cUJrNVpSX1NTNmNLVk9odGZ0X0ZoNlRZVEtHSFVseGh3M2tQYWtJWDZsbWVUckh4MjNsb1ctUklFdWtJaFJ5YmVqZk5iNEJwaldhUlVn?oc=5",
+   "utc": "2026-11-24T13:58:33Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
+   "source": "Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWtaYWl0aXk3bE1SVS1CWDdMUy1NSmNQTUxHbTFRbFlFemVOS0FkZDE4TjVZWDNUODUycDJHTXpfaGp6SWwya2gxWVhJUlk1bWUxTmpjSk5UZm5wME5ZYWc5SkJsM1I2Vmx2c2paS3owWTdPX0pDN0ZXUUtQck11OHFfSVhwd18yakNEM3NBaTBPbmtTRjVNSnNISklHTUE3ZkJLclh4LXQzbUNZOGx3dC1n0gG3AUFVX3lxTE9yaW03aWdDZFBjTUh0YXhVMk5hdy0ybmpGQXZ5UVkwN3N3M0NrQkRTTVVwQkpEY3BBQ3ZxS0c2cmdyMUlNSlZrbmNWUzQzc05SN29ZS2h4dXJuVzdyWVFOcGVmbEFfaWxPNlpTT1JVdDJqdHRkaTE4QTZMZkFqNFl5RURUOHB6SWR5WmFTSldZcWhSa25SSVBjYkJhT09Od2Jvb2gzQzktYjZJWUxObGFoaW1kbjN1cw?oc=5",
+   "utc": "2026-11-24T13:46:20Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.7,
+   "airspace": false
+  },
+  {
+   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
+   "utc": "2026-11-24T12:55:44Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.6,
+   "airspace": false
+  },
+  {
+   "title": "Gaza Evacuations Show What NHS Coordination Can Achieve",
+   "source": "Distilled Post",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFZ5YWxBMVhiOXNCd2tnV3hxNzh6eDE1bno2YkNsbVVkSzBmT1Q5WmlTLXpzQXoxaGl2NFNQdUZKeERWMW1EV1BFQ2N6M19IbXdIQVNlbThmcjI2b1c1M2VhLTg0S0Y5RWFzMVdQUVc1UVFBRFg5bzAwcGNIenRZSHB1TnEtT2JYYlA1Vlh4V0VOMEtm?oc=5",
+   "utc": "2026-11-24T10:44:07Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.6,
    "airspace": false
   },
   {
@@ -140,18 +204,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.9,
-   "airspace": false
-  },
-  {
-   "title": "Oil prices near three-month lows as rising supply offsets Hormuz threat",
-   "source": "KFGO",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDN5b0JIRzYtMVF0d0d4cFlKS3ptUUFDYjF5ekdMaG9mVkktXy1uUXRmdkRFTDNpTFZoOEhUcHZ4YllwSEdwM2liR1ZzaVJLUnk5bjZ1YjAtYVlaZUdNNmtlalN1NzNNYjY3Q2c4Y0pyaEgwRW1tRUo3Sk9sOFEteFd4NW51NGFkZjRTWng5ZWF1ZVNYTVJEaXhDWHdlQ1k?oc=5",
-   "utc": "2026-11-24T07:35:53Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
+   "score": 5.5,
    "airspace": false
   },
   {
@@ -162,58 +215,14 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.2,
-   "airspace": false
-  },
-  {
-   "title": "Critically injured Gaza children evacuated to Britain for NHS treatment",
-   "source": "Yahoo News New Zealand",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdHVkS0lETFI3UW5kdUZjZDZVOVFaQ1d6b3hEYTVZMjcxeUtLb3psNVcwNVAxRWotMTFQdS02Vkl2QVZSLUM0V3g0VVhqWDdfcTI5eUNrQUxZbkFacW4weDhDTU9IZHdrSHpISDVqUjZGRmJ4OElFQ3hnN0JvaGwxd0tlVkliMkFTWTRn?oc=5",
-   "utc": "2026-11-23T12:25:05Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.1,
-   "airspace": false
-  },
-  {
-   "title": "Belgian airspace closed due to general strike. More than 60,000 passengers affected",
-   "source": "ipn.md",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVZmbGxfQU9YS3BRWGpPSnE5dzFUNnRQUHNDZnR1S0tDc2NXS2hjUFlDRW9SM0pOYlBPWFN3eEw4cU9DVnhza3ZFYThUel9adGlveDdWQlVWcmNVeV9PVVlVZS1Wb0dhb292MHFPNEsxN1Y2ZFJkM2lDdlI5dzhYaHREOU1CQXRmS3ZNS2tRSkl1R2NvRkVDbHJjOEJiYXptYVE?oc=5",
-   "utc": "2026-11-23T11:00:39Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 5.0,
-   "airspace": true
-  },
-  {
-   "title": "South Korea Holds Evacuation Drills in Riga",
-   "source": "Wisevoter",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc19TU1I5RlY3bFlPRllZaFpKeF9MOW43Wk9XWlNOYzdpZkh4R3ZTMUFDMFFmYk5VX1Rhbi1EaWZ2OG5nODRKcTlYcE8zcmlCTVV1WkM0bm04SmlVejFyMFJBYzgzOVo1UFhPU3ZRNGRBSE9FeTFQUW5pZDB5akx1OXFicndvcjdI?oc=5",
-   "utc": "2026-11-23T05:59:40Z",
-   "tags": [
-    "EVAC"
-   ],
    "score": 4.8,
    "airspace": false
-  },
-  {
-   "title": "Belgium’s Airspace Closed 7 AM – 9 PM On Monday (November 23, 2026) & All Flights Canceled At Brussels Airport",
-   "source": "LoyaltyLobby",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbElwa0Jwckx3S3NseHVlS01RZi01NDI1dmlWUmtzVmhDXzIyMXMxRlA5SENXVGduU2h4YTlUYzJ5Tm9Ja1BfVy1FSWRWUGJ4YkhFNmdKbmM2VUZGOXdhTU1tUFB1bTZxYTg1djRHNVFnNlpQbWZob2JKbzBHSjNKNlpmdGZubm1qMTVOaVhVNERDXzRhV1hBYzdLdnlUUGlGMGJtTlpPRHRpRXRObm84SEFTZHFaM2xWX0otT0luZ1BtZC1UZG9vMFRYQm82Yk82RWNIdE5B?oc=5",
-   "utc": "2026-11-22T12:44:15Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 5.1,
-   "airspace": true
   }
  ],
  "mil": {
-  "count": 6,
-  "global": 229,
-  "baseline": 2.1,
+  "count": 3,
+  "global": 340,
+  "baseline": 2.2,
   "samples": 28,
   "hist": [
    [
@@ -855,6 +864,10 @@
    [
     "2026-11-24T11:03:59Z",
     6
+   ],
+   [
+    "2026-11-24T21:20:34Z",
+    3
    ]
   ],
   "box": [

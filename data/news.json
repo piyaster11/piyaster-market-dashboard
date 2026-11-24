@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:20:12Z",
+ "updated": "2026-11-24T23:49:24Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (34)"
+  "Nikkei Asia": "ok (32)"
  },
  "items": [
   {
-   "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-   "utc": "2026-11-24T21:16:50Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-   "utc": "2026-11-24T21:15:23Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "utc": "2026-11-24T21:15:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
-   "utc": "2026-11-24T21:14:00Z",
-   "tag": "AI",
+   "title": "US Readies Tariff Hike on China, EU Goods",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video-mwvca1k8",
+   "utc": "2026-11-24T23:41:59Z",
+   "tag": "CHINA",
    "breaking": true
   },
   {
    "title": "Dell’s stock rises as the AI boom helps sales more than double",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-   "utc": "2026-11-24T21:14:00Z",
+   "utc": "2026-11-24T23:34:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-   "utc": "2026-11-24T21:13:39Z",
+   "title": "Agreement offers backing for real estate developers",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3360909/agreement-offers-backing-for-real-estate-developers",
+   "utc": "2026-11-24T23:26:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking",
+   "title": "AI investments set to drive growth",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3360834/ai-investments-set-to-drive-growth",
+   "utc": "2026-11-24T23:17:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklaemoxV1Blc3lnelpxZHVwbmdXYUZBVHg2M1dBUzhwcU1PNVp2STNsbWlQMU5POEpHNmFabWtzNjMyTGRwR3dVRURmbDJITXdKZHJsbGdQVkQwZ1d1dmM3cVc3RGZsUGxGbDVmeDVRQVJMZ0c2b3ZNcTdyQ08ycHlSMlNnT3dYMUJzWXZ1VXh0LWJBdkFpeDF5TjRyMk40Y0FHZDdaSWoxQjFIUGNEYlJQWEZKZl9BQ04tTnl1WXl1cElH?oc=5",
-   "utc": "2026-11-24T21:09:06Z",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakxRRS1xODNKVEMzdlowcjUzd2g4amNoV0JSSzdQc0JEUXg1WWxSbGxOaGhYWDZWSlQzeldBelpvUnpXb3g3bHdMUWd4NWhiZFJRZnEtSWU4TDBXS0Q1Q21CWE9QUkxkT2YxYVI5MzlJNkVJS3FRZ3NuMG90Y0JBMFNKRGEtOEhlOUktTVJwU2hoSHVVVW56NXI0ZlZIOHo3TGt0UTc3VnA4VlV5MGZoTmlfS05qQlpQcWpiUWNtSjI?oc=5",
+   "utc": "2026-11-24T23:14:23Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+   "title": "Stocks making the biggest moves Tuesday: Ambarella, Dell, Autodesk, Urban Outfitters & more",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-   "utc": "2026-11-24T21:07:19Z",
+   "link": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+   "utc": "2026-11-24T23:14:03Z",
    "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Russian Pleads Not Guilty in Snooping Case Targeting Palantir",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/russian-pleads-not-guilty-in-snooping-case-targeting-palantir",
-   "utc": "2026-11-24T21:04:19Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-   "utc": "2026-11-24T21:04:03Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Trending",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQjF3ZWRBTUpfdHRETlhBZEhuWkpUR3JmLWdaYVZhNUpMUlBTdExmVnBZejVRbkVWcDR3LWxvRHRfbnMxVlV3?oc=5",
-   "utc": "2026-11-24T21:00:47Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Where Does Texas' Data Center Boom Go From Here?",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Where-Does-Texas-Data-Center-Boom-Go-From-Here.html",
-   "utc": "2026-11-24T21:00:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "China ramps up campaign to electrify the world's trucking fleet",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGxScDUxY05naldCYW5uTFQ4NW5mRjlVMWxJX1R1ZUJtRUNKQzdlRWZxUi1NcFBaNFo3VmRpb2gtZGNob1p4SW5nYXNRN3V5ZFlDS2ZTb0NXbnJLVUdRbXVDbHRyaVhibUxDazBGMGQwR2IzRHJxRVo2Z2ExdElaN0FZQjVmV1Bzb0tlakJDQW9iRWNBRGhxWkJjT21jVDF1YVkxbFhKdDltM3MyNm53?oc=5",
-   "utc": "2026-11-24T21:00:00Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
-   "utc": "2026-11-24T20:58:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
-   "utc": "2026-11-24T20:55:49Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Toshiba, Hitachi bolster critical infrastructure cyberdefense teams",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamhpcTRhWFhCZ3hnVFRmU2RBSXpVZll1WW84QWE3NVhKbUtRWS1TNU9XSUJxeHF5YnJvTXY5RmxLUjZFT1pYQnJYMGJsV0pfUGRVaU1TU0xRZ0d0RWlTYmZvUjBhWDN0QWNnMzB3OFNUeHVkMVFtZl93T3BpRGFMMGRQQXhuTGIzWEd3ZE13THRjb0tTdTdNZF9oNEZyc0ZJbVF2eWR0SGJXdjhMSnk0aC1helk?oc=5",
-   "utc": "2026-11-24T20:54:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-   "utc": "2026-11-24T20:45:57Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Corporate Japan logs record first-half profit on AI demand, soft yen",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0w1YWNTTjdCc0RLMzg1cUx1dU1iQTc1bDRkY1dld1VQekIyYWRUMFFIdXNPVUtxQ1dUc1VQVlQxVzNNNUJ2T21DdEFwRVdaUGZZb3NiOGlKLUY2Mk5iRmdNeExhRUtjMjJIZkJTSVFpeWNvbDVkcndwUVBPRXZ2RmFXcEhYTEZaUUxJN2FjSDh5eEdrRFNDZ3piT3k4ZXk5YWV6TjVfTm5ScEI4eW0w?oc=5",
-   "utc": "2026-11-24T20:44:00Z",
-   "tag": "AI",
    "breaking": true
   },
   {
    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-   "utc": "2026-11-24T20:42:07Z",
+   "utc": "2026-11-24T23:13:49Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
-   "utc": "2026-11-24T20:42:00Z",
-   "tag": "AI",
+   "title": "Butterball CEO on Thanksgiving Dinner Outlook",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-24/butterball-ceo-on-thanksgiving-dinner-outlook-video",
+   "utc": "2026-11-24T23:12:17Z",
+   "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "Sooryavanshi, 15, blasts 204 off 53 balls for India A",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekZyYkNiWlh4RzFIOW9BRkFJaHdTSzhxcERlbmlkZS1NSzdqS3R6WmwxWEJzd21adkE4MEJKMTA5aG0zUVZUT1NxNmdXX2NqR2p4SHV1emRMYXdyaHI5ekYyTFlWelZyb1B4M2hGQkZtUUh5VGVJRWRrU1pCRnRjYTNiM213MTAzQVhWeVFhNERSZnQtc0dEUVNMTGg?oc=5",
+   "utc": "2026-11-24T23:11:43Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+   "utc": "2026-11-24T23:11:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Nov. 25",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
+   "utc": "2026-11-24T23:06:29Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+   "utc": "2026-11-24T23:03:24Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Flooding sees Thai auto exports plunge by 34%",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/motoring/3360769/flooding-sees-thai-auto-exports-plunge-by-34",
+   "utc": "2026-11-24T23:03:00Z",
+   "tag": "THAI",
+   "breaking": true
+  },
+  {
+   "title": "Washington Is Buying Its Way Out of China's Tungsten Grip",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Metals/Commodities/Washington-Is-Buying-Its-Way-Out-of-Chinas-Tungsten-Grip.html",
+   "utc": "2026-11-24T23:00:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
+   "utc": "2026-11-24T22:55:43Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "AI cyber-attacks raise security concerns",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3360654/ai-cyberattacks-raise-security-concerns",
+   "utc": "2026-11-24T22:53:00Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "BoT eager to shrink informal economy",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3360754/bot-eager-to-shrink-informal-economy",
+   "utc": "2026-11-24T22:45:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "High aviation costs limit expansion during peak season",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3360774/high-aviation-costs-limit-expansion-during-peak-season",
+   "utc": "2026-11-24T22:39:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Ukraine says attack on Russian ships in Libya was self-defence",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzIzWjZLTEdiVXRtR0I1cEJ3MFVCUzF5ZktKdWRUQlNtMEVDTnQ4Mk5xU2tvODVlRUJFeE5KOGlieGxsYkp5c1dhZklONzRZNW1VWTR4OVM1MGFQM0cxRXBaQm93b1lhWG1qR3F0ZGV2VTRRRGxtbTRkU1VYQ2c2dEtHckpXQmJCbmpYZlNKeFVrNW8zVjBldDFEWGc1TmIzRTJTM0ozNy1yanVq?oc=5",
+   "utc": "2026-11-24T22:37:11Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "AI bubble fears fuel hopes of gold revival",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/investment/3360644/ai-bubble-fears-fuel-hopes-of-gold-revival",
+   "utc": "2026-11-24T22:37:00Z",
+   "tag": "GOLD",
+   "breaking": false
   }
  ]
 }

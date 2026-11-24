@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T23:55:27Z",
- "level": 54,
+ "updated": "2026-11-24T00:59:19Z",
+ "level": 52,
  "band": "Alert",
  "components": [
   [
@@ -12,8 +12,8 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   21,
-   32,
+   23,
+   34,
    35,
    "1.5 pts per headline"
   ],
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   4,
+   0,
+   0,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -122,17 +122,6 @@
    "airspace": false
   },
   {
-   "title": "Hormuz shock lifts world's oil and gas import bill 25% to $1.6 trillion - IEA",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1ZrY09YVnRVVGlYck82dms0SkVMZVNQZ0k3Z0dhc3VBMlpYV1JIRHBqeTU1dzRUTnExQkVpano5aFltRTlDY0RRVHFDbGpfUEx2a1R5X0dYTlRMeUtLVzVSZmo5Um84S2RTRnNxM3pjX3RpUWRRNGhPSmFYMUNTSml6OU9ITHU4c0E1VGxLYw?oc=5",
-   "utc": "2026-11-23T15:36:37Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
    "title": "Critically injured Gaza children evacuated to Britain for NHS treatment",
    "source": "Yahoo News New Zealand",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdHVkS0lETFI3UW5kdUZjZDZVOVFaQ1d6b3hEYTVZMjcxeUtLb3psNVcwNVAxRWotMTFQdS02Vkl2QVZSLUM0V3g0VVhqWDdfcTI5eUNrQUxZbkFacW4weDhDTU9IZHdrSHpISDVqUjZGRmJ4OElFQ3hnN0JvaGwxd0tlVkliMkFTWTRn?oc=5",
@@ -144,6 +133,17 @@
    "airspace": false
   },
   {
+   "title": "IRGC Claims 2 Supertankers Hit Mines in Hormuz, Iran Toll Reaches 6 in 4 Days",
+   "source": "https://houseofsaud.com/",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTFJzc0VSX0NQYmxHZE5POGI1bHlUcjFDQ0pvTGQ4XzhfcnJybmdQbXhvM21TRWoxRjM5OHVjQVdLdVFVajk2OVNFNFU4LW1YUW96cE1wZ21JSklIQk1HU1llamhXR2VGVjlQVA?oc=5",
+   "utc": "2026-11-23T11:47:07Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.4,
+   "airspace": false
+  },
+  {
    "title": "Belgian airspace closed due to general strike. More than 60,000 passengers affected",
    "source": "ipn.md",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVZmbGxfQU9YS3BRWGpPSnE5dzFUNnRQUHNDZnR1S0tDc2NXS2hjUFlDRW9SM0pOYlBPWFN3eEw4cU9DVnhza3ZFYThUel9adGlveDdWQlVWcmNVeV9PVVlVZS1Wb0dhb292MHFPNEsxN1Y2ZFJkM2lDdlI5dzhYaHREOU1CQXRmS3ZNS2tRSkl1R2NvRkVDbHJjOEJiYXptYVE?oc=5",
@@ -151,7 +151,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.5,
+   "score": 5.4,
    "airspace": true
   },
   {
@@ -162,7 +162,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -177,21 +177,21 @@
    "airspace": false
   },
   {
+   "title": "US naval blockade of Iran: Tanker incident reported near Strait of Hormuz",
+   "source": "Beinsure",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY3dvQTY1cnRrWV9zbHJMQk0xM1NRc2daTm1JbEt4MUJud3ltYmxGV0IwOUxFTXhmbHR5RzJrSi1CZlJzSHFacW10Slc3NXFPSWJBNVRBUnNPNmxyaWZteGp2SnRZWmJvVi1ZRGpxT05WVXp2M2JfdlNUWHJuRUctZlQ5cnhCSkFuaDI2RmFDVnZLYzJKVXdzaUJjdU53VkVM?oc=5",
+   "utc": "2026-11-22T23:18:41Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
    "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
    "utc": "2026-11-22T16:37:29Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
-   "airspace": false
-  },
-  {
-   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkxGcHpab2N2cFVMemtPQVM4QllIeVVfY25XdHA4Q0lBSlFoWGREQnVxc1dWbERMYWNZeTJLaFgxX3dpNzJBRjNSWUFHbTJvYllvY0x0Z2V6R3BqWTdBNDFUZFdXME9FTFFOWlhFUUVGRGRVNVhhZHgtOFNOY01tZ29ncTJYSWFvLU9ocFp6T09Fbjdfa194aHM5dDI?oc=5",
-   "utc": "2026-11-22T16:25:39Z",
    "tags": [
     "HORMUZ"
    ],
@@ -211,10 +211,10 @@
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 227,
+  "count": 0,
+  "global": 214,
   "baseline": 2.2,
-  "samples": 26,
+  "samples": 27,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -847,6 +847,10 @@
    [
     "2026-11-23T23:55:27Z",
     3
+   ],
+   [
+    "2026-11-24T00:59:19Z",
+    0
    ]
   ],
   "box": [

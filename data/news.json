@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:58:53Z",
+ "updated": "2026-11-24T11:03:32Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "fail: HTTP Error 451: ",
-  "Nikkei Asia": "ok (28)"
+  "Nikkei Asia": "ok (30)"
  },
  "items": [
   {
-   "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
-   "utc": "2026-11-24T00:56:10Z",
-   "tag": "WAR",
+   "title": "Grocery Prices Are on the Rise, Just in Time for Thanksgiving",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-24/grocery-prices-are-on-the-rise-just-in-time-for-thanksgiving",
+   "utc": "2026-11-24T11:00:55Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "utc": "2026-11-24T00:53:29Z",
-   "tag": "AI",
+   "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+   "utc": "2026-11-24T10:58:51Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
+   "title": "Nasdaq futures turn lower after Nvidia rally as Jensen Huang returns: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-   "utc": "2026-11-24T00:42:24Z",
-   "tag": "BTC",
+   "utc": "2026-11-24T10:57:55Z",
+   "tag": "AI",
    "breaking": true
   },
   {
-   "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+   "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+   "utc": "2026-11-24T10:56:56Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
    "source": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
-   "utc": "2026-11-24T00:25:04Z",
+   "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
+   "utc": "2026-11-24T10:55:30Z",
    "tag": "BTC",
    "breaking": true
   },
   {
-   "title": "Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SUmhDNVlpb2JEM0UxSUxaY185clNiYTU2aDdVbkFKM3k1dTgyTm1FQWZiaTBPSUNaQjhxOFJ2UDZtaHYxV3kw?oc=5",
-   "utc": "2026-11-24T00:14:23Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "US Senate Probes Vance Role in Vitol Choice for Venezuela Oil",
+   "title": "Commerzbank Considers Partial Treasury Market Pullback",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/us-senate-probes-vance-role-in-vitol-choice-for-venezuela-oil",
-   "utc": "2026-11-24T00:11:51Z",
-   "tag": "OIL",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-24/commerzbank-considers-partial-treasury-market-pullback-video",
+   "utc": "2026-11-24T10:52:23Z",
+   "tag": "FED",
    "breaking": true
   },
   {
-   "title": "Nikkei Asia webinar 'The Global Chip Game: Our predictions for 2027'",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0FQRGlyNkp6WWw4Zm9hR0NzWDF6WS1mZVJsYWR0N1BWMmtvRGRBcXl3WjNLN0JNQ1BoYUs1eGE3Sk9RV1lpU3Z0ZEJuN3F1R3hnOFhuLXRCWWNXX21uNmYxWlBZRDRaRHFnd1FBQUVsalBUSTdhcU9hVFlYdWVxT3Y3V1prcGZkeVVod1dPM3FzcGl1ZHBRdTJDVUtBeVdydmdPRTd5YXp1MjR0QVE?oc=5",
-   "utc": "2026-11-24T00:10:00Z",
-   "tag": "AI",
+   "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+   "utc": "2026-11-24T10:50:26Z",
+   "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Petrobras Makes $470 Million Ethanol Bet in Brazil With Neomille Stake",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/petrobras-makes-470-million-ethanol-bet-in-brazil-with-neomille-stake",
-   "utc": "2026-11-24T00:08:20Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
-   "utc": "2026-11-24T00:06:57Z",
-   "tag": "GOLD",
-   "breaking": true
-  },
-  {
-   "title": "Singapore GDP grows 6.1% in Q3 as AI demand stays strong",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjN6eFVHZTJkWWoxX0FZN1EyRWxNZlBGQmJvazlNMkFhWW9CRWhjSFUxVXR1b0tsejNIRVd1TjQ4UUhFenZmTUdrQjdRZVpfSThnRGVrbDExRk5oYjNNMTNLeHlKQ3pyaHE2U1FtTUQ2QUQzZ1Nnc1FaTndPVmc0YWpDeHdJNlhLLXkyTVZyTTQ?oc=5",
-   "utc": "2026-11-24T00:02:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Climate Finance Dispute Derails COP31 Negotiations",
+   "title": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Climate-Finance-Dispute-Derails-COP31-Negotiations.html",
-   "utc": "2026-11-24T00:00:00Z",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Poised-to-Ramp-Up-LNG-Buying-as-Power-Prices-Surge.html",
+   "utc": "2026-11-24T10:35:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
-   "utc": "2026-11-23T23:53:20Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "AI Trade Resurgence Drives 6% Rally in South Korean Stocks",
+   "title": "Actuate to Invest $327 million in Spain’s Largest Battery Deal",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
-   "utc": "2026-11-23T23:45:20Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
-   "utc": "2026-11-23T23:42:27Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-   "utc": "2026-11-23T23:42:17Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "UN food agency chief warns wars jeopardize food aid for 7.3 million more people",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEZlNTVYYjRLZDhNc0FuOF9MV3B3MWFPcG9ya3lBZlFZS2gzc1E4ajR1aDFGamY5dlMwazdLVmxLaVFEWndoUjd3cWpkRDlkb3RSNTNqN0pCbFJQdXRPNEZTUFV1cnE4aExPZmgwTVB5UTIyZmNZbWRERC1XM25lVHVjU3gxdDNIN29UNy04cm1ramhmRlJscmZJVkhHRUlDMm9KRlIwTzRESnExVGJFajI0WEhPTVRtbVdpbXFLZnR6TXZJWTkxYWxYYw?oc=5",
-   "utc": "2026-11-23T23:32:22Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/actuate-to-invest-327-million-in-spain-s-largest-battery-deal",
+   "utc": "2026-11-24T10:34:12Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-   "source": "CNBC Markets",
-   "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-   "utc": "2026-11-23T23:28:19Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Anthropic options post solid debut, trailing SpaceX record",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5",
-   "utc": "2026-11-23T23:24:52Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
-   "utc": "2026-11-23T23:24:02Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
+   "title": "Colleges Rejecting Fossil Fuel Divestment Enjoy a Rich Payoff",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo",
-   "utc": "2026-11-23T23:20:08Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-24/colleges-rejecting-fossil-fuel-divestment-enjoy-a-rich-payoff",
+   "utc": "2026-11-24T10:30:33Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Pimco’s Ivascyn Says AI Disruption Risk Boosts Appeal of Bonds",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/pimco-s-ivascyn-says-ai-disruption-risk-boosts-appeal-of-bonds",
+   "utc": "2026-11-24T10:30:00Z",
    "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+   "utc": "2026-11-24T10:29:14Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+   "utc": "2026-11-24T10:15:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "LME to List Major New Aluminum Brand as Historic Squeeze Deepens",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/lme-to-list-major-new-aluminum-brand-as-historic-squeeze-deepens",
+   "utc": "2026-11-24T10:10:02Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+   "utc": "2026-11-24T10:08:38Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
+   "utc": "2026-11-24T10:01:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Here’s your chance to bid on Alex Trebek’s former $6.45 million California ranch and winery",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/heres-your-chance-to-bid-on-alex-trebeks-former-6-45-million-california-ranch-and-winery-0f0cd4f5?mod=mw_rss_topstories",
+   "utc": "2026-11-24T09:58:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "The bull and bear surprises that could ambush investors next year, according to Bank of America",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
+   "utc": "2026-11-24T09:58:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Indonesia and Thailand drag down ASEAN's 2026 IPO proceeds",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnVESy1ZUGhOb09lc3lDVkQ2YmhkVE9pZnhFZTY5dEZWSExqRGEyTmdzZlJ6ZzVHRE5NVmNiYjd5VmRnOWNyYjQwT21Hc1NYNjhoS01VbWVyUUtrb3BEN3d1RjBnbUpjN3ROWVVJdEV0TDBob21CM3NCejRzMWwwbDlmMHVzSF9yV0c4Tm82N05xMndxd09PZEs5MTA0V0RoUmJvWVl3?oc=5",
+   "utc": "2026-11-24T09:58:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "Mercuria Hires Alex Humphries as Global Head of Fuel Oil Trading Ahead of Eni JV",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-24/mercuria-hires-alex-humphries-as-global-head-of-fuel-oil-trading-ahead-of-eni-jv",
+   "utc": "2026-11-24T09:53:13Z",
+   "tag": "OIL",
    "breaking": false
   }
  ]

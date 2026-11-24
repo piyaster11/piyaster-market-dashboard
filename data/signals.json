@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T00:59:19Z",
- "level": 52,
+ "updated": "2026-11-24T11:03:59Z",
+ "level": 69,
  "band": "Alert",
  "components": [
   [
@@ -12,22 +12,22 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   23,
-   34,
+   24,
+   35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   2,
-   6,
+   4,
+   12,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
-   0,
+   6,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -100,25 +100,69 @@
  ],
  "headlines": [
   {
-   "title": "Research reveals economic impact of Hormuz closure on Africa",
-   "source": "Susquehanna University",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUThMVXg0YmZ4a256N0plYlB4Qkk5R250eGZWUzNTb0JiVzZmUDBRQlNIUnZlOU9IVUJka3VMbm52MVZGaHUtb0o2em1MXzhXUjdjaVY5cUFhUTJEeEp1LXhvM1ZpWnNTVzdoT05wQUlSdlBVaDVkalJHMkYzUDJBUVJFSUU1VW80ZVpF?oc=5",
-   "utc": "2026-11-23T17:05:19Z",
+   "title": "Biman to keep Riyadh flights suspended until December 16",
+   "source": "New Age BD",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjZNakd2UmdDV1RQSHB1cVpPVUl4TlZPWW5IVTU5RVUxNHNVcHJ6em02a1hnMVFsRmItM3U5QW5wMHpkR3ZSVWc1aGc3X0FxM3NybnRUS1RrQkNaWGVkUWlNVkw0Z1FpSXhRemlvaHJnYmFSNXVOeDRTMDd3X2dvcGhhMk94VEUwanR1bG50SmJDbXRIb2V0RHRWdlhKWmRnbFN4MHdBcVN6MGFnUVE?oc=5",
+   "utc": "2026-11-24T10:41:00Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.0,
+   "airspace": true
+  },
+  {
+   "title": "Iranian army commander urges tightening Strait of Hormuz closure",
+   "source": "Trend News Agency",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fd1VGbDRzTXp3Z255MjVFNDBGQnhWTzFTVlRuT1FqTXYzZ094eFoyT1VwZGNyR1lwMVlRc1BnYUUwcVRublEzcmx3X2Zza1k?oc=5",
+   "utc": "2026-11-24T08:57:47Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.9,
    "airspace": false
   },
   {
-   "title": "Bypass the Strait of Hormuz? Why That’s Not So Easy",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZklLY3Z4cUgwRXNiZDlmWHpZR3A3WnJFSWV3SFotZU92S1ZmOWlTaF9nTnpaM1d6dXlrdWctWEUyN3ZRU3VNakNZdGk5c1U3R19GRi12c1llT3Y0MVVJWDA1cnBkbWVTRHhZejVONWkxbDV5UmZST3F3X3lmb0paV2wwbXpsdw?oc=5",
-   "utc": "2026-11-23T16:57:13Z",
+   "title": "Iran's army chief orders tighter closure of Strait of Hormuz until Tehran's demands are met",
+   "source": "Roya News",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWtLZ1NlY1NKeDNJbDF4Y1Q4dHJwaDFlNS0zQ2NVdVNWdUdFSTAtZmFaMEFyY0tCQ05FRTN1d0F1VmYtWVA5emdxMVphVUJ4YVdvMGllS3hjbW5JTlpYTVZ5V0ZqSHM3NFdaRkJseU5NSFdOTUdYbXdoV2k3U1RBX2FzdGZQd1pMM0NiWE1OekpnNUVxdF9ydG9DMTA3NmI1RkxVWUNzZlJWaEpHWXhBZUhMdXV6eEg4YlgxM29YOWxYSFU?oc=5",
+   "utc": "2026-11-24T08:36:13Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "South Korea scrambles fighter jets over Russian military aircraft, issues evacuation alert on island",
+   "source": "Meduza",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXVlT3BkNVJGY1ZfaVdaeFRSSEtuY3ZyYmp1MTBKQmdtMTAtalVYV0R1emR6cXIzWXZtQ1BES09xMHM3LWgxUTFaUjI1THdqYXhPck5oOUJfTnVvODUxazlrMEpKQ2J3dHE4aC1jVjNzendlZTh6YmZvWUU5UzY1eV9fNmtKVHIzRHZmMVZsVk4tMFRuNU5ZTlF5aHhiMGl6Rml4U2duYkpBV2dSa0g3VGpSMjQteks5Zm5XVXFwQkZwUm9zRnJjc0R6MXpYQ183ZUHSAdcBQVVfeXFMT2ozMUp4a04tdWM0WGkyQVpVTktrcW9QZ1VhRVR3b3dxd2hySXF4NVY4a082ek0yY3Bobk0wVkhFZ0hqdWQtT044WHBxa1Vwb19nNDhMYWVUTDR0NFpGV0tvMkRqSGJSUXhMcFZlM0Q2bHNTUksyanIweVZjTnZaNW44TTYtNzZBLXVaSlhqWHNkRzRkWVg1cDhYN1NqczZpWGJ1Tkd2eWxGNHpXMHRneDhhVjhqWUtYTXA4Wjlaa1dsY3k4aUFjMnlCUmVUcWt0VzZrazhDNjQ?oc=5",
+   "utc": "2026-11-24T08:31:00Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "Oil prices near three-month lows as rising supply offsets Hormuz threat",
+   "source": "KFGO",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDN5b0JIRzYtMVF0d0d4cFlKS3ptUUFDYjF5ekdMaG9mVkktXy1uUXRmdkRFTDNpTFZoOEhUcHZ4YllwSEdwM2liR1ZzaVJLUnk5bjZ1YjAtYVlaZUdNNmtlalN1NzNNYjY3Q2c4Y0pyaEgwRW1tRUo3Sk9sOFEteFd4NW51NGFkZjRTWng5ZWF1ZVNYTVJEaXhDWHdlQ1k?oc=5",
+   "utc": "2026-11-24T07:35:53Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
+   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2tKSXpRQ2RURVJRWkNUcVFBMU9sNGRYc3JqUWFLMWdOSnRBS0R6Nm1GYkFBaGpDVkg5RDg3NFI2NXRfZmlEaFBMODBDQkxwNmw3NG5iY0Q4NjFsR1pZMHJvLUlybnVodV85UmN1Nm1oV01qS1hkdXFxb3BZZGFWYTFLT25vYk9FeWZqUXVjQ2NjZFdQOVBTbXFFMzQ1QQ?oc=5",
+   "utc": "2026-11-23T15:53:51Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.2,
    "airspace": false
   },
   {
@@ -129,18 +173,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.5,
-   "airspace": false
-  },
-  {
-   "title": "IRGC Claims 2 Supertankers Hit Mines in Hormuz, Iran Toll Reaches 6 in 4 Days",
-   "source": "https://houseofsaud.com/",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTFJzc0VSX0NQYmxHZE5POGI1bHlUcjFDQ0pvTGQ4XzhfcnJybmdQbXhvM21TRWoxRjM5OHVjQVdLdVFVajk2OVNFNFU4LW1YUW96cE1wZ21JSklIQk1HU1llamhXR2VGVjlQVA?oc=5",
-   "utc": "2026-11-23T11:47:07Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -151,7 +184,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.4,
+   "score": 5.0,
    "airspace": true
   },
   {
@@ -162,40 +195,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.2,
-   "airspace": false
-  },
-  {
-   "title": "Korea conducts evacuation drills in Latvia amid political uncertainty",
-   "source": "The Korea Times",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnQ1U05fRWFUNThfZ0NpNlpDa2kxYzZ2QWZEWmxISnhIZzQ4c0hMQ2dDNFduMzR1UDNnWjlTYmpMb0JkZW1VX3ViRkhaVXh1aDFYRUlHY3JnMVJCM2JPYS1uWTRiWV90QjZlMWZ5bHpfZGtOWDBxYjJLQldoR1NWeDJMblV5SnNRVlhBeEZ1cENtX2ZhSEktY0JQblNzcFVsWDZkSlBuOWdTRl9HSzduNXBYVTN2cUhYc2FycTJQN3U1OGNMUmdaU9IBzgFBVV95cUxPeGVsRmlFQ3RmQ043cWFMVHk1WWFNS0hNWUpHNmxPck9tdjdkLUNjZS1iYlVySkxYNGJXOW1OTlphcURZTVN0N002YkE5dGNGR3k3bFRDMFROQzRYc2plaENEMkVWbGhsenVTSnZtbm1XZ3RpUDJWV2twQVY5bFl4ajFUV3VjeDJtQkpkMFMxMlo4bV9lbnFtUVJlRnF5V2RrZHdleEl5WW5tSjc1eFBtRG9SQVZ6cWZYVUZGOXdqdFBubWQteVk0RDN1U2VEZw?oc=5",
-   "utc": "2026-11-23T05:39:06Z",
-   "tags": [
-    "EVAC"
-   ],
-   "score": 5.2,
-   "airspace": false
-  },
-  {
-   "title": "US naval blockade of Iran: Tanker incident reported near Strait of Hormuz",
-   "source": "Beinsure",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY3dvQTY1cnRrWV9zbHJMQk0xM1NRc2daTm1JbEt4MUJud3ltYmxGV0IwOUxFTXhmbHR5RzJrSi1CZlJzSHFacW10Slc3NXFPSWJBNVRBUnNPNmxyaWZteGp2SnRZWmJvVi1ZRGpxT05WVXp2M2JfdlNUWHJuRUctZlQ5cnhCSkFuaDI2RmFDVnZLYzJKVXdzaUJjdU53VkVM?oc=5",
-   "utc": "2026-11-22T23:18:41Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-11-22T16:37:29Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -206,15 +206,15 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.5,
+   "score": 5.1,
    "airspace": true
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 214,
-  "baseline": 2.2,
-  "samples": 27,
+  "count": 6,
+  "global": 229,
+  "baseline": 2.1,
+  "samples": 28,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -851,6 +851,10 @@
    [
     "2026-11-24T00:59:19Z",
     0
+   ],
+   [
+    "2026-11-24T11:03:59Z",
+    6
    ]
   ],
   "box": [

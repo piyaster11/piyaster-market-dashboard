@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:49:24Z",
+ "updated": "2026-11-25T04:55:35Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (32)"
+  "Nikkei Asia": "ok (31)"
  },
  "items": [
   {
-   "title": "US Readies Tariff Hike on China, EU Goods",
+   "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+   "utc": "2026-11-25T04:50:08Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Maybank Reviews Portfolio as Chip Curbs Hit Data Center Projects",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video-mwvca1k8",
-   "utc": "2026-11-24T23:41:59Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Dell’s stock rises as the AI boom helps sales more than double",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-   "utc": "2026-11-24T23:34:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
+   "utc": "2026-11-25T04:35:30Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "Agreement offers backing for real estate developers",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3360909/agreement-offers-backing-for-real-estate-developers",
-   "utc": "2026-11-24T23:26:00Z",
+   "title": "Xi Probes Shanghai Boss, Widening Political Shakeup",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
+   "utc": "2026-11-25T04:25:11Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "AI investments set to drive growth",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3360834/ai-investments-set-to-drive-growth",
-   "utc": "2026-11-24T23:17:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakxRRS1xODNKVEMzdlowcjUzd2g4amNoV0JSSzdQc0JEUXg1WWxSbGxOaGhYWDZWSlQzeldBelpvUnpXb3g3bHdMUWd4NWhiZFJRZnEtSWU4TDBXS0Q1Q21CWE9QUkxkT2YxYVI5MzlJNkVJS3FRZ3NuMG90Y0JBMFNKRGEtOEhlOUktTVJwU2hoSHVVVW56NXI0ZlZIOHo3TGt0UTc3VnA4VlV5MGZoTmlfS05qQlpQcWpiUWNtSjI?oc=5",
-   "utc": "2026-11-24T23:14:23Z",
+   "title": "Dangote Refinery Set to Become Africa’s Biggest Listed Company",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-refinery-set-to-become-africa-s-biggest-listed-company",
+   "utc": "2026-11-25T04:15:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Stocks making the biggest moves Tuesday: Ambarella, Dell, Autodesk, Urban Outfitters & more",
+   "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-24T23:14:03Z",
+   "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+   "utc": "2026-11-25T04:06:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "As Taiwan elections near, one KMT mayor's ambitions loom large",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUdpc0RPaHgxQmEwUDVPYlJFeG1LSWg2MGpVNzFhWlV5V05qZ3Brc01XaVVNZ2FQdC1BaUU5RGhIV3h5MURJb3dpNV9UZ3dLWWhkdXZ3a2oyaGppaGxKYTcxcnlZemNHeWFCempOM2xwNXV3VkNRcGU4WHA4ZlJ3R2pNX18zRlZvRUhzQlZOQXFhMkluc0s0X2NR?oc=5",
+   "utc": "2026-11-25T04:04:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+   "utc": "2026-11-25T04:01:16Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+   "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-   "utc": "2026-11-24T23:13:49Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Butterball CEO on Thanksgiving Dinner Outlook",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-24/butterball-ceo-on-thanksgiving-dinner-outlook-video",
-   "utc": "2026-11-24T23:12:17Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Sooryavanshi, 15, blasts 204 off 53 balls for India A",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekZyYkNiWlh4RzFIOW9BRkFJaHdTSzhxcERlbmlkZS1NSzdqS3R6WmwxWEJzd21adkE4MEJKMTA5aG0zUVZUT1NxNmdXX2NqR2p4SHV1emRMYXdyaHI5ekYyTFlWelZyb1B4M2hGQkZtUUh5VGVJRWRrU1pCRnRjYTNiM213MTAzQVhWeVFhNERSZnQtc0dEUVNMTGg?oc=5",
-   "utc": "2026-11-24T23:11:43Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-   "utc": "2026-11-24T23:11:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Latest Oil Market News and Analysis for Nov. 25",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
-   "utc": "2026-11-24T23:06:29Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-   "utc": "2026-11-24T23:03:24Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Flooding sees Thai auto exports plunge by 34%",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/motoring/3360769/flooding-sees-thai-auto-exports-plunge-by-34",
-   "utc": "2026-11-24T23:03:00Z",
-   "tag": "THAI",
-   "breaking": true
-  },
-  {
-   "title": "Washington Is Buying Its Way Out of China's Tungsten Grip",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Metals/Commodities/Washington-Is-Buying-Its-Way-Out-of-Chinas-Tungsten-Grip.html",
-   "utc": "2026-11-24T23:00:00Z",
+   "link": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
+   "utc": "2026-11-25T03:58:32Z",
    "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
-   "utc": "2026-11-24T22:55:43Z",
+   "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
+   "utc": "2026-11-25T03:57:12Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "AI cyber-attacks raise security concerns",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3360654/ai-cyberattacks-raise-security-concerns",
-   "utc": "2026-11-24T22:53:00Z",
-   "tag": "WAR",
-   "breaking": true
+   "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+   "utc": "2026-11-25T03:52:03Z",
+   "tag": "AI",
+   "breaking": false
   },
   {
-   "title": "BoT eager to shrink informal economy",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3360754/bot-eager-to-shrink-informal-economy",
-   "utc": "2026-11-24T22:45:00Z",
+   "title": "Japan’s 40-Year Bond Sale Draws Weaker Demand on Risk Off Mood",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/japan-40-year-bond-sale-sees-weaker-demand-than-12-month-average-mwvkr2jb",
+   "utc": "2026-11-25T03:39:10Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "High aviation costs limit expansion during peak season",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3360774/high-aviation-costs-limit-expansion-during-peak-season",
-   "utc": "2026-11-24T22:39:00Z",
-   "tag": "MARKETS",
+   "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+   "utc": "2026-11-25T03:35:20Z",
+   "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Ukraine says attack on Russian ships in Libya was self-defence",
+   "title": "North Korea expels Swiss representative over sanctions related to children's camp",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzIzWjZLTEdiVXRtR0I1cEJ3MFVCUzF5ZktKdWRUQlNtMEVDTnQ4Mk5xU2tvODVlRUJFeE5KOGlieGxsYkp5c1dhZklONzRZNW1VWTR4OVM1MGFQM0cxRXBaQm93b1lhWG1qR3F0ZGV2VTRRRGxtbTRkU1VYQ2c2dEtHckpXQmJCbmpYZlNKeFVrNW8zVjBldDFEWGc1TmIzRTJTM0ozNy1yanVq?oc=5",
-   "utc": "2026-11-24T22:37:11Z",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
+   "utc": "2026-11-25T03:19:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
+   "utc": "2026-11-25T03:10:23Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Malaysia Airlines' parent to buy 10 Boeing 787 Dreamliners, CEO says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTZsVXZpZzlWbzhyMjZmQ2lURS1PNjdRNjZ5ZmdDSHFwV3VrMGVfVE1jUUhGM1ZDdENIQ0ljNVQ4R2VZWUZDeGpIZ0x6OWdkaTd3TVpOZWIwWW9wRDVQN2tneVhCSTBXVW1XaE1VazljWTk2XzNsX29wMHgtaWVwdTltZHZHM1VSMG9vVnJzSnp2Q3RLd3lLejh3aDFaMVZGdk5NRVZvdHg4eElSY3Ata1lpYTNrQzh3UC1V?oc=5",
+   "utc": "2026-11-25T03:06:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
+   "utc": "2026-11-25T02:45:27Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+   "utc": "2026-11-25T02:43:33Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmE5cEFGWGFLVzVEUlVvWlE5NzJaT2p0MTUxclgxejJ2ZHJPbTQ5d1BLNzh6R2tFb251aWQ4dHBUTDRtaTlETkVick9uV1hKVkdZSjNPbFk5M2NBd1oxQXptdzAtLS1zVzlidDBDVXBmWFAyVnRzMGRmZHNGZVk4T3Y1aV9ycGZFcWxGejZ0T29BbG9EUks5QjZ0bzFVRG05YlVQemt4UDdDSEY5cUZrYzNsSU9VMGVX?oc=5",
+   "utc": "2026-11-25T02:42:00Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "AI bubble fears fuel hopes of gold revival",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/investment/3360644/ai-bubble-fears-fuel-hopes-of-gold-revival",
-   "utc": "2026-11-24T22:37:00Z",
-   "tag": "GOLD",
+   "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+   "utc": "2026-11-25T02:36:43Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Solomon Islands chooses Australia as 'primary security partner'",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbm1WUmJuZ3Qwd1NadklXSUlXdGZpcWliaXNTbk9rRWJKRl9iVjl1b3hxOGhJcmVCaklOSmxEbElHTklfUHJqWklTUjc5T05tbHJ2azNQZVRCcm5VNnhmNHFYNTl4UWl2ak9FbTVCYnhXekF5NmxFQTg0S3FJQ1RvVkJUVFV0RXhOY0FBS3NEbnFRWlJzWERtZmFDNG5VSWJlYUJ5cXFQQmpvV1Fvb3RSd1I3bzZiZnZwcWc?oc=5",
+   "utc": "2026-11-25T02:31:00Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

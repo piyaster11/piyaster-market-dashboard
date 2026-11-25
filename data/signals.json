@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T23:49:39Z",
- "level": 72,
- "band": "Alert",
+ "updated": "2026-11-25T04:55:51Z",
+ "level": 78,
+ "band": "Critical",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
@@ -26,8 +26,8 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   3,
-   4,
+   5,
+   10,
    10,
    "10 pts per +100% above baseline"
   ]
@@ -109,6 +109,17 @@
  ],
  "headlines": [
   {
+   "title": "Strait of Hormuz is closed once again: Iran",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84NVNuS3BtZVBRYXZNdGFxRTl2UURCamRKUWxSTHROY2RfMDMwOVdzczhsSEVScUcwaUpIU3U0NTRIQUtLR05IM2t2MkRlODZJNnZJUnZGMlRyeThERmR6aHo5SE1JZGJGdEhDeE1UdjJMWWZXVjVz?oc=5",
+   "utc": "2026-11-25T01:02:31Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
    "title": "Shafaq News..Trump says Hormuz oil shipments exceed prewar levels",
    "source": "شفق نيوز",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2ViOFFZeHFCMGd5bzh4S2llSVZWd2o4ZHhZM3hkcVYzYVF4UlFvd19RY3kwVEU0RmdYR0VGUFp1eFVzVnpUTHBsNzFMXy1hdDV5ejFkTWF3OVBQaFJlR1pJYlhwaDRjeVc2V1N1U1l5Nlp6cTlGbTZ2eUsxZDNjdzdNOVAxYUU?oc=5",
@@ -116,7 +127,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -127,7 +138,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.9,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -138,7 +149,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": true
   },
   {
@@ -149,7 +160,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -160,7 +171,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.7,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -171,7 +182,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -182,18 +193,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.6,
-   "airspace": false
-  },
-  {
-   "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
-   "source": "Al Jazeera",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWtaYWl0aXk3bE1SVS1CWDdMUy1NSmNQTUxHbTFRbFlFemVOS0FkZDE4TjVZWDNUODUycDJHTXpfaGp6SWwya2gxWVhJUlk1bWUxTmpjSk5UZm5wME5ZYWc5SkJsM1I2Vmx2c2paS3owWTdPX0pDN0ZXUUtQck11OHFfSVhwd18yakNEM3NBaTBPbmtTRjVNSnNISklHTUE3ZkJLclh4LXQzbUNZOGx3dC1n0gG3AUFVX3lxTE9yaW03aWdDZFBjTUh0YXhVMk5hdy0ybmpGQXZ5UVkwN3N3M0NrQkRTTVVwQkpEY3BBQ3ZxS0c2cmdyMUlNSlZrbmNWUzQzc05SN29ZS2h4dXJuVzdyWVFOcGVmbEFfaWxPNlpTT1JVdDJqdHRkaTE4QTZMZkFqNFl5RURUOHB6SWR5WmFTSldZcWhSa25SSVBjYkJhT09Od2Jvb2gzQzktYjZJWUxObGFoaW1kbjN1cw?oc=5",
-   "utc": "2026-11-24T13:46:20Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": false
   },
   {
@@ -204,7 +204,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.5,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -215,15 +215,15 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.4,
+   "score": 5.1,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 3,
-  "global": 240,
-  "baseline": 2.2,
-  "samples": 28,
+  "count": 5,
+  "global": 159,
+  "baseline": 1.9,
+  "samples": 27,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -872,6 +872,10 @@
    [
     "2026-11-24T23:49:39Z",
     3
+   ],
+   [
+    "2026-11-25T04:55:51Z",
+    5
    ]
   ],
   "box": [

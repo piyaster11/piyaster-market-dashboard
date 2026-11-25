@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:43:11Z",
+ "updated": "2026-11-25T23:51:12Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,168 +9,168 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (27)"
+  "Nikkei Asia": "ok (37)"
  },
  "items": [
   {
-   "title": "Oil Inventories Continue to Rise in the US",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Inventories-Continue-to-Rise-in-the-US.html",
-   "utc": "2026-11-25T15:42:56Z",
-   "tag": "OIL",
+   "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+   "utc": "2026-11-25T23:50:53Z",
+   "tag": "GOLD",
    "breaking": true
   },
   {
-   "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+   "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
-   "utc": "2026-11-25T15:41:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
-   "utc": "2026-11-25T15:40:22Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-   "utc": "2026-11-25T15:35:19Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
-   "utc": "2026-11-25T15:32:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Oil Jumps Over 2% as Saudi Arabia Downs Drones Over Ras Tanura",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Over-2-as-Saudi-Arabia-Downs-Drones-Over-Ras-Tanura.html",
-   "utc": "2026-11-25T15:30:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Best low-interest personal loans of December 2026",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/select/best-low-interest-personal-loans/",
-   "utc": "2026-11-25T15:27:56Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-25/doubleline-s-cohen-turns-ai-debt-lover-from-hater-after-selloff",
-   "utc": "2026-11-25T15:27:51Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Air India Chief Seeks to Cut $650 Million in Costs This Year",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-25/air-india-chief-seeks-to-cut-650-million-in-costs-this-year",
-   "utc": "2026-11-25T15:20:13Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "AI stocks slide on fears over infrastructure buildout costs",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmNMM0doWElDVk9BdjNGZnJHakNCUFg1blQzSlk0eW9zeVduV3ZKcEtJd0hpUkxDMVhnRE9rY1lLUzF1eENZaFh0SUNKbmRjanN3YWtZakZud2RYUnlSRkk5b1RZT2VfbFJPXzhZVEVyYnFnRHBwYVlGdFQzaEt2Z2VjaGVXWUE0Qmd5bjZYandmR2M2QXBSY2tKem80OGNlSzh3?oc=5",
-   "utc": "2026-11-25T15:15:18Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-   "utc": "2026-11-25T15:08:00Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Takeover",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
-   "utc": "2026-11-25T15:07:25Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-   "utc": "2026-11-25T15:03:00Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Homebuilder Stock Woes to Persist After Longest Slump Since 2008",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-25/homebuilder-stock-woes-to-persist-after-longest-slump-since-2008",
-   "utc": "2026-11-25T15:01:39Z",
+   "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+   "utc": "2026-11-25T23:30:00Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+   "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
    "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-   "utc": "2026-11-25T15:01:00Z",
+   "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+   "utc": "2026-11-25T23:30:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
-   "utc": "2026-11-25T15:00:01Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "UK Energy Bills Set to Soar 26% as Iran War Drives Up Gas Prices",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/UK-Energy-Bills-Set-to-Soar-26-as-Iran-War-Drives-Up-Gas-Prices.html",
-   "utc": "2026-11-25T15:00:00Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-   "utc": "2026-11-25T14:55:10Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Xiaomi's new EV models shine as company looks to beat smartphone dependence",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX1o2cVBUd3pYVy1jZFhjYkhhNVNBRElJbUFsZDN0Sm4xT1RGSVBrYl9rdi1sdGhCeEZ4cWhfUkFDMTRsY0ZLWU1reVdFWXY1Y2tVeER3XzhBeDNqMFJSZmVDbEg4NzkwaWppVkpnM1diNHJGdWFtM0kxUGtERzNoMU1LUVo4QldiV1V4SGpqTkpmaklNMjVRTWZYeVFCVnBUSFpSckZ1amdpc1EzR3pubXVKbXBqdGdzMlFhWTVpZE1YT3d6dzBuakVJV1Y?oc=5",
-   "utc": "2026-11-25T14:52:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
+   "title": "How Saks Is Reclaiming Luxury as Exemplar Luxury Group",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
-   "utc": "2026-11-25T14:50:56Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-25/how-saks-is-reclaiming-luxury-as-exemplar-luxury-group-video",
+   "utc": "2026-11-25T23:18:01Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Authorities make push for alternative fuels",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3361309/authorities-make-push-for-alternative-fuels",
+   "utc": "2026-11-25T23:18:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Dan Loeb’s Third Point Hedge Fund Resumes Private Investments",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/dan-loeb-s-third-point-hedge-fund-resumes-private-investments",
+   "utc": "2026-11-25T23:07:09Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Latest Oil Market News and Analysis for Nov. 26",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
+   "utc": "2026-11-25T23:03:15Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "US AI chips rule threatens Thai data centre positions",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3361409/us-ai-chips-rule-threatens-thai-data-centre-positions",
+   "utc": "2026-11-25T23:03:00Z",
    "tag": "AI",
    "breaking": true
+  },
+  {
+   "title": "Thai employers compelled to rethink labour strategies",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3361394/thai-employers-compelled-to-rethink-labour-strategies",
+   "utc": "2026-11-25T23:01:00Z",
+   "tag": "THAI",
+   "breaking": true
+  },
+  {
+   "title": "Asia Fund Beating 89% of Peers Trims Tech, Adds Defensive Names",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/asia-fund-beating-89-of-peers-trims-tech-adds-defensive-names",
+   "utc": "2026-11-25T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "utc": "2026-11-25T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Oil Traders Ignore Growing Threat to Persian Gulf Supply",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Traders-Ignore-Growing-Threat-to-Persian-Gulf-Supply.html",
+   "utc": "2026-11-25T23:00:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Venus Williams on WeWard Deal and Her Investing Mindset",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-25/venus-williams-on-weward-deal-and-her-investing-mindset-video",
+   "utc": "2026-11-25T22:58:49Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "EXCLUSIVE: Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05VWXNudnhTWW1BY2VFUHpZRzdNSjU4TG1Ob3NYZTRKM0tNUWNGQmxyNEp6NW0yTEJWaTZabF9UNW9CUUZTclBhaGpnQmZ6WVRZTVhqS3dpOTBsZEtaOGZnMzFPQlR5MDRpZThJNmU0cXc5Q0trMDNhdWtxVjV4V1lMYzYyR1RHU0lBNDdWZDlzOWxBN1J1Wm0xWlJkNEVMaVNXUXdQcTRuUHlvczlnMTd1VGRWQQ?oc=5",
+   "utc": "2026-11-25T22:54:57Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Chiang Rai, Prachin Buri hobbled by pollution issues",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3361274/chiang-rai-prachin-buri-hobbled-by-pollution-issues",
+   "utc": "2026-11-25T22:51:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trending",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQjF3ZWRBTUpfdHRETlhBZEhuWkpUR3JmLWdaYVZhNUpMUlBTdExmVnBZejVRbkVWcDR3LWxvRHRfbnMxVlV3?oc=5",
+   "utc": "2026-11-25T22:48:05Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Phuket to host B1bn Muay Thai stadium",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3361239/phuket-to-host-b1bn-muay-thai-stadium",
+   "utc": "2026-11-25T22:48:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "Semiconductors",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BMl9yN0RaTE41aml4RVpaTW1lUVRoVWpEdDRaZURhYmtiSTE1TVpLMG9zR2xEcDk0OWlscVhxakNBSmtfQjBINnNpZUpJNV8tSGk1RS1ja09OY0dwUE1CTlhR?oc=5",
+   "utc": "2026-11-25T22:47:59Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+   "utc": "2026-11-25T22:47:39Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+   "utc": "2026-11-25T22:45:00Z",
+   "tag": "AI",
+   "breaking": false
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T15:43:32Z",
- "level": 71,
+ "updated": "2026-11-25T23:52:00Z",
+ "level": 74,
  "band": "Alert",
  "components": [
   [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   41,
+   39,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   4,
-   12,
+   5,
+   15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -112,12 +112,45 @@
    "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
-   "utc": "2026-11-25T13:30:26Z",
+   "utc": "2026-11-25T16:16:16Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
+  },
+  {
+   "title": "Middle East Gas Share Falls to 14% as Strait of Hormuz Closure Drives Global Supply Contraction",
+   "source": "PravdaReport",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczM1M0ZnbEkxbEhfaXE0VlBuUlVfTFd4ckhsS0ZLYkFFamNBb0p1WnREOElNYnlFQTRKMGdUd2dPNGpxbGZsMDNLT1NXcFpDckkyTE1taFRmQmtoYkRYTF9hNXlUZVh6VGMyRS03N1JIa1JqdWtHWUhnTDJCRkRZMFljS0xiWlV5T0RXS2xseWdEdUU?oc=5",
+   "utc": "2026-11-25T16:04:00Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "Paul Finebaum issues terrifying 'DEFCON 1' warning to LSU after serious SEC threat",
+   "source": "Irish Star",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2RRamM5dTQ2VWJfZXRYdks0eWVSd3lCRWtQUmVnZmxrbjY2RzV6N1hSdzBDbTNRU0o5WmJEdnh1aWhDMVhGOURaSHJzM3daTzAwbzJ0YjJHV0pBMGZ2cUp3M1BLekJlYmMzZEc3RVN2QlZwN3JRVjdGNFdiUXR0cHUxYnNlRmFnSVNWMWg3a9IBlAFBVV95cUxNOU1RaTJfUHdPd3pKUXh6dGF0dDhnbHRRRGs3elg4cGNTR01UMlMtWGdfRkplNjYtTUlvdF9nSENzZVFNUDczOXMxVjlMTmFqX29pNWR3TC1IS2Y5NlUxTnZUaUt5Z2hjbnRGVTJpbUsyTXpaOWw2Q0lDdHpyQW1xalFmYnU2WnFfSnJLTGFJMmFtRnJz?oc=5",
+   "utc": "2026-11-25T15:25:00Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.6,
+   "airspace": false
+  },
+  {
+   "title": "Pakistan Issues NOTAM Restricting Central Air Command Air Routes for Airforce Artillery Exercise",
+   "source": "times of islamabad",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOV9XRnVGa0o0V3h3UHlYOW03ZzFCYmE4ei1Vd3Q2dExvd1ZCV3dhWFdzMV84WW1qc0xpbmdlX1hTa1AyTGNrVDR1aHRXbGpVdS1mWDQ0bnlteEVwMDNDQjZBd1R2ZkRDRmVVSEI5Y2ZVck5mUEs3WENOaTc3NEpqa3l0ODU2ZzFtRm9IRjROYXJXanlVajJuRkpBOHhWdHlrMmZlQy03dkpjMGZadkpHWjV0UVQ1WGJkNFo2ZEdqSU5RVUZwYW5KcnZ6R1lweGkwVVo4?oc=5",
+   "utc": "2026-11-25T14:12:49Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.6,
+   "airspace": true
   },
   {
    "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
@@ -127,19 +160,8 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.6,
    "airspace": false
-  },
-  {
-   "title": "Flights suspended in Libya’s Tripoli following shelling",
-   "source": "Yeni Safak English",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWEtiZlNkUXRZUmhlcXJPaWR2Wnl5YnBSVGtSdXhaaGR5R0o3MnM3Z3ZfcUEwSnZaMllyOWk0amwxaEIyUnU3VVFuQzdteWNBVjFvMU9KRnhEZlM2VGRPcnVwTFRNRzJQV3JtekYtelFFdWFWbjhUSFF3Qm94aDJFenAyU0ZINWZSY2JOLXQwVkJabEx5MTZseA?oc=5",
-   "utc": "2026-11-25T08:55:58Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.7,
-   "airspace": true
   },
   {
    "title": "Iran Reports Three Tankers Hit Mines in Strait of Hormuz",
@@ -149,18 +171,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.3,
-   "airspace": false
-  },
-  {
-   "title": "The US Navy Has a New Problem: Iran Says 3 Oil Tankers Hit Mines in the Strait of Hormuz and CENTCOM Says Every Main Lane Is Clear",
-   "source": "National Security Journal",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdkV4dHYtdUdrYTVVaUZpMVZMYXk0aXpHTTJQMFZfM3VxR1Z2WEpBXzNJNUdSWjJfUjl1bTE3TVhFUy1UYmp3NnVQeEdtVmdJVkgtTGRBTXhhcndUUC1nQ3FldnRpSXVoeGFHNXlrVUtPOE1zTmVkWlhwNzFsM1h0eHNzSlJ4eDNMLUtTRktsZGhnZmdoNHRHUHRiVEIyYmlXV0NESWhjbHlQNkRLZTZDc1l4dFdwVGpKbU5DNzJVUFhMLWpya0x0WUs0STdoVWN5dUl6U2ljeUFBSlhnbDNQVHk5RVBIdllMSnh2a05IUFh3Y3V4RzZMVVdn?oc=5",
-   "utc": "2026-11-24T20:44:14Z",
-   "tags": [
-    "MIL"
-   ],
-   "score": 5.2,
+   "score": 4.9,
    "airspace": false
   },
   {
@@ -171,7 +182,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -182,7 +193,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 4.9,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -193,37 +204,26 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.6,
    "airspace": false
   },
   {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-11-24T12:55:44Z",
+   "title": "Oil touches three-month lows as rising supply offsets Hormuz threat",
+   "source": "WKZO",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQy1IYkZrYWlmM1c1RHo4UFVxQ2p5Z2x1dWluQmJhNmQzZU4yeGRQTFl0SWFLYnp1S0UwWWFqUUkzamxsTkhVT2EwT1VWeGNjTDYtTXoxc1FQeEsxSnhwM21wdmpxSFNGUnl0TlBIcmtXWWhXU0k1bnNvYWNxVnNXNlJiTExpckRocjFEOU4yX3JDczNqZ0dXSV9abGUyQWM?oc=5",
+   "utc": "2026-11-24T07:50:54Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Oil prices near three-month lows as rising supply offsets Hormuz threat",
-   "source": "Ammon News",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsbGVZMDREYko3cTZHdkRDdjRYSjhTdzFFeGRKeUZpOHJDeHJqZ0RkOUdLNXhER0RhX1dYMVdCa091NkdVOGZiRnhkVzNKNU0?oc=5",
-   "utc": "2026-11-24T05:57:29Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.6,
+   "score": 5.3,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 325,
-  "baseline": 2.0,
-  "samples": 27,
+  "count": 1,
+  "global": 96,
+  "baseline": 2.2,
+  "samples": 26,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -880,6 +880,10 @@
    [
     "2026-11-25T15:43:32Z",
     2
+   ],
+   [
+    "2026-11-25T23:52:00Z",
+    1
    ]
   ],
   "box": [

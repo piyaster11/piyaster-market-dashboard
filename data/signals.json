@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:41:55Z",
+ "updated": "2026-11-26T23:47:52Z",
  "level": 62,
  "band": "Alert",
  "components": [
@@ -12,14 +12,14 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   33,
+   41,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   12,
+   10,
    15,
    15,
    "3 pts each"
@@ -106,19 +106,19 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.8,
    "airspace": false
   },
   {
-   "title": "Airline Norse Atlantic flags bankruptcy risk as flights suspended By Reuters",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2NIZ19FTmwxQ05Yc3NwbkVwQlNRdnpxVnZpc25xRi0yWEtkU3dWZmNucFVfOTZWSWJ1Tkd2X3FBZ0hiLXpOUGt1VkNoTEtjTTB4THlLVTBZLTlYWmZSa0Y5VmNzWkQ0Wm9zRV9Wa2FMY0MxQnhobkVTb1oySTk5MGdXUExVRVlIUmg4WkRscUJuTjYyaUJYcDVmbVl6WlpnMDNBSVVXb29QWlkwX1U5NDVISjJrN2xScE9URDR6TQ?oc=5",
-   "utc": "2026-11-26T17:17:32Z",
+   "title": "Fuel Prices Could Keep Rising for Months After Hormuz Reopens, US EIA Says",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXMxOTdGVzVOLUhfa3hkbXliUU40aGNWanZ1RFRPMktrQVFZTW82UGhoOXpkR0k2cTZxQS1OYlR3NVM4MDZ2dTBOSHVPYXpOdnZpSXNCOWVHYXFKUWdxV2NPVzdfdUl0NXhlcnY3SWdxMjdkMGQ2ZlZOS3U3dkZtYVRQaDFvQXJQcGNBdVB6UFlhY3RDSzd1bW1Hd3V3b0FTaEVSeUNiUQ?oc=5",
+   "utc": "2026-11-26T17:05:03Z",
    "tags": [
-    "AIRSPACE"
+    "HORMUZ"
    ],
-   "score": 4.9,
-   "airspace": true
+   "score": 4.7,
+   "airspace": false
   },
   {
    "title": "Iran War Disrupts Hormuz Shipping as AI Strategy Faces Scrutiny",
@@ -128,7 +128,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-26T16:50:55Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -139,29 +150,18 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.9,
-   "airspace": true
-  },
-  {
-   "title": "Airline’s flights suspended from Manchester airport ‘amid critical financial crisis’",
-   "source": "Lancashire Evening Post",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcV9QdktkZ29mTXFXMXFoLWcxUFpZakhLWWlmdEhaUW13RHV6MUkyTzhvOU9xQ1pNSk5YWVZJRHA1N29BLVMtZkk2b1NSc1ZHdUZVMTYwQ3JYQm4wdUhVejVTTnpveEZiVnR4V0R4TV9DUDdCcDRBWVRYUm9zWUNDNFQxWC1xbDI3azNuNkNKVHd5VnBEZmRUUXk3czQ4QVpORjJMSFBpcGFtWjdkY0trMUcwcW9RWkNIYnh3YjhLM2tLNHBlcWlYb3FjZ0JaakF4?oc=5",
-   "utc": "2026-11-26T16:00:00Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.8,
+   "score": 4.7,
    "airspace": true
   },
   {
    "title": "Norse Atlantic facing bankruptcy as flights suspended amid Iran war gas prices",
-   "source": "Daily Express US",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVVFacjhPaDBsdzBWZHNJR0hZM1piUWV0Rl83aEYyM0ppRzllUXo2UlNEVVNIZDlVZFNmVEZzMm4yVlk4Y3VRZXo0cy1uZldLY3k5YVRiWVNuYVpYcjV4bXZWMk4xcXJGbGFoeFRIVFo0LWxZb29WRzkxZDVCWTdUTVRpUFFSenJmNnd1dC1uQdIBlAFBVV95cUxQS3FqZ19oZFdYc3AtcWlZMmhFTWhfSnpRaVBlOWk1aEt0eHhGeXdNYzF1dmQ0TmdZa3pGZHNOOGNScE9MbGVTMVhIM0JSYS1JRTNYdXNGMklra0JNSV9lN1hUdTRxaFdIWEpBSWJlcmhudXFYSVRxSnctSDdvUVBIcmV1YTBYUXpsUTYtOXo4RlNzblR0?oc=5",
-   "utc": "2026-11-26T14:27:36Z",
+   "source": "شبكة تواصل الإخبارية",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fOGthYTF1UlozckVUVl9wbDJLMXZBMXRDaXh2dzBndjlNNHhqRTlncV9qMWhhZHh4UmFkRHU4NjN6aUdFa0FUU096c0JHM3c1V3hB?oc=5",
+   "utc": "2026-11-26T15:26:48Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.8,
+   "score": 6.7,
    "airspace": true
   },
   {
@@ -172,18 +172,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 6.8,
-   "airspace": true
-  },
-  {
-   "title": "Norse Atlantic flights suspended after warning finances 'critical'",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcUhYdkl1Y05fNHhRZi1POEh3QmxMUUtlZ0VGMFhjdTV6NnE1THEzb0NZVHhqbFFjVnpUdmdJNUx1V0wwcThlSThlZVNicnlLemtJTUI1YW5rZ2E4aWR3blhhM1JmR3pxZnU4RjJ6N2h1b3JBbkI5N2FpTdIBe0FVX3lxTE9JcUhYdkl1Y05fNHhRZi1POEh3QmxMUUtlZ0VGMFhjdTV6NnE1THEzb0NZVHhqbFFjVnpUdmdJNUx1V0wwcThlSThlZVNicnlLemtJTUI1YW5rZ2E4aWR3blhhM1JmR3pxZnU4RjJ6N2h1b3JBbkI5N2FpTQ?oc=5",
-   "utc": "2026-11-26T01:04:00Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 6.2,
+   "score": 8.6,
    "airspace": true
   },
   {
@@ -194,31 +183,38 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.1,
+   "score": 5.0,
    "airspace": false
   },
   {
-   "title": "Pakistan Issues NOTAM Restricting Central Air Command Air Routes for Airforce Artillery Exercise",
-   "source": "times of islamabad",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOV9XRnVGa0o0V3h3UHlYOW03ZzFCYmE4ei1Vd3Q2dExvd1ZCV3dhWFdzMV84WW1qc0xpbmdlX1hTa1AyTGNrVDR1aHRXbGpVdS1mWDQ0bnlteEVwMDNDQjZBd1R2ZkRDRmVVSEI5Y2ZVck5mUEs3WENOaTc3NEpqa3l0ODU2ZzFtRm9IRjROYXJXanlVajJuRkpBOHhWdHlrMmZlQy03dkpjMGZadkpHWjV0UVQ1WGJkNFo2ZEdqSU5RVUZwYW5KcnZ6R1lweGkwVVo4?oc=5",
-   "utc": "2026-11-25T14:12:49Z",
+   "title": "Adnoc’s LNG Tankers Go Dark to Get Gas Shipments Through Hormuz",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmFPa0lfN3RsUWJncGtGQk5iOWNpdVg0N25wdWE0NGV6U05IR3VmemVnb2JQTUFTQXdwNUJ4WXprNXc1NG83dHgyV1N4YXhuMl9yaThwMWhyWk4zaU5Xd3AtWklHRXhKQUVEazZiQ2V2anNTRHlzNUtfMmdtaFRnZ3IxbWdlaTJVOVdQUG13eFJTaU4xdTJUTg?oc=5",
+   "utc": "2026-11-25T22:45:03Z",
    "tags": [
-    "AIRSPACE"
+    "HORMUZ"
    ],
-   "score": 4.8,
-   "airspace": true
+   "score": 5.0,
+   "airspace": false
+  },
+  {
+   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
+   "utc": "2026-11-25T21:44:14Z",
+   "tags": [
+    "EVAC"
+   ],
+   "score": 7.9,
+   "airspace": false
   }
  ],
  "mil": {
   "count": 1,
-  "global": 104,
+  "global": 75,
   "baseline": 2.1,
   "samples": 27,
   "hist": [
-   [
-    "2026-10-22T15:14:38Z",
-    5
-   ],
    [
     "2026-10-22T15:14:50Z",
     4
@@ -885,6 +881,10 @@
    ],
    [
     "2026-11-26T19:41:55Z",
+    1
+   ],
+   [
+    "2026-11-26T23:47:52Z",
     1
    ]
   ],

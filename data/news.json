@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:41:32Z",
+ "updated": "2026-11-26T23:47:37Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (28)"
+  "Nikkei Asia": "ok (26)"
  },
  "items": [
   {
-   "title": "Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
+   "title": "Lula Taps Bradesco Chairman as Finance Chief to Reassure Markets",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
-   "utc": "2026-11-26T19:31:46Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/lula-taps-bradesco-chairman-as-finance-chief-to-reassure-markets",
+   "utc": "2026-11-26T23:18:21Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Taiwan weathers wave of cyberattacks ahead of Saturday's elections",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa05RQkF6YTZYMkRvb1FLLWFBLXU4ZnBxckl3NHlkTWFlNXVCUEszekUxYnZMREVTUEsyTlVKZjVJQ0VnUTBlNVVrSDJ5UXRfUWZmNERZT0VfU3hEd2QwSFhyRm5Id0F2WUNBNGhucm5uaU1OSk5ZdHdPOXlNUkVqaWVleWhNRDNyTG5rbTVSZE1qNnlCdXlkcHlMT0o2dE1SUFE3OVBMcE40NDNGUkNIelp0YzM?oc=5",
-   "utc": "2026-11-26T19:18:00Z",
-   "tag": "WAR",
-   "breaking": true
-  },
-  {
-   "title": "UK stocks gain as banks, miners advance; Imperial Brands soars on bid interest",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHBCVHZSbldsNWZWOGtVSXBvTW5lX0N6MHhXOFBtb2lubk1oVGhpTzJDaEgtVWtXSUlTTHIxUHBDSW10NzZYZEdZazlWRTBxRUN3Y2p6TzdtWXdIdkhBRHlCMUFZMF9hRWNkUGVBXzhmaXZzME1YcGxOSnc2bUtfdXc1X2ktSk1KbkU1QjJuV0V4TG4tV1duMTBDWUZDUHcteDRuX3ZvV3pWOWFlX2tydWR5VEozN1Mw?oc=5",
-   "utc": "2026-11-26T19:16:09Z",
+   "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+   "utc": "2026-11-26T23:10:27Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-   "utc": "2026-11-26T19:00:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-   "utc": "2026-11-26T18:44:15Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Nissan poised to import cars from China to Japan for first time",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdnhNVG5qVlQ4ckdYMERZdEhuckhJelJvTV9BYV9MOUdvcXJKanVMTEtfWXpsZ2NqQUNyWk5CYkNBVWFCenpEcnFPSXQ2UGc2VnN2ZlBkTnZuMklJeDZJNW9DZFhHdExadUJaMjN0TjBlU1cxMHdpdlA4b05nY1BhVkZSa3JHa0FZZ0I5LUFsZHpjUTRxNzdQeXJsS0daaXhpbjJadjVzQ01QNlhy?oc=5",
-   "utc": "2026-11-26T18:38:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "utc": "2026-11-26T18:30:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-   "utc": "2026-11-26T18:27:43Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Two Italians killed in attack on Kuwait site, Iran denies involvement",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeE9DZXQ0VUMxV052eWlmWWlKM3R0LTFiMS1ITm93Ty1NOWpta1ZVNU5MeWVVMHRlcmdXd0NpZmxJeGlGZEhCeklaaEs2VWlSWnR0RVRLUHhCNm9MeFNTMmNUZFEyWWdoUVVBWUZTcVc0LVNFY0gxN050ZHNtS3psSVRHQWtBVEM5N3dPYVl6T1Flb0tBb1BlUGVxQ3ZaNURWVU9vTHYtTGxFRDJSQVhaMU1Tbw?oc=5",
-   "utc": "2026-11-26T18:01:20Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "New Zealand Poised to Learn Who Can Form Its Next Government",
+   "title": "Latest Oil Market News and Analysis for Nov. 27",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/new-zealand-poised-to-learn-who-can-form-its-next-government",
-   "utc": "2026-11-26T18:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "When the Grid Fails, Solar Does Not Wait for the State",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/When-the-Grid-Fails-Solar-Does-Not-Wait-for-the-State.html",
-   "utc": "2026-11-26T18:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Semiconductor chips are the new oil. Here's why",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-   "utc": "2026-11-26T17:52:15Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
+   "utc": "2026-11-26T23:05:38Z",
    "tag": "OIL",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Spain's De Cos to take over as ECB president from Lagarde",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV8wZkxRVTY5U0ZQeVZwSGtCMVZJTjV2d2t5TlhsSVoxQmpLRXI4OTV1R0QwQkV1QmZma3BDN0lrOEJTNGFVeloyeE5HbnhmWDZfR1VrbzN5TzZrck5WTTlKNTBaeFhVbDd4RldhY0hZMnFsczlsTURLY0FpWWgzeE5YVVc2NUZqMy1KbldQVDJfcUtsVEhINHF2emJ5SEFrMXozWUdTM3BFQQ?oc=5",
-   "utc": "2026-11-26T17:48:53Z",
+   "title": "Bankers Pay Up for Hong Kong Apartments as Rents Hit New Highs",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/bankers-pay-up-for-hong-kong-apartments-as-rents-hit-new-highs",
+   "utc": "2026-11-26T23:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Euro Set for Biggest Drop in Two Decades Against Yuan This Year",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/euro-set-for-biggest-drop-in-two-decades-against-yuan-this-year",
+   "utc": "2026-11-26T23:00:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "Executives wary of tariff effect on exports",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3362039/executives-wary-of-tariff-effect-on-exports",
+   "utc": "2026-11-26T22:35:00Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
-   "utc": "2026-11-26T17:47:30Z",
+   "title": "Final New Zealand election vote count to confirm parliament make up",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFJqbEVQNWVCSWlBVEdnUXJlWHgwV3pmUjRGZ254NjNIcGgtSHU0NkVsemlWUnFjZWlJa3BLY01sTDN3djdCS0ZYU2dvcGV0U0I5NUh4MDV2NU5ya0V1WS1BUkJRSGRtNnIxUlRqc3ZFOXBycWJITFh5cnB3WEtsa1B1REFtMDlkMmFYdlBLTEFKSjNvWGZ4SmtEMl9RMzRNbFdCS25kbHF4eVhGeGs5OW1Rb2FGcUhWcVJV?oc=5",
+   "utc": "2026-11-26T22:34:34Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
+   "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
-   "utc": "2026-11-26T17:43:00Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "Kazakhstan Encouraged Local Banks to Finance Deal for Gold Miner",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/kazakhstan-encouraged-local-banks-to-finance-deal-for-gold-miner",
-   "utc": "2026-11-26T17:35:40Z",
-   "tag": "GOLD",
-   "breaking": false
-  },
-  {
-   "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
-   "utc": "2026-11-26T17:30:00Z",
-   "tag": "BTC",
-   "breaking": false
-  },
-  {
-   "title": "North Korea suspends missile shipments to Russia, Ukraine says",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXJUNXpRS2lZTjRPU19yVktyQWF2TmkxT0xNemZ6OV9oMklGdFhVT2lIcXVmRmVRaFB3dTQ2bjVZT3R2WFZyZkxJTVY1ZWphdVQ3WUpBNHNubFBFLUl4Z2kxQV9fZlNwVV9Cc1lFWmc1dG5WSmZ3Mnpxenhza19BUFk0S2IzNXFYSTAyZjc3aXlHU21JRDRQX2hRSkdlNC1yRnlGc180ZGhPQQ?oc=5",
-   "utc": "2026-11-26T17:29:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
+   "utc": "2026-11-26T22:32:57Z",
    "tag": "WAR",
    "breaking": false
   },
   {
-   "title": "Nvidia, Kioxia team on AI server memory as alternative to South Korean chips",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNjFCSjA5NEktUE5YYlJCR2ZxMVNaTE1QQTRUMXdFM2VBZU83UkFvMlBXWE9DOHI3WnFKZDB0emNyNUFWYVByWkxxeHRHcnhKTzg0dVhqMnNLVHBSTk40ajlBWUZmcGlxdXZqMDlabXVxVERxUlA2Vzl6VEtrajFNa243cWY5ZC1kMzM4ellUNnM4Nmljcnk5OUNLdjhMTHNkWnZNN0VlU2NFbjFYckVzNXNaSFFyTzBNUEFqSEdxcFJVYXJNTlpv?oc=5",
-   "utc": "2026-11-26T17:15:00Z",
+   "title": "AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/ai-rout-makes-kioxia-japan-s-cheapest-blue-chip-backing-bulls",
+   "utc": "2026-11-26T22:30:13Z",
    "tag": "AI",
    "breaking": false
   },
   {
-   "title": "Why Gasoline Prices Are Falling While Diesel Remains Expensive",
+   "title": "Thailand shifts focus to investment-led growth",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3361974/thailand-shifts-focus-to-investmentled-growth",
+   "utc": "2026-11-26T22:26:00Z",
+   "tag": "THAI",
+   "breaking": false
+  },
+  {
+   "title": "East Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10SzU2X05Dc0ZvYzVpN3lMMUtvZDZDd2c4NVk2SklvcC1GdWM5NnR0MTRZQ0NlSk9pazlQQzdsU0s0UDRYQWROeGFkSVpkNzhjdFZnSw?oc=5",
+   "utc": "2026-11-26T22:23:41Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Calls grow for stronger laws to tackle AI cyberthreats",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3362099/calls-grow-for-stronger-laws-to-tackle-ai-cyberthreats",
+   "utc": "2026-11-26T22:21:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Zelenskiy says Russia preparing new mass strike in coming days",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDhjR3Rhcm4tZDBldjFGZV9PMm1aV0pWZF9RdFhwdVA0anhFWHdkN212SFBUZTN6V2RxbGhzMHI0cFdXa3VMY3hVb3BXcEZVWEVydzQyYnkwN2t0WjRnZmpFbXhYVHMyWHpRUFRlNTVyOGZSSWFKd21qcng5QTNRZUgyb294a3NJWUNQaUhWMDVYT0E2bGlsYXJjTU9IZzd0Vm8w?oc=5",
+   "utc": "2026-11-26T22:16:00Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Trump demands probe of GDP data released before midterms",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
+   "utc": "2026-11-26T22:13:21Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Rest of the World",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMXFSX2EzTjlUb3I1VlJhVTVacGVabWFPVERQRU1peU5NRFNlY2ZaRWM2NmhBZkNNMTdod0dKVnlMc3JfcFEtUWNvT1lTRlRKRGVzUmtqaXJyTTJIVkxN?oc=5",
+   "utc": "2026-11-26T22:06:18Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trending",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQjF3ZWRBTUpfdHRETlhBZEhuWkpUR3JmLWdaYVZhNUpMUlBTdExmVnBZejVRbkVWcDR3LWxvRHRfbnMxVlV3?oc=5",
+   "utc": "2026-11-26T22:04:38Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "utc": "2026-11-26T22:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Why-Gasoline-Prices-Are-Falling-While-Diesel-Remains-Expensive.html",
-   "utc": "2026-11-26T17:00:00Z",
+   "link": "https://oilprice.com/Energy/Energy-General/The-Next-Big-Clean-Energy-Bet-Borrows-Its-Drilling-Tech-From-Big-Oil.html",
+   "utc": "2026-11-26T22:00:00Z",
    "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Asian Stock Futures Signal Gains, Oil Advances: Markets Wrap",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+   "utc": "2026-11-26T21:59:57Z",
+   "tag": "OIL",
+   "breaking": false
+  },
+  {
+   "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0FKWlltSXhpMTdpTnRja2JXb3VyWlBnVG9ITFA3YnRiN0lYMzYwNE1vMmF0WEZzLTJyM09jMnVoZks4alExa09oUTA5ZnZLYzl4UllpZjBiWHFuazQ4WkFhUGw1SC1nRGNRQUpoZ25sUFMzQ25EckVCSWZCdWJMVmhfR0s0dlBxSUZwYjdyVUUzN1ppbzBDLWw2eEszQUE0NWNKZ0hicF9oVzlmaXFVXzNtR1FVdlBmalNIOU4xZDRLUXp5bFQ0MnZYdWFwR3lRWWF1LUhDTQ?oc=5",
+   "utc": "2026-11-26T21:51:00Z",
+   "tag": "AI",
    "breaking": false
   }
  ]

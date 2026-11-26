@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:29:18Z",
+ "updated": "2026-11-26T09:38:44Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (34)"
+  "Nikkei Asia": "ok (37)"
  },
  "items": [
   {
-   "title": "Pet hospitals poised for expansion",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3361484/pet-hospitals-poised-for-expansion",
-   "utc": "2026-11-26T00:25:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
-   "utc": "2026-11-26T00:18:09Z",
-   "tag": "FED",
-   "breaking": true
-  },
-  {
-   "title": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
-   "utc": "2026-11-26T00:12:16Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Emerging Asia’s Best Bond Rally Seen Extending in Philippines",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/emerging-asia-s-best-bond-rally-seen-extending-in-philippines",
-   "utc": "2026-11-26T00:05:45Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "TikTok Shop drives B1.3bn in Otop sales",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3361434/tiktok-shop-drives-b13bn-in-otop-sales",
-   "utc": "2026-11-26T00:04:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "South Africa Eyeing SMRs to Supply 5.2 GW of Nuclear Capacity",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/South-Africa-Eyeing-SMRs-to-Supply-52-GW-of-Nuclear-Capacity.html",
-   "utc": "2026-11-26T00:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "China 2027 Growth to Top 4.5%, Ex-Official Says",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video",
-   "utc": "2026-11-25T23:54:41Z",
+   "title": "Suzuki turns to rare metal-free batteries amid China supply risks",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaEtpWklsRm01X3FuV29RRjBra1oxVVRmNGptVkdRS21nSHJTUndkekpvOGN5ZE5QdDVfeWdXNmRWRmNnZ0RVN0x4TjlLaXBXQ24ycU93NERhQ1hhQVdOSnpmUmZMU1ktLU53U2VUeGZ5aHhmaXgxVE9CcWNiRnZKeWZqWkZzVTItTWxLMWtGZ3dSNnVtXzVCUXhacVhxZTVkZ1RGRFZsVkhEZ1hvS2NvSkZ2eE5fVE5HR3JYZHFEcFNpZ1FVZnln?oc=5",
+   "utc": "2026-11-26T09:23:00Z",
    "tag": "CHINA",
    "breaking": true
   },
   {
-   "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+   "title": "The Nobel-winning science turning ‘water harvesting’ into a commercial race",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
-   "utc": "2026-11-25T23:50:53Z",
-   "tag": "GOLD",
+   "link": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
+   "utc": "2026-11-26T09:07:32Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Would-Be RadioShack Revivers Settle SEC Fraud Suit Allegations",
+   "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+   "utc": "2026-11-26T09:02:30Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Marc Levinson on How UPS Created Modern Logistics",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-25/would-be-radioshack-revivers-settle-sec-fraud-suit-allegations",
-   "utc": "2026-11-25T23:44:35Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics",
+   "utc": "2026-11-26T09:00:22Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
-   "utc": "2026-11-25T23:42:10Z",
+   "title": "Turkey’s Defense Chief to Meet Hegseth to Discuss Russian S-400s",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-s-defense-chief-to-meet-hegseth-to-discuss-russian-s-400s",
+   "utc": "2026-11-26T09:00:01Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Odd Lots: Levinson on How UPS Created Modern Logistics (Podcast)",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/audio/2026-11-26/odd-lots-levinson-on-how-ups-created-modern-logistics-podcast",
+   "utc": "2026-11-26T09:00:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "AI stock rout deepens but damage is limited by afternoon bounce",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmNMM0doWElDVk9BdjNGZnJHakNCUFg1blQzSlk0eW9zeVduV3ZKcEtJd0hpUkxDMVhnRE9rY1lLUzF1eENZaFh0SUNKbmRjanN3YWtZakZud2RYUnlSRkk5b1RZT2VfbFJPXzhZVEVyYnFnRHBwYVlGdFQzaEt2Z2VjaGVXWUE0Qmd5bjZYandmR2M2QXBSY2tKem80OGNlSzh3?oc=5",
-   "utc": "2026-11-25T23:39:08Z",
+   "title": "China made Shenzhen a showcase for tech prowess at APEC summit",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFFtNUMzV1lTdHVmanFQRXMzLVpCZ1BaMENtX1JwVkJjdUxLc3JSN01xRF93TTZMcjVqektEZUpsNzlyLVJCUHgwdXZNLURtOHlXLVc2TldZcGR4TUI3N29JVm1TRzJhR0QzelBZQko5dk9ua3dzRWhtbkl1VG9pQUlMTUVwMWJwQlhKX3pobVhZMmliQ3lFQzFpQQ?oc=5",
+   "utc": "2026-11-26T09:00:00Z",
+   "tag": "CHINA",
+   "breaking": true
+  },
+  {
+   "title": "UniCredit Clears Final Hurdle to Take Over Commerzbank",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video",
+   "utc": "2026-11-26T08:50:20Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+   "utc": "2026-11-26T08:42:26Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-   "utc": "2026-11-25T23:30:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-   "utc": "2026-11-25T23:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "How Saks Is Reclaiming Luxury as Exemplar Luxury Group",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-25/how-saks-is-reclaiming-luxury-as-exemplar-luxury-group-video",
-   "utc": "2026-11-25T23:18:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Authorities make push for alternative fuels",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3361309/authorities-make-push-for-alternative-fuels",
-   "utc": "2026-11-25T23:18:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Dan Loeb’s Third Point Hedge Fund Resumes Private Investments",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-25/dan-loeb-s-third-point-hedge-fund-resumes-private-investments",
-   "utc": "2026-11-25T23:07:09Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Latest Oil Market News and Analysis for Nov. 26",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
-   "utc": "2026-11-25T23:03:15Z",
+   "title": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Plans-New-Oil-Bidding-Rounds-Despite-Mounting-Security-Risks.html",
+   "utc": "2026-11-26T08:30:00Z",
    "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "US AI chips rule threatens Thai data centre positions",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3361409/us-ai-chips-rule-threatens-thai-data-centre-positions",
-   "utc": "2026-11-25T23:03:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Thai employers compelled to rethink labour strategies",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3361394/thai-employers-compelled-to-rethink-labour-strategies",
-   "utc": "2026-11-25T23:01:00Z",
-   "tag": "THAI",
-   "breaking": false
-  },
-  {
-   "title": "Jupiter’s $3.6 Billion Fund Goes Defensive, Skirts Tech Selloff",
+   "title": "Asian Stock Markets Are Cheap Enough Now: Market Analysis",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-25/asia-fund-beating-89-of-peers-trims-tech-adds-defensive-names",
-   "utc": "2026-11-25T23:00:00Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-26/asian-stock-markets-are-cheap-enough-now-3-minutes-mliv-video",
+   "utc": "2026-11-26T08:29:51Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "East Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10SzU2X05Dc0ZvYzVpN3lMMUtvZDZDd2c4NVk2SklvcC1GdWM5NnR0MTRZQ0NlSk9pazlQQzdsU0s0UDRYQWROeGFkSVpkNzhjdFZnSw?oc=5",
+   "utc": "2026-11-26T08:17:59Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "utc": "2026-11-26T08:09:39Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Trump’s Tariffs Blunt Appeal of Moving Production Out of China",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
+   "utc": "2026-11-26T08:05:24Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+   "utc": "2026-11-26T08:01:33Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
+   "utc": "2026-11-26T07:45:05Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Houthis Target Jeddah and Jazan Ports as Attacks on Saudi Arabia Intensify",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-26/horizons-middle-east-africa-11-26-2026-video",
+   "utc": "2026-11-26T07:41:56Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "FTSE 100 Eyes Rebound as Shift to UK Gilts Pauses",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/ftse-100-eyes-rebound-as-shift-to-uk-gilts-pauses",
+   "utc": "2026-11-26T07:37:50Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+   "utc": "2026-11-26T07:30:11Z",
+   "tag": "CHINA",
+   "breaking": false
+  },
+  {
+   "title": "Asia rejects basis of new Trump tariffs as US gathers China ammunition",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTdlU2lyQ1Q2c0lSWERfaE9nM3ZHUDlYaldoRGNJWERpNm5HTTNVNTJJRjBTOTRXcFNUV3MzR2RLSDZKR3ZsUnFFY1ZOMXYtUXRpbnZPc1VvTFRuSktXOUJlZWJOOVhYajBSbGt1bEtQT0dPWDFNLUIxVzN5NHNaSWVOUGJhZGdpS0RUQVphSm9JNjEwSDBaWk9HSlFlTDU4c0Z3WnZGdXU1bnYyZ1MxZmE5c3FfN3dfOEg5c3pSM0tWZnNh?oc=5",
+   "utc": "2026-11-26T07:28:00Z",
+   "tag": "CHINA",
    "breaking": false
   }
  ]

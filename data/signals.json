@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:52:00Z",
+ "updated": "2026-11-26T00:29:42Z",
  "level": 74,
  "band": "Alert",
  "components": [
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   0,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -109,6 +109,17 @@
  ],
  "headlines": [
   {
+   "title": "Global Gas Output Contracts 2.6% as Hormuz Disrupts Supply",
+   "source": "Wisevoter",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUZnTXZuOC0tR0VDRXo2cXRpc0xNNV91U0FZZ0xIQ1BNUDVIWHBaSnFkRzNiUDI3eHhGcHdraVlTeXVzTzJRZTFBbWYtSVc4a1VpQlQxV09jV2t6ZnhIR01ud2c4cnVQTExzTzFZLWo4NVdNdF9aaU1iTHFfLTB3UlNBYw?oc=5",
+   "utc": "2026-11-25T22:41:04Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.9,
+   "airspace": false
+  },
+  {
    "title": "UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDdVbXk4SGlPWGZnYTdvTFMtNEI5NFA1UFVSWFJFb0JOZWhWMkR3UURzbHlpY3NuSmRGR2FaakZ2ZTZRU2ctQm5yMzlNakZfakVxOGpxZ2ZCTk4yRkhmbmJGR3VvU1I0WFVkZmx0c1JiZGNkNGVoNFBYN3h1cnlqdUpwaVdReU1YcVgzWDd6TEpVeFhsY2c?oc=5",
@@ -127,7 +138,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -151,17 +162,6 @@
    ],
    "score": 5.6,
    "airspace": true
-  },
-  {
-   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-25T13:19:02Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.6,
-   "airspace": false
   },
   {
    "title": "Iran Reports Three Tankers Hit Mines in Strait of Hormuz",
@@ -220,10 +220,10 @@
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 96,
-  "baseline": 2.2,
-  "samples": 26,
+  "count": 0,
+  "global": 109,
+  "baseline": 2.1,
+  "samples": 27,
   "hist": [
    [
     "2026-10-22T15:14:38Z",
@@ -884,6 +884,10 @@
    [
     "2026-11-25T23:52:00Z",
     1
+   ],
+   [
+    "2026-11-26T00:29:42Z",
+    0
    ]
   ],
   "box": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:38:36Z",
+ "updated": "2026-11-27T22:04:04Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   32,
+   31,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   11,
+   10,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   2,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -99,6 +99,39 @@
  ],
  "headlines": [
   {
+   "title": "Tehran Refuses to Reopen Hormuz as IRGC Reports Tanker Explosion",
+   "source": "Palestine Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTEdwV3NtVHhNcmxjcjJ4b3ptc2hveENiNldWcC1jVHhWNHMtRmd4UGVCSGNjbFNNR0V1R0lTazY5SXhJQXZaZHJFZTBaUHhhcjQtTi1QaFZPaWFLYVZTbnZGU3Fwb3c2NmQtN29ZWnA5QXdwd0VWVVlRYk41TThDTlp5UVJ4MWxzRTNIU1BYdXVNa3M3ZzVYSTI5NGxxS05ia0E?oc=5",
+   "utc": "2026-11-27T19:59:44Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 5.9,
+   "airspace": false
+  },
+  {
+   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
+   "utc": "2026-11-27T16:51:19Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.8,
+   "airspace": false
+  },
+  {
+   "title": "Nairobi Airspace Closed for Military Activity Today and on 4 and 12 December, With Notice Reaching Public Only Hours Ahead",
+   "source": "Avi-Go",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MVHBKem9LQmJ5eDBOOWtLZUdWMmZ3VGFCekxEalR6bW9nTXZDc3NqdDduUk41dm03YTZYeFRtTUNLYWRPM1lOVDhla2FlUnJWYmxDNHlocGxMQlhXSTBOOGlKckNjY2tIb0IyVDVfbTlNNHc?oc=5",
+   "utc": "2026-11-27T16:46:41Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 5.8,
+   "airspace": true
+  },
+  {
    "title": "From Corridor to Network: What the Hormuz Closure Has Done to IMEC",
    "source": "Mepei",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMm90c3FhV3hMd0RYQTZiOXlQeG1ZR0pEYWp6X3hrcDA3MEpZZ0NHR29HM0xLckJFU1ZJNkFWZFZxWFR1SXlHU05LaHBLTUxTVGxsMDZ2am92WENuY2ZqNWl6N2tqZWZzQWR5YnI1X1M1WEZ1ZUNjZGY4Mmsya3Q3eGNNeWFPMWIwY1cxMQ?oc=5",
@@ -106,7 +139,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -117,7 +150,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.0,
+   "score": 4.6,
    "airspace": true
   },
   {
@@ -128,18 +161,7 @@
    "tags": [
     "NUKE"
    ],
-   "score": 4.9,
-   "airspace": false
-  },
-  {
-   "title": "Ethereum Developers List Post-Quantum, AI Threats at DEFCON 2-3",
-   "source": "tokenpost.com",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QUS1QM19lSFRXbE80M1plYWZwOFBlMFY5ME83Y0pMOEFGM0ZIUXRfWnNSa3REQjBmdzY2NjVsZlJJZUJ6UkZxOHplU2NoeVd3RUtCNXpFcVBTV28?oc=5",
-   "utc": "2026-11-27T10:35:11Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.9,
+   "score": 4.5,
    "airspace": false
   },
   {
@@ -150,40 +172,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.8,
+   "score": 5.4,
    "airspace": false
   },
   {
-   "title": "'Big concern': How the Iran war and Strait of Hormuz closure could drive up prices for helium, fertilizer and other goods",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUEwbGQzcGczbVRKcXRoNHB3QmtLMENVMzFfd0xnWmN3aWRILU5CRTRWR0pFdnhQdGFsLXJwa01WR2N1S0JCQUxxdFRkRGZHaWFlakYxMk1YdDBCRDFXQjhDeFNMZmlyWnFsVjFaY21FZUdNdDg1RXdKM1JSb19jVVFTVTJFREFfRFN3TTRVbzNpY21mYXdZVmhwYl9wM0JrTGRvLUJ30gGrAUFVX3lxTE13aGdnRGlNem9jTGFaMTYwZjc3SVZ3bGFhYVhQVnVXVVJQZ2lzVHFqT3VONnBFbWpGVUw2VE52U0xSTmozSGJSM2d6dEF6Z2FiZjF3VWdMdHRUcWRYYjhKRjltNGVNeElDNGY2UVlvLVZRUkJrZGxvTERNRDF0MUk1dTRUWWFMNnpTWTM0b1BHU0JLeTBBZVJON2s2dE5jblB5Nzl5dEFiMnNPcw?oc=5",
-   "utc": "2026-11-27T03:11:03Z",
+   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2tKSXpRQ2RURVJRWkNUcVFBMU9sNGRYc3JqUWFLMWdOSnRBS0R6Nm1GYkFBaGpDVkg5RDg3NFI2NXRfZmlEaFBMODBDQkxwNmw3NG5iY0Q4NjFsR1pZMHJvLUlybnVodV85UmN1Nm1oV01qS1hkdXFxb3BZZGFWYTFLT25vYk9FeWZqUXVjQ2NjZFdQOVBTbXFFMzQ1QQ?oc=5",
+   "utc": "2026-11-26T17:22:06Z",
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.6,
-   "airspace": false
-  },
-  {
-   "title": "US targets mine-laying vessels in the Strait of Hormuz amid blockade disrupting global oil markets",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRPSjlIQTd4QndKdm9CUHk1ZWxIaktfOERjc1A3VHpYMHV0Z1Zkd3dGNURqMFJFR3l4LXo3OU5scG96QXhMd0F5TGthdlVzbmg0QVVHbnktU096TkFWUnc5QU9UV0xvTk1jbDY3eGFJaWZXN19UOEJvbTF6eFdFcW13cWxwdWRDVzU1OEl6c2ctT3ltYVJZN0d1a3hvQdIBowFBVV95cUxPUktnalZhVFFxNkhBTHFVS0tOSVBzVE5rZWFhcHhQUVk5dnlocFVZQWdNeHlNQ2pwY0ctTHp6dkQ1WFh1djJsUkQxZ3RZR3NkbVVJOWNCNTFqdFl5eUpMc044SVlwQVMyeldla2VYZ2FxVG5ud1RvTVlKNVc1d0FMNjZSemNubmdydW5BRE1peGVjdmJNSFF5QVZ2OGtNMTVHY09B?oc=5",
-   "utc": "2026-11-26T21:42:39Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.4,
-   "airspace": false
-  },
-  {
-   "title": "Iranian Mine Attacks Disrupt Strait of Hormuz Shipping",
-   "source": "cwibc.co.id",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVN2MXVZem9YSlRvSmsxbjA2ZTBuRHVHYnk2Yk9UcDJpTkVoYWFXZmx1WmhNQy1KS3REZTVDNEpOVmpYOGlvZWN2eWc4MlZXMzRIM09ESXdGWUNzWi1FdGFhVnZma3Z3amdma0hkcUhHZ1lNdWltbE9iamdzejlsRGtOcw?oc=5",
-   "utc": "2026-11-26T18:27:00Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.2,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -194,31 +194,27 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 6.1,
+   "score": 5.7,
    "airspace": true
   },
   {
-   "title": "Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlRucG8yb2pMNHB4bHpSOFR4cGVaSF9yMGpoNGtvdDZEUXBpSktYYTl2blJrcWk5RFdhUndoay1vT0F4bjJGWXVkQTJpWTU5b05oZVgzNWNEd0NZMWxXZ3RsREZycVRhZHplaXhIS0lqRjB0ZDJQMlVKYW8tWEtZcTVZT0Z5bnc2UE9uWDlBZEJQYzN6LVQ4VXpobllLU01VMkZQcVlzVXV6anp1SE1YMnlEbVFLRVhu?oc=5",
-   "utc": "2026-11-25T22:55:08Z",
+   "title": "Airline Norse Atlantic flags bankruptcy risk as flights suspended",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelVSdGZIMFMxelZ3SVpNZHYyYzRTZWN4S010bExkN0lmVVk5eng2VWp0VUszQXhGVDF5TUFxTDQzSXFuNmxHazV3d1VSR1BWMFRIeFBMQzJDeUM0RG5Cazhya0dpdDA2ZzJDSnd0WGVvVGItS0ttemdLUGhUbUwwbjBWbUk2VktZQUxsa0haX290d21lVFg5Ri1UZ0FkcFo1ZUpnSUNTd1ZudHJWYnQ5T0U4X0w2aExZRXBSOE9ETlEwa2ljRmxF?oc=5",
+   "utc": "2026-11-26T13:58:06Z",
    "tags": [
-    "HORMUZ"
+    "AIRSPACE"
    ],
-   "score": 4.4,
-   "airspace": false
+   "score": 5.7,
+   "airspace": true
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 151,
+  "count": 2,
+  "global": 63,
   "baseline": 2.0,
-  "samples": 27,
+  "samples": 26,
   "hist": [
-   [
-    "2026-10-22T18:36:08Z",
-    2
-   ],
    [
     "2026-10-22T22:25:01Z",
     0
@@ -886,6 +882,10 @@
    [
     "2026-11-27T12:38:36Z",
     1
+   ],
+   [
+    "2026-11-27T22:04:04Z",
+    2
    ]
   ],
   "box": [

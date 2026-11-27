@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:38:22Z",
+ "updated": "2026-11-27T22:03:28Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (25)"
+  "Nikkei Asia": "ok (26)"
  },
  "items": [
   {
-   "title": "Europe Has Too Much Wind, Not Enough Power Grid",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/europe-has-too-much-wind-not-enough-power-grid",
-   "utc": "2026-11-27T12:33:42Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stocks making the biggest moves premarket: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
+   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
-   "utc": "2026-11-27T12:32:11Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Baghdad Moves to Seize Control of Kurdish Oil and Borders",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Baghdad-Moves-to-Seize-Control-of-Kurdish-Oil-and-Borders.html",
-   "utc": "2026-11-27T12:30:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "The Next Hormuz?",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/The-Next-Hormuz.html",
-   "utc": "2026-11-27T12:30:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Stockpiling-Will-Support-Oil-Prices-in-2027-Energy-Aspects-Says.html",
-   "utc": "2026-11-27T12:30:00Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
-   "utc": "2026-11-27T12:29:00Z",
+   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+   "utc": "2026-11-27T21:45:41Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
-   "utc": "2026-11-27T12:29:00Z",
-   "tag": "AI",
+   "title": "Tokyo leads world in office rent, price growth as employers vie for prime space",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOEpldy1QbWVpajJmMGVmbzJaX1ZlZFg1ZDN6YVdjcXpnbzhzZ0E2MDVRVHh1Tldkc0hhOVBOdTZ3eE5nRjR6VjJqcU9xcE0yZ0pTVU1qa1VCcnBDSFhFODZyWFVkRDNQZ1NQN3Y2WjJTNmwxVFFKN1lHSVBqdGZ4V0w5OHo1dlZGT0Zib2NNMWNyMzcwQTA5Tm9sS244UTFlTTB6MnRVR0N4NXE1UWRacGdGWkxfT1ZuOUt1U2o0WGJYOEhvXzBr?oc=5",
+   "utc": "2026-11-27T21:37:00Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
-   "utc": "2026-11-27T12:22:00Z",
+   "title": "Startup doubts state goal of 1m solar installations",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3362654/startup-doubts-state-goal-of-1m-solar-installations",
+   "utc": "2026-11-27T21:21:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+   "utc": "2026-11-27T21:19:31Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Stock Futures Rally as AI Trade Gathers Pace; EU Budget Talks Falter",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-brief-11-27-2026-video",
-   "utc": "2026-11-27T12:20:10Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
-   "utc": "2026-11-27T12:16:07Z",
-   "tag": "BTC",
-   "breaking": true
-  },
-  {
-   "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-   "utc": "2026-11-27T12:15:00Z",
+   "title": "Japan's recruitment of foreign truck drivers at just 4% of goal",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0RPbWZZWjluLUN1LXc2aHZYdGVkMVRhM2Q4QUhpWWp6SkdCSHdfM1dXTnpwUWZNMnEzdEFxemg0VXhLbVpzUWo2RUlrZHdtdU5NS0JDNXFYYUN0NVZFcS12YWtJT05vUDQyUFJZbHczODBPZS0zelFTbldfN01Ed0dBWXdxWUFEYTMxNUtHTnIwTUZfdWxuMkJhaWFVdEpIQ1RNUzhkWVNraUJQSmg4dFBpWC0?oc=5",
+   "utc": "2026-11-27T21:19:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-   "source": "CNBC Markets",
-   "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
-   "utc": "2026-11-27T12:06:17Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Stocks look like a Black Friday bargain. Read the fine print.",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
-   "utc": "2026-11-27T12:01:00Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "Polish President Blocks Pre-Election Tax Cut in New Blow to Tusk",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/polish-president-blocks-pre-election-tax-cut-in-new-blow-to-tusk",
-   "utc": "2026-11-27T12:00:28Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
-   "utc": "2026-11-27T12:00:22Z",
+   "title": "Distributors shrug off Nvidia chip ban",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3362529/distributors-shrug-off-nvidia-chip-ban",
+   "utc": "2026-11-27T21:14:00Z",
    "tag": "AI",
    "breaking": true
   },
   {
-   "title": "India’s Richest Civic Body Will Open Bond Sales to Retail Buyers",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-richest-civic-body-will-open-bond-sales-to-retail-buyers",
-   "utc": "2026-11-27T11:59:50Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-   "utc": "2026-11-27T11:49:18Z",
-   "tag": "AI",
-   "breaking": true
-  },
-  {
-   "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
+   "title": "Brazilian markets rally after Lula taps Bradesco chairman for finance chief",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
-   "utc": "2026-11-27T11:45:57Z",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5",
+   "utc": "2026-11-27T21:10:41Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
-   "utc": "2026-11-27T11:45:47Z",
-   "tag": "BTC",
+   "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+   "utc": "2026-11-27T21:05:05Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
-   "source": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
-   "utc": "2026-11-27T11:34:37Z",
-   "tag": "BTC",
+   "title": "Linear thinking: Can Japan's fastest train speed up inland economies?",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnNsWFcwWXJ0UXFPcWpmTUlBYzRkMkpEUEFFWnRaUDZuY0dIUFpSWDVhSV82NzVPaHJmNnJOUUFMTThFQzdtNHg2S1BIX1ptYzgwU1lZNjRPZGRfYnMwMzhSMmRxZXFIQS1JS2hQbWx3TGJyNGZSV2hKaFVnZFFJMHRIRzlOX0R5dll0ZVczeW52emFGSVRvajNRNmtFZTdnRnRnc0ZSMElMVVlxWFZwc0ZNVQ?oc=5",
+   "utc": "2026-11-27T21:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+   "utc": "2026-11-27T20:56:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
+   "utc": "2026-11-27T20:54:40Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Itochu poised for Southeast Asian cloud services growth with Malaysia deal",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUc3YmlQMi1UTTNvLTdIREVXYlpZbEFNMXFDUDVCWWtKcVB0WV9FMDluRV8wVmlWWHIzZlQwZ1R6Zldrb3h4cUt5dXhNVFZoWDBzeTVFX0ZJRG9UbUdTVFowbUhGcWNaQjBEbkg2WExiZTFGc3cyMWRLa2hRQ1UwWkMyTzk4NkJmUkx2Z1FRTHVRUElianl2WXJncFJDLU9oVlY5eW5IRnctYURrNVBjSzJVdjdFdjFlaHRQazVnaw?oc=5",
+   "utc": "2026-11-27T20:40:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote",
+   "utc": "2026-11-27T20:24:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+   "utc": "2026-11-27T20:16:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5",
+   "utc": "2026-11-27T20:06:57Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
+   "utc": "2026-11-27T20:03:08Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Japan's Happy Nuts Day bets on US taste for premium peanut butter",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTI0alhPQ0t1Y0JQWVlBeFVoaWpLMUFUZXIyOWFFZ0JLTktlUndLeTBhaVNPa3I3SmxSVjFQOG5kMVNXc25MaXFwQVpySkhfelppWDI0b3JJMW1sUU5hYlhfRExINGUtNTZjeE1jQk1nOXVWSElQMDBFT3FibThoS3dTeHVXRndkMkdpWEhidWlwbWlVY0p5ckc1Mmx0RUtjenVVOEUzZ3dsZU9OeTgzNHZ3?oc=5",
+   "utc": "2026-11-27T19:57:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+   "utc": "2026-11-27T19:55:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Georgia Voters to Decide Fate of $17 Billion Data Center Megaproject",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/Georgia-Voters-to-Decide-Fate-of-17-Billion-Data-Center-Megaproject.html",
+   "utc": "2026-11-27T19:00:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "Costa Rica bars UN rapporteur on Palestinian territory, drawing concern from rights chief",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVTFhaERnNklOT0hXZlRoWndkWUtRRnlCZ29PZ056TzdPaEpDdExUWWxGZTVadkRrS3ZUQm5yMUprcEw3WUZnMW80Y1ZBTGVjY2JNaExHV0o0SXIyWGpSb3hjUS1lVkR2N1VWeXFveTN4OFNEMTBET0NXR1E3WUVJQ3Q1djcwR2pHVlJQNTExNnVHSG8xZ2IwV3NZeXdaaFpMWVBsM2FXUFAwcktLNEpuV0U4QVEzSEhZX1JJOEhLRmc1bjd6ejFBLWd2NA?oc=5",
+   "utc": "2026-11-27T18:55:57Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

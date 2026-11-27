@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:47:37Z",
+ "updated": "2026-11-27T02:54:59Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,14 +9,22 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (26)"
+  "Nikkei Asia": "ok (22)"
  },
  "items": [
   {
-   "title": "Lula Taps Bradesco Chairman as Finance Chief to Reassure Markets",
+   "title": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/lula-taps-bradesco-chairman-as-finance-chief-to-reassure-markets",
-   "utc": "2026-11-26T23:18:21Z",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
+   "utc": "2026-11-27T02:30:22Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bosch rises in India as tough regulations require more complex auto parts",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzBNRUZjcTFVcUc1bEota1FCVjIxM0tyZHo4dmNYazNJVnFCdzNFaDU5Umx2bkVLcFV1TE1EZDYxX01kR3lvbU5sd0ZCanFUTlp1R1dPYUd0ai0yVWY3SnpHNGRnaHBuWWNhVHBneU1hOFZPcG5UMUxNRlpjejNvc3Y5aVM5RUFwc1Y5RlpxN1lhM1RxSHVvMV94WEJWUENacVFrQmx1SWk5cnAzS3BtcXQ1aEdESTIyNmc?oc=5",
+   "utc": "2026-11-27T02:30:00Z",
    "tag": "MARKETS",
    "breaking": true
   },
@@ -24,152 +32,144 @@
    "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
    "source": "CNBC",
    "link": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-   "utc": "2026-11-26T23:10:27Z",
+   "utc": "2026-11-27T02:27:38Z",
    "tag": "STOCKS",
    "breaking": true
   },
   {
-   "title": "Latest Oil Market News and Analysis for Nov. 27",
+   "title": "IMF Sees Emerging Risks in Australia’s $3.1 Trillion of Pensions",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
-   "utc": "2026-11-26T23:05:38Z",
-   "tag": "OIL",
-   "breaking": true
-  },
-  {
-   "title": "Bankers Pay Up for Hong Kong Apartments as Rents Hit New Highs",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/bankers-pay-up-for-hong-kong-apartments-as-rents-hit-new-highs",
-   "utc": "2026-11-26T23:00:00Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/imf-sees-emerging-risks-in-australia-s-3-1-trillion-of-pensions",
+   "utc": "2026-11-27T02:15:34Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Euro Set for Biggest Drop in Two Decades Against Yuan This Year",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/euro-set-for-biggest-drop-in-two-decades-against-yuan-this-year",
-   "utc": "2026-11-26T23:00:00Z",
-   "tag": "CHINA",
+   "title": "New Zealand ruling coalition misses majority as election results announced",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWtXTE85aWpFbUtKYWMwMWpuUkhab3dvb0dGaHVYMEZPRVlicGhNcEJnc0JPTEZzN2tlaHZhNFNzYVlnV0J1WFdKYmlKanVrVUlERDRqUi1yZVZZUWl3T3lsSXd6dndXUnFzN0FadTVicnUzWndpQnY4bFdlOU1iMThZVl9jaGMxVzVtdTJoZWNpYlZ2UU1XcGhraFkyaWZ2bGZpRER1TjJNdk0?oc=5",
+   "utc": "2026-11-27T02:10:00Z",
+   "tag": "MARKETS",
    "breaking": true
-  },
-  {
-   "title": "Executives wary of tariff effect on exports",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3362039/executives-wary-of-tariff-effect-on-exports",
-   "utc": "2026-11-26T22:35:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Final New Zealand election vote count to confirm parliament make up",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFJqbEVQNWVCSWlBVEdnUXJlWHgwV3pmUjRGZ254NjNIcGgtSHU0NkVsemlWUnFjZWlJa3BLY01sTDN3djdCS0ZYU2dvcGV0U0I5NUh4MDV2NU5ya0V1WS1BUkJRSGRtNnIxUlRqc3ZFOXBycWJITFh5cnB3WEtsa1B1REFtMDlkMmFYdlBLTEFKSjNvWGZ4SmtEMl9RMzRNbFdCS25kbHF4eVhGeGs5OW1Rb2FGcUhWcVJV?oc=5",
-   "utc": "2026-11-26T22:34:34Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
-   "utc": "2026-11-26T22:32:57Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/ai-rout-makes-kioxia-japan-s-cheapest-blue-chip-backing-bulls",
-   "utc": "2026-11-26T22:30:13Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Thailand shifts focus to investment-led growth",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3361974/thailand-shifts-focus-to-investmentled-growth",
-   "utc": "2026-11-26T22:26:00Z",
-   "tag": "THAI",
-   "breaking": false
   },
   {
    "title": "East Asia",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10SzU2X05Dc0ZvYzVpN3lMMUtvZDZDd2c4NVk2SklvcC1GdWM5NnR0MTRZQ0NlSk9pazlQQzdsU0s0UDRYQWROeGFkSVpkNzhjdFZnSw?oc=5",
-   "utc": "2026-11-26T22:23:41Z",
+   "utc": "2026-11-27T02:05:13Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Calls grow for stronger laws to tackle AI cyberthreats",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3362099/calls-grow-for-stronger-laws-to-tackle-ai-cyberthreats",
-   "utc": "2026-11-26T22:21:00Z",
-   "tag": "AI",
-   "breaking": false
+   "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+   "utc": "2026-11-27T02:04:09Z",
+   "tag": "CHINA",
+   "breaking": true
   },
   {
-   "title": "Zelenskiy says Russia preparing new mass strike in coming days",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDhjR3Rhcm4tZDBldjFGZV9PMm1aV0pWZF9RdFhwdVA0anhFWHdkN212SFBUZTN6V2RxbGhzMHI0cFdXa3VMY3hVb3BXcEZVWEVydzQyYnkwN2t0WjRnZmpFbXhYVHMyWHpRUFRlNTVyOGZSSWFKd21qcng5QTNRZUgyb294a3NJWUNQaUhWMDVYT0E2bGlsYXJjTU9IZzd0Vm8w?oc=5",
-   "utc": "2026-11-26T22:16:00Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Trump demands probe of GDP data released before midterms",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
-   "utc": "2026-11-26T22:13:21Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Rest of the World",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vMXFSX2EzTjlUb3I1VlJhVTVacGVabWFPVERQRU1peU5NRFNlY2ZaRWM2NmhBZkNNMTdod0dKVnlMc3JfcFEtUWNvT1lTRlRKRGVzUmtqaXJyTTJIVkxN?oc=5",
-   "utc": "2026-11-26T22:06:18Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Trending",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQjF3ZWRBTUpfdHRETlhBZEhuWkpUR3JmLWdaYVZhNUpMUlBTdExmVnBZejVRbkVWcDR3LWxvRHRfbnMxVlV3?oc=5",
-   "utc": "2026-11-26T22:04:38Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-   "utc": "2026-11-26T22:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/The-Next-Big-Clean-Energy-Bet-Borrows-Its-Drilling-Tech-From-Big-Oil.html",
-   "utc": "2026-11-26T22:00:00Z",
-   "tag": "OIL",
-   "breaking": false
-  },
-  {
-   "title": "Asian Stock Futures Signal Gains, Oil Advances: Markets Wrap",
+   "title": "Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
-   "utc": "2026-11-26T21:59:57Z",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo",
+   "utc": "2026-11-27T02:00:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Humanoids beware! Japan prefers smarter factory machines",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVVNQ0FTZEIzaFhYRmNGTEdkbHQwSzZJODFOR3ZPczIxUFg2WHB5MGJYU0lVMEpBaGlLQ0hHM3E1NnFROGtXb2gyZ19QazFjVXlJc2NqVHZrUTNtRE90Zk52MmxDR1ZPbTFiWEJZXzZxMlVLN21IN2o0ZXNOdF9xSWMydXJGTGhreEZsazVLUnJCa3ZnNWFTVXc4Smp5Z2dnbGV6Z0FqZmlleDhSWUR2QTdaMk12WjFzLWFlREJDSWVPdw?oc=5",
+   "utc": "2026-11-27T01:56:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "How Volatility is Undermining the Carry Trade",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
+   "utc": "2026-11-27T01:40:01Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "South Korea Reportedly Mulls Expanding Stock Stabilization Fund",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/south-korea-reportedly-mulls-expanding-stock-stabilization-fund",
+   "utc": "2026-11-27T01:22:32Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+   "utc": "2026-11-27T01:15:00Z",
+   "tag": "AI",
+   "breaking": false
+  },
+  {
+   "title": "IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
+   "utc": "2026-11-27T01:10:12Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Brazil Assets Rally After Lula Names Banker as Finance Minister",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+   "utc": "2026-11-27T01:08:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Modi Critics Face Growing Constraints on Travel, Speech in India",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/modi-critics-face-growing-constraints-on-travel-speech-in-india",
+   "utc": "2026-11-27T01:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "utc": "2026-11-27T01:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
+   "utc": "2026-11-27T01:00:00Z",
    "tag": "OIL",
    "breaking": false
   },
   {
-   "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
+   "title": "Singapore Wealth Firm Farro Plans Hong Kong Office With 20 Hires",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-wealth-firm-farro-plans-hong-kong-office-with-20-hires",
+   "utc": "2026-11-27T00:50:40Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Core inflation in Tokyo hits 16-month high, bolsters case for rate hike",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0FKWlltSXhpMTdpTnRja2JXb3VyWlBnVG9ITFA3YnRiN0lYMzYwNE1vMmF0WEZzLTJyM09jMnVoZks4alExa09oUTA5ZnZLYzl4UllpZjBiWHFuazQ4WkFhUGw1SC1nRGNRQUpoZ25sUFMzQ25EckVCSWZCdWJMVmhfR0s0dlBxSUZwYjdyVUUzN1ppbzBDLWw2eEszQUE0NWNKZ0hicF9oVzlmaXFVXzNtR1FVdlBmalNIOU4xZDRLUXp5bFQ0MnZYdWFwR3lRWWF1LUhDTQ?oc=5",
-   "utc": "2026-11-26T21:51:00Z",
-   "tag": "AI",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjdFdmk5ejkxcUtaY0FXczVsOVpuQWtEY3VyUWE3SkZJbjBCdW43YWtKcHNtY0FEZ3VlN0VRUTh5LWZYdEtXU21OSHdLVzZIRS1OamU3c3BOX3hCUmpDWV9tc1JvTnpITGxHVGtVMC11dEVZZFBuaUx1S1B4UjktX0VEalJzRE1zTXE5SE91NUhmSlpzcFZHRnpnbUVWOHhid00zMw?oc=5",
+   "utc": "2026-11-27T00:47:00Z",
+   "tag": "FED",
+   "breaking": false
+  },
+  {
+   "title": "Trump says Putin can come to G20 if he wants",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjY3Sm9MUkZXUEQyNDc3MFdwRlFBaWcyWkpxbDRYT21RVFYySkgtUm9WeFNFb1lZUU9lM1BqbDBWLW5VLW9PR1ZvMjFxVHZNX2Q2b01rNXdVQUJIYmZ5ZHd4eEI1RkI3dlctelgwODgwczQta2ZWZEpDU2Jwa29MT21ZMlJ1clVNMkM0?oc=5",
+   "utc": "2026-11-27T00:35:00Z",
+   "tag": "MARKETS",
    "breaking": false
   }
  ]

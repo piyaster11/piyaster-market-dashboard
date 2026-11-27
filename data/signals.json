@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-26T23:47:52Z",
- "level": 62,
+ "updated": "2026-11-27T02:55:23Z",
+ "level": 50,
  "band": "Alert",
  "components": [
   [
    "Official Level-4 / departure advisories, last 72h",
-   1,
-   12,
+   0,
+   0,
    40,
    "20 per ordered/authorized departure, 12 per other Level 4"
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   41,
+   31,
    35,
    35,
    "1.5 pts per headline"
@@ -26,7 +26,7 @@
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   1,
+   2,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -106,7 +106,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.8,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -117,7 +117,18 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.6,
+   "airspace": false
+  },
+  {
+   "title": "UAE Crude Output Falls by More Than Half as Hormuz Closure Forces Shut-Ins",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2k4RHBPd0V4OEFXVEw5T2hxMy1UaDZOU1dfcXluNnM0NzY4RlZjSzhNekFzWUNCUFJYY0pBT0FWOXBtQzZ3VXRBYjdEeXlRMm1Na0hyRkZQUnNZdTNRYTdxMWItS0h6ZnB3Ny1sTFhGQWRCd0xvSktGcGp1NHJZTzV4czZxZkprQnVWMHRmcmxqM3hIMENydDd5R1ViLS0ySGM1c2tkMVI?oc=5",
+   "utc": "2026-11-26T16:53:09Z",
+   "tags": [
+    "HORMUZ"
+   ],
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -128,7 +139,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -139,7 +150,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -150,18 +161,18 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": true
   },
   {
-   "title": "Norse Atlantic facing bankruptcy as flights suspended amid Iran war gas prices",
-   "source": "شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fOGthYTF1UlozckVUVl9wbDJLMXZBMXRDaXh2dzBndjlNNHhqRTlncV9qMWhhZHh4UmFkRHU4NjN6aUdFa0FUU096c0JHM3c1V3hB?oc=5",
-   "utc": "2026-11-26T15:26:48Z",
+   "title": "Airline’s flights suspended from Manchester airport ‘amid critical financial crisis’",
+   "source": "Lancashire Evening Post",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcV9QdktkZ29mTXFXMXFoLWcxUFpZakhLWWlmdEhaUW13RHV6MUkyTzhvOU9xQ1pNSk5YWVZJRHA1N29BLVMtZkk2b1NSc1ZHdUZVMTYwQ3JYQm4wdUhVejVTTnpveEZiVnR4V0R4TV9DUDdCcDRBWVRYUm9zWUNDNFQxWC1xbDI3azNuNkNKVHd5VnBEZmRUUXk3czQ4QVpORjJMSFBpcGFtWjdkY0trMUcwcW9RWkNIYnh3YjhLM2tLNHBlcWlYb3FjZ0JaakF4?oc=5",
+   "utc": "2026-11-26T16:00:00Z",
    "tags": [
     "AIRSPACE"
    ],
-   "score": 6.7,
+   "score": 4.5,
    "airspace": true
   },
   {
@@ -172,7 +183,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 8.6,
+   "score": 6.5,
    "airspace": true
   },
   {
@@ -183,18 +194,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.0,
-   "airspace": false
-  },
-  {
-   "title": "Adnoc’s LNG Tankers Go Dark to Get Gas Shipments Through Hormuz",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmFPa0lfN3RsUWJncGtGQk5iOWNpdVg0N25wdWE0NGV6U05IR3VmemVnb2JQTUFTQXdwNUJ4WXprNXc1NG83dHgyV1N4YXhuMl9yaThwMWhyWk4zaU5Xd3AtWklHRXhKQUVEazZiQ2V2anNTRHlzNUtfMmdtaFRnZ3IxbWdlaTJVOVdQUG13eFJTaU4xdTJUTg?oc=5",
-   "utc": "2026-11-25T22:45:03Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 5.0,
+   "score": 4.8,
    "airspace": false
   },
   {
@@ -205,20 +205,16 @@
    "tags": [
     "EVAC"
    ],
-   "score": 7.9,
+   "score": 7.8,
    "airspace": false
   }
  ],
  "mil": {
-  "count": 1,
-  "global": 75,
+  "count": 2,
+  "global": 74,
   "baseline": 2.1,
   "samples": 27,
   "hist": [
-   [
-    "2026-10-22T15:14:50Z",
-    4
-   ],
    [
     "2026-10-22T15:18:28Z",
     5
@@ -886,6 +882,10 @@
    [
     "2026-11-26T23:47:52Z",
     1
+   ],
+   [
+    "2026-11-27T02:55:23Z",
+    2
    ]
   ],
   "box": [

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:54:59Z",
+ "updated": "2026-11-27T12:38:22Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -9,167 +9,167 @@
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
   "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (22)"
+  "Nikkei Asia": "ok (25)"
  },
  "items": [
   {
-   "title": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
+   "title": "Europe Has Too Much Wind, Not Enough Power Grid",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
-   "utc": "2026-11-27T02:30:22Z",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-27/europe-has-too-much-wind-not-enough-power-grid",
+   "utc": "2026-11-27T12:33:42Z",
    "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Bosch rises in India as tough regulations require more complex auto parts",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzBNRUZjcTFVcUc1bEota1FCVjIxM0tyZHo4dmNYazNJVnFCdzNFaDU5Umx2bkVLcFV1TE1EZDYxX01kR3lvbU5sd0ZCanFUTlp1R1dPYUd0ai0yVWY3SnpHNGRnaHBuWWNhVHBneU1hOFZPcG5UMUxNRlpjejNvc3Y5aVM5RUFwc1Y5RlpxN1lhM1RxSHVvMV94WEJWUENacVFrQmx1SWk5cnAzS3BtcXQ1aEdESTIyNmc?oc=5",
-   "utc": "2026-11-27T02:30:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+   "title": "Stocks making the biggest moves premarket: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-   "utc": "2026-11-27T02:27:38Z",
-   "tag": "STOCKS",
-   "breaking": true
-  },
-  {
-   "title": "IMF Sees Emerging Risks in Australia’s $3.1 Trillion of Pensions",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/imf-sees-emerging-risks-in-australia-s-3-1-trillion-of-pensions",
-   "utc": "2026-11-27T02:15:34Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "New Zealand ruling coalition misses majority as election results announced",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWtXTE85aWpFbUtKYWMwMWpuUkhab3dvb0dGaHVYMEZPRVlicGhNcEJnc0JPTEZzN2tlaHZhNFNzYVlnV0J1WFdKYmlKanVrVUlERDRqUi1yZVZZUWl3T3lsSXd6dndXUnFzN0FadTVicnUzWndpQnY4bFdlOU1iMThZVl9jaGMxVzVtdTJoZWNpYlZ2UU1XcGhraFkyaWZ2bGZpRER1TjJNdk0?oc=5",
-   "utc": "2026-11-27T02:10:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "East Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10SzU2X05Dc0ZvYzVpN3lMMUtvZDZDd2c4NVk2SklvcC1GdWM5NnR0MTRZQ0NlSk9pazlQQzdsU0s0UDRYQWROeGFkSVpkNzhjdFZnSw?oc=5",
-   "utc": "2026-11-27T02:05:13Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-   "utc": "2026-11-27T02:04:09Z",
-   "tag": "CHINA",
-   "breaking": true
-  },
-  {
-   "title": "Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo",
-   "utc": "2026-11-27T02:00:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Humanoids beware! Japan prefers smarter factory machines",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVVNQ0FTZEIzaFhYRmNGTEdkbHQwSzZJODFOR3ZPczIxUFg2WHB5MGJYU0lVMEpBaGlLQ0hHM3E1NnFROGtXb2gyZ19QazFjVXlJc2NqVHZrUTNtRE90Zk52MmxDR1ZPbTFiWEJZXzZxMlVLN21IN2o0ZXNOdF9xSWMydXJGTGhreEZsazVLUnJCa3ZnNWFTVXc4Smp5Z2dnbGV6Z0FqZmlleDhSWUR2QTdaMk12WjFzLWFlREJDSWVPdw?oc=5",
-   "utc": "2026-11-27T01:56:00Z",
-   "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "How Volatility is Undermining the Carry Trade",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
-   "utc": "2026-11-27T01:40:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "South Korea Reportedly Mulls Expanding Stock Stabilization Fund",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/south-korea-reportedly-mulls-expanding-stock-stabilization-fund",
-   "utc": "2026-11-27T01:22:32Z",
-   "tag": "STOCKS",
-   "breaking": false
-  },
-  {
-   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-   "utc": "2026-11-27T01:15:00Z",
+   "link": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
+   "utc": "2026-11-27T12:32:11Z",
    "tag": "AI",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
-   "utc": "2026-11-27T01:10:12Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Brazil Assets Rally After Lula Names Banker as Finance Minister",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
-   "utc": "2026-11-27T01:08:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Modi Critics Face Growing Constraints on Travel, Speech in India",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/modi-critics-face-growing-constraints-on-travel-speech-in-india",
-   "utc": "2026-11-27T01:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "utc": "2026-11-27T01:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
+   "title": "Baghdad Moves to Seize Control of Kurdish Oil and Borders",
    "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
-   "utc": "2026-11-27T01:00:00Z",
+   "link": "https://oilprice.com/Energy/Energy-General/Baghdad-Moves-to-Seize-Control-of-Kurdish-Oil-and-Borders.html",
+   "utc": "2026-11-27T12:30:00Z",
    "tag": "OIL",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Singapore Wealth Firm Farro Plans Hong Kong Office With 20 Hires",
+   "title": "The Next Hormuz?",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Energy/Energy-General/The-Next-Hormuz.html",
+   "utc": "2026-11-27T12:30:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says",
+   "source": "OilPrice",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Stockpiling-Will-Support-Oil-Prices-in-2027-Energy-Aspects-Says.html",
+   "utc": "2026-11-27T12:30:00Z",
+   "tag": "OIL",
+   "breaking": true
+  },
+  {
+   "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+   "utc": "2026-11-27T12:29:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+   "utc": "2026-11-27T12:29:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
+   "utc": "2026-11-27T12:22:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Stock Futures Rally as AI Trade Gathers Pace; EU Budget Talks Falter",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-wealth-firm-farro-plans-hong-kong-office-with-20-hires",
-   "utc": "2026-11-27T00:50:40Z",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-brief-11-27-2026-video",
+   "utc": "2026-11-27T12:20:10Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+   "utc": "2026-11-27T12:16:07Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+   "utc": "2026-11-27T12:15:00Z",
    "tag": "MARKETS",
-   "breaking": false
+   "breaking": true
   },
   {
-   "title": "Core inflation in Tokyo hits 16-month high, bolsters case for rate hike",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjdFdmk5ejkxcUtaY0FXczVsOVpuQWtEY3VyUWE3SkZJbjBCdW43YWtKcHNtY0FEZ3VlN0VRUTh5LWZYdEtXU21OSHdLVzZIRS1OamU3c3BOX3hCUmpDWV9tc1JvTnpITGxHVGtVMC11dEVZZFBuaUx1S1B4UjktX0VEalJzRE1zTXE5SE91NUhmSlpzcFZHRnpnbUVWOHhid00zMw?oc=5",
-   "utc": "2026-11-27T00:47:00Z",
-   "tag": "FED",
-   "breaking": false
+   "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "source": "CNBC Markets",
+   "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+   "utc": "2026-11-27T12:06:17Z",
+   "tag": "STOCKS",
+   "breaking": true
   },
   {
-   "title": "Trump says Putin can come to G20 if he wants",
+   "title": "Stocks look like a Black Friday bargain. Read the fine print.",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
+   "utc": "2026-11-27T12:01:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "Polish President Blocks Pre-Election Tax Cut in New Blow to Tusk",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/polish-president-blocks-pre-election-tax-cut-in-new-blow-to-tusk",
+   "utc": "2026-11-27T12:00:28Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+   "utc": "2026-11-27T12:00:22Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "India’s Richest Civic Body Will Open Bond Sales to Retail Buyers",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-richest-civic-body-will-open-bond-sales-to-retail-buyers",
+   "utc": "2026-11-27T11:59:50Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+   "utc": "2026-11-27T11:49:18Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "EXCLUSIVE: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjY3Sm9MUkZXUEQyNDc3MFdwRlFBaWcyWkpxbDRYT21RVFYySkgtUm9WeFNFb1lZUU9lM1BqbDBWLW5VLW9PR1ZvMjFxVHZNX2Q2b01rNXdVQUJIYmZ5ZHd4eEI1RkI3dlctelgwODgwczQta2ZWZEpDU2Jwa29MT21ZMlJ1clVNMkM0?oc=5",
-   "utc": "2026-11-27T00:35:00Z",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
+   "utc": "2026-11-27T11:45:57Z",
    "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+   "utc": "2026-11-27T11:45:47Z",
+   "tag": "BTC",
+   "breaking": true
+  },
+  {
+   "title": "Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+   "utc": "2026-11-27T11:34:37Z",
+   "tag": "BTC",
    "breaking": false
   }
  ]

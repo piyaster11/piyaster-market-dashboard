@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:03:28Z",
+ "updated": "2026-11-27T23:55:24Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -8,17 +8,121 @@
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
-  "Bangkok Post": "ok (10)",
-  "Nikkei Asia": "ok (26)"
+  "Bangkok Post": "fail: HTTP Error 451: ",
+  "Nikkei Asia": "ok (31)"
  },
  "items": [
   {
-   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-   "utc": "2026-11-27T21:45:41Z",
+   "title": "Australian state election provides 'dry run' for federal contest",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV3FoZWxrcHR5UzVsYlJjWExWR05nanBkLWRtRDFBYUNVcHJlYlFnUmlrcmNwQW82c09lUVdUWlJYZ0ticzJfcHFaY2FrSml5d1JwNTN2Yy1UQV9DekthQVk2TnZrNjA1SlNBMC02Wi1kYV9nTUlzVVh6VmZHb2Z3aXhMMHZZbVZFUFlpcnZ5LXZFV2s0bHN5eEtYbw?oc=5",
+   "utc": "2026-11-27T23:48:00Z",
    "tag": "MARKETS",
    "breaking": true
+  },
+  {
+   "title": "Darbar Festival gives Indian classical music a global stage",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbEFSQ1F3STJIZ2RaQTNVOEhEaFM0OUg5eUJ2S3JJYUlZeGdpUHZSUmV2czVQbm5zZnctU1RBRlR0NmZhV2lPTEpwTFVyYzlvaE1FUEpocG5yVnJPSFdURHBPUGdZUGkta1I5VDJZSGx1dkp6UURlMWNWdlNENXBSQlhmQjZFZ2R0aG5MYi1uM3kyQ05uXzZ4VjFSb01pRVk?oc=5",
+   "utc": "2026-11-27T23:40:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+   "utc": "2026-11-27T23:30:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Son of Hamas chief survives Israeli strike, Hamas says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXhxUTlzbVROVWJBME9JOGtIQnZUczNMMXdBTUV0QlByWWRCWThyeXlfcDA0T2MyaHlVbFlFSW0wbkpjbGd1WXVjQkZQaDNuZFM1VFkxaU9fN2lXUGtwa0xmQ0xHZHVaYko0M3FfVmdmd0l1LUpJOVhrNF9vTzk2OUJ0bVB4MU9JNnFCWFdESncyd0NBbHJodGpyUlRLNXRRRjhDYXJTRQ?oc=5",
+   "utc": "2026-11-27T23:26:36Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Swimming with sea turtles off a remote Australian island",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUjFMbWlsdEtjZHJiS3FqUzhIU09xZVlsaU4zTDVucTNCWURlWlFlTzVIZS1lb0dYQkthSC11LWZiSnlzOUNfOU9wSmhhX2FYd3E0amhsOC1jNjM2SUtVLUxRLUtwNEdMUVkyWWQ0M2x6WElwZDdzaHkzTzJidGRYSk51dU5HT0xURWFYMEtSTnpBQ1RIVGdGb2NmZw?oc=5",
+   "utc": "2026-11-27T23:16:00Z",
+   "tag": "MARKETS",
+   "breaking": true
+  },
+  {
+   "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+   "utc": "2026-11-27T23:15:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+   "utc": "2026-11-27T23:07:13Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "Explainer: Why EU leaders are struggling to Le Pen-proof the bloc’s €1.6 trillion budget",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXNCT24ycjVGZVlCV1Q4bnFlalVUNXhHc0xLVzlFdkJtNGhZM2NXSmpyWnZXU2Q2ZWRPcXRza2tZM1ZPMGVMWjM2V2U5NHBBYWdSSFZLb29odWtqZW1SVXZNZDAxUVdLUVl6X2FiYTMzZzFqTHhaLW51X0s0TnJPVk45Rmd0Um5UdnVfdXRkWGR1UGNtY3h6a2JsNFhfZTd5N25VVWRGdE5iVUpkXzhQWkZPRkc5UDFjSzhvRmxNc1M?oc=5",
+   "utc": "2026-11-27T22:43:41Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
+   "utc": "2026-11-27T22:29:56Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Wall St Week Ahead Volatile stock market confronts jobs data, rate view as next tests",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M?oc=5",
+   "utc": "2026-11-27T22:21:56Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Spotlight",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jM3FjbU1NSG5MUmtGVnJDbFBVbGpZTjZqejFhSlppR1pobzQxQ1dpTEZRU3hHWmlFRXZQd3JqamxVZFRFUVRkNQ?oc=5",
+   "utc": "2026-11-27T22:20:35Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
+   "utc": "2026-11-27T22:14:41Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Hitachi shares stagnate as investors seek fresher growth story",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWNTc0V6UkF3VlNENWxqOGhHMlJGNG00Zk9vZ0RMQWpINWk0UkZjQnZOWXlfUVdfVXhtVTdCZnM2S2lqMk9zRVBiZGMyd2RsamFiOVNWQkFQTFA1UExYUW9HV2RjbU9xYkk1bGJmUTVjeFNrSzZBRVFqdkpzZm5iTElCMmJnRDBlbHZyeHBjdGJLTnNNM3p1VTZpeElRamg3em9HUV81R3RkYzFFZ1lZdmFR?oc=5",
+   "utc": "2026-11-27T22:11:00Z",
+   "tag": "STOCKS",
+   "breaking": false
+  },
+  {
+   "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+   "utc": "2026-11-27T22:00:57Z",
+   "tag": "MARKETS",
+   "breaking": false
   },
   {
    "title": "Tokyo leads world in office rent, price growth as employers vie for prime space",
@@ -26,15 +130,7 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOEpldy1QbWVpajJmMGVmbzJaX1ZlZFg1ZDN6YVdjcXpnbzhzZ0E2MDVRVHh1Tldkc0hhOVBOdTZ3eE5nRjR6VjJqcU9xcE0yZ0pTVU1qa1VCcnBDSFhFODZyWFVkRDNQZ1NQN3Y2WjJTNmwxVFFKN1lHSVBqdGZ4V0w5OHo1dlZGT0Zib2NNMWNyMzcwQTA5Tm9sS244UTFlTTB6MnRVR0N4NXE1UWRacGdGWkxfT1ZuOUt1U2o0WGJYOEhvXzBr?oc=5",
    "utc": "2026-11-27T21:37:00Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Startup doubts state goal of 1m solar installations",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3362654/startup-doubts-state-goal-of-1m-solar-installations",
-   "utc": "2026-11-27T21:21:00Z",
-   "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
@@ -42,7 +138,7 @@
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
    "utc": "2026-11-27T21:19:31Z",
    "tag": "STOCKS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Japan's recruitment of foreign truck drivers at just 4% of goal",
@@ -50,15 +146,7 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0RPbWZZWjluLUN1LXc2aHZYdGVkMVRhM2Q4QUhpWWp6SkdCSHdfM1dXTnpwUWZNMnEzdEFxemg0VXhLbVpzUWo2RUlrZHdtdU5NS0JDNXFYYUN0NVZFcS12YWtJT05vUDQyUFJZbHczODBPZS0zelFTbldfN01Ed0dBWXdxWUFEYTMxNUtHTnIwTUZfdWxuMkJhaWFVdEpIQ1RNUzhkWVNraUJQSmg4dFBpWC0?oc=5",
    "utc": "2026-11-27T21:19:00Z",
    "tag": "MARKETS",
-   "breaking": true
-  },
-  {
-   "title": "Distributors shrug off Nvidia chip ban",
-   "source": "Bangkok Post",
-   "link": "https://www.bangkokpost.com/business/general/3362529/distributors-shrug-off-nvidia-chip-ban",
-   "utc": "2026-11-27T21:14:00Z",
-   "tag": "AI",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Brazilian markets rally after Lula taps Bradesco chairman for finance chief",
@@ -66,7 +154,7 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5",
    "utc": "2026-11-27T21:10:41Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
@@ -74,101 +162,13 @@
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
    "utc": "2026-11-27T21:05:05Z",
    "tag": "MARKETS",
-   "breaking": true
+   "breaking": false
   },
   {
    "title": "Linear thinking: Can Japan's fastest train speed up inland economies?",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnNsWFcwWXJ0UXFPcWpmTUlBYzRkMkpEUEFFWnRaUDZuY0dIUFpSWDVhSV82NzVPaHJmNnJOUUFMTThFQzdtNHg2S1BIX1ptYzgwU1lZNjRPZGRfYnMwMzhSMmRxZXFIQS1JS2hQbWx3TGJyNGZSV2hKaFVnZFFJMHRIRzlOX0R5dll0ZVczeW52emFGSVRvajNRNmtFZTdnRnRnc0ZSMElMVVlxWFZwc0ZNVQ?oc=5",
    "utc": "2026-11-27T21:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
-   "utc": "2026-11-27T20:56:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "OpenAI countersues Apple for stealing trade secrets",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
-   "utc": "2026-11-27T20:54:40Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Itochu poised for Southeast Asian cloud services growth with Malaysia deal",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUc3YmlQMi1UTTNvLTdIREVXYlpZbEFNMXFDUDVCWWtKcVB0WV9FMDluRV8wVmlWWHIzZlQwZ1R6Zldrb3h4cUt5dXhNVFZoWDBzeTVFX0ZJRG9UbUdTVFowbUhGcWNaQjBEbkg2WExiZTFGc3cyMWRLa2hRQ1UwWkMyTzk4NkJmUkx2Z1FRTHVRUElianl2WXJncFJDLU9oVlY5eW5IRnctYURrNVBjSzJVdjdFdjFlaHRQazVnaw?oc=5",
-   "utc": "2026-11-27T20:40:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote",
-   "utc": "2026-11-27T20:24:01Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-   "utc": "2026-11-27T20:16:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5",
-   "utc": "2026-11-27T20:06:57Z",
-   "tag": "WAR",
-   "breaking": false
-  },
-  {
-   "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
-   "utc": "2026-11-27T20:03:08Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan's Happy Nuts Day bets on US taste for premium peanut butter",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTI0alhPQ0t1Y0JQWVlBeFVoaWpLMUFUZXIyOWFFZ0JLTktlUndLeTBhaVNPa3I3SmxSVjFQOG5kMVNXc25MaXFwQVpySkhfelppWDI0b3JJMW1sUU5hYlhfRExINGUtNTZjeE1jQk1nOXVWSElQMDBFT3FibThoS3dTeHVXRndkMkdpWEhidWlwbWlVY0p5ckc1Mmx0RUtjenVVOEUzZ3dsZU9OeTgzNHZ3?oc=5",
-   "utc": "2026-11-27T19:57:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-   "utc": "2026-11-27T19:55:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Georgia Voters to Decide Fate of $17 Billion Data Center Megaproject",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Energy/Energy-General/Georgia-Voters-to-Decide-Fate-of-17-Billion-Data-Center-Megaproject.html",
-   "utc": "2026-11-27T19:00:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Costa Rica bars UN rapporteur on Palestinian territory, drawing concern from rights chief",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVTFhaERnNklOT0hXZlRoWndkWUtRRnlCZ29PZ056TzdPaEpDdExUWWxGZTVadkRrS3ZUQm5yMUprcEw3WUZnMW80Y1ZBTGVjY2JNaExHV0o0SXIyWGpSb3hjUS1lVkR2N1VWeXFveTN4OFNEMTBET0NXR1E3WUVJQ3Q1djcwR2pHVlJQNTExNnVHSG8xZ2IwV3NZeXdaaFpMWVBsM2FXUFAwcktLNEpuV0U4QVEzSEhZX1JJOEhLRmc1bjd6ejFBLWd2NA?oc=5",
-   "utc": "2026-11-27T18:55:57Z",
    "tag": "MARKETS",
    "breaking": false
   }

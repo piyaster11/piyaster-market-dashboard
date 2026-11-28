@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:58:21Z",
+ "updated": "2026-11-28T13:10:21Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   29,
+   33,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   9,
+   8,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   2,
+   1,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -99,14 +99,48 @@
  ],
  "headlines": [
   {
-   "title": "Three Ships Appear to Exit Hormuz by New Oman Coast Route",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi05a20zY0pzZ3NvZE5SUW0tUEdqbUVUZl8yYmliNGFZdjYxTjhIakU5VzkwemFicTZweDhjNmREWVhzZTQ0UW83eTFLMGZHYm5uR3BRNEpuN3BOb3BCU2RscVRpSG1vazljam1NTmlxQk0yZEk2aWpTVXkxLVhuWVRxWUpCaDJ0a3hVcWlxUjB6QQ?oc=5",
-   "utc": "2026-11-27T21:53:48Z",
+   "title": "US blasts Tehran over ‘fabricated’ tanker, carrier, $2.5m Hormuz toll claims",
+   "source": "The Sun Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbDVjSGNULWt0X19qZnJydjBUdzI0Z3RneE1jNTA0d3Jxejdabld6WGRHWjgtd0RfYWFpald4bHNvN1o3V0h6WGVNLXoydW5uV242S0JfdkZRaHNYUlFhaUU4a3FFemhadHJxMnpEUm1GMUNJZTBWUzdVeXE2ZUVfRGVDQkVUTktjRDlieTY0dXRscm9U?oc=5",
+   "utc": "2026-11-28T07:48:54Z",
+   "tags": [
+    "MIL"
+   ],
+   "score": 5.8,
+   "airspace": false
+  },
+  {
+   "title": "CENTCOM: Thousands of ships transited Strait of Hormuz under US protection",
+   "source": "Ammon News",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55aG5BZ19fYTI2OTBrc1NVU2xLUDM1Rkx5ZEpaSmF4ZTVlMWtaU1VvcmVoeDBTVk1kRHpzRkZGSXk0eTQxV09aM3hxRGptYjA?oc=5",
+   "utc": "2026-11-28T06:28:31Z",
    "tags": [
     "HORMUZ"
    ],
    "score": 4.7,
+   "airspace": false
+  },
+  {
+   "title": "Akasa Air to keep Saudi flights suspended until January 10",
+   "source": "NewsBytes",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXJjak53NGthX3F1X3FoeHMtS2Ntb2tncG5aOWlESmZ6T0pmdFB3LXgxOG52aGVDMURmaFZ1NjFpRkpBRnd0cnpLSFZPLU95ZmYzU3JDNmJBay1MQzZ0aVdvcXVpZk01aU10OHVNUjY1NkVaWUhUYU9Uc3JZQWZiRnNhR0FXcHAwOXNXcGs5U0tYZ2c2N29GVjRrcnhQQkUwSmF1WDJJaW91RUFUbm55YThHeWg?oc=5",
+   "utc": "2026-11-28T06:20:41Z",
+   "tags": [
+    "AIRSPACE"
+   ],
+   "score": 4.7,
+   "airspace": true
+  },
+  {
+   "title": "US Central Command denies Iranian commander's claims about seized tankers, carrier strike, Hormuz toll",
+   "source": "Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU1FkSTVJaHdsVkRGRW9lV1JkMDA2SDNfUVVsTkRqSWZKUy1lUDJNY2M3bnU1M09XbXNqMS16aVJSYjFNVjJleUgzd1Y2ZEtQTVZaalppRXowOWhiU0Jld1NwcmlnS1hhalVFYU1NTl9Mb3FhU0gtUGVVbW1QdWc5UG1Ycm5fVjdsUnBqZ2x1eXo3d2t1WU01bTU4dEFYVEtEcHRNMWR6cXlXR3hRRDgzWU5KYkt6VVBXaTFQOGpQc0RZc1NYTzFXOFdjZ2YxOUxWUFZvSlRfSVJYUkxERkNxUQ?oc=5",
+   "utc": "2026-11-28T02:54:54Z",
+   "tags": [
+    "HORMUZ",
+    "MIL"
+   ],
+   "score": 8.6,
    "airspace": false
   },
   {
@@ -117,7 +151,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.7,
+   "score": 5.3,
    "airspace": false
   },
   {
@@ -128,41 +162,8 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.5,
+   "score": 5.2,
    "airspace": true
-  },
-  {
-   "title": "From Corridor to Network: What the Hormuz Closure Has Done to IMEC",
-   "source": "Mepei",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMm90c3FhV3hMd0RYQTZiOXlQeG1ZR0pEYWp6X3hrcDA3MEpZZ0NHR29HM0xLckJFU1ZJNkFWZFZxWFR1SXlHU05LaHBLTUxTVGxsMDZ2am92WENuY2ZqNWl6N2tqZWZzQWR5YnI1X1M1WEZ1ZUNjZGY4Mmsya3Q3eGNNeWFPMWIwY1cxMQ?oc=5",
-   "utc": "2026-11-27T12:12:23Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.3,
-   "airspace": false
-  },
-  {
-   "title": "Flydubai keeps Abha flights suspended as Riyadh services resume",
-   "source": "https://www.thetraveler.org/",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQjUzempXZVlKOUNpcDBpb0g3Yk5nWWREWXNYVTItaVkxYUJvbFd6MW1oRDV3UWF6a2IzR2NaOE4wNlh1UlRFOTMzV3l2R0d1eFlld25Rei1vVzRGeEZxRExCQVlOQkF1ekhaMFZPeDlKc0djNzlmSHBRaDNfdjd2OHVPZVhMbnRKQnFHX3NIT25XWXpKSkNn?oc=5",
-   "utc": "2026-11-27T12:07:37Z",
-   "tags": [
-    "AIRSPACE"
-   ],
-   "score": 4.3,
-   "airspace": true
-  },
-  {
-   "title": "Ethereum developers warn of post-quantum and AI security threats rated DEFCON 2-3.",
-   "source": "Pluang",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWw5ZlJ5dUVWS203aHB6cG54S3hrTGVDZXlsYm1jX1VET1RMOXUtdnB3LUNyanFNb0FoRVV5ZDYxbnFLWjNJQnJhUGFOU3V0QThiemNnQmx2Zy10VjNsTm5nSm82QUZwMUJzaDUxMHU1SGdGcDRvQU1oTk10bjNOY0RmazVIMUY4UkE?oc=5",
-   "utc": "2026-11-27T10:57:25Z",
-   "tags": [
-    "NUKE"
-   ],
-   "score": 4.3,
-   "airspace": false
   },
   {
    "title": "Kebbi Speaker appeals for calm as Sakaba LG chairman gives Fulani evacuation order",
@@ -172,18 +173,18 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.1,
+   "score": 4.7,
    "airspace": false
   },
   {
-   "title": "Iran Lets Two Gas Tankers Sail to India Through Hormuz, Sources Say",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2tKSXpRQ2RURVJRWkNUcVFBMU9sNGRYc3JqUWFLMWdOSnRBS0R6Nm1GYkFBaGpDVkg5RDg3NFI2NXRfZmlEaFBMODBDQkxwNmw3NG5iY0Q4NjFsR1pZMHJvLUlybnVodV85UmN1Nm1oV01qS1hkdXFxb3BZZGFWYTFLT25vYk9FeWZqUXVjQ2NjZFdQOVBTbXFFMzQ1QQ?oc=5",
-   "utc": "2026-11-26T17:22:06Z",
+   "title": "US struggles to evacuate American personnel from facilities under fire in Iraq: Officials",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2xXd2hHS1U1dzZkQmtROFo0RktSVDJVX1d2ZktEYzkxU291Z1ZoLW1ORDVGUTFSaDNRdm9JZDlIa1BaZEZoVHJkU01pVWlRZmRTYUdsclpFaUpWQWlYUU8xS2FiSlk2TEVFaUZ6dHU1ZzFEN2tDbDd3NHd6alNWdnNVRlgzLTN3SkZ6dkVldU1QcGtaWVJhZl9TdDV0TXR3MDNpXzlfVGNJblRsc29NNDQ4dXfSAboBQVVfeXFMTWFydS1pLTR0TEhnN1VndnRfZTJVazNlbnVpaGpZZFBLb3IycVhzUVdxQkJ6akozMXdRc3N6V0pnOW5GYVNoRDJJbkY3c0RpTDRYdU8yd0FES1gyREM4eG83R3lLQlZTRFktUFBJUG5hR184clg0OHFrVTY4UW1rTWgxX3E3RXcyTWR0V1E0aE9pajdJaEtVN0IzZDhmRkVFc3VzanViNGppdnZFZEl2eFY3N2VXc0FkZjBn?oc=5",
+   "utc": "2026-11-27T01:40:30Z",
    "tags": [
-    "HORMUZ"
+    "EVAC"
    ],
-   "score": 4.6,
+   "score": 7.5,
    "airspace": false
   },
   {
@@ -194,7 +195,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.5,
+   "score": 5.1,
    "airspace": true
   },
   {
@@ -205,20 +206,16 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.4,
+   "score": 5.0,
    "airspace": true
   }
  ],
  "mil": {
-  "count": 2,
-  "global": 55,
+  "count": 1,
+  "global": 77,
   "baseline": 2.0,
   "samples": 26,
   "hist": [
-   [
-    "2026-10-23T01:35:57Z",
-    2
-   ],
    [
     "2026-10-23T07:38:45Z",
     8
@@ -886,6 +883,10 @@
    [
     "2026-11-28T03:58:21Z",
     2
+   ],
+   [
+    "2026-11-28T13:10:21Z",
+    1
    ]
   ],
   "box": [

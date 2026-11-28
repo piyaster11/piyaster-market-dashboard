@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:57:53Z",
+ "updated": "2026-11-28T13:10:07Z",
  "feeds": {
   "CNBC": "ok (30)",
   "CNBC Markets": "ok (30)",
@@ -8,168 +8,168 @@
   "MarketWatch": "ok (10)",
   "CoinDesk": "ok (25)",
   "OilPrice": "ok (15)",
-  "Bangkok Post": "fail: HTTP Error 451: ",
-  "Nikkei Asia": "ok (30)"
+  "Bangkok Post": "ok (10)",
+  "Nikkei Asia": "ok (23)"
  },
  "items": [
   {
-   "title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+   "title": "Higher Prices Test Holiday Shoppers",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
-   "utc": "2026-11-28T03:01:44Z",
-   "tag": "CHINA",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-28/higher-prices-test-holiday-shoppers-video",
+   "utc": "2026-11-28T13:04:58Z",
+   "tag": "MARKETS",
    "breaking": true
   },
   {
-   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
-   "utc": "2026-11-28T02:39:02Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Japan looks to space for security with defense force update",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeDNFaHU3anJwWGY5bHROV0JyMXZiWVlQY0xRSVRaNHVvZDJJR0pIYWJTbVhvU1R0TDl2MGtRS05CWEc1YXEwZ3Q1cDBOaE1NY21nT1ZqN1NEUDVvUzZyV0prNUcyLWtmdTRUX3hKdXhSTXVUNVZPLXBSV0NmeFd1akpLMTZGd0FxX1ZSeGNyX1llQkxURkpkdjFYeUNneVhveE9EelppZGstMlBGdnNEN1JNaFhtZjIyRS1iLV9B?oc=5",
-   "utc": "2026-11-28T01:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Taiwan votes in key local elections as China looks on",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0hYazFSNFdJenpCQmdWUUh0cUZOTHhJWm5hYnB4ampiMXJRamNxVGtST2NuTV9rS2hjUHFUWElIUjhtX3VlZFlWTkpBOWh5SmJkNGdJd1VFVFFWSmR4LURfQUx0ZDVmWnk3MEpuc3hMN0QwaXFwYnZMc3kteEJpWUduWWNITVkwNTJGaGVRSWdHNVNyNjhn?oc=5",
-   "utc": "2026-11-28T00:01:00Z",
-   "tag": "CHINA",
-   "breaking": false
-  },
-  {
-   "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-   "utc": "2026-11-28T00:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Wasted Wind and Solar Power Could Run Factories and Data Centers",
-   "source": "OilPrice",
-   "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Wasted-Wind-and-Solar-Power-Could-Run-Factories-and-Data-Centers.html",
-   "utc": "2026-11-28T00:00:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "Taiwan votes for thousands of officials with all eyes on Taipei mayor races",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWlVNDNVWjFPR3Q2bV9CT0xVYnZUVzJIOFBfTnlTRXhjYXFvbUxMNHNGcWRXUThDcE1ORlFaemRSaXhSeVdaQVY3NnZmTnBxYUVxbXRVeHhKZ090Q2VucHdma1lCMkYtS0N0THR2YWVUaUQ2UXJyeE42cHNLMGg3RkRjSXpFLW9uNC1BNHFKYUg4Z1dxTkFxcVNYR1dxQjBNb2t0RjVoWkpaZHpS?oc=5",
-   "utc": "2026-11-28T00:00:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Century-old Hong Kong teahouse reinvents 'yum cha' after dark",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWWp1OExHOHY4RTMtaEhvSlRNQ1AydXVQRk80WlJNU3pZUVJCc2lTaGtaYk1mQXRLRjJ4TmRGMzFjU2ZEbV9kRXRualdndnlNckRZTXJXT0VKcDZ6TVk1aDJrVE5kXzJJVW5aZmFJRnphelNWa1EzeTN0NU56TnpsRGp2MHQwMXFWQ2ZGSDM3d3FvdC02T2NhRTBEZE5iWjhsTEVWbXQxRE1Ddw?oc=5",
-   "utc": "2026-11-27T23:55:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Australian state election provides 'dry run' for federal contest",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV3FoZWxrcHR5UzVsYlJjWExWR05nanBkLWRtRDFBYUNVcHJlYlFnUmlrcmNwQW82c09lUVdUWlJYZ0ticzJfcHFaY2FrSml5d1JwNTN2Yy1UQV9DekthQVk2TnZrNjA1SlNBMC02Wi1kYV9nTUlzVVh6VmZHb2Z3aXhMMHZZbVZFUFlpcnZ5LXZFV2s0bHN5eEtYbw?oc=5",
-   "utc": "2026-11-27T23:48:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Darbar Festival gives Indian classical music a global stage",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbEFSQ1F3STJIZ2RaQTNVOEhEaFM0OUg5eUJ2S3JJYUlZeGdpUHZSUmV2czVQbm5zZnctU1RBRlR0NmZhV2lPTEpwTFVyYzlvaE1FUEpocG5yVnJPSFdURHBPUGdZUGkta1I5VDJZSGx1dkp6UURlMWNWdlNENXBSQlhmQjZFZ2R0aG5MYi1uM3kyQ05uXzZ4VjFSb01pRVk?oc=5",
-   "utc": "2026-11-27T23:40:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-   "source": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-   "utc": "2026-11-27T23:30:00Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "UK's Princess Kate climbs mountains, fights cancer in intimate documentary",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTF5YVJuNUoxSzFjMFZuSk1neXZ6YUJUZ1JzOThGLTlHODdXZkhBYkhlVjMwTTJZMG1xd2FnU2pLQWZKSFpTZVc5QzBoTkdoNG9LN0VTaGJSSFpuYkJQdGtGNlc4VmlxaGdBVW9FVV9EeFhLb3VpWUh5eWFpNGwtdllCVzJSSmEyUDc4b2FRTkZKN0F0X1F6dTJfUFczVE5jRnRRMDd5cGV2U1l2ZU5pdDJIVi0?oc=5",
-   "utc": "2026-11-27T23:27:00Z",
-   "tag": "MARKETS",
-   "breaking": false
-  },
-  {
-   "title": "Swimming with sea turtles off a remote Australian island",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUjFMbWlsdEtjZHJiS3FqUzhIU09xZVlsaU4zTDVucTNCWURlWlFlTzVIZS1lb0dYQkthSC11LWZiSnlzOUNfOU9wSmhhX2FYd3E0amhsOC1jNjM2SUtVLUxRLUtwNEdMUVkyWWQ0M2x6WElwZDdzaHkzTzJidGRYSk51dU5HT0xURWFYMEtSTnpBQ1RIVGdGb2NmZw?oc=5",
-   "utc": "2026-11-27T23:16:00Z",
-   "tag": "MARKETS",
-   "breaking": false
+   "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+   "utc": "2026-11-28T13:02:18Z",
+   "tag": "BTC",
+   "breaking": true
   },
   {
    "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
    "source": "MarketWatch",
    "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-   "utc": "2026-11-27T23:15:00Z",
+   "utc": "2026-11-28T13:00:00Z",
+   "tag": "STOCKS",
+   "breaking": true
+  },
+  {
+   "title": "These tech stocks may let you play defense without giving up on AI",
+   "source": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
+   "utc": "2026-11-28T12:30:00Z",
+   "tag": "AI",
+   "breaking": true
+  },
+  {
+   "title": "MSF charity condemns Israeli strike that killed two staff outside Gaza clinic",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlN6bWNCajEzSzJDU0o3Qk5qQnJiS3Zxb2VaUnFjM05vM0hkZ2E3NnJNeXlVdEVVMkNwdGRXcmRaTGF3bHI4emRsaVhaTHVtV3dmNDJlWUFGY1YzTTFxNlNkaFViN1FYdlo3WVM4SUJlaTZkc1AyVE9MdmZkMDdYeE1wR3RzRXFzeTVvY0lrczh4N1ZGXzM4NWR2MmF6NkRYeDBWNEtMOEswT3BxU2dxYllRcmM?oc=5",
+   "utc": "2026-11-28T12:29:10Z",
+   "tag": "WAR",
+   "breaking": true
+  },
+  {
+   "title": "Armed group boards cargo ship off Yemen and takes control, UKMTO says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmJza0RDY1R0YmlvRDBuNkxHYkRHc012MDVlS0stTzcwTVZuNGpTZ3dHZFI4UlFXekZlek1VbE1rYTV2OXhJRUdkLWZDa0dUX0NxNWVUb3FCY3dBSlc0T1Y5d0NHdjhmeXVvSTA4Sk1EamlUaTdYMXJoMHRNWm5TQXJTcWYxRi1qTy1mNzk5NkxQNlhyTTlsYzJNVExXNHBoamlfNTVGbXlkbWwwTkZYcFVpOWVRdXJZZEE?oc=5",
+   "utc": "2026-11-28T12:07:09Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "India’s SEBI Weighs Exchange Platform for Pre-IPO Shares",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
+   "utc": "2026-11-28T11:56:38Z",
    "tag": "STOCKS",
    "breaking": false
   },
   {
-   "title": "US government bars bandwidth provider RETN from American networks",
+   "title": "Years after Sandy Hook massacre, US Supreme Court case targets assault weapons ban",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTJDdGNxNk9lQ25td3hEVlhGVDJLZktoSmRQMWxkZ1FCbG5oLVZBd2RhTUcwSGVQRnczNXplSnNjUFNfekRwdDJtWEV0bEVNQWdYZUdHUXBreXhhUmlFeXREYkpNTF9PaW80Z0ZNdEJGLWpDS1JVYnloeXBwZmhDRy12T3VrTk84TUxIRVBTUlNpajN1Wk13b3hZeXktRU9XczYtSG1NWWxvc3pYV0VZSlE5S3NqNzZnc0Zn?oc=5",
-   "utc": "2026-11-27T23:11:16Z",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYjNwZEJJU0hWWVZXTE45RjRVSEtvdmJ4MEVfaDRxZUhhcGNaQjBvVUlqZkxwRUNZRU1DckwtaENfWDJscm5IQndmUlpINmdacGFRazc5a3pKMUFWaUE2cG5jbjFJRFJpcGFHVnZCR1FpYWxJcE5udXBDekRCX0k0eW9vcnRic2RuRnVGb0lzc1RWNWVqOWFhaUt5MGdPbWRpWGhTZnNzcEM1UFpMWk9JUGtsOENMOWxSR3NwdmU5Y1gyeGtDUjc4ZHRR?oc=5",
+   "utc": "2026-11-28T11:07:44Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "title": "Conservatives set to win government in Australia's second-most populous state",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUp5SW1BR0dXaTY3Mmgwa2RyaHp5ODl3bENXUm1jaXhBQ3ZzUGIzTFlCVFhKdGJQUTczVXRZSXRXVmcwdUV6QTN5bGU0OEI3X1RkTW1GdjhrSHliN1BTSlMxQlFVclYzQlB0UUdBLXpXaklfRTl5M3NKUzBZUHAwUE1vdVJBV3A0MTBtU1l5Zm0xeGpERXlhMTdMUjVSOGFjenBfNWhVTXM0aHc0TnNDNnh1OWZiZjhfUXlXRXUtSGhKYkU?oc=5",
+   "utc": "2026-11-28T10:59:30Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Conservatives wipe out Labor in Australian state election",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVIwV3pPSm1SN1Y0OFFKdEZGYkUtWGNCMkVDbkpadzhUSXF6elJRUGdicXlPQ2txRy1XWmlKMWk4ZDlhdjQ0WG55Y3hmOFhDcUFtU21GUHBGcDlWQkdFTlc4RHBNbVZGbEtpb3FCcDlybnpMai1RcEZ6Qk1ZeVg3NU5veUVqNWh5Q1lfb19lcE82NUc2?oc=5",
+   "utc": "2026-11-28T10:52:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
-   "utc": "2026-11-27T23:07:13Z",
-   "tag": "AI",
-   "breaking": false
-  },
-  {
-   "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
-   "utc": "2026-11-27T22:55:47Z",
-   "tag": "FED",
-   "breaking": false
-  },
-  {
-   "title": "Explainer: Why EU leaders are struggling to Le Pen-proof the bloc’s €1.6 trillion budget",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXNCT24ycjVGZVlCV1Q4bnFlalVUNXhHc0xLVzlFdkJtNGhZM2NXSmpyWnZXU2Q2ZWRPcXRza2tZM1ZPMGVMWjM2V2U5NHBBYWdSSFZLb29odWtqZW1SVXZNZDAxUVdLUVl6X2FiYTMzZzFqTHhaLW51X0s0TnJPVk45Rmd0Um5UdnVfdXRkWGR1UGNtY3h6a2JsNFhfZTd5N25VVWRGdE5iVUpkXzhQWkZPRkc5UDFjSzhvRmxNc1M?oc=5",
-   "utc": "2026-11-27T22:43:41Z",
+   "link": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html",
+   "utc": "2026-11-28T10:50:44Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "American Malinin breaks Chen's world record in short programme",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3VDdFR0MVNiUGJNNk83UjJVeExKZUcyYk1NTk41QWViS3dlRGdyZTBzN0pfNm5kSFdhQmpCOXdPdEJ1R2c2dGJnbVhGREYtb1d3ZUhhVnI5Yy1pNGVqMWVJM1hBbVp0ZVBnWi1rY0hoOE9OYzliS3hmcFViNDdrUFg5SGlUMkxvUzZDS0tINzR6SDlOVnBpNTNROHRtbmhKWTZV?oc=5",
-   "utc": "2026-11-27T22:39:43Z",
+   "title": "Nikkei Asia - Business, Politics, Economy and Tech News & Analysis",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAwdncxTzZBX2g1Z0FvN2RUZjZUR2oxZEd3QnVKYjM3SlhLb1ppM0prQTJzWUxDREh6VWhVRg?oc=5",
+   "utc": "2026-11-28T10:50:34Z",
    "tag": "MARKETS",
    "breaking": false
   },
   {
-   "title": "Holders Italy edge out Czechs to reach Davis Cup final again",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2ZCOUdneDVzeE9zQXhWTTluVkV4algzN0hkb3ZOYWdnU0hrVW9ETmFueUtzSzhuSmhtY0F6a011UFFTODlIcUE1OU9jYmFGZy1lX2JWVk1mbHhMaHZVN1h1MElRZ3R3enY4TEpCSERZVXBDNkcyYTdlM3FWd29WV2h4ZnJJdnJveF9RRHpCNk9wX2ZycVhMTy1uWQ?oc=5",
-   "utc": "2026-11-27T22:33:49Z",
+   "title": "Binance preparing to establish Asia hub in Bhutan",
+   "source": "Bangkok Post",
+   "link": "https://www.bangkokpost.com/business/general/3362811/binance-preparing-to-establish-asia-hub-in-bhutan",
+   "utc": "2026-11-28T10:18:00Z",
    "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Modi Nears Majority Needed to Increase India’s Parliament Seats",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-28/modi-nears-majority-needed-to-increase-india-s-parliament-seats",
+   "utc": "2026-11-28T10:17:39Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Norway’s Wealth Fund Again Votes No to Musk’s Tesla Pay Package",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-28/norway-s-wealth-fund-again-votes-no-to-musk-s-tesla-pay-package",
+   "utc": "2026-11-28T10:15:53Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Afghanistan school blast kills 7 students, injures up to 99",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVRKa09nUTkyZHR6Tnp6aTFwNzFYOHd0WGRtWjFEU2Z4RmFvRzVETWJwbEF4WHROdnpCVU9NMVBYYUJtbVU5NzVqNEVkaEVhNUtmMHFrbFE0cW5OQmdXYkpiV0JvbGoteXRYamR6Mjl0clR1cmp2elB5LU9IOUFjZzcwSXFjTXVxcy1XbmJHdGQwbjZMREhfNzRwS29Jck8zbURsQkdoTXMtZw?oc=5",
+   "utc": "2026-11-28T10:12:52Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Plunging Fuel Prices Bring Relief for Drivers and Central Banks",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-28/plunging-fuel-prices-bring-relief-for-drivers-and-central-banks",
+   "utc": "2026-11-28T10:00:00Z",
+   "tag": "MARKETS",
+   "breaking": false
+  },
+  {
+   "title": "Ukraine's attack on Russian ship in Libya was not coordinated with partners, Zelenskiy says",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdTFCMEFWV3I5ZUdPS0xrdm5rTGFSTG5VZmhDdV9fSjFQeTI5bDFEdEg1RlozZF9xT0RKVTluVlh0bG1HTEgtLUVnSlNFelJfRUZXLW5nWU9PNzlTcTNDb0JTWXp2X3NQVFY1ek42RmJMTUdsWHdyMExFNVNLdzdKOENKRHphNld1WGg3UlE1eThvYTFINHl4czM4UWFnM3R0dUlBSGZOaEN3YjlBMjUwT09jWTdLWFZscUhKUXpBckU0WGFPV2c?oc=5",
+   "utc": "2026-11-28T09:38:10Z",
+   "tag": "WAR",
+   "breaking": false
+  },
+  {
+   "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+   "source": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+   "utc": "2026-11-28T09:32:51Z",
+   "tag": "BTC",
+   "breaking": false
+  },
+  {
+   "title": "Eisenkot Edging Closer to Leading Israel With Talks Progressing",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-28/eisenkot-edging-closer-to-leading-israel-with-talks-progressing",
+   "utc": "2026-11-28T09:00:00Z",
+   "tag": "WAR",
    "breaking": false
   }
  ]

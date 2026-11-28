@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:55:51Z",
+ "updated": "2026-11-28T03:58:21Z",
  "level": 50,
  "band": "Alert",
  "components": [
@@ -12,21 +12,21 @@
   ],
   [
    "Signal headlines, last 48h (deduped)",
-   30,
+   29,
    35,
    35,
    "1.5 pts per headline"
   ],
   [
    "Airspace-closure / flight-suspension headlines",
-   10,
+   9,
    15,
    15,
    "3 pts each"
   ],
   [
    "Military aircraft over Gulf vs 7-day baseline",
-   0,
+   2,
    0,
    10,
    "10 pts per +100% above baseline"
@@ -106,7 +106,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.9,
+   "score": 4.7,
    "airspace": false
   },
   {
@@ -117,18 +117,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 5.8,
-   "airspace": false
-  },
-  {
-   "title": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-   "utc": "2026-11-27T16:51:19Z",
-   "tags": [
-    "HORMUZ"
-   ],
-   "score": 4.7,
+   "score": 5.7,
    "airspace": false
   },
   {
@@ -139,7 +128,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.7,
+   "score": 5.5,
    "airspace": true
   },
   {
@@ -150,7 +139,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.5,
+   "score": 4.3,
    "airspace": false
   },
   {
@@ -161,8 +150,19 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 4.5,
+   "score": 4.3,
    "airspace": true
+  },
+  {
+   "title": "Ethereum developers warn of post-quantum and AI security threats rated DEFCON 2-3.",
+   "source": "Pluang",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWw5ZlJ5dUVWS203aHB6cG54S3hrTGVDZXlsYm1jX1VET1RMOXUtdnB3LUNyanFNb0FoRVV5ZDYxbnFLWjNJQnJhUGFOU3V0QThiemNnQmx2Zy10VjNsTm5nSm82QUZwMUJzaDUxMHU1SGdGcDRvQU1oTk10bjNOY0RmazVIMUY4UkE?oc=5",
+   "utc": "2026-11-27T10:57:25Z",
+   "tags": [
+    "NUKE"
+   ],
+   "score": 4.3,
+   "airspace": false
   },
   {
    "title": "Kebbi Speaker appeals for calm as Sakaba LG chairman gives Fulani evacuation order",
@@ -172,7 +172,7 @@
    "tags": [
     "EVAC"
    ],
-   "score": 5.3,
+   "score": 5.1,
    "airspace": false
   },
   {
@@ -183,7 +183,7 @@
    "tags": [
     "HORMUZ"
    ],
-   "score": 4.7,
+   "score": 4.6,
    "airspace": false
   },
   {
@@ -194,7 +194,7 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.5,
    "airspace": true
   },
   {
@@ -205,20 +205,16 @@
    "tags": [
     "AIRSPACE"
    ],
-   "score": 5.6,
+   "score": 5.4,
    "airspace": true
   }
  ],
  "mil": {
-  "count": 0,
-  "global": 45,
+  "count": 2,
+  "global": 55,
   "baseline": 2.0,
   "samples": 26,
   "hist": [
-   [
-    "2026-10-23T00:02:40Z",
-    2
-   ],
    [
     "2026-10-23T01:35:57Z",
     2
@@ -886,6 +882,10 @@
    [
     "2026-11-27T23:55:51Z",
     0
+   ],
+   [
+    "2026-11-28T03:58:21Z",
+    2
    ]
   ],
   "box": [
